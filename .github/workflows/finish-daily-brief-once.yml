@@ -1,0 +1,77 @@
+name: Finish Daily Brief Once
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - ".github/workflows/finish-daily-brief-once.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  finish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Add image fallback and final headline filters
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('news/scripts/update_news.py')
+          s=p.read_text(encoding='utf-8')
+
+          old='TOP_BLOCK=["新书","研究会","会员代表大会","时装周","圆满举办","宣传周","宣传月","启动仪式","限时优惠","现金激励","ETF","减持","质押","保荐","违规被罚","实干样本","品牌活动","视频","研讨会","交流活动","道歉","市场汇价","开学典礼","体育","比赛","白鹭","早报"]'
+          new='TOP_BLOCK=["新书","研究会","会员代表大会","时装周","圆满举办","宣传周","宣传月","启动仪式","限时优惠","现金激励","ETF","减持","质押","保荐","违规被罚","实干样本","品牌活动","视频","研讨会","交流活动","道歉","市场汇价","开学典礼","体育","比赛","白鹭","早报","大赛","决赛","启幕","执法检查组"]'
+          if old in s:
+              s=s.replace(old,new,1)
+
+          s=s.replace('if key=="ai" and item.get("_tier",1)<2:return False','if key=="ai" and item.get("_tier",1)<3:return False',1)
+          s=s.replace('items.extend(arr)\n','items.extend(arr[:8])\n',1)
+
+          if 'def bing_image_thumbnail(title):' not in s:
+              marker='def bing_html_thumbnail(title):'
+              pos=s.index(marker)
+              func='''def bing_image_thumbnail(title):\n    try:\n        q=quote(title[:72])\n        url=f"https://www.bing.com/images/search?q={q}&setlang=zh-cn"\n        r=requests.get(url,headers=UA,timeout=6)\n        if r.status_code>=400:return ""\n        text=html.unescape(r.text)\n        for pat in (r'(https://ts[0-9]+\\.mm\\.bing\\.net/th\\?[^"<>\\s]+)',r'(https://tse[0-9]+\\.mm\\.bing\\.net/th[^"<>\\s]+)'):\n            m=re.search(pat,text,re.I)\n            if m:\n                u=html.unescape(m.group(1)).replace('\\\\u0026','&').replace('\\\\/','/')\n                if u.startswith('http'):return u\n    except Exception:\n        pass\n    return ""\n\n'''
+              s=s[:pos]+func+s[pos:]
+
+          s=s.replace('return bing_html_thumbnail(title),""','return bing_html_thumbnail(title) or bing_image_thumbnail(title),""')
+          s=s.replace('if not img: img=bing_html_thumbnail(title)','if not img: img=bing_html_thumbnail(title) or bing_image_thumbnail(title)')
+
+          p.write_text(s,encoding='utf-8')
+          PY
+          python -m py_compile news/scripts/update_news.py
+      - name: Install dependencies
+        run: pip install -r news/requirements.txt
+      - name: Refresh and validate
+        run: |
+          python news/scripts/update_news.py
+          python - <<'PY'
+          import json
+          d=json.load(open('news/data/news.json',encoding='utf-8'))
+          t=d['top5']
+          assert len(t)==5
+          assert sum(x.get('category')=='国内' for x in t)>=2
+          assert any(x.get('category')=='国际' for x in t)
+          bad=('研讨会','交流活动','道歉','市场汇价','大赛','决赛','执法检查组')
+          assert not any(any(w in x.get('title','') for w in bad) for x in t)
+          imgs=sum(bool(x.get('image_url')) for arr in d['sections'].values() for x in arr)
+          print('image_count',imgs)
+          assert imgs>=3
+          for x in t:
+              print(x['category'],x['source'],x['title'],bool(x.get('image_url')))
+          PY
+      - name: Commit finished updater and data
+        run: |
+          git config user.name "daily-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add news/scripts/update_news.py news/data/news.json
+          git commit -m "improve: add reliable thumbnails and final headline filters"
+          git pull --rebase origin main
+          git push origin HEAD:main
