@@ -39,6 +39,8 @@ jobs:
         run: cp -R hex-arena-cn out/hex-arena-cn
       - name: Include Daily News static site
         run: cp -R news out/news
+      - name: Include fresh Daily Brief alias
+        run: cp -R daily-brief out/daily-brief
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
