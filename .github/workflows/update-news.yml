@@ -38,17 +38,26 @@ jobs:
         run: python news/scripts/update_news.py
       - name: Add quick briefs for every story
         run: python news/scripts/add_quick_briefs.py
-      - name: Commit refreshed data
+      - name: Commit refreshed data safely
         run: |
           git config user.name "daily-news-bot"
           git config user.email "actions@users.noreply.github.com"
+
+          # Keep the freshly generated JSON, then move the worktree to the latest
+          # main branch before committing. This avoids rebase conflicts when the
+          # website code is edited while a scheduled refresh is running.
+          cp news/data/news.json /tmp/news.json
+          git fetch origin main
+          git reset --hard origin/main
+          cp /tmp/news.json news/data/news.json
+
           git add news/data/news.json
           if git diff --cached --quiet; then
             echo "No changes"
           else
             git commit -m "chore: refresh daily news"
-            git pull --rebase origin main
             git push origin HEAD:main
           fi
 
-# Daily Brief v3: source weighting, Top 5 ranking, thumbnails, summaries and quick-overview popups.
+# Daily Brief v4: richer quick summaries, no separate “why it matters” block,
+# and conflict-safe scheduled publishing.
