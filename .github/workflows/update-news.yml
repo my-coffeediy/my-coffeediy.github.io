@@ -1,0 +1,49 @@
+name: Update Daily News
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "news/scripts/update_news.py"
+      - "news/requirements.txt"
+      - ".github/workflows/update-news.yml"
+  schedule:
+    # UTC 00:00 / 04:00 / 12:00 = 北京时间 08:00 / 12:00 / 20:00
+    - cron: "0 0 * * *"
+    - cron: "0 4 * * *"
+    - cron: "0 12 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-news-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: pip install -r news/requirements.txt
+      - name: Refresh news and markets
+        run: python news/scripts/update_news.py
+      - name: Commit refreshed data
+        run: |
+          git config user.name "daily-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add news/data/news.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: refresh daily news"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
