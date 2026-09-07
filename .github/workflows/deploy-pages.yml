@@ -37,6 +37,8 @@ jobs:
         run: npm run build:github
       - name: Include Hex Arena static site
         run: cp -R hex-arena-cn out/hex-arena-cn
+      - name: Include Daily News static site
+        run: cp -R news out/news
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
