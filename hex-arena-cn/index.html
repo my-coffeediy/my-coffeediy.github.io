@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#070b16" />
+    <meta name="description" content="英雄联盟海克斯大乱斗国服英雄、出装与分阶海克斯数据排行。" />
+    <title>海克斯大乱斗 · 国服数据助手</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <div id="app">
+      <header class="topbar">
+        <div class="brand-mark" aria-hidden="true">⚔</div>
+        <div class="brand-copy"><strong>海克斯大乱斗</strong><span>国服数据助手</span></div>
+        <div class="version-pill"><i></i><span id="version">数据加载中</span></div>
+      </header>
+
+      <main class="workspace">
+        <nav class="primary-tabs" aria-label="数据类型">
+          <button class="active" data-surface="champions">♜ <span>英雄榜</span></button>
+          <button data-surface="augments">✦ <span>海克斯</span></button>
+        </nav>
+
+        <section class="toolbar">
+          <label class="searchbox">
+            <span aria-hidden="true">⌕</span>
+            <input id="search" type="search" autocomplete="off" placeholder="搜索英雄名称" aria-label="搜索" />
+          </label>
+          <label class="sort-control">
+            <span aria-hidden="true">⇅</span>
+            <small>按</small>
+            <select id="sort" aria-label="排序方式">
+              <option value="winRate">胜率</option>
+              <option value="pickRate">选取率</option>
+              <option value="totalMatches">场次</option>
+            </select>
+          </label>
+        </section>
+
+        <section id="content" aria-live="polite">
+          <div class="page-loading"><span class="spinner"></span><p>正在读取国服数据…</p></div>
+        </section>
+      </main>
+
+      <footer class="site-footer">
+        <span id="updated">数据仅供当前版本对局参考</span>
+        <a href="https://www.bilibili.com/toy/resg/index.html" target="_blank" rel="noreferrer">数据来源：ResG 公开统计</a>
+      </footer>
+    </div>
+
+    <div id="overlay" class="overlay" hidden>
+      <aside id="detail" class="detail-sheet" role="dialog" aria-modal="true" aria-labelledby="detail-title">
+        <button id="close-detail" class="close-button" aria-label="关闭详情">×</button>
+        <div id="detail-content"></div>
+      </aside>
+    </div>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
