@@ -36,11 +36,17 @@ jobs:
       - name: Build static site
         run: npm run build:github
       - name: Include Hex Arena static site
-        run: cp -R hex-arena-cn out/hex-arena-cn
+        run: |
+          rm -rf out/hex-arena-cn
+          cp -R hex-arena-cn out/hex-arena-cn
       - name: Include Daily News static site
-        run: cp -R news out/news
+        run: |
+          rm -rf out/news
+          cp -R news out/news
       - name: Include fresh Daily Brief alias
-        run: cp -R daily-brief out/daily-brief
+        run: |
+          rm -rf out/daily-brief
+          cp -R daily-brief out/daily-brief
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
