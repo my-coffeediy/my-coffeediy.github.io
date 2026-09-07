@@ -3,6 +3,7 @@ import re
 import html as html_lib
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from datetime import datetime, timezone
 from difflib import SequenceMatcher
 from pathlib import Path
 from urllib.parse import quote, urlparse, parse_qs, unquote
@@ -30,7 +31,39 @@ FOLLOW_UP = {
 NOISE = (
     "责任编辑", "版权声明", "免责声明", "更多精彩", "点击查看", "阅读全文", "扫码", "微信公众号",
     "本文来源", "来源：", "原文链接", "未经授权", "广告", "投稿", "打开APP", "下载客户端",
+    "发布于", "官方账号", "郑重声明", "风险自担", "字体：", "小 中 大",
 )
+
+GENERIC_SUMMARY_MARKERS = (
+    "目前可确认的信息以相关部门和权威媒体后续发布为准",
+    "事件仍在发展，后续需关注各方官方表态与权威媒体的交叉确认",
+    "后续影响将取决于政策执行、市场反应和相关数据变化",
+    "后续重点关注官方披露、产业链反应和实际落地情况",
+    "后续重点关注主管部门通报、处置进展和实际影响范围",
+    "后续重点关注官方发布、产品落地、监管变化与行业反馈",
+)
+
+# Only use these domains to replace the visible “原报道” link. A mirror can still
+# be used privately to enrich the summary if its headline/date strongly match.
+SOURCE_DOMAINS = {
+    "新华网": ("news.cn", "xinhuanet.com"),
+    "新华社": ("news.cn", "xinhuanet.com"),
+    "人民日报": ("people.com.cn",),
+    "央视新闻": ("cctv.com", "cntv.cn"),
+    "央视网": ("cctv.com", "cntv.cn"),
+    "中国政府网": ("gov.cn",),
+    "商务部": ("mofcom.gov.cn",),
+    "mofcom.gov.cn": ("mofcom.gov.cn",),
+    "财联社": ("cls.cn",),
+    "华尔街见闻": ("wallstreetcn.com",),
+    "观察者": ("guancha.cn",),
+    "观察者网": ("guancha.cn",),
+    "BBC": ("bbc.com", "bbc.co.uk"),
+    "Reuters": ("reuters.com",),
+    "路透": ("reuters.com",),
+    "美联社": ("apnews.com",),
+    "AP": ("apnews.com",),
+}
 
 
 def clean(text):
@@ -43,6 +76,15 @@ def norm(text):
     return re.sub(r"[^\w\u4e00-\u9fff]", "", clean(text).lower())
 
 
+def title_similarity(a, b):
+    na, nb = norm(a), norm(b)
+    if not na or not nb:
+        return 0.0
+    if na in nb or nb in na:
+        return min(1.0, min(len(na), len(nb)) / max(10, max(len(na), len(nb))) + 0.35)
+    return SequenceMatcher(None, na, nb).ratio()
+
+
 def split_sentences(text):
     text = clean(text)
     if not text:
@@ -51,10 +93,10 @@ def split_sentences(text):
     out, seen = [], set()
     for part in parts:
         part = clean(part).strip(" -—|·")
-        if len(part) < 12 or any(x in part for x in NOISE):
+        if len(part) < 14 or any(x in part for x in NOISE):
             continue
-        if len(part) > 150:
-            part = part[:147].rstrip("，,；; ") + "…"
+        if len(part) > 170:
+            part = part[:167].rstrip("，,；; ") + "…"
         if part[-1:] not in "。！？!?；;…":
             part += "。"
         n = norm(part)
@@ -64,43 +106,49 @@ def split_sentences(text):
     return out
 
 
-def bing_direct_url(title):
-    """Use Bing News RSS to find a likely publisher URL for the same headline."""
+def decode_bing_link(link):
+    parsed = urlparse(link)
+    if "bing.com" not in parsed.netloc:
+        return link
+    q = parse_qs(parsed.query)
+    for key in ("url", "u", "target"):
+        if q.get(key):
+            candidate = unquote(q[key][0])
+            if candidate.startswith("http"):
+                return candidate
+    return link
+
+
+def bing_direct_url(title, source):
+    """Find a very close current-page match; reject loose matches instead of guessing."""
     try:
-        url = f"https://www.bing.com/news/search?q={quote(title[:100])}&format=rss&setlang=zh-cn"
+        query = f'"{title[:105]}" {source}' if source else f'"{title[:105]}"'
+        url = f"https://www.bing.com/news/search?q={quote(query)}&format=rss&setlang=zh-cn"
         r = requests.get(url, headers=UA, timeout=7)
         if r.status_code >= 400:
             return ""
         root = ET.fromstring(r.content)
-        target = norm(title)
-        best_link, best_ratio = "", 0.0
-        for item in root.findall(".//item")[:10]:
+        best_link, best_score = "", 0.0
+        for item in root.findall(".//item")[:12]:
             t = clean(item.findtext("title") or "")
             link = clean(item.findtext("link") or "")
             if not t or not link:
                 continue
-            ratio = SequenceMatcher(None, target, norm(t)).ratio()
-            if ratio > best_ratio:
-                best_ratio, best_link = ratio, link
-        if best_ratio < 0.32 or not best_link:
+            score = title_similarity(title, t)
+            # If Bing exposes the source in the result, prefer the requested source.
+            result_source = clean(item.findtext("source") or "")
+            if source and result_source and (source.lower() in result_source.lower() or result_source.lower() in source.lower()):
+                score += 0.08
+            if score > best_score:
+                best_score, best_link = score, link
+        if best_score < 0.72 or not best_link:
             return ""
-
-        # Bing RSS sometimes returns an apiclick URL with the real publisher URL in ?url=
-        parsed = urlparse(best_link)
-        if "bing.com" in parsed.netloc:
-            q = parse_qs(parsed.query)
-            for key in ("url", "u", "target"):
-                if q.get(key):
-                    candidate = unquote(q[key][0])
-                    if candidate.startswith("http"):
-                        return candidate
-        return best_link
+        return decode_bing_link(best_link)
     except Exception:
         return ""
 
 
-def jsonld_article_body(soup):
-    bodies = []
+def walk_jsonld(soup):
     for tag in soup.find_all("script", attrs={"type": "application/ld+json"}):
         raw = tag.string or tag.get_text(" ", strip=True)
         if not raw:
@@ -109,43 +157,127 @@ def jsonld_article_body(soup):
             obj = json.loads(raw)
         except Exception:
             continue
-
         stack = obj if isinstance(obj, list) else [obj]
         while stack:
             cur = stack.pop()
             if isinstance(cur, dict):
-                body = cur.get("articleBody")
-                if isinstance(body, str) and len(clean(body)) >= 80:
-                    bodies.append(clean(body))
+                yield cur
                 for v in cur.values():
                     if isinstance(v, (dict, list)):
                         stack.append(v)
             elif isinstance(cur, list):
                 stack.extend(cur)
+
+
+def jsonld_article_body(soup):
+    bodies = []
+    for cur in walk_jsonld(soup):
+        body = cur.get("articleBody")
+        if isinstance(body, str) and len(clean(body)) >= 80:
+            bodies.append(clean(body))
     return max(bodies, key=len) if bodies else ""
 
 
-def extract_article(url):
-    """Return a compact body candidate and final publisher URL; never store the full page."""
+def parse_date(value):
+    value = clean(value)
+    if not value:
+        return None
+    try:
+        dt = datetime.fromisoformat(value.replace("Z", "+00:00"))
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt
+    except Exception:
+        pass
+    m = re.search(r"(20\d{2})[-年/.](\d{1,2})[-月/.](\d{1,2})", value)
+    if m:
+        try:
+            return datetime(int(m.group(1)), int(m.group(2)), int(m.group(3)), tzinfo=timezone.utc)
+        except Exception:
+            pass
+    return None
+
+
+def page_date(soup, text_prefix=""):
+    for attrs in (
+        {"property": "article:published_time"}, {"property": "og:published_time"},
+        {"name": "publishdate"}, {"name": "pubdate"}, {"itemprop": "datePublished"},
+    ):
+        tag = soup.find("meta", attrs=attrs)
+        if tag and tag.get("content"):
+            dt = parse_date(tag.get("content"))
+            if dt:
+                return dt
+    for cur in walk_jsonld(soup):
+        for key in ("datePublished", "dateCreated", "dateModified"):
+            if cur.get(key):
+                dt = parse_date(cur.get(key))
+                if dt:
+                    return dt
+    return parse_date(text_prefix[:6000])
+
+
+def publisher_title(soup):
+    for attrs in ({"property": "og:title"}, {"name": "twitter:title"}):
+        tag = soup.find("meta", attrs=attrs)
+        if tag and tag.get("content"):
+            return clean(tag.get("content"))
+    return clean(soup.title.get_text(" ", strip=True)) if soup.title else ""
+
+
+def date_is_plausible(page_dt, item_iso):
+    if not page_dt or not item_iso:
+        return True
+    try:
+        item_dt = datetime.fromisoformat(item_iso.replace("Z", "+00:00"))
+        if item_dt.tzinfo is None:
+            item_dt = item_dt.replace(tzinfo=timezone.utc)
+        return abs((page_dt.astimezone(timezone.utc) - item_dt.astimezone(timezone.utc)).total_seconds()) <= 7 * 86400
+    except Exception:
+        return True
+
+
+def keyword_coverage(title, text):
+    # Character trigrams are robust for Chinese headlines and do not require a tokenizer.
+    t = norm(title)
+    x = norm(text[:4000])
+    if len(t) < 6 or not x:
+        return 0.0
+    grams = {t[i:i+3] for i in range(len(t)-2)}
+    if not grams:
+        return 0.0
+    return sum(1 for g in grams if g in x) / len(grams)
+
+
+def extract_article(url, expected_title, item_iso):
+    """Extract only when the page strongly matches the current headline and date."""
     if not url or not url.startswith("http"):
         return "", ""
     try:
         r = requests.get(url, headers=UA, timeout=8, allow_redirects=True)
         if r.status_code >= 400 or "text/html" not in r.headers.get("content-type", ""):
-            return "", r.url if r.url.startswith("http") else ""
+            return "", ""
         soup = BeautifulSoup(r.text[:1_500_000], "html.parser")
+        ptitle = publisher_title(soup)
+        page_text = clean(soup.get_text(" ", strip=True)[:8000])
+        title_match = title_similarity(expected_title, ptitle)
+        coverage = keyword_coverage(expected_title, ptitle + " " + page_text)
+        if title_match < 0.52 and coverage < 0.38:
+            return "", ""
+        if not date_is_plausible(page_date(soup, page_text), item_iso):
+            return "", ""
+
         for tag in soup(["script", "style", "noscript", "nav", "header", "footer", "aside", "form"]):
             tag.decompose()
 
         candidates = []
         for attrs in (
-            {"property": "og:description"}, {"name": "description"},
-            {"name": "twitter:description"},
+            {"property": "og:description"}, {"name": "description"}, {"name": "twitter:description"},
         ):
             tag = soup.find("meta", attrs=attrs)
             if tag and tag.get("content"):
                 text = clean(tag.get("content"))
-                if len(text) >= 40:
+                if len(text) >= 45:
                     candidates.append(text)
 
         body = jsonld_article_body(soup)
@@ -153,17 +285,20 @@ def extract_article(url):
             candidates.append(body)
 
         container = soup.find("article") or soup.find("main") or soup
-        paras = []
+        paras, total = [], 0
         for p in container.find_all("p"):
             text = clean(p.get_text(" ", strip=True))
-            if 28 <= len(text) <= 900 and not any(x in text for x in NOISE):
+            if 30 <= len(text) <= 900 and not any(x in text for x in NOISE):
                 paras.append(text)
-            if sum(len(x) for x in paras) > 5000:
+                total += len(text)
+            if total > 5500:
                 break
         if paras:
             candidates.append("。".join(paras))
 
         text = max(candidates, key=len) if candidates else ""
+        if keyword_coverage(expected_title, text) < 0.18 and title_match < 0.70:
+            return "", ""
         if len(text) > 6500:
             text = text[:6500]
         final_url = r.url if r.url.startswith("http") else url
@@ -172,37 +307,60 @@ def extract_article(url):
         return "", ""
 
 
+def can_replace_source_url(source, url):
+    host = urlparse(url).netloc.lower()
+    allowed = SOURCE_DOMAINS.get(source)
+    if not allowed:
+        return False
+    return any(host == d or host.endswith("." + d) for d in allowed)
+
+
+def informative_existing(text, title):
+    text = clean(text)
+    if not text or any(x in text for x in GENERIC_SUMMARY_MARKERS):
+        return ""
+    # Remove a leading “媒体报道，标题。” if the rest contains actual information.
+    ntitle = norm(title)
+    sentences = split_sentences(text)
+    useful = []
+    for s in sentences:
+        ns = norm(s)
+        if not ns:
+            continue
+        if ntitle and title_similarity(title, s) > 0.80:
+            continue
+        useful.append(s)
+    return "".join(useful)
+
+
 def title_keywords(title):
-    chunks = re.findall(r"[\u4e00-\u9fffA-Za-z0-9-]{2,}", title or "")
-    stop = {"最新", "今日", "消息", "报道", "回应", "宣布", "中国", "美国", "公司", "有关", "关于"}
-    return [x.lower() for x in chunks if x not in stop][:8]
+    ascii_words = re.findall(r"[A-Za-z0-9][A-Za-z0-9.-]{1,}", title or "")
+    chinese_chunks = re.findall(r"[\u4e00-\u9fff]{2,8}", title or "")
+    return [x.lower() for x in (ascii_words + chinese_chunks)][:14]
 
 
 def sentence_score(sentence, index, keywords):
     s = sentence.lower()
-    score = max(0, 5 - index * 0.35)
-    score += min(3, sum(1 for k in keywords if k and k in s)) * 1.3
+    score = max(0, 5 - index * 0.28)
+    score += min(4, sum(1 for k in keywords if k and k in s)) * 1.15
     if re.search(r"\d", sentence):
-        score += 1.5
-    if any(k in sentence for k in ("表示", "称", "宣布", "决定", "预计", "截至", "其中", "目前", "将", "已", "发生", "造成")):
-        score += 0.7
+        score += 1.7
+    if any(k in sentence for k in ("表示", "称", "宣布", "决定", "预计", "截至", "其中", "目前", "将", "已", "发生", "造成", "自", "根据")):
+        score += 0.8
     return score
 
 
 def select_details(title, texts, limit=5):
     title_n = norm(title)
     kws = title_keywords(title)
-    all_sentences = []
-    seen = set()
+    all_sentences, seen = [], set()
     for text in texts:
         for s in split_sentences(text):
             n = norm(s)
             if not n or n in seen:
                 continue
             seen.add(n)
-            # Skip a sentence that is essentially just the title.
-            ratio = SequenceMatcher(None, title_n, n).ratio() if title_n else 0
-            if ratio > 0.88:
+            if title_n and title_similarity(title, s) > 0.88:
                 continue
             all_sentences.append(s)
 
@@ -215,7 +373,7 @@ def select_details(title, texts, limit=5):
     return [all_sentences[i] for i in chosen_indexes]
 
 
-def compact_sentence(s, max_len=92):
+def compact_sentence(s, max_len=105):
     s = clean(s).strip("。！？!?；; ")
     if len(s) > max_len:
         s = s[: max_len - 1].rstrip("，,；; ") + "…"
@@ -226,26 +384,23 @@ def make_brief(item):
     title = clean(item.get("title"))
     source = clean(item.get("source")) or "新闻来源"
     category = clean(item.get("category")) or "新闻"
-    existing = clean(item.get("summary"))
+    existing = informative_existing(item.get("summary"), title)
 
-    direct = bing_direct_url(title)
-    article_text, final_url = extract_article(direct) if direct else ("", "")
-    if final_url and "google.com" not in urlparse(final_url).netloc and "bing.com" not in urlparse(final_url).netloc:
+    direct = bing_direct_url(title, source)
+    article_text, final_url = extract_article(direct, title, item.get("published_at")) if direct else ("", "")
+    if final_url and can_replace_source_url(source, final_url):
         item["url"] = final_url
 
-    details = select_details(title, [existing, article_text], limit=5)
+    details = select_details(title, [article_text, existing], limit=5)
 
     intro = f"{source}这篇报道主要讲的是：{title}。" if title else f"{source}发布了新的报道。"
     if details:
         quick = intro + "".join(details)
-    elif existing:
-        quick = intro + existing
     else:
-        quick = intro + "目前公开聚合源没有提供足够正文信息，因此这里只保留已经确认的标题事实，不补写未经来源支持的细节。"
+        quick = intro + "目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。"
 
-    # Popup summary is deliberately fuller than the card summary, but still compact enough for mobile reading.
-    if len(quick) > 560:
-        quick = quick[:557].rstrip("，,；; ") + "…"
+    if len(quick) > 620:
+        quick = quick[:617].rstrip("，,；; ") + "…"
 
     points = []
     if title:
@@ -268,7 +423,6 @@ def make_brief(item):
 
     item["quick_summary"] = quick
     item["key_points"] = uniq
-    # User prefers a cleaner brief: no separate “why it matters” field.
     item.pop("why_it_matters", None)
 
 
@@ -288,7 +442,7 @@ def main():
                 pass
 
     DATA.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
-    print("detailed quick briefs added", DATA)
+    print("validated detailed quick briefs added", DATA)
 
 
 if __name__ == "__main__":
