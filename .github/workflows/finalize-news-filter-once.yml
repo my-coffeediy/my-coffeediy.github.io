@@ -1,0 +1,89 @@
+name: Finalize News Filter Once
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - ".github/workflows/finalize-news-filter-once.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Patch China filtering and ranking
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('news/scripts/update_news.py')
+          s=p.read_text(encoding='utf-8')
+
+          s=s.replace(
+            'SOURCE_TIER_4=["新华社","新华网","央视新闻","央视网","人民日报","中国政府网","国务院"]',
+            'SOURCE_TIER_4=["新华社","新华网","央视新闻","央视网","人民日报","中国政府网","国务院","gov.cn","mem.gov.cn","mof.gov.cn","pbc.gov.cn","ndrc.gov.cn","stats.gov.cn","mfa.gov.cn","moe.gov.cn","mohrss.gov.cn","samr.gov.cn"]',
+            1
+          )
+          s=s.replace('"房地产":5,"外贸":6,"出口":5,','"房地产":5,"外贸":6,"中国出口":5,',1)
+          s=s.replace(
+            '"食品安全":7,"教育":5,"高考":7,"就业":6,"医保":6,"社保":5,"交通":4,"铁路":4',
+            '"食品安全":7,"教育":5,"高考":7,"就业":6,"医保":6,"社保":5,"交通":4,"铁路":4,"紧急转移":10,"山体":7,"滑坡":8,"泥石流":9,"灾害":7',
+            1
+          )
+
+          old='TOP_BLOCK=["新书","研究会","会员代表大会","时装周","圆满举办","宣传周","宣传月","启动仪式","限时优惠","现金激励","ETF","减持","质押","保荐","违规被罚","实干样本","品牌活动","视频","研讨会","交流活动","道歉","市场汇价","开学典礼","体育","比赛","白鹭","早报","大赛","决赛","启幕","执法检查组"]'
+          new='TOP_BLOCK=["新书","研究会","会员代表大会","时装周","圆满举办","宣传周","宣传月","启动仪式","限时优惠","现金激励","ETF","减持","质押","保荐","违规被罚","实干样本","品牌活动","视频","研讨会","交流活动","道歉","市场汇价","开学典礼","体育","比赛","白鹭","早报","大赛","决赛","启幕","执法检查组","本周","日程","周历"]'
+          if old not in s:
+              raise SystemExit('TOP_BLOCK current value not found')
+          s=s.replace(old,new,1)
+
+          marker='CLICKBAIT=["气炸","都得完蛋","再打下去","惊人","炸裂","没想到","彻底变天","超多","内幕曝光","吓坏","懵了","罕见一幕","重磅猛料"]\n'
+          additions='''\nCHINA_ANCHORS=["中国","我国","国内","中共中央","中央政治局","国务院","全国人大","全国政协","财政部","教育部","人社部","公安部","应急管理部","央行","人民银行","发改委","国家统计局","商务部","市场监管总局","福建","江西","湖南","湖北","广东","广西","北京","上海","天津","重庆","海南","新疆","西藏","内蒙古","香港","澳门","台湾","人民币","A股","港股"]\nFOREIGN_MARKERS=["俄罗斯","俄外交部","俄军","乌克兰","乌军","美国","美军","伊朗","以色列","也门","日本","韩国","英国","法国","德国","加拿大","特朗普","普京","泽连斯基","高市","欧盟","北约"]\n'''
+          if 'CHINA_ANCHORS=' not in s:
+              if marker not in s: raise SystemExit('CLICKBAIT marker missing')
+              s=s.replace(marker,marker+additions,1)
+
+          needle='''        title,source=parse_source(clean(e.get("title","")))\n        norm=norm_text(title)\n'''
+          replacement='''        title,source=parse_source(clean(e.get("title","")))\n        if key=="china" and any(w in title for w in FOREIGN_MARKERS) and not any(w in title for w in CHINA_ANCHORS):\n            continue\n        norm=norm_text(title)\n'''
+          if needle not in s:
+              raise SystemExit('fetch_section title marker missing')
+          s=s.replace(needle,replacement,1)
+
+          p.write_text(s,encoding='utf-8')
+          PY
+          python -m py_compile news/scripts/update_news.py
+      - name: Install dependencies
+        run: pip install -r news/requirements.txt
+      - name: Refresh and validate
+        run: |
+          python news/scripts/update_news.py
+          python - <<'PY'
+          import json
+          d=json.load(open('news/data/news.json',encoding='utf-8'))
+          t=d['top5']
+          assert len(t)==5
+          assert sum(x.get('category')=='国内' for x in t)>=2
+          assert any(x.get('category')=='国际' for x in t)
+          foreign=('俄外交部','也门政府军','普京','泽连斯基')
+          assert not any(x.get('category')=='国内' and any(w in x.get('title','') for w in foreign) for x in t)
+          assert not any('韩国出口额破纪录' in x.get('title','') for x in t)
+          assert not any(any(w in x.get('title','') for w in ('本周重磅日程','财经数据周历')) for x in t)
+          print('TOP5')
+          for x in t: print(x['category'],x['source'],x['title'])
+          PY
+      - name: Commit updater and data
+        run: |
+          git config user.name "daily-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add news/scripts/update_news.py news/data/news.json
+          git commit -m "improve: filter China feed and sharpen top stories"
+          git pull --rebase origin main
+          git push origin HEAD:main
