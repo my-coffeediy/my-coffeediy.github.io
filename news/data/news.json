@@ -1,0 +1,27 @@
+{
+  "updated_at": "2026-09-07T08:00:00+08:00",
+  "markets_updated_at": "2026-09-07T08:00:00+08:00",
+  "top5": [
+    {"title":"示例：中国重要政策与民生新闻将优先展示","why_it_matters":"自动更新后，这里每天从国内重大新闻中筛选最重要内容。"},
+    {"title":"示例：全球仅保留真正影响较大的头条","why_it_matters":"战争、重大外交、重大经济事件等会进入首页，普通国际新闻不会占据版面。"},
+    {"title":"示例：财经重点关注A股、港股、汇率与宏观政策","why_it_matters":"帮助快速理解当天市场环境与政策变化。"},
+    {"title":"示例：AI快报追踪OpenAI、DeepSeek、Claude、Gemini等","why_it_matters":"模型发布、产品更新、监管和重要融资会集中展示。"},
+    {"title":"示例：黄金、原油、天然气、铜等资源价格涨跌","why_it_matters":"首页直接看到国际大宗资源的方向变化。"}
+  ],
+  "sections": {
+    "china":[{"category":"国内","title":"网站已上线：自动更新任务运行后将替换为当天中国重点新闻","summary":"当前页面已完成新闻分类、来源展示、手机端布局和自动更新框架。","source":"系统","published_at":"2026-09-07T08:00:00+08:00","url":"","hot":true,"verified":true}],
+    "world":[{"category":"国际","title":"全球新闻只保留头条级事件","summary":"优先重大冲突、外交、经济和突发事件。","source":"系统","published_at":"2026-09-07T08:00:00+08:00","url":"","hot":true,"verified":true}],
+    "finance":[{"category":"财经","title":"财经频道已就绪","summary":"覆盖宏观经济、A股、港股、美股、汇率、利率与重大公司新闻。","source":"系统","published_at":"2026-09-07T08:00:00+08:00","url":"","hot":false,"verified":true}],
+    "tech":[{"category":"科技","title":"科技频道已就绪","summary":"重点覆盖芯片、机器人、新能源、互联网与重大科研进展。","source":"系统","published_at":"2026-09-07T08:00:00+08:00","url":"","hot":false,"verified":true}],
+    "society":[{"category":"社会","title":"社会频道已就绪","summary":"以国内重要社会新闻为主，减少纯娱乐和低信息量热搜。","source":"系统","published_at":"2026-09-07T08:00:00+08:00","url":"","hot":false,"verified":true}],
+    "ai":[{"category":"AI","title":"AI快报已就绪","summary":"重点关注OpenAI、DeepSeek、Claude、Gemini、字节、阿里、腾讯、华为等。","source":"系统","published_at":"2026-09-07T08:00:00+08:00","url":"","hot":true,"verified":true}]
+  },
+  "markets":[
+    {"name":"黄金","symbol":"GC=F","price":"--","unit":"USD/oz","change_pct":0,"note":"等待自动更新"},
+    {"name":"白银","symbol":"SI=F","price":"--","unit":"USD/oz","change_pct":0,"note":"等待自动更新"},
+    {"name":"WTI原油","symbol":"CL=F","price":"--","unit":"USD/bbl","change_pct":0,"note":"等待自动更新"},
+    {"name":"布伦特原油","symbol":"BZ=F","price":"--","unit":"USD/bbl","change_pct":0,"note":"等待自动更新"},
+    {"name":"天然气","symbol":"NG=F","price":"--","unit":"USD/MMBtu","change_pct":0,"note":"等待自动更新"},
+    {"name":"铜","symbol":"HG=F","price":"--","unit":"USD/lb","change_pct":0,"note":"等待自动更新"}
+  ]
+}
