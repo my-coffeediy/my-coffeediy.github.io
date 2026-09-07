@@ -1,26 +1,18 @@
-const state = { data: null };
+const state = { data: null, briefMap: new Map(), briefSeq: 0 };
 const $ = (s) => document.querySelector(s);
 const $$ = (s) => [...document.querySelectorAll(s)];
 
 function fmtDate(iso) {
   const d = new Date(iso);
   return new Intl.DateTimeFormat('zh-CN', {
-    month: 'numeric',
-    day: 'numeric',
-    hour: '2-digit',
-    minute: '2-digit',
-    hour12: false,
-    timeZone: 'Asia/Shanghai'
+    month: 'numeric', day: 'numeric', hour: '2-digit', minute: '2-digit',
+    hour12: false, timeZone: 'Asia/Shanghai'
   }).format(d);
 }
 
 function esc(s = '') {
   return String(s).replace(/[&<>"']/g, (m) => ({
-    '&': '&amp;',
-    '<': '&lt;',
-    '>': '&gt;',
-    '"': '&quot;',
-    "'": '&#039;'
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#039;'
   }[m]));
 }
 
@@ -28,9 +20,96 @@ function safeUrl(u = '') {
   try {
     const x = new URL(u, location.href);
     return /^https?:$/.test(x.protocol) ? x.href : '';
-  } catch {
-    return '';
-  }
+  } catch { return ''; }
+}
+
+function registerBrief(item) {
+  const id = `brief-${++state.briefSeq}`;
+  state.briefMap.set(id, item);
+  return id;
+}
+
+function fallbackWhy(n) {
+  const c = n.category || '';
+  if (c === '国际') return '可能影响国际局势、能源价格、全球贸易或金融市场。';
+  if (c === '财经') return '可能影响市场走势、行业预期、企业经营或居民资产价格。';
+  if (c === 'AI') return '可能影响AI行业竞争格局、产品能力、算力需求和监管方向。';
+  if (c === '科技') return '涉及关键技术与产业链变化，值得关注后续落地。';
+  if (c === '社会') return '与民生、公共服务或社会运行直接相关。';
+  return '与国内政策、经济或民生变化相关，值得持续关注。';
+}
+
+function quickSummary(n) {
+  if (n.quick_summary) return n.quick_summary;
+  if (n.summary) return n.summary;
+  return `${n.source || '新闻来源'}报道了“${n.title || '这条新闻'}”。当前聚合源暂未提供更完整正文摘要，建议结合原报道查看具体细节。`;
+}
+
+function quickPoints(n) {
+  if (Array.isArray(n.key_points) && n.key_points.length) return n.key_points;
+  return [
+    `核心事件：${n.title || '来源发布了新的进展。'}`,
+    n.why_it_matters || fallbackWhy(n),
+    '如需完整细节，请继续查看原报道及权威来源后续更新。'
+  ];
+}
+
+function ensureBriefModal() {
+  if ($('#briefModal')) return;
+  const wrap = document.createElement('div');
+  wrap.id = 'briefModal';
+  wrap.className = 'brief-modal';
+  wrap.setAttribute('aria-hidden', 'true');
+  wrap.innerHTML = `
+    <div class="brief-backdrop" data-close-brief></div>
+    <section class="brief-sheet" role="dialog" aria-modal="true" aria-labelledby="briefModalTitle">
+      <div class="brief-sheet-handle"></div>
+      <div class="brief-sheet-head">
+        <div><div class="eyebrow">QUICK BRIEF</div><h3 id="briefModalTitle"></h3></div>
+        <button class="brief-close" type="button" data-close-brief aria-label="关闭">×</button>
+      </div>
+      <div class="brief-sheet-meta" id="briefModalMeta"></div>
+      <div class="brief-block">
+        <div class="brief-block-label">新闻概要</div>
+        <div class="brief-copy" id="briefModalSummary"></div>
+      </div>
+      <div class="brief-block">
+        <div class="brief-block-label">重点信息</div>
+        <ul class="brief-points" id="briefModalPoints"></ul>
+      </div>
+      <div class="brief-block important-block">
+        <div class="brief-block-label">为什么重要</div>
+        <div class="brief-copy" id="briefModalWhy"></div>
+      </div>
+      <div class="brief-sheet-actions" id="briefModalActions"></div>
+      <div class="brief-note">概要基于当前可获取的新闻标题、摘要和权威来源信息整理；若原来源未开放完整正文，不会补写未经来源支持的细节。</div>
+    </section>`;
+  document.body.appendChild(wrap);
+}
+
+function openBriefModal(n) {
+  ensureBriefModal();
+  const modal = $('#briefModal');
+  $('#briefModalTitle').textContent = n.title || '新闻概要';
+  $('#briefModalMeta').textContent = `${n.category || '新闻'} · ${n.source || '来源未知'}${n.published_at ? ' · ' + fmtDate(n.published_at) : ''}`;
+  $('#briefModalSummary').textContent = quickSummary(n);
+  $('#briefModalPoints').innerHTML = quickPoints(n).slice(0, 4).map((p) => `<li>${esc(p)}</li>`).join('');
+  $('#briefModalWhy').textContent = n.why_it_matters || fallbackWhy(n);
+  const url = safeUrl(n.url || '');
+  $('#briefModalActions').innerHTML = url
+    ? `<a class="brief-source-link" href="${esc(url)}" target="_blank" rel="noopener">查看完整原报道 ↗</a>`
+    : '<span class="brief-source-disabled">暂无可用原文链接</span>';
+  modal.classList.add('open');
+  modal.setAttribute('aria-hidden', 'false');
+  document.body.classList.add('modal-open');
+}
+
+function closeBriefModal() {
+  const modal = $('#briefModal');
+  if (!modal) return;
+  modal.classList.remove('open');
+  modal.setAttribute('aria-hidden', 'true');
+  document.body.classList.remove('modal-open');
 }
 
 function bindImgErrors() {
@@ -41,13 +120,13 @@ function bindImgErrors() {
       img.remove();
     }, { once: true });
   });
-
   const hero = $('.js-hero-img');
   if (hero) hero.addEventListener('error', () => hero.remove(), { once: true });
 }
 
 function newsCard(n) {
   const img = safeUrl(n.image_url || '');
+  const briefId = registerBrief(n);
   const trust = n.verified
     ? '<span class="badge verified">权威来源</span>'
     : '<span class="badge caution">待交叉核实</span>';
@@ -62,10 +141,8 @@ function newsCard(n) {
       <div class="news-top">${badges}</div>
       <div class="news-title">${esc(n.title)}</div>
       ${n.summary ? `<div class="news-summary">${esc(n.summary)}</div>` : ''}
-      <div class="news-meta">
-        <span>${esc(n.source || '来源未知')} · ${fmtDate(n.published_at)}</span>
-        ${n.url ? `<a href="${esc(n.url)}" target="_blank" rel="noopener">来源 ↗</a>` : ''}
-      </div>
+      <div class="news-meta"><span>${esc(n.source || '来源未知')} · ${fmtDate(n.published_at)}</span>${n.url ? `<a href="${esc(n.url)}" target="_blank" rel="noopener">来源 ↗</a>` : ''}</div>
+      <button class="brief-btn" type="button" data-brief-id="${briefId}"><span class="brief-btn-icon">≡</span> 快速概要</button>
     </div>
     ${img ? `<div class="news-thumb"><img class="js-news-img" src="${esc(img)}" alt="" loading="lazy" referrerpolicy="no-referrer"></div>` : ''}
   </article>`;
@@ -78,7 +155,6 @@ function renderList(id, arr) {
 function heroCard(x) {
   if (!x) return '<div class="empty-card">暂无头条</div>';
   const img = safeUrl(x.image_url || '');
-
   return `<article class="hero-card">
     <div class="hero-media">${img ? `<img class="js-hero-img" src="${esc(img)}" alt="" referrerpolicy="no-referrer">` : '<div class="hero-fallback"></div>'}</div>
     <div class="hero-content">
@@ -86,68 +162,54 @@ function heroCard(x) {
       <div class="hero-title">${esc(x.title)}</div>
       ${x.summary ? `<div class="hero-summary"><span>摘要</span>${esc(x.summary)}</div>` : ''}
       ${x.why_it_matters ? `<div class="hero-reason"><span>为什么重要</span>${esc(x.why_it_matters)}</div>` : ''}
-      <div class="hero-meta">
-        <span>${esc(x.source || '重点新闻')}${x.published_at ? ' · ' + fmtDate(x.published_at) : ''}</span>
-        ${x.url ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">查看原报道 ↗</a>` : ''}
-      </div>
+      <div class="hero-meta"><span>${esc(x.source || '重点新闻')}${x.published_at ? ' · ' + fmtDate(x.published_at) : ''}</span>${x.url ? `<a href="${esc(x.url)}" target="_blank" rel="noopener">查看原报道 ↗</a>` : ''}</div>
     </div>
   </article>`;
 }
 
 function top5Card(x, i) {
   const url = safeUrl(x.url || '');
-  const inner = `<div class="top-num">${i + 1}</div>
+  const briefId = registerBrief(x);
+  return `<article class="top-item">
+    <div class="top-num">${i + 1}</div>
     <div>
       <div class="top-title">${esc(x.title)}</div>
       ${x.summary ? `<div class="top-summary"><span>摘要</span>${esc(x.summary)}</div>` : ''}
       ${x.why_it_matters ? `<div class="top-reason"><span>为什么重要</span>${esc(x.why_it_matters)}</div>` : ''}
-      ${url ? '<div style="margin-top:9px;font-size:11px;color:#9ecdec;font-weight:750;">查看详细报道 ↗</div>' : ''}
-    </div>`;
-
-  if (url) {
-    return `<a class="top-item" href="${esc(url)}" target="_blank" rel="noopener" aria-label="查看详细报道：${esc(x.title)}" style="color:inherit;text-decoration:none;cursor:pointer;">${inner}</a>`;
-  }
-  return `<article class="top-item">${inner}</article>`;
+      <div class="top-actions">
+        <button class="brief-btn compact" type="button" data-brief-id="${briefId}">快速概要</button>
+        ${url ? `<a class="detail-link" href="${esc(url)}" target="_blank" rel="noopener">查看详细报道 ↗</a>` : ''}
+      </div>
+    </div>
+  </article>`;
 }
 
 function marketMini(m) {
   const cls = m.change_pct > 0 ? 'up' : m.change_pct < 0 ? 'down' : 'flat';
   const arrow = m.change_pct > 0 ? '▲' : m.change_pct < 0 ? '▼' : '•';
-  return `<div class="market-mini">
-    <div class="market-name">${esc(m.name)}</div>
-    <div class="market-price">${esc(m.price)} ${esc(m.unit || '')}</div>
-    <div class="market-change ${cls}">${arrow} ${Math.abs(m.change_pct || 0).toFixed(2)}%</div>
-  </div>`;
+  return `<div class="market-mini"><div class="market-name">${esc(m.name)}</div><div class="market-price">${esc(m.price)} ${esc(m.unit || '')}</div><div class="market-change ${cls}">${arrow} ${Math.abs(m.change_pct || 0).toFixed(2)}%</div></div>`;
 }
 
 function marketCard(m) {
   const cls = m.change_pct > 0 ? 'up' : m.change_pct < 0 ? 'down' : 'flat';
   const arrow = m.change_pct > 0 ? '▲' : m.change_pct < 0 ? '▼' : '•';
-  return `<div class="market-card">
-    <div class="name">${esc(m.name)}</div>
-    <div class="price">${esc(m.price)} <small>${esc(m.unit || '')}</small></div>
-    <div class="change ${cls}">${arrow} ${(m.change_pct || 0).toFixed(2)}%</div>
-    <div class="sub">${esc(m.symbol || '')} · ${esc(m.note || '延迟行情')}</div>
-  </div>`;
+  return `<div class="market-card"><div class="name">${esc(m.name)}</div><div class="price">${esc(m.price)} <small>${esc(m.unit || '')}</small></div><div class="change ${cls}">${arrow} ${(m.change_pct || 0).toFixed(2)}%</div><div class="sub">${esc(m.symbol || '')} · ${esc(m.note || '延迟行情')}</div></div>`;
 }
 
 function render(data) {
   state.data = data;
+  state.briefMap = new Map();
+  state.briefSeq = 0;
   $('#updatedAt').textContent = `最近更新：${fmtDate(data.updated_at)}（北京时间）`;
   $('#marketTime').textContent = `更新 ${fmtDate(data.markets_updated_at || data.updated_at)}`;
 
   const top = data.top5 || [];
   $('#heroStory').innerHTML = heroCard(top[0]);
   $('#top5').innerHTML = top.slice(0, 5).map(top5Card).join('');
-
   renderList('#chinaPreview', (data.sections.china || []).slice(0, 4));
   renderList('#worldPreview', (data.sections.world || []).slice(0, 4));
   renderList('#aiPreview', (data.sections.ai || []).slice(0, 4));
-
-  for (const key of ['china', 'world', 'finance', 'tech', 'society', 'ai']) {
-    renderList(`#${key}List`, data.sections[key] || []);
-  }
-
+  for (const key of ['china', 'world', 'finance', 'tech', 'society', 'ai']) renderList(`#${key}List`, data.sections[key] || []);
   $('#marketStrip').innerHTML = (data.markets || []).slice(0, 6).map(marketMini).join('');
   $('#marketsGrid').innerHTML = (data.markets || []).map(marketCard).join('');
   bindImgErrors();
@@ -164,6 +226,20 @@ async function load() {
   }
 }
 
+document.addEventListener('click', (e) => {
+  const brief = e.target.closest('[data-brief-id]');
+  if (brief) {
+    e.preventDefault();
+    e.stopPropagation();
+    const item = state.briefMap.get(brief.dataset.briefId);
+    if (item) openBriefModal(item);
+    return;
+  }
+  if (e.target.closest('[data-close-brief]')) closeBriefModal();
+});
+
+document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeBriefModal(); });
+
 $$('.tab').forEach((btn) => btn.addEventListener('click', () => {
   $$('.tab').forEach((x) => x.classList.remove('active'));
   $$('.tab-panel').forEach((x) => x.classList.remove('active'));
@@ -175,11 +251,8 @@ $$('.tab').forEach((btn) => btn.addEventListener('click', () => {
 $('#refreshBtn').addEventListener('click', load);
 const now = new Date();
 $('#todayDate').textContent = new Intl.DateTimeFormat('zh-CN', {
-  year: 'numeric',
-  month: 'long',
-  day: 'numeric',
-  weekday: 'long',
-  timeZone: 'Asia/Shanghai'
+  year: 'numeric', month: 'long', day: 'numeric', weekday: 'long', timeZone: 'Asia/Shanghai'
 }).format(now);
 
+ensureBriefModal();
 load();
