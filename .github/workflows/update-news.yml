@@ -47,3 +47,5 @@ jobs:
             git pull --rebase origin main
             git push origin HEAD:main
           fi
+
+# Daily Brief v2: source weighting, Top 5 ranking, summaries and thumbnail enrichment.
