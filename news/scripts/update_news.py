@@ -111,7 +111,7 @@ def entry_image(e):
                     if u.startswith("http"): return u
     for enc in e.get("enclosures",[]) or []:
         u=enc.get("href") or enc.get("url") or ""
-        if u.startswith("http") and str(enc.get("type",""")).startswith("image/"):
+        if u.startswith("http") and str(enc.get("type","")).startswith("image/"):
             return u
     raw=e.get("summary","") or e.get("description","") or ""
     m=re.search(r'<img[^>]+src=["\']([^"\']+)',raw,re.I)
