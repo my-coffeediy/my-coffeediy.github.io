@@ -10,6 +10,11 @@ from urllib.parse import quote, urlparse
 import requests
 from bs4 import BeautifulSoup
 
+try:
+    from googlenewsdecoder import gnewsdecoder
+except Exception:
+    gnewsdecoder = None
+
 ROOT = Path(__file__).resolve().parents[2]
 DATA = ROOT / "news" / "data" / "news.json"
 UA = {
@@ -55,7 +60,7 @@ def sim(a, b):
 
 
 def keyword_coverage(title, text):
-    t, x = norm(title), norm(text[:6000])
+    t, x = norm(title), norm(text[:6500])
     if len(t) < 6 or not x:
         return 0.0
     grams = {t[i:i+3] for i in range(len(t)-2)}
@@ -66,21 +71,19 @@ def parse_date(text):
     text = clean(text)
     if not text:
         return None
-    for pat in (
-        r"(20\d{2})[-年/.](\d{1,2})[-月/.](\d{1,2})",
-        r"(20\d{2})(\d{2})(\d{2})",
-    ):
+    try:
+        d = datetime.fromisoformat(text.replace("Z", "+00:00"))
+        return d.replace(tzinfo=d.tzinfo or timezone.utc)
+    except Exception:
+        pass
+    for pat in (r"(20\d{2})[-年/.](\d{1,2})[-月/.](\d{1,2})", r"(20\d{2})(\d{2})(\d{2})"):
         m = re.search(pat, text)
         if m:
             try:
                 return datetime(int(m.group(1)), int(m.group(2)), int(m.group(3)), tzinfo=timezone.utc)
             except Exception:
                 pass
-    try:
-        d = datetime.fromisoformat(text.replace("Z", "+00:00"))
-        return d.replace(tzinfo=d.tzinfo or timezone.utc)
-    except Exception:
-        return None
+    return None
 
 
 def plausible_date(page_date, published_at):
@@ -120,7 +123,21 @@ def published_date(soup, page_text):
                 d = parse_date(m.group(1))
                 if d:
                     return d
-    return parse_date(page_text[:5000])
+    return parse_date(page_text[:6000])
+
+
+def decode_google_news(url):
+    if not url or "news.google.com" not in url or gnewsdecoder is None:
+        return ""
+    try:
+        result = gnewsdecoder(url, interval=None)
+        if isinstance(result, dict) and result.get("status") and result.get("decoded_url"):
+            decoded = result["decoded_url"]
+            if decoded.startswith("http") and "news.google.com" not in urlparse(decoded).netloc:
+                return decoded
+    except Exception:
+        pass
+    return ""
 
 
 def search_bing_html(title, source):
@@ -155,24 +172,22 @@ def search_bing_html(title, source):
                 break
         except Exception:
             continue
-    if best[2] < 0.66:
-        return "", ""
-    return best[0], best[1]
+    return (best[0], best[1]) if best[2] >= 0.66 else ("", "")
 
 
 def extract_page(url, title, published_at):
-    if not url.startswith("http"):
+    if not url or not url.startswith("http"):
         return "", ""
     try:
-        r = requests.get(url, headers=UA, timeout=9, allow_redirects=True)
+        r = requests.get(url, headers=UA, timeout=10, allow_redirects=True)
         if r.status_code >= 400 or "text/html" not in r.headers.get("content-type", ""):
             return "", ""
-        soup = BeautifulSoup(r.text[:1_800_000], "html.parser")
+        soup = BeautifulSoup(r.text[:1_900_000], "html.parser")
         ptitle = page_title(soup)
-        raw_text = clean(soup.get_text(" ", strip=True)[:10000])
+        raw_text = clean(soup.get_text(" ", strip=True)[:12000])
         title_score = sim(title, ptitle)
         coverage = keyword_coverage(title, ptitle + " " + raw_text)
-        if title_score < 0.54 and coverage < 0.38:
+        if title_score < 0.50 and coverage < 0.34:
             return "", ""
         if not plausible_date(published_date(soup, raw_text), published_at):
             return "", ""
@@ -181,7 +196,7 @@ def extract_page(url, title, published_at):
             tag.decompose()
 
         chunks = []
-        for attrs in ({"property": "og:description"}, {"name": "description"}):
+        for attrs in ({"property": "og:description"}, {"name": "description"}, {"name": "twitter:description"}):
             tag = soup.find("meta", attrs=attrs)
             if tag and tag.get("content") and len(clean(tag.get("content"))) > 45:
                 chunks.append(clean(tag.get("content")))
@@ -190,19 +205,18 @@ def extract_page(url, title, published_at):
         paras, total = [], 0
         for p in container.find_all("p"):
             text = clean(p.get_text(" ", strip=True))
-            if 28 <= len(text) <= 900 and not any(n in text for n in NOISE):
-                paras.append(text)
-                total += len(text)
-            if total >= 6500:
+            if 28 <= len(text) <= 1000 and not any(n in text for n in NOISE):
+                paras.append(text); total += len(text)
+            if total >= 7500:
                 break
         if paras:
             chunks.append("。".join(paras))
         text = max(chunks, key=len) if chunks else ""
         if not text:
             return "", ""
-        if keyword_coverage(title, text) < 0.15 and title_score < 0.72:
+        if keyword_coverage(title, text) < 0.12 and title_score < 0.70:
             return "", ""
-        return text[:7500], r.url
+        return text[:8500], r.url
     except Exception:
         return "", ""
 
@@ -217,10 +231,9 @@ def sentences(text):
         s = clean(s).strip(" -—|·")
         if len(s) < 16 or any(n in s for n in NOISE):
             continue
-        if len(s) > 175:
-            s = s[:172].rstrip("，,；; ") + "…"
-        if s[-1:] not in "。！？!?；;…":
-            s += "。"
+        if len(s) > 185:
+            s = s[:182].rstrip("，,；; ") + "…"
+        if s[-1:] not in "。！？!?；;…": s += "。"
         n = norm(s)
         if n and n not in seen:
             seen.add(n); out.append(s)
@@ -228,10 +241,9 @@ def sentences(text):
 
 
 def score_sentence(s, i, title):
-    score = max(0, 5 - i * 0.22)
-    score += keyword_coverage(title, s) * 5
+    score = max(0, 5 - i * 0.20) + keyword_coverage(title, s) * 5
     if re.search(r"\d", s): score += 1.5
-    if any(k in s for k in ("表示", "宣布", "决定", "截至", "其中", "目前", "将", "已", "造成", "根据", "预计")):
+    if any(k in s for k in ("表示", "宣布", "决定", "截至", "其中", "目前", "将", "已", "造成", "根据", "预计", "指出")):
         score += 0.8
     return score
 
@@ -259,23 +271,40 @@ def enrich_story(item):
     source = clean(item.get("source")) or "新闻来源"
     if not title:
         return None
-    link, snippet = search_bing_html(title, source)
-    page_text, final_url = extract_page(link, title, item.get("published_at")) if link else ("", "")
+
+    original_url = clean(item.get("url"))
+    decoded = decode_google_news(original_url)
+    snippet = ""
+    used_decoded = False
+
+    if decoded:
+        page_text, final_url = extract_page(decoded, title, item.get("published_at"))
+        used_decoded = bool(page_text)
+    else:
+        page_text, final_url = "", ""
+
+    if not page_text:
+        candidate, snippet = search_bing_html(title, source)
+        page_text, final_url = extract_page(candidate, title, item.get("published_at")) if candidate else ("", "")
+
     details = build_detail(title, page_text, snippet)
     if not details:
         return None
 
     quick = f"{source}这篇报道主要讲的是：{title}。" + "".join(details)
-    if len(quick) > 680:
-        quick = quick[:677].rstrip("，,；; ") + "…"
+    if len(quick) > 720:
+        quick = quick[:717].rstrip("，,；; ") + "…"
     points = [f"核心事件：{title}"]
     for s in details[:4]:
         p = clean(s).strip("。！？!?；; ")
-        if len(p) > 115:
-            p = p[:112].rstrip("，,；; ") + "…"
+        if len(p) > 120:
+            p = p[:117].rstrip("，,；; ") + "…"
         points.append(p)
+
     result = {"quick_summary": quick, "key_points": points[:5]}
-    if final_url and source_link_ok(source, final_url):
+    # A successfully decoded Google News URL is the actual source URL. Bing fallback
+    # replaces the visible link only when its domain agrees with the listed source.
+    if final_url and (used_decoded or source_link_ok(source, final_url)):
         result["url"] = final_url
     return result
 
@@ -283,11 +312,9 @@ def enrich_story(item):
 def main():
     data = json.loads(DATA.read_text(encoding="utf-8"))
     all_items = []
-    for arr in (data.get("sections") or {}).values():
-        all_items.extend(arr)
+    for arr in (data.get("sections") or {}).values(): all_items.extend(arr)
     all_items.extend(data.get("top5") or [])
 
-    # One search per unique headline, then copy the result to duplicates in Top5/sections.
     grouped = {}
     for item in all_items:
         item.pop("why_it_matters", None)
@@ -295,24 +322,23 @@ def main():
 
     representatives = [items[0] for key, items in grouped.items() if key]
     results = {}
-    with ThreadPoolExecutor(max_workers=8) as ex:
+    # Keep Google decoding concurrency modest to reduce rate-limit risk.
+    with ThreadPoolExecutor(max_workers=5) as ex:
         futures = {ex.submit(enrich_story, item): norm(item.get("title")) for item in representatives}
         for f in as_completed(futures):
             key = futures[f]
             try:
                 result = f.result()
-                if result:
-                    results[key] = result
+                if result: results[key] = result
             except Exception:
                 pass
 
     for key, result in results.items():
         for item in grouped.get(key, []):
-            item.update(result)
-            item.pop("why_it_matters", None)
+            item.update(result); item.pop("why_it_matters", None)
 
     DATA.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"HTML search enrichment: {len(results)}/{len(representatives)} unique stories enriched")
+    print(f"Google/Bing detail enrichment: {len(results)}/{len(representatives)} unique stories enriched")
 
 
 if __name__ == "__main__":
