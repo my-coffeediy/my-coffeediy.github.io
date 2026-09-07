@@ -174,6 +174,22 @@ def image_from_xml_item(item):
             return html.unescape(m.group(1))
     return ""
 
+def bing_image_thumbnail(title):
+    try:
+        q=quote(title[:72])
+        url=f"https://www.bing.com/images/search?q={q}&setlang=zh-cn"
+        r=requests.get(url,headers=UA,timeout=6)
+        if r.status_code>=400:return ""
+        text=html.unescape(r.text)
+        for pat in (r'(https://ts[0-9]+\.mm\.bing\.net/th\?[^"<>\s]+)',r'(https://tse[0-9]+\.mm\.bing\.net/th[^"<>\s]+)'):
+            m=re.search(pat,text,re.I)
+            if m:
+                u=html.unescape(m.group(1)).replace('\\u0026','&').replace('\\/','/')
+                if u.startswith('http'):return u
+    except Exception:
+        pass
+    return ""
+
 def bing_html_thumbnail(title):
     try:
         q=quote('"'+title[:72]+'"')
@@ -199,7 +215,7 @@ def bing_news_details(title):
         query=title[:80]
         url=f"https://www.bing.com/news/search?q={quote(query)}&format=rss&setlang=zh-cn"
         r=requests.get(url,headers=UA,timeout=6)
-        if r.status_code>=400:return bing_html_thumbnail(title),""
+        if r.status_code>=400:return bing_html_thumbnail(title) or bing_image_thumbnail(title),""
         root=ET.fromstring(r.content)
         target=norm_text(title)
         best=None; best_ratio=0
@@ -208,7 +224,7 @@ def bing_news_details(title):
             ratio=SequenceMatcher(None,target,norm_text(t)).ratio() if t else 0
             if ratio>best_ratio:
                 best_ratio=ratio; best=item
-        if best is None or best_ratio<0.34:return bing_html_thumbnail(title),""
+        if best is None or best_ratio<0.34:return bing_html_thumbnail(title) or bing_image_thumbnail(title),""
         img=image_from_xml_item(best)
         desc=clean(best.findtext("description") or "")
         if desc and len(desc)>150: desc=desc[:147].rstrip()+"…"
@@ -216,10 +232,10 @@ def bing_news_details(title):
         if not img:
             link=clean(best.findtext("link") or "")
             if link: img=og_image(link)
-        if not img: img=bing_html_thumbnail(title)
+        if not img: img=bing_html_thumbnail(title) or bing_image_thumbnail(title)
         return img,desc
     except Exception:
-        return bing_html_thumbnail(title),""
+        return bing_html_thumbnail(title) or bing_image_thumbnail(title),""
 
 def recency_bonus(iso):
     try:
@@ -304,7 +320,7 @@ def enrich_one(item):
 def enrich_images_and_summaries(sections):
     items=[]
     for arr in sections.values():
-        items.extend(arr)
+        items.extend(arr[:8])
     with ThreadPoolExecutor(max_workers=8) as ex:
         futs=[ex.submit(enrich_one,item) for item in items if not item.get("image_url") or not item.get("summary")]
         for f in as_completed(futs):
@@ -350,7 +366,7 @@ def choose_unique(candidates,used):
             return item
     return None
 
-TOP_BLOCK=["新书","研究会","会员代表大会","时装周","圆满举办","宣传周","宣传月","启动仪式","限时优惠","现金激励","ETF","减持","质押","保荐","违规被罚","实干样本","品牌活动","视频","研讨会","交流活动","道歉","市场汇价","开学典礼","体育","比赛","白鹭","早报"]
+TOP_BLOCK=["新书","研究会","会员代表大会","时装周","圆满举办","宣传周","宣传月","启动仪式","限时优惠","现金激励","ETF","减持","质押","保荐","违规被罚","实干样本","品牌活动","视频","研讨会","交流活动","道歉","市场汇价","开学典礼","体育","比赛","白鹭","早报","大赛","决赛","启幕","执法检查组"]
 TOP_MAJOR={
     "china":["中共中央","中央政治局","国务院","全国人大","全国政协","央行","人民银行","财政部","发改委","国家统计局","商务部","外交部","国防部","降准","降息","人民币","GDP","CPI","PPI","外贸","就业","社保","医保","养老金","房地产","楼市","高考","台风","地震","暴雨","洪涝","事故","伤亡","应急","国家主席","总书记","教育部","人社部","公安部","市场监管总局"],
     "world":["战争","冲突","停火","制裁","大选","选举","美联储","特朗普","普京","泽连斯基","联合国","北约","地震","海啸","袭击","导弹","关税","油价","核武","政变"],
@@ -368,7 +384,7 @@ def is_top_candidate(key,item,strict=True):
         if item.get("_tier",1)<2 and not (item.get("_feed_bonus",0)>=5 and major):return False
     else:
         if item.get("_tier",1)<2:return False
-    if key=="ai" and item.get("_tier",1)<2:return False
+    if key=="ai" and item.get("_tier",1)<3:return False
     if strict and not major:return False
     return True
 
