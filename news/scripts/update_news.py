@@ -2,6 +2,7 @@ import json,re,html,time
 from pathlib import Path
 from datetime import datetime,timezone,timedelta
 from urllib.parse import quote
+import xml.etree.ElementTree as ET
 import feedparser,requests
 try:
     import yfinance as yf
@@ -23,7 +24,7 @@ TRUST=["新华社","新华网","央视新闻","央视网","人民日报","中国
 SECONDARY=["界面新闻","证券时报","上海证券报","中国证券报","中青在线","南方日报","新京报"]
 HOT=["突发","地震","台风","暴雨","战争","冲突","停火","制裁","大选","暴跌","暴涨","危机","事故","死亡"]
 CLICKBAIT=["气炸","都得完蛋","再打下去","惊人","炸裂","没想到","彻底变天","超多","内幕曝光"]
-UA={"User-Agent":"Mozilla/5.0 (compatible; DailyBriefBot/1.1)"}
+UA={"User-Agent":"Mozilla/5.0 (compatible; DailyBriefBot/1.2)"}
 
 def clean(s):
     return re.sub(r"\s+"," ",html.unescape(re.sub(r"<[^>]+>","",s or ""))).strip()
@@ -70,6 +71,23 @@ def og_image(url):
     except Exception: pass
     return ""
 
+def bing_image(title):
+    # Bing News RSS 常带 News:Image；按完整标题检索，只作为原报道主图的补充来源。
+    try:
+        q=quote('"'+title[:160]+'"')
+        url=f"https://www.bing.com/news/search?q={q}&format=rss&setlang=zh-cn"
+        r=requests.get(url,headers=UA,timeout=7)
+        if r.status_code>=400:return ""
+        root=ET.fromstring(r.content)
+        item=root.find('.//item')
+        if item is None:return ""
+        for el in item.iter():
+            if el.tag.split('}')[-1].lower()=='image' and el.text:
+                u=html.unescape(el.text.strip())
+                if u.startswith('http'):return u
+    except Exception:pass
+    return ""
+
 def fetch_section(key):
     feed=feedparser.parse(rss_url(QUERIES[key])); rows=[]; seen=set()
     for e in feed.entries[:80]:
@@ -85,6 +103,7 @@ def fetch_section(key):
     rows=rows[:LIMITS[key]]
     for item in rows[:5]:
         if not item["image_url"] and item["url"]: item["image_url"]=og_image(item["url"])
+        if not item["image_url"]: item["image_url"]=bing_image(item["title"])
         item.pop("clickbait",None)
     for item in rows[5:]: item.pop("clickbait",None)
     return rows
