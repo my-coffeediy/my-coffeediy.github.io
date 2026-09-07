@@ -172,16 +172,44 @@ function top5Card(x, i) {
   </article>`;
 }
 
+function marketPrice(value, unit = '') {
+  if (value === undefined || value === null || value === '' || value === '--') return '--';
+  const u = String(unit || '');
+  if (u.startsWith('元/')) return `¥${value}/${u.slice(2)}`;
+  if (u === '元') return `¥${value}`;
+  return `${value} ${u}`.trim();
+}
+
+function marketTrend(m) {
+  const pct = Number(m.change_pct || 0);
+  if (pct > 0) return { cls: 'up', text: `较上一交易日上涨 ${Math.abs(pct).toFixed(2)}%` };
+  if (pct < 0) return { cls: 'down', text: `较上一交易日下跌 ${Math.abs(pct).toFixed(2)}%` };
+  return { cls: 'flat', text: '较上一交易日持平' };
+}
+
 function marketMini(m) {
-  const cls = m.change_pct > 0 ? 'up' : m.change_pct < 0 ? 'down' : 'flat';
-  const arrow = m.change_pct > 0 ? '▲' : m.change_pct < 0 ? '▼' : '•';
-  return `<div class="market-mini"><div class="market-name">${esc(m.name)}</div><div class="market-price">${esc(m.price)} ${esc(m.unit || '')}</div><div class="market-change ${cls}">${arrow} ${Math.abs(m.change_pct || 0).toFixed(2)}%</div></div>`;
+  const trend = marketTrend(m);
+  const current = marketPrice(m.price, m.unit);
+  const previous = marketPrice(m.previous_price, m.unit);
+  return `<div class="market-mini">
+    <div class="market-name">${esc(m.name)}</div>
+    <div class="market-price">${esc(current)}</div>
+    ${m.previous_price ? `<div class="market-change flat">上一交易日 ${esc(previous)}</div>` : ''}
+    <div class="market-change ${trend.cls}">${esc(trend.text)}</div>
+  </div>`;
 }
 
 function marketCard(m) {
-  const cls = m.change_pct > 0 ? 'up' : m.change_pct < 0 ? 'down' : 'flat';
-  const arrow = m.change_pct > 0 ? '▲' : m.change_pct < 0 ? '▼' : '•';
-  return `<div class="market-card"><div class="name">${esc(m.name)}</div><div class="price">${esc(m.price)} <small>${esc(m.unit || '')}</small></div><div class="change ${cls}">${arrow} ${(m.change_pct || 0).toFixed(2)}%</div><div class="sub">${esc(m.symbol || '')} · ${esc(m.note || '延迟行情')}</div></div>`;
+  const trend = marketTrend(m);
+  const current = marketPrice(m.price, m.unit);
+  const previous = marketPrice(m.previous_price, m.unit);
+  return `<div class="market-card">
+    <div class="name">${esc(m.name)}</div>
+    <div class="price">${esc(current)}</div>
+    ${m.previous_price ? `<div class="sub">上一交易日：${esc(previous)}</div>` : ''}
+    <div class="change ${trend.cls}">${esc(trend.text)}</div>
+    <div class="sub">${esc(m.note || '人民币延迟行情')}</div>
+  </div>`;
 }
 
 function render(data) {
