@@ -7,6 +7,7 @@ on:
       - "news/scripts/update_news.py"
       - "news/scripts/add_quick_briefs.py"
       - "news/scripts/enrich_quick_briefs.py"
+      - "news/scripts/enrich_ddg.py"
       - "news/requirements.txt"
       - ".github/workflows/update-news.yml"
   schedule:
@@ -41,6 +42,8 @@ jobs:
         run: python news/scripts/add_quick_briefs.py
       - name: Enrich detailed quick briefs
         run: python news/scripts/enrich_quick_briefs.py
+      - name: Fill remaining quick briefs with DuckDuckGo
+        run: python news/scripts/enrich_ddg.py
       - name: Commit refreshed data safely
         run: |
           git config user.name "daily-news-bot"
@@ -59,5 +62,5 @@ jobs:
             git push origin HEAD:main
           fi
 
-# Daily Brief v5: richer validated quick summaries, no separate “why it matters” block,
-# HTML-search enrichment, and conflict-safe scheduled publishing.
+# Daily Brief v6: fuller validated quick summaries, no separate “why it matters” block,
+# Google/Bing/DuckDuckGo enrichment, and conflict-safe scheduled publishing.
