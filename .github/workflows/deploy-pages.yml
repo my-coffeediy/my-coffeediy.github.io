@@ -5,7 +5,7 @@ on:
     branches: ["main"]
   workflow_dispatch:
   workflow_run:
-    workflows: ["Update Hex Arena data"]
+    workflows: ["Update Hex Arena data", "Update Daily News"]
     types: [completed]
 
 permissions:
