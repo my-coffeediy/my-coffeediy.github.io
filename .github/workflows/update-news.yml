@@ -6,6 +6,7 @@ on:
     paths:
       - "news/scripts/update_news.py"
       - "news/scripts/add_quick_briefs.py"
+      - "news/scripts/enrich_quick_briefs.py"
       - "news/requirements.txt"
       - ".github/workflows/update-news.yml"
   schedule:
@@ -38,14 +39,13 @@ jobs:
         run: python news/scripts/update_news.py
       - name: Add quick briefs for every story
         run: python news/scripts/add_quick_briefs.py
+      - name: Enrich detailed quick briefs
+        run: python news/scripts/enrich_quick_briefs.py
       - name: Commit refreshed data safely
         run: |
           git config user.name "daily-news-bot"
           git config user.email "actions@users.noreply.github.com"
 
-          # Keep the freshly generated JSON, then move the worktree to the latest
-          # main branch before committing. This avoids rebase conflicts when the
-          # website code is edited while a scheduled refresh is running.
           cp news/data/news.json /tmp/news.json
           git fetch origin main
           git reset --hard origin/main
@@ -59,5 +59,5 @@ jobs:
             git push origin HEAD:main
           fi
 
-# Daily Brief v4: richer quick summaries, no separate “why it matters” block,
-# and conflict-safe scheduled publishing.
+# Daily Brief v5: richer validated quick summaries, no separate “why it matters” block,
+# HTML-search enrichment, and conflict-safe scheduled publishing.
