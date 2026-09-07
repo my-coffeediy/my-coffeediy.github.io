@@ -26,6 +26,8 @@ QUERIES={
     "ai":'(人工智能 OR AI OR OpenAI OR DeepSeek OR Claude OR Gemini OR 大模型 OR 智谱 OR 通义 OR 豆包) when:1d'
 }
 
+TOPIC_FEEDS={"china":"NATION","world":"WORLD","finance":"BUSINESS","tech":"TECHNOLOGY","society":"NATION"}
+
 LIMITS={"china":14,"world":9,"finance":10,"tech":10,"society":10,"ai":10}
 
 # 4 = 第一优先；3 = 主要权威；2 = 优质媒体；1 = 其他
@@ -87,6 +89,9 @@ def norm_text(s):
 
 def rss_url(q):
     return f"https://news.google.com/rss/search?q={quote(q)}&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+
+def google_topic_url(topic):
+    return f"https://news.google.com/rss/headlines/section/topic/{topic}?hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
 
 def parse_source(title,fallback="新闻来源"):
     if " - " in title:
@@ -169,21 +174,41 @@ def image_from_xml_item(item):
             return html.unescape(m.group(1))
     return ""
 
+def bing_html_thumbnail(title):
+    try:
+        q=quote('"'+title[:72]+'"')
+        r=requests.get(f"https://www.bing.com/news/search?q={q}&setlang=zh-cn",headers=UA,timeout=6)
+        if r.status_code>=400:return ""
+        text=html.unescape(r.text)
+        pats=[
+            r'(https://th\.bing\.com/th\?id=[^"\'<> ]+)',
+            r'"thumbnailUrl"\s*:\s*"(https:[^"\]+)',
+            r'(https://[^"\'<> ]+\.mm\.bing\.net/[^"\'<> ]+)'
+        ]
+        for pat in pats:
+            m=re.search(pat,text,re.I)
+            if m:
+                u=html.unescape(m.group(1)).replace('\\u0026','&').replace('\\/','/')
+                if u.startswith('http'):return u
+    except Exception:
+        pass
+    return ""
+
 def bing_news_details(title):
     try:
         query=title[:80]
         url=f"https://www.bing.com/news/search?q={quote(query)}&format=rss&setlang=zh-cn"
         r=requests.get(url,headers=UA,timeout=6)
-        if r.status_code>=400:return "",""
+        if r.status_code>=400:return bing_html_thumbnail(title),""
         root=ET.fromstring(r.content)
         target=norm_text(title)
         best=None; best_ratio=0
-        for item in root.findall(".//item")[:6]:
+        for item in root.findall(".//item")[:8]:
             t=clean(item.findtext("title") or "")
             ratio=SequenceMatcher(None,target,norm_text(t)).ratio() if t else 0
             if ratio>best_ratio:
                 best_ratio=ratio; best=item
-        if best is None or best_ratio<0.40:return "",""
+        if best is None or best_ratio<0.34:return bing_html_thumbnail(title),""
         img=image_from_xml_item(best)
         desc=clean(best.findtext("description") or "")
         if desc and len(desc)>150: desc=desc[:147].rstrip()+"…"
@@ -191,9 +216,10 @@ def bing_news_details(title):
         if not img:
             link=clean(best.findtext("link") or "")
             if link: img=og_image(link)
+        if not img: img=bing_html_thumbnail(title)
         return img,desc
     except Exception:
-        return "",""
+        return bing_html_thumbnail(title),""
 
 def recency_bonus(iso):
     try:
@@ -224,36 +250,46 @@ def importance_score(key,item):
     if len(title)>85: score-=4
     return score
 
+def feed_sources(key):
+    out=[]
+    if key in TOPIC_FEEDS:
+        out.append((google_topic_url(TOPIC_FEEDS[key]),5))
+    out.append((rss_url(QUERIES[key]),0))
+    if key=="china":
+        for q in ("site:news.cn when:1d","site:gov.cn when:1d","site:people.com.cn when:1d","site:cctv.com when:1d","site:chinanews.com.cn when:1d"):
+            out.append((rss_url(q),7))
+    elif key=="world":
+        for q in ("site:reuters.com world when:1d","site:apnews.com world when:1d","site:bbc.com world when:1d"):
+            out.append((rss_url(q),5))
+    return out
+
 def fetch_section(key):
-    feed=feedparser.parse(rss_url(QUERIES[key]))
-    rows=[]; seen=set()
-    for e in feed.entries[:100]:
-        title,source=parse_source(clean(e.get("title","")))
-        norm=norm_text(title)
-        if not title or norm in seen: continue
-        seen.add(norm)
-        pp=e.get("published_parsed")
-        dt=datetime.fromtimestamp(time.mktime(pp),timezone.utc).astimezone(TZ) if pp else NOW
-        tier=source_tier(source)
-        hot=any(w in title for w in HOT)
-        item={
-            "category":{"china":"国内","world":"国际","finance":"财经","tech":"科技","society":"社会","ai":"AI"}[key],
-            "title":title,
-            "summary":entry_summary(e,title),
-            "source":source,
-            "published_at":dt.isoformat(),
-            "url":e.get("link","") or "",
-            "image_url":entry_image(e),
-            "hot":hot,
-            "verified":tier>=3,
-            "_tier":tier
-        }
-        item["_score"]=importance_score(key,item)
-        rows.append(item)
+    best={}
+    for url,feed_bonus in feed_sources(key):
+        feed=feedparser.parse(url)
+        for e in feed.entries[:90]:
+            title,source=parse_source(clean(e.get("title","")))
+            norm=norm_text(title)
+            if not title or not norm:continue
+            pp=e.get("published_parsed")
+            dt=datetime.fromtimestamp(time.mktime(pp),timezone.utc).astimezone(TZ) if pp else NOW
+            tier=source_tier(source)
+            hot=any(w in title for w in HOT)
+            item={
+                "category":{"china":"国内","world":"国际","finance":"财经","tech":"科技","society":"社会","ai":"AI"}[key],
+                "title":title,"summary":entry_summary(e,title),"source":source,
+                "published_at":dt.isoformat(),"url":e.get("link","") or "",
+                "image_url":entry_image(e),"hot":hot,"verified":tier>=3,
+                "_tier":tier,"_feed_bonus":feed_bonus
+            }
+            item["_score"]=importance_score(key,item)+feed_bonus
+            prev=best.get(norm)
+            if prev is None or (item["_score"],item["_tier"],item["published_at"])>(prev["_score"],prev["_tier"],prev["published_at"]):
+                best[norm]=item
+    rows=list(best.values())
     rows.sort(key=lambda x:(x["_score"],x["_tier"],x["published_at"]),reverse=True)
     clean_rows=[x for x in rows if not any(w in x["title"] for w in CLICKBAIT)]
-    if len(clean_rows)>=LIMITS[key]:
-        rows=clean_rows
+    if len(clean_rows)>=LIMITS[key]: rows=clean_rows
     return rows[:LIMITS[key]]
 
 def enrich_one(item):
@@ -314,38 +350,75 @@ def choose_unique(candidates,used):
             return item
     return None
 
+TOP_BLOCK=["新书","研究会","会员代表大会","时装周","圆满举办","宣传周","宣传月","启动仪式","限时优惠","现金激励","ETF","减持","质押","保荐","违规被罚","实干样本","品牌活动","视频"]
+TOP_MAJOR={
+    "china":["中共中央","中央政治局","国务院","全国人大","全国政协","央行","人民银行","财政部","发改委","国家统计局","商务部","外交部","国防部","降准","降息","人民币","GDP","CPI","PPI","外贸","就业","社保","医保","养老金","房地产","楼市","高考","台风","地震","暴雨","洪涝","事故","伤亡","应急","国家主席","总书记"],
+    "world":["战争","冲突","停火","制裁","大选","选举","美联储","特朗普","普京","泽连斯基","联合国","北约","地震","海啸","袭击","导弹","关税","油价","核武","政变"],
+    "finance":["央行","人民银行","降准","降息","利率","人民币","财政部","A股","港股","GDP","CPI","PPI","外贸","出口","美联储","黄金","原油","暴跌","暴涨"],
+    "tech":["芯片","半导体","机器人","航天","卫星","量子","突破","国产","出口管制","制裁"],
+    "society":["地震","台风","暴雨","洪涝","事故","伤亡","失联","救援","食品安全","高考","就业","医保","社保"],
+    "ai":["OpenAI","DeepSeek","Claude","Gemini","大模型","AGI","开源","智能体","监管","芯片","融资","并购","智谱","通义","豆包"]
+}
+
+def is_top_candidate(key,item,strict=True):
+    title=item["title"]
+    if any(w in title for w in CLICKBAIT+TOP_BLOCK):return False
+    if item.get("_tier",1)<2:return False
+    if strict and not any(w.lower() in title.lower() for w in TOP_MAJOR[key]):return False
+    return True
+
 def build_top5(sections):
-    used=set(); out=[]
-    china=[x for x in sections["china"] if x["_tier"]>=2 and x["_score"]>=8]
-    if len(china)<3: china=sections["china"]
+    used=set(); chosen=[]
+    def take(key,strict=True):
+        for x in sections[key]:
+            n=norm_text(x["title"])
+            if n in used:continue
+            if is_top_candidate(key,x,strict):
+                used.add(n); chosen.append((key,x)); return True
+        return False
+    # 中国为主：优先三条真正有全国性/民生影响的重要国内新闻。
     for _ in range(3):
-        item=choose_unique(china,used)
-        if item: out.append(("china",item))
-    world=[x for x in sections["world"] if x["_tier"]>=2 and x["_score"]>=8]
-    if not world: world=sections["world"]
-    item=choose_unique(world,used)
-    if item: out.append(("world",item))
+        if not take("china",True): take("china",False)
+    # 全球只保留一条最值得关注的头条。
+    if not take("world",True): take("world",False)
+    # 最后一条在财经、AI、科技、社会中择优。
     flex=[]
     for k in ("finance","ai","tech","society"):
         for x in sections[k]:
-            flex.append((x["_score"]+(1 if k in ("finance","ai") else 0),k,x))
+            if is_top_candidate(k,x,True):
+                flex.append((x["_score"]+(2 if k in ("finance","ai") else 0),k,x))
     flex.sort(key=lambda z:(z[0],z[2]["_tier"],z[2]["published_at"]),reverse=True)
     for _,k,x in flex:
         n=norm_text(x["title"])
         if n not in used:
-            used.add(n); out.append((k,x)); break
-    if len(out)<5:
+            used.add(n); chosen.append((k,x)); break
+    if len(chosen)<5:
         pool=[]
-        for k,items in sections.items():
-            for x in items: pool.append((x["_score"],k,x))
+        for k in ("finance","ai","tech","society","china","world"):
+            for x in sections[k]:
+                if is_top_candidate(k,x,False):pool.append((x["_score"],k,x))
         pool.sort(key=lambda z:(z[0],z[2]["_tier"],z[2]["published_at"]),reverse=True)
         for _,k,x in pool:
             n=norm_text(x["title"])
             if n in used:continue
-            used.add(n); out.append((k,x))
-            if len(out)>=5:break
-    out.sort(key=lambda z:(z[1]["_score"]+(3 if z[0]=="china" else 0),z[1]["_tier"],z[1]["published_at"]),reverse=True)
-    return [pack_top(k,x) for k,x in out[:5]]
+            used.add(n); chosen.append((k,x))
+            if len(chosen)>=5:break
+    # 国内同类政策报道去重，避免一件事占两席。
+    final=[]
+    for k,x in chosen:
+        duplicate=False
+        nx=set(re.findall(r'[\u4e00-\u9fff]{2,}',x["title"]))
+        for _,y in final:
+            ny=set(re.findall(r'[\u4e00-\u9fff]{2,}',y["title"]))
+            if nx and ny and len(nx & ny)>=2:
+                duplicate=True; break
+        if not duplicate:final.append((k,x))
+    if len(final)<5:
+        for k,x in chosen:
+            if (k,x) not in final:final.append((k,x))
+            if len(final)>=5:break
+    final.sort(key=lambda z:(z[1]["_score"]+(4 if z[0]=="china" else 0),z[1]["_tier"],z[1]["published_at"]),reverse=True)
+    return [pack_top(k,x) for k,x in final[:5]]
 
 MARKETS=[
     ("黄金","GC=F","USD/oz"),
