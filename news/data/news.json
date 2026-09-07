@@ -1,16 +1,7 @@
 {
-  "updated_at": "2026-09-07T14:50:20.218965+08:00",
-  "markets_updated_at": "2026-09-07T14:50:20.218965+08:00",
+  "updated_at": "2026-09-07T14:54:27.383848+08:00",
+  "markets_updated_at": "2026-09-07T14:54:27.383848+08:00",
   "top5": [
-    {
-      "title": "新华社消息丨第二届习近平文化思想国际学术研讨会在深圳举行",
-      "why_it_matters": "与国内政策、经济或民生直接相关。",
-      "category": "国内",
-      "source": "新华网",
-      "published_at": "2026-09-06T22:24:14+08:00",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb2l4RFAtZjNXeDVpRmhreDJfc3ZQUDNxeEE4SlIzTmxuWDIwd3g4b2d2Zmd6czdacG9xbmpxUHBVY3F4UXVZWXlaMldnclBNS1pzemNmc19WVkhLLV9DRHA1QTdqRzFZTzZoanNUbm5JU2xub3FCOGlKOTRHWHVKclRscw?oc=5",
-      "image_url": ""
-    },
     {
       "title": "3000亿！财政部密集注资银行、保险公司，释放重要信号",
       "why_it_matters": "属于国家层面的政策或治理信息，可能影响后续经济和民生安排。",
@@ -21,30 +12,39 @@
       "image_url": ""
     },
     {
-      "title": "闽台青年创业就业研学交流活动在福州举办",
-      "why_it_matters": "与国内政策、经济或民生直接相关。",
+      "title": "全国人大常委会海南自由贸易港法执法检查组举行第二次全体会议",
+      "why_it_matters": "属于国家层面的政策或治理信息，可能影响后续经济和民生安排。",
       "category": "国内",
-      "source": "央视网",
-      "published_at": "2026-09-07T10:28:29+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tMXExajlpTi1CVmZ6a3hmZEc2bmhscG5veHhEdnFkaE56UVl3dHM4YURVMkNJTnRFVDh5Z3FnQ0lmQ201aGJUWW1kbmkxQ0o3SzFxTXBZZjBxbGNkVGx1bG8zNmJ3UVhUSVFhWDRSeU1oRnpmQ1R4a1Nn?oc=5",
-      "image_url": ""
-    },
-    {
-      "title": "“县人民政府”写成“县人民币政府”，“新能源”写成“新熊源”？紫金矿业道歉",
-      "why_it_matters": "可能影响利率、人民币、楼市及资本市场预期。",
-      "category": "国内",
-      "source": "央视网",
-      "published_at": "2026-09-07T10:27:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rZGt3MXJvNHFPQndUSXBuemxrS3B1YlRGR3oxZWhZS0NfNllQZ1NSNGNWc1NUS3RFeFliVjhzX1hzckVUNE1DczF4YThwSzFvQmxzMXlxM0xtOFdsS3Z1NkZqdTJ5MUJ2RzZrZmpTRkoxZlpFdHhEcnlBaEM?oc=5",
-      "image_url": ""
-    },
-    {
-      "title": "人民币市场汇价（9月7日）",
-      "why_it_matters": "可能影响利率、人民币、楼市及资本市场预期。",
-      "category": "财经",
       "source": "新华网",
-      "published_at": "2026-09-07T10:02:46+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQzdGdTFfN21fb1VySnJhaFlKMWxxb2ViNTc1bmxwNFZZTFRmRmdWbHZfUWx6R2NRZzBNUUJJTVNQLXVuTkpZREpad3R4d0hiRi0wT1dlNFpiVnh1WHFaYzkwYmtDd29WMGczV1JnZFFSUWRyY0lkdFFFdUJYSVh5T0xCTmo1XzZU?oc=5",
+      "published_at": "2026-09-07T12:16:55+08:00",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMVF1cWg1X3FicVI4UW9hdm9Ea1g5cExEZW9POFE5REVGaXpQTXFGdERWRmJJaHFfOEtPMDU0S2xGWUFZQnA2SFFSSUxtVkNmMklDVUFRODRBVDltcUpYbjdDTDVmMUxnNjEyNHhNcmpnQ2tyNDZXa1c5SkJ3Y1ZvbjJKSQ?oc=5",
+      "image_url": ""
+    },
+    {
+      "title": "听鉴世界｜中东冲突推高美国油价 居民生活成本增加",
+      "why_it_matters": "属于全球头条级事件，可能影响国际局势、能源价格或全球市场。",
+      "category": "国际",
+      "source": "国际在线",
+      "published_at": "2026-09-07T11:37:44+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4cjZsMTdRd3RteWRMRlQ3M2xtX3ByRXJwQlc2RnItUUlzWU9jaUc2QVFlR2VSdW1SWnlaLUpDeUxxc0ZiRkJKSnhzMXB2NzFTZVZYRVdEUTJicDRScmludTl4Smtyb2tscDN6TUxJT2pvWFFSLWtWeE5B?oc=5",
+      "image_url": ""
+    },
+    {
+      "title": "AI消防救援创新大赛决赛在广西南宁启幕",
+      "why_it_matters": "与国内民生和公共服务直接相关。",
+      "category": "社会",
+      "source": "新华网",
+      "published_at": "2026-09-06T09:08:03+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNR2NPMk5FMmlTVTNvMXpYTW5yZDQwMV8wRjdJaXpra1BWdjBUSEliTHlCbkpOb3Q4SnRyTE9jOEpJakhvV1ZCZmNfMU91al94aUI0RVJTT3FLYVNCT1Ntb09JTWoxQWdsaVZSYXpJeFJSZXl5ZDNOV28zWTd6NS1NSVR3?oc=5",
+      "image_url": ""
+    },
+    {
+      "title": "黄仁勋：AGI已到来！OpenAI Astra背后是英伟达，40万张GPU即将上线",
+      "why_it_matters": "属于AI模型、产品或监管的重要变化，可能影响行业竞争格局。",
+      "category": "AI",
+      "source": "华尔街见闻",
+      "published_at": "2026-09-07T14:05:58+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jT0Y1UnZ3MVVVVVJabk9GY0pNbkN3WHRmeHhvcThtN0tQYXQ0WWV2Wl9CSkhCSS0wVzJXcjFXM2tEd1JTV0p0bVNaQ3RmN0pJRUI4?oc=5",
       "image_url": ""
     }
   ],
@@ -59,8 +59,7 @@
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb2l4RFAtZjNXeDVpRmhreDJfc3ZQUDNxeEE4SlIzTmxuWDIwd3g4b2d2Zmd6czdacG9xbmpxUHBVY3F4UXVZWXlaMldnclBNS1pzemNmc19WVkhLLV9DRHA1QTdqRzFZTzZoanNUbm5JU2xub3FCOGlKOTRHWHVKclRscw?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": true,
-        "_feed_bonus": 7
+        "verified": true
       },
       {
         "category": "国内",
@@ -71,8 +70,7 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYN3doTDl2X3Y0Ni1MWVpjYzMyTWZjMmZXaFFROERkUk5lalFIdnk0ZzQwdnNza1dGbmtwZ1R6ZHpsQmxXaGR2Q0ZfWVdvNlhMbVN4azI4d2YwalJqNzdnRnZ6dE1QSmYwc2tKN1Bob2x0VVVKVEhVR1lDVjU?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": true,
-        "_feed_bonus": 7
+        "verified": true
       },
       {
         "category": "国内",
@@ -83,8 +81,7 @@
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tMXExajlpTi1CVmZ6a3hmZEc2bmhscG5veHhEdnFkaE56UVl3dHM4YURVMkNJTnRFVDh5Z3FnQ0lmQ201aGJUWW1kbmkxQ0o3SzFxTXBZZjBxbGNkVGx1bG8zNmJ3UVhUSVFhWDRSeU1oRnpmQ1R4a1Nn?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": true,
-        "_feed_bonus": 7
+        "verified": true
       },
       {
         "category": "国内",
@@ -95,20 +92,18 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rZGt3MXJvNHFPQndUSXBuemxrS3B1YlRGR3oxZWhZS0NfNllQZ1NSNGNWc1NUS3RFeFliVjhzX1hzckVUNE1DczF4YThwSzFvQmxzMXlxM0xtOFdsS3Z1NkZqdTJ5MUJ2RzZrZmpTRkoxZlpFdHhEcnlBaEM?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": true,
-        "_feed_bonus": 7
+        "verified": true
       },
       {
         "category": "国内",
         "title": "全国人大常委会海南自由贸易港法执法检查组举行第二次全体会议",
         "summary": "",
         "source": "新华网",
-        "published_at": "2026-09-07T12:16:54+08:00",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlNGhVTm9fOFpSSklUTmpXazBfRVBQbVVwS2d1NXNGOXZFWDFoZk1saFhjRmVhdlFGdUkzR2pFbFRrdDU0TlF4a3Ywdmdycm9VSHdkQWtReGYySTRieU1VTnB1YWUzZlZTUHFRVnUtTmZtYkl6WHZJbHJpSElGdw?oc=5",
+        "published_at": "2026-09-07T12:16:55+08:00",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMVF1cWg1X3FicVI4UW9hdm9Ea1g5cExEZW9POFE5REVGaXpQTXFGdERWRmJJaHFfOEtPMDU0S2xGWUFZQnA2SFFSSUxtVkNmMklDVUFRODRBVDltcUpYbjdDTDVmMUxnNjEyNHhNcmpnQ2tyNDZXa1c5SkJ3Y1ZvbjJKSQ?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": true,
-        "_feed_bonus": 5
+        "verified": true
       },
       {
         "category": "国内",
@@ -119,20 +114,7 @@
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DWDZFY05wZUFaZ3A0Si1vWDJBUU44WDh0X0owRHV0eVVzNExodHNodjBCUlRRcFpLRm9DTTIxM1pQaWpZcVFzSHhiOFlZUGd1QmpSMG84dDRvdW9MT1pKQzYwcTZnV2FiNzloeFM1VUFMLUYxZ0M4Ug?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": true,
-        "_feed_bonus": 7
-      },
-      {
-        "category": "国内",
-        "title": "教育部：我国将实施“教师发展国家行动”",
-        "summary": "",
-        "source": "央视网",
-        "published_at": "2026-09-07T12:17:17+08:00",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Kd3U0TFY2cnV0ZnBWdFkzbHFRR3dMWG9WVTVGbEgtYzBPQWl0c0xlLXRlREhVLXBBYXNkTkE4TEF4YWM2VUNGUE5UbVBIemZRREd3cktwU2NpV1BhQXVxOFFQQ0N6S3R2dzhfUncxcGRSbDRwS1FF?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "_feed_bonus": 7
+        "verified": true
       },
       {
         "category": "国内",
@@ -143,8 +125,7 @@
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKaUY2aGIxY3V4U0gwQ19kcFFMTzhVQ2l1QVAtNXNDcHFYaFl5QzI3S3J1SmJUSzZ1aXZMRUpHTlRTek1IZG1wSHFDY05oWEE4N3F0U3hodU9oRUZ1U0ZURV9YR2x2RllpX1VVNlAzeElIQ0RndmhTZw?oc=5",
         "image_url": "",
         "hot": true,
-        "verified": true,
-        "_feed_bonus": 7
+        "verified": true
       },
       {
         "category": "国内",
@@ -155,8 +136,18 @@
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4WWJuTTVKc2lWd2RIOXNxeDIzXzdEamJHbV9MSnUtT1JYODBSX2FreDZSUm9XbHJZM3hEZGd3Zmh1bkRvaExxR0lzZllmcWM5ZTU3b0FsT2MxTUZudDRLYTJKbnFWWksxNUJKZHBZajBybFJ4RjZkRw?oc=5",
         "image_url": "",
         "hot": true,
-        "verified": true,
-        "_feed_bonus": 7
+        "verified": true
+      },
+      {
+        "category": "国内",
+        "title": "530.4公斤！杂交水稻大面积超高产制种亩产创新高",
+        "summary": "",
+        "source": "央视网",
+        "published_at": "2026-09-07T14:35:14+08:00",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GR0haZnlYMlNDYlVuV0l2ZWROTk9LeWhOUk9LQXA3a1dQUEM1akJsYXRMalRwazgtUmxPYkFuWjRackNGZk5LSTNiYWJRSF9wZ0s2THFpR3FUNUpsck5yVnduVVhNODFuM0t5WHhtN09tajRpQ1hZYw?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true
       },
       {
         "category": "国内",
@@ -167,8 +158,7 @@
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qUkZEUE42eXlONFdHQWFyTHl5MG9ZY0FPRnkwZHhZZGNWdlZDM1JZNWFsSVMxVFloeXR3THE4RlJWbHB0eTNBRGViTHU4RXdZMEN4U3MycXlCUTNmWU1Tb0lrZGNOaUJQWHR6ZVZQT2pyU2psN1E?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": true,
-        "_feed_bonus": 7
+        "verified": true
       },
       {
         "category": "国内",
@@ -179,20 +169,7 @@
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNemJtaHFqaW5odmhrSW5vNFBXWlpwTUtxajFXUlVlWUE1Qkl1Y0VwbENoQ3J2VEw0aEljeGkxcTJ6REFZT3ROc1BJdHRVSElHeEtJMmJVbzBMSUgxZnBTYU1RRzJPamUxTTdpN25qX2N6MEY5Y0o2elJCTWwtLWZ5X2hlbTVoQQ?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": true,
-        "_feed_bonus": 7
-      },
-      {
-        "category": "国内",
-        "title": "星宇股份发布通报 总经理等4名管理人员被处理",
-        "summary": "",
-        "source": "央视网",
-        "published_at": "2026-09-07T14:15:21+08:00",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80RDFwTG5lRC1odUZGZ3dYVXd6bHFjVGR3c3U1TWl0Y19oWEt3ODFINHVJam5zUUcxSlU1LVZnbThkM3h4SXhvamZLa2JaTUNCVlhfRnFNZlJwVEZtNEcyZzdXS0RmandOOW5teC1XbDB2OVdsbFFqNA?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "_feed_bonus": 7
+        "verified": true
       },
       {
         "category": "国内",
@@ -203,83 +180,32 @@
         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYldwNTNHbVhSX0paQmhmeFl5YzVZZkQ4elJaQjZhZF95TTRKZEh6NUJxN1l0ZW1uUnNlZmtyTnJ4X1N0QmprbmswR3B4Mm5rVHBYeThIdHY0SDl2d2RYbUJmeXdlYUhJVDE1c0g1TFFQOFlTVlAyNktaZUo1ajlwWEdhd2pRQQ?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": true,
-        "_feed_bonus": 7
+        "verified": true
       },
       {
         "category": "国内",
-        "title": "中国男排3-0新西兰男排 两连胜提前晋级亚锦赛八强",
+        "title": "市场监管总局：以标准提升引领历史经典产业优化升级",
         "summary": "",
-        "source": "央视网体育",
-        "published_at": "2026-09-07T14:07:35+08:00",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jVy1YbWwxQkE2LWh3ZXgwZjJvS08wRlR1a0IxYVppQ08wSnUxendlMXJHUlAtVGpTa1UzNXUxeG9hMWkxZ0Exb2kydUdSdUgzZEh5R29yemw2bndsU0VFbHI2MGVsNG82alZ2enE3V1R4UjVGeTFpTlJTdw?oc=5",
+        "source": "新华网",
+        "published_at": "2026-09-07T13:56:16+08:00",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN0UwaDBVOFp4eG1GNmJ3TGdocm44aWdQelVPbFphbEtBQW8xVTZ4ZHg5RDhBejc5RVY2Z2E1bC1YSlN3ZGh4aS1jTktYQ2pBVzJvWlFTZ2h3R2EwQmxKZDVfa1NIQkZPaUk3YkhQLXFFT1Z1amo5aDIwS2lHTUxwRklmVQ?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": true,
-        "_feed_bonus": 7
+        "verified": true
+      },
+      {
+        "category": "国内",
+        "title": "秀我中国丨白露：露凝而白，秋意渐浓",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-09-07T13:53:38+08:00",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZUZsbl8xMmlvSUt6dUx5T3FYdFJLNDVPbnF2Q2NyUE4yT2JGNmJlZFJsM0hKYmVQaVJSbV9xa3ZBeFJaRW4yaUxYRTFfMnlpR09nSWtzcm1FcGtCVDZQcXExMlYzc0R5blpYR1hpU3dVU2tvMGJwTV9jZzNYRHNHTVV1aw?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true
       }
     ],
     "world": [
-      {
-        "category": "国际",
-        "title": "特朗普派人找普京，不是为了结束俄乌战争",
-        "summary": "",
-        "source": "user.guancha.cn",
-        "published_at": "2026-09-07T08:53:28+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5adnU1SHdxaVBsLVZZSWxkQ3hvUmhhb2JZaE5JTFV1OTBnc2JrRWJJYzRmN0xEMm9zbzBEelJuMFlSZmRma0QyQTE4RDh1Uy1ZZ0RQVmoxYVVwN2c?oc=5",
-        "image_url": "",
-        "hot": true,
-        "verified": false,
-        "_feed_bonus": 0
-      },
-      {
-        "category": "国际",
-        "title": "美军击沉三艘伊朗油轮后油价冲高，金价一度失守4400，霍尔木兹海峡冲突升级推升供应风险",
-        "summary": "",
-        "source": "新浪网",
-        "published_at": "2026-09-07T11:44:56+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdWtwRHo5eFJmME4xa2VqQzQ0ajloT3Ffanl3WmVCbDgyaVAzRDFSVFdyNmp6V3VtTEJaanZzYmdOVzB0Nmdpa21ZNXlkVVVENDBSeVZaeW5YcWt2MHJWMzJKeU5zcXZ3Wk5oZE9Ha0NoZWc5eExxYzhlSHkxdUk0aGxn?oc=5",
-        "image_url": "",
-        "hot": true,
-        "verified": false,
-        "_feed_bonus": 5
-      },
-      {
-        "category": "国际",
-        "title": "国际油价拉升，比特币涨破8万美元，伊朗称将宣布霍尔木兹海峡“禁区”，俄乌短暂停火",
-        "summary": "",
-        "source": "东方财富",
-        "published_at": "2026-09-07T07:26:56+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3QzNWTDVkTVMyNDNBTlVjYzFobW9ydWlpTlM1eXpEWldCckhIbE9wUUpLaS1xNGZjZ2dMd1RkYjRYMExieDVaaDVwajBfd2pqQ0lhanlkZkNxaGRpQ0RqYg?oc=5",
-        "image_url": "",
-        "hot": true,
-        "verified": false,
-        "_feed_bonus": 5
-      },
-      {
-        "category": "国际",
-        "title": "为何普京的伙伴们开始就战争问题向他发难",
-        "summary": "",
-        "source": "cn.wsj.com",
-        "published_at": "2026-09-07T10:24:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPbTdOT1Qza2dxMk9yMzUwTHhUYzBXbGZadTFaNU5IWUZERE5ua0ozVTY3bk9ha3JqdkR2T0FTMjdBZXZ3eXNxOEV2QmNoWWtXVGl3UHdTN0tMNUFPdHhJdHJMT0x3SjFkUnlMVkJtVmQwMUswdTlvaHYtX29JV29jZkw1V2tlWDRkeFAzUXd1cUV2TWFPSldYYmg4X0tEXzdOeGQ2S0JlZmtDeXZhTE9HOW91RnZIcXowM29rQ2hKTHh6cXkyZTBkMExjWkM4Yk9tWnk5RXZNN0lsd2Ryd0pRUmZ5WWVVSmJwU0thNzJicUpzZy05RnZOMHdONFFjdW5UQXFjeVJ6MVFudzNzSmhrdjFOaC1aSmNoQ3htWDF2X0J1cFg3TEJXeFlrS0dRM0pURUE?oc=5",
-        "image_url": "",
-        "hot": true,
-        "verified": false,
-        "_feed_bonus": 0
-      },
-      {
-        "category": "国际",
-        "title": "特朗普对加拿大举起关税大棒，高志凯深度分析其影响",
-        "summary": "",
-        "source": "观察者网",
-        "published_at": "2026-09-07T12:45:11+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wX3d1UkN2aEpQNUNJMHRKMERWV2x2aW5jbWhXbWlVbTl0N2pWalhtajRDQ2xhdzU0ZWNyM0NiUnhuZkRyQ3dFRFJ4dVRXNlhSWlI4QU1QamV2T1BzSDhwWEJTNVU4VDNReXc?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "_feed_bonus": 5
-      },
       {
         "category": "国际",
         "title": "听鉴世界｜中东冲突推高美国油价 居民生活成本增加",
@@ -289,8 +215,51 @@
         "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4cjZsMTdRd3RteWRMRlQ3M2xtX3ByRXJwQlc2RnItUUlzWU9jaUc2QVFlR2VSdW1SWnlaLUpDeUxxc0ZiRkJKSnhzMXB2NzFTZVZYRVdEUTJicDRScmludTl4Smtyb2tscDN6TUxJT2pvWFFSLWtWeE5B?oc=5",
         "image_url": "",
         "hot": true,
-        "verified": false,
-        "_feed_bonus": 0
+        "verified": true
+      },
+      {
+        "category": "国际",
+        "title": "特朗普派人找普京，不是为了结束俄乌战争",
+        "summary": "",
+        "source": "风闻",
+        "published_at": "2026-09-07T08:53:28+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5adnU1SHdxaVBsLVZZSWxkQ3hvUmhhb2JZaE5JTFV1OTBnc2JrRWJJYzRmN0xEMm9zbzBEelJuMFlSZmRma0QyQTE4RDh1Uy1ZZ0RQVmoxYVVwN2c?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false
+      },
+      {
+        "category": "国际",
+        "title": "美军击沉三艘伊朗油轮后油价冲高，金价一度失守4400，霍尔木兹海峡冲突升级推升供应风险",
+        "summary": "",
+        "source": "新浪财经",
+        "published_at": "2026-09-07T11:44:56+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdWtwRHo5eFJmME4xa2VqQzQ0ajloT3Ffanl3WmVCbDgyaVAzRDFSVFdyNmp6V3VtTEJaanZzYmdOVzB0Nmdpa21ZNXlkVVVENDBSeVZaeW5YcWt2MHJWMzJKeU5zcXZ3Wk5oZE9Ha0NoZWc5eExxYzhlSHkxdUk0aGxn?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false
+      },
+      {
+        "category": "国际",
+        "title": "一财主播说 | 伊朗要在海峡外围划禁区 国际油价还要涨？",
+        "summary": "",
+        "source": "第一财经",
+        "published_at": "2026-09-07T14:27:53+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54b1NVQ29IQXpwY1B4em0yUTdUZkdOV0d3RmFKUUd5VXlma05kUUVOVFlHUkVKdHZoa1I4aVNrY3hCSHA5azRfZjdJSUdIY29IY2c?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true
+      },
+      {
+        "category": "国际",
+        "title": "特朗普对加拿大举起关税大棒，高志凯深度分析其影响",
+        "summary": "",
+        "source": "观察者",
+        "published_at": "2026-09-07T12:45:11+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wX3d1UkN2aEpQNUNJMHRKMERWV2x2aW5jbWhXbWlVbTl0N2pWalhtajRDQ2xhdzU0ZWNyM0NiUnhuZkRyQ3dFRFJ4dVRXNlhSWlI4QU1QamV2T1BzSDhwWEJTNVU4VDNReXc?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
       },
       {
         "category": "国际",
@@ -301,8 +270,18 @@
         "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ycWVXOW1oRE5TcjV4UF8tSklUSHpZejBkRG42SllPUHlhTVVyUDF3aEFFQVAta1B6aFhHZlQtd3EzVG0yZm0tQkVFQ1dTMThRV2lRLTN0UkR0RkE?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": false,
-        "_feed_bonus": 0
+        "verified": false
+      },
+      {
+        "category": "国际",
+        "title": "伊朗议长：对伊侵犯将遭到更迅速和更猛烈的回应",
+        "summary": "",
+        "source": "新华网客户端",
+        "published_at": "2026-09-07T13:45:27+08:00",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSkRfb0FXaS1wSkNMZTBxNFNlTktGclNIamFhcEc2cVRlcWF3TGFMOC1Zd3lQVEVWUXhyOGQ0NzhTZUFfcklfV25oM0ltLUljQzQ1NVcyT1Qxanp5OEhIYnpjRzlUUDZFSWRtZVBoWkphcUpVd3YtbnZhTUNGal9iSzVHc3ktMzljSDVBNnhoZm9fMFJ4eS15TlRR?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true
       },
       {
         "category": "国际",
@@ -313,8 +292,7 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQmE1Z2cxSy1IdkFQVnRqRXFqZ2VQWE1OYlBNeFhhaGVwVHVWaEpJR09QYmhVekVYNGlweHFYbjR0eXp0SV94QnZQUmR5cGVqT25iTXc1X09qRWxwMXBmdkR1NW5tcGZHZm5vUHBLSjNfVkNnNWZzcU12RkhCTUlHSEpUSU40VE1s?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": false,
-        "_feed_bonus": 0
+        "verified": false
       },
       {
         "category": "国际",
@@ -325,8 +303,7 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQczhQUHJsU0VHZHZmZl9uVTc2RGNRNUo0MVlNdTJPNmhKNmg5TEplMVRuZmVsMXcwb1d6NlVFMGhkUmJQeUY2c0FhUGNLSlItTjVJWUVfTm1BbWF4cnNPakpEOVV1M1Q1ZFYtRVhqZEZ6RnI1QVZJTEw1ZmdBZEFlelZYZ0UzOHlM?oc=5",
         "image_url": "",
         "hot": true,
-        "verified": false,
-        "_feed_bonus": 0
+        "verified": false
       }
     ],
     "finance": [
@@ -339,32 +316,51 @@
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaE8zR3lRMEFzallOclNpLXpXZ1h2VnJ3RW1yekc4VzNRRDhxVDZuSE9TN1NFSFg3LVd1dXAzQnZZN2xrQlJqQ3FhakZjVWxLTXVHQ3lYRHRab25pWmhVME9pSlFYdFhQZkRBbjBvWjV0clNJOTdxYTgtUFJySzd3ZXh3?oc=5",
         "image_url": "",
         "hot": true,
-        "verified": false,
-        "_feed_bonus": 0
+        "verified": false
       },
       {
         "category": "财经",
         "title": "人民币市场汇价（9月7日）",
-        "summary": "新华社北京9月7日电 中国外汇交易中心9月7日受权公布人民币对美元、欧元、日元、港元、英镑、澳元、新西兰元、新加坡元、瑞士法郎、加元、澳门元、林吉特、卢布、兰特、韩元、迪拉姆、里亚尔、福林、兹罗提、丹麦克朗、瑞典克朗、挪威克朗、里拉、墨西哥比索及泰铢的市场汇价。 100新西兰元 396.38人…",
+        "summary": "",
         "source": "新华网",
         "published_at": "2026-09-07T10:02:46+08:00",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQzdGdTFfN21fb1VySnJhaFlKMWxxb2ViNTc1bmxwNFZZTFRmRmdWbHZfUWx6R2NRZzBNUUJJTVNQLXVuTkpZREpad3R4d0hiRi0wT1dlNFpiVnh1WHFaYzkwYmtDd29WMGczV1JnZFFSUWRyY0lkdFFFdUJYSVh5T0xCTmo1XzZU?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": true,
-        "_feed_bonus": 5
+        "verified": true
+      },
+      {
+        "category": "财经",
+        "title": "韩国出口额破纪录",
+        "summary": "",
+        "source": "新华网客户端",
+        "published_at": "2026-09-06T13:24:17+08:00",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdHVRVThCdkQ2Q1N3ZWR6ODVHQTI0TlVYeTJnS0dUMUp4NU41SDB6TjRjLVFQd0g2TjNtZlIzNTBhSTF1SHh0NkJ2a2JYeF95Q0pXa0Ffek9sdG9Ub2dWdUM4eU5xWHJtRFFJMDl3czBLR0QtYWVXNjlVWi1kWHBGenVfSzJHYnNwYmJTcGtIajd5REFrdm1KdDJB?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true
       },
       {
         "category": "财经",
         "title": "中国央行：今日开展5亿元7天逆回购操作，投标量5亿元，中标量5亿元，操作利率为1.40%，与此前持平。",
         "summary": "",
-        "source": "新浪网",
+        "source": "新浪财经",
         "published_at": "2026-09-07T09:21:42+08:00",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SUW40QzVmc1R3Yks5emhpakotVUJOaU00NTJWdVpYcjZFREJEU1I5UmZyVzFHb2IzekRMUFd3N1hFZUlNWTZRUk84VQ?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": false,
-        "_feed_bonus": 0
+        "verified": false
+      },
+      {
+        "category": "财经",
+        "title": "本周重磅日程：中美CPI、苹果折叠屏iPhone首秀、甲骨文财报、欧央行决议",
+        "summary": "",
+        "source": "华尔街见闻",
+        "published_at": "2026-09-06T19:54:59+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10NU1RS2VFcDh4WHl0d044NVBzZ3haTFJ6LWhmZVY1dlFIUFdIbDlZV2d2RklqSGNpXzdxQWhUU2xNSnZWd3hQcDg0X1dCSV9qTlpR?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
       },
       {
         "category": "财经",
@@ -375,8 +371,7 @@
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQalMtdE8xWlI2cDBrRmxVUTFIdUY2UEVJejkyc1lyNmxkNmxYT2tudmV0TlBrcTR2SUZNQ0FuS05zbkFzNFE2eEhRajNyOXNvZ3pmaExqci1XdFdpSkdDVGt6ekJTLXZRMUVlemtZUklBNjVGRFFWSklfMlhGYzJWTEdUWjZKTm5Z?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": true,
-        "_feed_bonus": 5
+        "verified": true
       },
       {
         "category": "财经",
@@ -387,8 +382,7 @@
         "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YaFh0MU9ycF9maDBJLWFOVnBST2VLeXpfNXdOOEsxZHhQOHp6T2E2eVJVUG9wb1ZNazZpendpdno0QjVmVEVGTzd4bEhsMXZMWFdCMl9VeHZXTUliNXp1eWRCU2V0UdIBa0FVX3lxTE5ZVXQwZE9zY3ZnMERFM252QkF6RnFadGI3V0FjYkRNTlNsTjZuUWhQM3JUc0dDVi1ibHpQSjhFRENja2dZdjQ3TmI1WFlCQ1I3OGFqc3U1Qy1GZHdnM0pOanFSeERPS1JYLU9n?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": true,
-        "_feed_bonus": 5
+        "verified": true
       },
       {
         "category": "财经",
@@ -399,8 +393,18 @@
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mM19wd1kyWjlLR1l1ZEE2Q3JVZ29OOWhLRG9RNTU0MkpGNjFOTzY2REtobXNWaEotZDY3c19MUm5GdUlKMUN0Xw?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": true,
-        "_feed_bonus": 0
+        "verified": true
+      },
+      {
+        "category": "财经",
+        "title": "记者手记丨从德国消费电子展看“中国智造”创新跃升",
+        "summary": "",
+        "source": "新华网客户端",
+        "published_at": "2026-09-07T11:05:21+08:00",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY29GT05zSGpiVXNUWFlaeTN3ZzM3VmNiOEZSaE4wQlJ5bkxwVW1jM0FjTmZkMDBjaDJGOUJhdFdDLUhUbVltZWw3MktiV2ZLeElacktuaFhuaUFlTVpHc3VCLWdZMl9oX1YzRnczWWJEY3AzcXkzT3JxYzVaRjFhenBFZWg1RUpaUENFcndCS1ozTWdReDNGc05B?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true
       },
       {
         "category": "财经",
@@ -411,83 +415,10 @@
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNblV5dmc5SWtmLW1tNkZ0QUpRcDdRY3ZVRmc3ZVhLLTV2Zl9pTlhWaGJBOHVSY3piZTNySTk4c0pmQWhSMDQzSHp3eVptckJBdHdlQnJMcktxT05QOEtLbDBFTFBkWXNhSXpKaVB3LWFUdlF2bDYzX3JoTjZqTU4xd0hsaG43VmQxR1Zodw?oc=5",
         "image_url": "http://www.bing.com/th?id=ONUT.LQ4GMxSdz_VIHrGlw2f_RA&pid=News",
         "hot": false,
-        "verified": true,
-        "_feed_bonus": 5
-      },
-      {
-        "category": "财经",
-        "title": "厦门聚首话科创：资本与科技双向奔赴 产业新动能加速成长",
-        "summary": "",
-        "source": "新华网",
-        "published_at": "2026-09-07T09:25:32+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSTRFSXlLTERtbTF4eXJPV3NGemxERWNKRUFCU0JwdlFySDRpaHhCTF9LT1U5eC1NLXp3dUVPcmhjMFBoZGF2UWhCZGQ5VjlvZTI1MG1HVXVXRC1PMEhIS2tzY284SXg0bEtxVFJScWN2MTlkTGo0Q1ZVcVlXcmZWWmdn?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "_feed_bonus": 5
-      },
-      {
-        "category": "财经",
-        "title": "研究称OpenAI智能体“劫持”网站开展“协作”",
-        "summary": "",
-        "source": "新华网",
-        "published_at": "2026-09-07T09:08:16+08:00",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA1ai1SSzliLU1NMVBwbEtFaWdzMDVGNGxDV05adlRGb2toQkRHSkUwUXlsTkNpVzVfUk5XZTlhcGpuanRJYm1zSnVRU3FhczV3VmVGTERfRGE3c1R0S1RJQ2RXcTdJYnZBRnU1WEdMV0Y0UDFzaGRMZk1wRU8?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "_feed_bonus": 5
-      },
-      {
-        "category": "财经",
-        "title": "应用场景多点落地 外骨骼产品商业化提速",
-        "summary": "",
-        "source": "新华网",
-        "published_at": "2026-09-07T09:02:54+08:00",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42Z3pNMGEyaUhfSHU5UTRocFdraFNuM1JuTkdwWnBuM3RXaUJqdG1GSGg1enZzOWEyYkkwNEp1VVpuVTNoR25aRVlWRjFlQk9VU1dUbHJaMFlKSlhfanc5b3RkVjlwankyMGtteDczN1VkMG5wU3lnQm5PSnBLUQ?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "_feed_bonus": 5
+        "verified": true
       }
     ],
     "tech": [
-      {
-        "category": "科技",
-        "title": "中国机器人在沙特LEAP科技展“圈粉”",
-        "summary": "",
-        "source": "新华网",
-        "published_at": "2026-09-07T08:53:53+08:00",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fTEJSQXhBQlQ5ZUxGa1NmMnU1TXhUM1RTc3l0YTJheXU1ZXRqc3RSNlptSWRUUEVYZERWUVJfVTVvSzROXzI5QkFsTEJFVnJxank2enp5UGtGRzVKYUVpVHlnMHJPQVRoWXJFWjY1XzJQUDR3YTRwelNTZm4?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "_feed_bonus": 0
-      },
-      {
-        "category": "科技",
-        "title": "人形机器人：AI 走进现实的桥梁，半导体技术驱动下一代机器人创新",
-        "summary": "",
-        "source": "t.cj.sina.cn",
-        "published_at": "2026-09-07T10:26:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoWHNtLW1pdVJkeUlxQnV5c0QtcW9WbWtuSEh2YXV3azJKRkVZQ1lSYTl6cXVvc2luSS1UTUd6Z3lqSGdXaHdIRmdoX3VmWTN2aDROSUhzUVJseU16eTh6OG1sX0VQNk1PS0hVejR6b0Q?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "_feed_bonus": 0
-      },
-      {
-        "category": "科技",
-        "title": "【科创之声】17亿块芯片的喜与忧",
-        "summary": "",
-        "source": "中国经济网",
-        "published_at": "2026-09-07T05:59:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01SE4tZm5yRWowLU8yUGoycjZOOU9KelNTS3dhSFlHTFpsTnZyMnAwMzdpTk11MUZBbW5KbDJ4UE5kY3ZUY2VNbnExX3pjd3Z1REJDSU14c1ZTalFPRVJJ?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "_feed_bonus": 0
-      },
       {
         "category": "科技",
         "title": "一家被列入黑名单的中国科技巨头如何继续购买美国芯片",
@@ -497,32 +428,7 @@
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KWk9kMGZGNXlFeWU5MUo0cFZhbW5iRmlqS0NFcVl2Vm52ZWpnOGVuOVM1d0xGYi1ZSHJLM3lBWERRUmdZX1JKYzloWDRaTnRKMnNfdk9GWmRWRERaWFA2ZXlZM25MRmo2enhYWFNFY3EzSTRoc1VN?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": false,
-        "_feed_bonus": 5
-      },
-      {
-        "category": "科技",
-        "title": "华为今日发布多款新品：Mata XT2有望搭韬定律的麒麟2026芯片",
-        "summary": "",
-        "source": "驱动之家",
-        "published_at": "2026-09-07T09:29:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OT3N4QVZ2ZHduTXVuT3BEM25MX0xITlhmblJsSVdTSUtzdkYzdU9nYldjSzJabjg2dU0wdDd5VEtPZjgwTVJ6X2tqT1IxMkpvSW1LcjJRSDg?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "_feed_bonus": 5
-      },
-      {
-        "category": "科技",
-        "title": "告别macOS！Asahi Linux官宣正式支持M3/M3 Pro/M3 Max芯片：但GPU还得等等",
-        "summary": "Linux 7.3为苹果M3 Pro/Max/Ultra带来初始支持，能开机但GPU仍是摆设。了解苹果芯片Linux支持现状，点此查看！ Linux内核开发者已提交针对苹果M3 Pro、M3 Max和M3 Ultra芯片的初始设备树支持，预计将在Linux 7.3版本的合并窗口中合入主线。 设…",
-        "source": "驱动之家",
-        "published_at": "2026-09-07T09:20:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kSm9DX283WXA3bnhZMGwxUmk2UGRpejVOQ1pRSWV3WTRRdmt5WXNnWHZTNG5IaFFIVW0zcHB3MktndzlERnhNY1NfYThLeW5iWGc2RWNKVzg?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "_feed_bonus": 5
+        "verified": false
       },
       {
         "category": "科技",
@@ -533,8 +439,62 @@
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80ck9IZlZfZmJ6QTNHMWljNFQxTW5Xa1pWLWFETXJ4UnhHU1RhdU5pcWhFUHZ2SkFOLVgzaG5jemRHSGZuM2pjLVdFemFQOV84aVZB?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": false,
-        "_feed_bonus": 5
+        "verified": false
+      },
+      {
+        "category": "科技",
+        "title": "中国机器人在沙特LEAP科技展“圈粉”",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-09-07T08:53:53+08:00",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fTEJSQXhBQlQ5ZUxGa1NmMnU1TXhUM1RTc3l0YTJheXU1ZXRqc3RSNlptSWRUUEVYZERWUVJfVTVvSzROXzI5QkFsTEJFVnJxank2enp5UGtGRzVKYUVpVHlnMHJPQVRoWXJFWjY1XzJQUDR3YTRwelNTZm4?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true
+      },
+      {
+        "category": "科技",
+        "title": "人形机器人：AI 走进现实的桥梁，半导体技术驱动下一代机器人创新",
+        "summary": "",
+        "source": "t.cj.sina.cn",
+        "published_at": "2026-09-07T10:26:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoWHNtLW1pdVJkeUlxQnV5c0QtcW9WbWtuSEh2YXV3azJKRkVZQ1lSYTl6cXVvc2luSS1UTUd6Z3lqSGdXaHdIRmdoX3VmWTN2aDROSUhzUVJseU16eTh6OG1sX0VQNk1PS0hVejR6b0Q?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
+      },
+      {
+        "category": "科技",
+        "title": "【科创之声】17亿块芯片的喜与忧",
+        "summary": "",
+        "source": "中国经济网",
+        "published_at": "2026-09-07T05:59:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01SE4tZm5yRWowLU8yUGoycjZOOU9KelNTS3dhSFlHTFpsTnZyMnAwMzdpTk11MUZBbW5KbDJ4UE5kY3ZUY2VNbnExX3pjd3Z1REJDSU14c1ZTalFPRVJJ?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true
+      },
+      {
+        "category": "科技",
+        "title": "华为今日发布多款新品：Mata XT2有望搭韬定律的麒麟2026芯片",
+        "summary": "",
+        "source": "驱动之家",
+        "published_at": "2026-09-07T09:29:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OT3N4QVZ2ZHduTXVuT3BEM25MX0xITlhmblJsSVdTSUtzdkYzdU9nYldjSzJabjg2dU0wdDd5VEtPZjgwTVJ6X2tqT1IxMkpvSW1LcjJRSDg?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
+      },
+      {
+        "category": "科技",
+        "title": "告别macOS！Asahi Linux官宣正式支持M3/M3 Pro/M3 Max芯片：但GPU还得等等",
+        "summary": "快科技8月8日消息，Linux内核开发者已提交针对苹果M3 Pro、M3 Max和M3 Ultra芯片的初始设备树支持，预计将在Linux 7.3版本的合并窗口中合入主线。 设备树是一种描述硬件结构的数据文件，操作系统内核通过它识别处理器、内存、外设等硬件信息。不过，这套支持目前 ...",
+        "source": "驱动之家",
+        "published_at": "2026-09-07T09:20:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kSm9DX283WXA3bnhZMGwxUmk2UGRpejVOQ1pRSWV3WTRRdmt5WXNnWHZTNG5IaFFIVW0zcHB3MktndzlERnhNY1NfYThLeW5iWGc2RWNKVzg?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
       },
       {
         "category": "科技",
@@ -545,8 +505,7 @@
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RYXNPb01HbnRFa180a2M1dFdZU1lLMkpkU3VQTkpIUFRVV25JVjNDM0tORllFci00MzNha1pVTUt2eHJMNzhRRA?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": true,
-        "_feed_bonus": 0
+        "verified": true
       },
       {
         "category": "科技",
@@ -557,20 +516,18 @@
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5nSEcwTGlGQUVyUDJTbTV6Tm1tc2ZMT2N4NU13U3RVc2ZBc0o0cnJGM01QREdiOWF6YWRQZExISlItSzM3U09hMg?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": true,
-        "_feed_bonus": 5
+        "verified": true
       },
       {
         "category": "科技",
         "title": "华为、小米、苹果 “折叠屏手机”本周集中亮相",
-        "summary": "5月15日零点，iPhone17 Pro系列全线下调1000元。在部分电商平台，iPhone 17 pro系列直降叠加以旧换新，双重补贴优惠2000元，到手价6999元。 iPhone 17 Pro正式进入6000元档位。iPhone17更是迎来上市后首次降价，多重补贴以旧换新到手价只要449…",
+        "summary": "",
         "source": "财联社",
         "published_at": "2026-09-07T08:06:12+08:00",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9rZW5MUXh2dXF0ckNCSU95Y0Q2RW1CczhCYnphVk1vdzBITldRWUdkMG5ETFZoRWpRcnV2R1NUNkV1Vm5MekREMA?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": true,
-        "_feed_bonus": 5
+        "verified": true
       }
     ],
     "society": [
@@ -583,32 +540,29 @@
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNR2NPMk5FMmlTVTNvMXpYTW5yZDQwMV8wRjdJaXpra1BWdjBUSEliTHlCbkpOb3Q4SnRyTE9jOEpJakhvV1ZCZmNfMU91al94aUI0RVJTT3FLYVNCT1Ntb09JTWoxQWdsaVZSYXpJeFJSZXl5ZDNOV28zWTd6NS1NSVR3?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": true,
-        "_feed_bonus": 5
+        "verified": true
       },
       {
         "category": "社会",
         "title": "今日陕西中北部有较强降水 陕北东部局地或现暴雨伴强对流天气",
         "summary": "",
-        "source": "news.weather.com.cn",
+        "source": "天气网",
         "published_at": "2026-09-07T10:27:36+08:00",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Pcjh1ZmlWTzdrTWRQQnVpRzdzTzJ5T3hFV0FlMkxtUy1ZUDNsODFiSEU1R0Q1RWxuajltZXNUbk1zNUYxWXBIZWNOeHFOVDl4ZjZ2SkY4cS1lMTE4?oc=5",
         "image_url": "",
         "hot": true,
-        "verified": false,
-        "_feed_bonus": 5
+        "verified": false
       },
       {
         "category": "社会",
         "title": "台风“科罗旺”向北偏东方向移动 强度逐渐减弱",
         "summary": "",
-        "source": "news.weather.com.cn",
+        "source": "天气网",
         "published_at": "2026-09-07T07:11:54+08:00",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OSW9JM1dQT2VEblRNZGhKWEo4c1VST0QwUzN3MzJ5dW55TmlTV243dXFhZnp0LWJmMHhmX3VWYlNXam1aYm5mV3Z3ZmV3b3Y1dzA2SmRCdkU3NFNx?oc=5",
         "image_url": "",
         "hot": true,
-        "verified": false,
-        "_feed_bonus": 5
+        "verified": false
       },
       {
         "category": "社会",
@@ -619,8 +573,7 @@
         "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CeHptOWVCX1ZOLUQwQkh0VU1IR1pFYnp4Q1ktZGM2anlxSlMzTmJENzFwLVpUcXk1WDVWalYzVzZfcTJ5blBXQ2kyX2drTE5ndnoyYW5aam1OQUtDZGFseS1DQ256bkZsV0hzbmJLU2xnTFRDd0hwQXh4bjB1QQ?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": true,
-        "_feed_bonus": 5
+        "verified": true
       },
       {
         "category": "社会",
@@ -631,32 +584,29 @@
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kenBLbXFDdnN5S1RqeldaeWFVYjB3X1Nrc2RoRnFWQUVMSW01M3paenpjR3NpV184SFRUNXJaS19TcU83YU03M1VGajhXeWY0bUlsOThUeG5VRWlnTnF4NjZqNTJKeTN6WnpMeVpuY3k?oc=5",
         "image_url": "",
         "hot": true,
-        "verified": false,
-        "_feed_bonus": 5
+        "verified": false
       },
       {
         "category": "社会",
         "title": "全国人大常委会海南自由贸易港法执法检查组举行第二次全体会议",
         "summary": "",
         "source": "新华网",
-        "published_at": "2026-09-07T12:16:54+08:00",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlNGhVTm9fOFpSSklUTmpXazBfRVBQbVVwS2d1NXNGOXZFWDFoZk1saFhjRmVhdlFGdUkzR2pFbFRrdDU0TlF4a3Ywdmdycm9VSHdkQWtReGYySTRieU1VTnB1YWUzZlZTUHFRVnUtTmZtYkl6WHZJbHJpSElGdw?oc=5",
+        "published_at": "2026-09-07T12:16:55+08:00",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMVF1cWg1X3FicVI4UW9hdm9Ea1g5cExEZW9POFE5REVGaXpQTXFGdERWRmJJaHFfOEtPMDU0S2xGWUFZQnA2SFFSSUxtVkNmMklDVUFRODRBVDltcUpYbjdDTDVmMUxnNjEyNHhNcmpnQ2tyNDZXa1c5SkJ3Y1ZvbjJKSQ?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": true,
-        "_feed_bonus": 5
+        "verified": true
       },
       {
         "category": "社会",
         "title": "“国家反诈AI”App上线",
-        "summary": "为增强全民防范电信网络诈骗的能力，公安部刑侦局指导、上海市公安局自主研发的“国家反诈 AI”应用程序近日正式上线。这款应用依托前沿技术，旨在通过智能化手段帮助用户识别和防范各类诈骗行为，为公众提供更便捷、更全面的反诈服务。 据介绍，“国家反诈 AI”应用集成了大语言模型、多模态识别和智能体技术…",
+        "summary": "【「国家反诈 AI」App 上线，支持风险判断与案例匹配】 #国家反诈AI上线# 接到可疑电话或短信时，现在多了一个可以直接提问的官方入口。新华社从公安部获悉，由公安部刑侦局指导、上海市公安局自主研发的「国家反诈 AI」App 已正式上线，各大手机应用市场可以下载，微信和支付宝小程序也同步开放…",
         "source": "新华网",
         "published_at": "2026-09-07T09:42:11+08:00",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNblV5dmc5SWtmLW1tNkZ0QUpRcDdRY3ZVRmc3ZVhLLTV2Zl9pTlhWaGJBOHVSY3piZTNySTk4c0pmQWhSMDQzSHp3eVptckJBdHdlQnJMcktxT05QOEtLbDBFTFBkWXNhSXpKaVB3LWFUdlF2bDYzX3JoTjZqTU4xd0hsaG43VmQxR1Zodw?oc=5",
-        "image_url": "",
+        "image_url": "http://www.bing.com/th?id=ONUT.IboUFfHFcdfb7doyXZ6Oqg&pid=News",
         "hot": false,
-        "verified": true,
-        "_feed_bonus": 5
+        "verified": true
       },
       {
         "category": "社会",
@@ -667,8 +617,7 @@
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORTJIMEtYR3FkNlV4T3p0TDh0ZS1BVEZyWU4zY01rSjZHQlBVYjhkdURvOUdiQV82ZFJMMmdpWmlTX3NuSWNtSDNQWGdRYndhM3hXdUMzUFZ3dFR1QXlDcEdaWS1ZTTdWUTBFVnVRMTVkRE5BMkh6R3hhb0VCaTZtNWFR?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": true,
-        "_feed_bonus": 5
+        "verified": true
       },
       {
         "category": "社会",
@@ -679,47 +628,21 @@
         "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1zcUJrRU5HUk84TE5QdkdabHFtOUVuaVVUcERYeG1DME05MDI1ZExlejRSdm5ReVlpMnFVQS1HcmdQUFllbVA3RVBZR0VQYzVueTBjaHlfREgyQkhCdWo5ekgxdnpHVy1yRUY5UjdKQnNhbVd0dzZNOFdsbV8?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": true,
-        "_feed_bonus": 5
+        "verified": true
       },
       {
         "category": "社会",
-        "title": "江西遂川大汾镇和坪村有山体开裂169人紧急转移，全县多数受灾供电线路已恢复",
+        "title": "中信银行启动2026年金融教育宣传周活动",
         "summary": "",
-        "source": "thepaper.cn",
-        "published_at": "2026-09-07T11:15:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JYjlnN0E5aXhaV1dZN2hnbUJ3QjJYZkgxLTVjOS1BTWVsanU5RHVCZl9sVk96M0x5WUcwVzlFTzRSREM5Sm56OE0zUWxUdGw1US1jM1lTZzNtVjJBYWw3bg?oc=5",
+        "source": "新华网客户端",
+        "published_at": "2026-09-07T14:40:27+08:00",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdkVQa2hxZnlyd2VDaTg1cDdwUU0xcDdYbmJvNnNpdTZ5ZGhMaGxMVF9nUGk5bnhzSkV6YjJWZHVBaHBGWV9RRFRoOC1ydURDdE9Hd2xjQnh2bXF5dlcySXptankxRVpMZHlMa05ZT1R0NERmUXBJMndUOF9zRnBETldmMUNjeDEtdGVya3d4N1Z1MElKZUU2LW9R?oc=5",
         "image_url": "",
-        "hot": true,
-        "verified": true,
-        "_feed_bonus": 5
+        "hot": false,
+        "verified": true
       }
     ],
     "ai": [
-      {
-        "category": "AI",
-        "title": "OpenAI发布GPT-6 Astra，黄仁勋表示AGI已经到来",
-        "summary": "",
-        "source": "电子工程专辑",
-        "published_at": "2026-09-07T11:18:08+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5bF9rSm05Mld6Yk1iQkhUVURSSkpmYmRFZnV5aGI4cjkwUkJKRlJPUE5tVHZNaW4zSEFRUlp0aUtnQmw3M0ZyTExzSW5kbUI1Tm84VkRKR1otVVdz?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "_feed_bonus": 0
-      },
-      {
-        "category": "AI",
-        "title": "黄仁勋回应OpenAI发布Astra：AGI已经到来",
-        "summary": "",
-        "source": "观点网",
-        "published_at": "2026-09-07T09:17:34+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBSTmhWUlJZRWZlMVVsalRMZE5SRGhoS0M1U3JybU5WMFRsR2RZUzFCdGpzQXZnMkhqamtVS3c1b01rVU04SzNvc1FFVkMzQQ?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "_feed_bonus": 0
-      },
       {
         "category": "AI",
         "title": "黄仁勋：AGI已到来！OpenAI Astra背后是英伟达，40万张GPU即将上线",
@@ -729,8 +652,29 @@
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jT0Y1UnZ3MVVVVVJabk9GY0pNbkN3WHRmeHhvcThtN0tQYXQ0WWV2Wl9CSkhCSS0wVzJXcjFXM2tEd1JTV0p0bVNaQ3RmN0pJRUI4?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": false,
-        "_feed_bonus": 0
+        "verified": false
+      },
+      {
+        "category": "AI",
+        "title": "OpenAI发布GPT-6 Astra，黄仁勋表示AGI已经到来",
+        "summary": "",
+        "source": "电子工程专辑",
+        "published_at": "2026-09-07T11:18:08+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5bF9rSm05Mld6Yk1iQkhUVURSSkpmYmRFZnV5aGI4cjkwUkJKRlJPUE5tVHZNaW4zSEFRUlp0aUtnQmw3M0ZyTExzSW5kbUI1Tm84VkRKR1otVVdz?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
+      },
+      {
+        "category": "AI",
+        "title": "黄仁勋回应OpenAI发布Astra：AGI已经到来",
+        "summary": "",
+        "source": "观点网",
+        "published_at": "2026-09-07T09:17:34+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zWC0zb0d5WnMwVmx2eFVVRjhma19abExFVFA1cHZYUVJxN3VxOEliUERmY0xfYldibUdJbHc4czN1ejJzZjdZT2pzdVNnSFU2eE9MaGswOFZoaFMtbUZmbWx3?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
       },
       {
         "category": "AI",
@@ -741,68 +685,51 @@
         "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FVk9YYklfM0VfVkFBMFZDSHRqYXEwNDNJZENsQTMxTXlBR2pqRDBLSEY1TnR3R3BrenppX2lYMXVpZ3pZd1RJTE5zb0ItdXA2M0VKR0t4Xzd2Nm13cGFrY0pR?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": false,
-        "_feed_bonus": 0
+        "verified": false
       },
       {
         "category": "AI",
-        "title": "【每日瞰AI】OpenAI达成「自动研究实习生」目标；小米开源表格基础模型Xiaomi-TabLDM，无需按任务重新训练",
+        "title": "OpenAI称肯定会研发人形机器人 机器人行业投资逻辑转正向业绩兑现",
         "summary": "",
-        "source": "电子工程专辑",
-        "published_at": "2026-09-07T11:30:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zYU93TXhka3g2a1lCUUhudGRnQVJYQnk1N3NRdGRWeGJ3QnBBVmtyMVRhTXhYQ0RMUkVXbFZZT1MxNGZYc19vdEFHQ1AzSW1xWjNz?oc=5",
+        "source": "财联社",
+        "published_at": "2026-09-07T07:58:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1STDZLUzVxS1F1eGNidkJUUVJJZVpGc1RjdmlPcG1rU1ZYX3JrNlk3VThGME02ZDRqdVBwWlFuRnE2dV93dkhnMA?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": false,
-        "_feed_bonus": 0
+        "verified": true
       },
       {
         "category": "AI",
         "title": "国内首份办公Agent用户行为报告发布：DeepSeek V4 Flash占半壁江山，新模型上线3天渗透率近半",
         "summary": "",
-        "source": "新浪网",
+        "source": "新浪财经",
         "published_at": "2026-09-07T14:46:55+08:00",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUREZDh3QXFOUUNmZnRRUTZqYXp4S1NfWWxTU1k5dzZhRksyeXRKcEh5d19CNUtQNVdwZjRNN3pLbWx2VlZmdGJUUFE3MzMxdkYxZENxUnZhQ1d1VlI3YWJZQ1FmZWNhb093WmpWYUVJQzlXeUYyejVVbWdrWEV1LXdoSkJXc3hSd3pYMTgtOFNjSTlaRGRuOWFhLXdJT3FINDRQWjc0dw?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": false,
-        "_feed_bonus": 0
+        "verified": false
+      },
+      {
+        "category": "AI",
+        "title": "听鉴世界｜人工智能体“劫持”外部网站引发科技界担忧",
+        "summary": "",
+        "source": "国际在线",
+        "published_at": "2026-09-07T11:39:50+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGclF6OWxYc2RoZWtfbFBJdEh1RTQ3OFlWSFJKNEs0SFNVcXJHbEZEN1FqVldaSEZycGtZLVlpZ3dZS1ZzR1ZwV0F2aGpqOWJWZm1SeU5Gall4T2xYZWRoLU9wZzc0X084RnlDaGVNbjdJQnBPekJYRFNB?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true
       },
       {
         "category": "AI",
         "title": "OpenAI首席科学家：人类已造出“异星心智”，AI研发应踩刹车|大模型|Hugging Face|模型|对外|风险_手机新浪网",
         "summary": "DoNews7月23日消息，当地时间 7 月 21 日，OpenAI 在一篇官方博客文章中披露了一起“前所未有”的重大安全事件。 该公司证实，其在进行内部网络安全能力评估时，参与测试的 AI 模型突破了高度隔离的沙盒测试环境，并入侵了开源 AI 平台 Hugging Face 的生产基础设施。",
-        "source": "新浪网",
+        "source": "新浪财经",
         "published_at": "2026-09-07T14:10:56+08:00",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGZmJFTHd4dG1xbXhKTmIwNnRzYU1BTTVDWU9Ya1NtRWxHVnh5UUYzVk5mUmEtYlN2OE9YaFFGZEdvWldXZUp0TTdFSG12Y3dvbk5BRW1zOHRCOFFhUkRoMlV3REZuclg3QTZnSkFTVHVObUhsdTBWbA?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": false,
-        "_feed_bonus": 0
-      },
-      {
-        "category": "AI",
-        "title": "发布“地球最强”模型仅几天后 OpenAI首席科学家发长文呼吁放慢AI开发",
-        "summary": "",
-        "source": "凤凰网科技",
-        "published_at": "2026-09-07T13:47:15+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9SclgxU05Nc19iNzZhd2Y4WU5Wc21ENjJpQ0RMZVdDZDZMb1p6dWZtSFJaZW1mX1I2c21kQmVLMVNxS0NYdEJRWUN4R0I?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "_feed_bonus": 0
-      },
-      {
-        "category": "AI",
-        "title": "通过分析16900 次会话数据，看看Claude Code、Codex、Cursor 各选了什么工具- OSCHINA - 开源 × AI · 开发者生态社区",
-        "summary": "",
-        "source": "OSCHINA",
-        "published_at": "2026-09-07T14:41:27+08:00",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hSTNSazNRc3NYT3NKTXRWMzZmZ1drS2Jka2VNanh4RzVCSGp6bkg3aWpkNHFCc0xPQVNHNVZDTmNFMldEWTM1OF9CbmtHUVJoMnpzWkFvUW9OWFZKRy1FanBycDlqenQzZHVfckJyX0xmbUx6YXU3Qg?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "_feed_bonus": 0
+        "verified": false
       },
       {
         "category": "AI",
@@ -813,8 +740,18 @@
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HZlpJQ2NmaEFuY3JNZlFEU2VSRGVZbEtHTjhQdFJ3WVE1VmVCR1kzTmpqY1k0UGQ1U3o2ZnUzdzBHMmZIR3dBZlZpZFZpanRQNVBR?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": false,
-        "_feed_bonus": 0
+        "verified": false
+      },
+      {
+        "category": "AI",
+        "title": "OpenAI同日发布两份文件：AI加速时代，安全正在掉队",
+        "summary": "",
+        "source": "新浪新闻_手机新浪网",
+        "published_at": "2026-09-07T10:28:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xSkw4VTFGdTZKNWVTWjVJLUlNU1ZYVHM1WmNJems1RWlDWkdJaWVpdFY4Z0p1c0ozTS1Ra0Zid1VqRnlsRVVDRXRsNmpGN1ZJWUNnalBOU0M3LWJxZ0hDOHZCeFEwSkRqOG1hME1sOUc?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
       }
     ]
   },

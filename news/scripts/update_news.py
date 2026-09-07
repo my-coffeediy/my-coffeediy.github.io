@@ -32,8 +32,8 @@ LIMITS={"china":14,"world":9,"finance":10,"tech":10,"society":10,"ai":10}
 
 # 4 = 第一优先；3 = 主要权威；2 = 优质媒体；1 = 其他
 SOURCE_TIER_4=["新华社","新华网","央视新闻","央视网","人民日报","中国政府网","国务院"]
-SOURCE_TIER_3=["中国新闻网","中新网","央广网","经济日报","中国经济网","财联社","第一财经","澎湃新闻","证券时报","上海证券报","中国证券报","路透","Reuters","AP","美联社","BBC"]
-SOURCE_TIER_2=["界面新闻","新京报","中青在线","南方日报","北京日报","解放日报","21世纪经济报道","每日经济新闻"]
+SOURCE_TIER_3=["中国新闻网","中新网","央广网","国际在线","经济日报","中国经济网","财联社","第一财经","澎湃新闻","thepaper.cn","证券时报","上海证券报","中国证券报","路透","Reuters","AP","美联社","BBC"]
+SOURCE_TIER_2=["界面新闻","新京报","中青在线","南方日报","北京日报","解放日报","21世纪经济报道","每日经济新闻","联合早报","华尔街日报","cn.wsj.com","纽约时报中文网","日经中文网","彭博","Bloomberg","华尔街见闻"]
 
 HOT=["突发","地震","台风","暴雨","洪涝","战争","冲突","停火","制裁","大选","暴跌","暴涨","危机","事故","伤亡","死亡","紧急"]
 
@@ -350,9 +350,9 @@ def choose_unique(candidates,used):
             return item
     return None
 
-TOP_BLOCK=["新书","研究会","会员代表大会","时装周","圆满举办","宣传周","宣传月","启动仪式","限时优惠","现金激励","ETF","减持","质押","保荐","违规被罚","实干样本","品牌活动","视频"]
+TOP_BLOCK=["新书","研究会","会员代表大会","时装周","圆满举办","宣传周","宣传月","启动仪式","限时优惠","现金激励","ETF","减持","质押","保荐","违规被罚","实干样本","品牌活动","视频","研讨会","交流活动","道歉","市场汇价","开学典礼","体育","比赛","白鹭","早报"]
 TOP_MAJOR={
-    "china":["中共中央","中央政治局","国务院","全国人大","全国政协","央行","人民银行","财政部","发改委","国家统计局","商务部","外交部","国防部","降准","降息","人民币","GDP","CPI","PPI","外贸","就业","社保","医保","养老金","房地产","楼市","高考","台风","地震","暴雨","洪涝","事故","伤亡","应急","国家主席","总书记"],
+    "china":["中共中央","中央政治局","国务院","全国人大","全国政协","央行","人民银行","财政部","发改委","国家统计局","商务部","外交部","国防部","降准","降息","人民币","GDP","CPI","PPI","外贸","就业","社保","医保","养老金","房地产","楼市","高考","台风","地震","暴雨","洪涝","事故","伤亡","应急","国家主席","总书记","教育部","人社部","公安部","市场监管总局"],
     "world":["战争","冲突","停火","制裁","大选","选举","美联储","特朗普","普京","泽连斯基","联合国","北约","地震","海啸","袭击","导弹","关税","油价","核武","政变"],
     "finance":["央行","人民银行","降准","降息","利率","人民币","财政部","A股","港股","GDP","CPI","PPI","外贸","出口","美联储","黄金","原油","暴跌","暴涨"],
     "tech":["芯片","半导体","机器人","航天","卫星","量子","突破","国产","出口管制","制裁"],
@@ -363,62 +363,59 @@ TOP_MAJOR={
 def is_top_candidate(key,item,strict=True):
     title=item["title"]
     if any(w in title for w in CLICKBAIT+TOP_BLOCK):return False
-    if item.get("_tier",1)<2:return False
-    if strict and not any(w.lower() in title.lower() for w in TOP_MAJOR[key]):return False
+    major=any(w.lower() in title.lower() for w in TOP_MAJOR[key])
+    if key=="world":
+        if item.get("_tier",1)<2 and not (item.get("_feed_bonus",0)>=5 and major):return False
+    else:
+        if item.get("_tier",1)<2:return False
+    if key=="ai" and item.get("_tier",1)<2:return False
+    if strict and not major:return False
     return True
 
 def build_top5(sections):
     used=set(); chosen=[]
-    def take(key,strict=True):
+    def add_best(key,strict=True):
         for x in sections[key]:
             n=norm_text(x["title"])
             if n in used:continue
             if is_top_candidate(key,x,strict):
                 used.add(n); chosen.append((key,x)); return True
         return False
-    # 中国为主：优先三条真正有全国性/民生影响的重要国内新闻。
-    for _ in range(3):
-        if not take("china",True): take("china",False)
-    # 全球只保留一条最值得关注的头条。
-    if not take("world",True): take("world",False)
-    # 最后一条在财经、AI、科技、社会中择优。
-    flex=[]
-    for k in ("finance","ai","tech","society"):
+    for _ in range(2):
+        if not add_best("china",True):add_best("china",False)
+    if not add_best("world",True):add_best("world",False)
+    block=[]
+    for k in ("society","finance"):
         for x in sections[k]:
-            if is_top_candidate(k,x,True):
-                flex.append((x["_score"]+(2 if k in ("finance","ai") else 0),k,x))
-    flex.sort(key=lambda z:(z[0],z[2]["_tier"],z[2]["published_at"]),reverse=True)
-    for _,k,x in flex:
+            if is_top_candidate(k,x,True):block.append((x["_score"],k,x))
+    block.sort(key=lambda z:(z[0],z[2]["_tier"],z[2]["published_at"]),reverse=True)
+    for _,k,x in block:
         n=norm_text(x["title"])
         if n not in used:
-            used.add(n); chosen.append((k,x)); break
+            used.add(n);chosen.append((k,x));break
+    block=[]
+    for k in ("ai","tech","finance","society"):
+        for x in sections[k]:
+            if is_top_candidate(k,x,True):
+                bonus=2 if k=="ai" else (1 if k=="tech" else 0)
+                block.append((x["_score"]+bonus,k,x))
+    block.sort(key=lambda z:(z[0],z[2]["_tier"],z[2]["published_at"]),reverse=True)
+    for _,k,x in block:
+        n=norm_text(x["title"])
+        if n not in used:
+            used.add(n);chosen.append((k,x));break
     if len(chosen)<5:
         pool=[]
-        for k in ("finance","ai","tech","society","china","world"):
+        for k in ("china","world","society","finance","tech","ai"):
             for x in sections[k]:
                 if is_top_candidate(k,x,False):pool.append((x["_score"],k,x))
         pool.sort(key=lambda z:(z[0],z[2]["_tier"],z[2]["published_at"]),reverse=True)
         for _,k,x in pool:
             n=norm_text(x["title"])
             if n in used:continue
-            used.add(n); chosen.append((k,x))
+            used.add(n);chosen.append((k,x))
             if len(chosen)>=5:break
-    # 国内同类政策报道去重，避免一件事占两席。
-    final=[]
-    for k,x in chosen:
-        duplicate=False
-        nx=set(re.findall(r'[\u4e00-\u9fff]{2,}',x["title"]))
-        for _,y in final:
-            ny=set(re.findall(r'[\u4e00-\u9fff]{2,}',y["title"]))
-            if nx and ny and len(nx & ny)>=2:
-                duplicate=True; break
-        if not duplicate:final.append((k,x))
-    if len(final)<5:
-        for k,x in chosen:
-            if (k,x) not in final:final.append((k,x))
-            if len(final)>=5:break
-    final.sort(key=lambda z:(z[1]["_score"]+(4 if z[0]=="china" else 0),z[1]["_tier"],z[1]["published_at"]),reverse=True)
-    return [pack_top(k,x) for k,x in final[:5]]
+    return [pack_top(k,x) for k,x in chosen[:5]]
 
 MARKETS=[
     ("黄金","GC=F","USD/oz"),
@@ -462,6 +459,7 @@ def main():
         for item in items:
             item.pop("_tier",None)
             item.pop("_score",None)
+            item.pop("_feed_bonus",None)
     OUT.parent.mkdir(parents=True,exist_ok=True)
     OUT.write_text(json.dumps(payload,ensure_ascii=False,indent=2),encoding="utf-8")
     print("updated",OUT)
