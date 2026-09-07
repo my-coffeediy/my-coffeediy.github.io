@@ -5,6 +5,7 @@ on:
   push:
     paths:
       - "news/scripts/update_news.py"
+      - "news/scripts/add_quick_briefs.py"
       - "news/requirements.txt"
       - ".github/workflows/update-news.yml"
   schedule:
@@ -35,6 +36,8 @@ jobs:
         run: pip install -r news/requirements.txt
       - name: Refresh news and markets
         run: python news/scripts/update_news.py
+      - name: Add quick briefs for every story
+        run: python news/scripts/add_quick_briefs.py
       - name: Commit refreshed data
         run: |
           git config user.name "daily-news-bot"
@@ -48,4 +51,4 @@ jobs:
             git push origin HEAD:main
           fi
 
-# Daily Brief v2: source weighting, Top 5 ranking, summaries and thumbnail enrichment.
+# Daily Brief v3: source weighting, Top 5 ranking, thumbnails, summaries and quick-overview popups.
