@@ -352,9 +352,42 @@ def reason_for(key,title):
         return "与国内民生和公共服务直接相关。"
     return "与国内政策、经济或民生直接相关。"
 
+def brief_for(key,item):
+    """Create a concise 2-3 sentence Chinese brief without inventing facts."""
+    title=clean(item.get("title","")).strip().rstrip("。！？!?；;")
+    source=clean(item.get("source","")).strip() or "权威媒体"
+    raw=clean(item.get("summary","")).strip()
+
+    first=f"{source}报道，{title}。" if title else f"{source}发布了最新消息。"
+    parts=[]
+    if raw and norm_text(raw)!=norm_text(title):
+        raw=re.sub(r"\s+"," ",raw)
+        raw=re.sub(r"^(点击查看|查看详情|阅读全文|更多详情)[:：]?\s*","",raw)
+        for x in re.split(r"(?<=[。！？!?])\s*",raw):
+            x=clean(x).strip()
+            if not x: continue
+            if len(x)>105: x=x[:102].rstrip("，,；; ")+"…"
+            if norm_text(x)==norm_text(title): continue
+            if x[-1:] not in "。！？!?…": x+="。"
+            parts.append(x)
+            if len(parts)>=2: break
+
+    fallback={
+        "china":"目前可确认的信息以相关部门和权威媒体后续发布为准。",
+        "world":"事件仍在发展，后续需关注各方官方表态与权威媒体的交叉确认。",
+        "finance":"后续影响将取决于政策执行、市场反应和相关数据变化。",
+        "tech":"后续重点关注官方披露、产业链反应和实际落地情况。",
+        "society":"后续重点关注主管部门通报、处置进展和实际影响范围。",
+        "ai":"后续重点关注官方发布、产品落地、监管变化与行业反馈。"
+    }[key]
+    if not parts:
+        parts=[fallback]
+    return first+"".join(parts[:2])
+
 def pack_top(key,item):
     return {
         "title":item["title"],
+        "summary":brief_for(key,item),
         "why_it_matters":reason_for(key,item["title"]),
         "category":item["category"],
         "source":item["source"],
