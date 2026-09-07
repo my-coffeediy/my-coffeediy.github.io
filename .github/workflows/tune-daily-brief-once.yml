@@ -1,0 +1,93 @@
+name: Tune Daily Brief Once
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - ".github/workflows/tune-daily-brief-once.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  tune:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Tune Top 5 and thumbnail fallback
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('news/scripts/update_news.py')
+          s=p.read_text(encoding='utf-8')
+
+          s=s.replace(
+          'SOURCE_TIER_3=["中国新闻网","中新网","央广网","经济日报","中国经济网","财联社","第一财经","澎湃新闻","证券时报","上海证券报","中国证券报","路透","Reuters","AP","美联社","BBC"]',
+          'SOURCE_TIER_3=["中国新闻网","中新网","央广网","国际在线","经济日报","中国经济网","财联社","第一财经","澎湃新闻","thepaper.cn","证券时报","上海证券报","中国证券报","路透","Reuters","AP","美联社","BBC"]')
+          s=s.replace(
+          'SOURCE_TIER_2=["界面新闻","新京报","中青在线","南方日报","北京日报","解放日报","21世纪经济报道","每日经济新闻"]',
+          'SOURCE_TIER_2=["界面新闻","新京报","中青在线","南方日报","北京日报","解放日报","21世纪经济报道","每日经济新闻","联合早报","华尔街日报","cn.wsj.com","纽约时报中文网","日经中文网","彭博","Bloomberg","华尔街见闻"]')
+
+          old='TOP_BLOCK=["新书","研究会","会员代表大会","时装周","圆满举办","宣传周","宣传月","启动仪式","限时优惠","现金激励","ETF","减持","质押","保荐","违规被罚","实干样本","品牌活动","视频"]'
+          new='TOP_BLOCK=["新书","研究会","会员代表大会","时装周","圆满举办","宣传周","宣传月","启动仪式","限时优惠","现金激励","ETF","减持","质押","保荐","违规被罚","实干样本","品牌活动","视频","研讨会","交流活动","道歉","市场汇价","开学典礼","体育","比赛","白鹭","早报"]'
+          if old not in s: raise SystemExit('TOP_BLOCK marker missing')
+          s=s.replace(old,new,1)
+          s=s.replace('"国家主席","总书记"]','"国家主席","总书记","教育部","人社部","公安部","市场监管总局"]',1)
+
+          start=s.index('def is_top_candidate(key,item,strict=True):')
+          end=s.index('\ndef build_top5(sections):',start)
+          helper='''def is_top_candidate(key,item,strict=True):\n    title=item["title"]\n    if any(w in title for w in CLICKBAIT+TOP_BLOCK):return False\n    major=any(w.lower() in title.lower() for w in TOP_MAJOR[key])\n    # 世界头条允许来自Google News世界版的主流聚合结果，但必须命中重大事件关键词。\n    if key=="world":\n        if item.get("_tier",1)<2 and not (item.get("_feed_bonus",0)>=5 and major):return False\n    else:\n        if item.get("_tier",1)<2:return False\n    # AI进入首页必须至少是二级以上来源，减少单一自媒体爆料。\n    if key=="ai" and item.get("_tier",1)<2:return False\n    if strict and not major:return False\n    return True\n'''
+          s=s[:start]+helper+s[end:]
+
+          start=s.index('def build_top5(sections):')
+          end=s.index('\nMARKETS=[',start)
+          build='''def build_top5(sections):\n    used=set(); chosen=[]\n    def add_best(key,strict=True):\n        for x in sections[key]:\n            n=norm_text(x["title"])\n            if n in used:continue\n            if is_top_candidate(key,x,strict):\n                used.add(n); chosen.append((key,x)); return True\n        return False\n    # 2条全国性国内重点。\n    for _ in range(2):\n        if not add_best("china",True):add_best("china",False)\n    # 1条全球头条，国际区不堆普通新闻。\n    if not add_best("world",True):add_best("world",False)\n    # 1条国内财经/社会重点。\n    block=[]\n    for k in ("society","finance"):\n        for x in sections[k]:\n            if is_top_candidate(k,x,True):block.append((x["_score"],k,x))\n    block.sort(key=lambda z:(z[0],z[2]["_tier"],z[2]["published_at"]),reverse=True)\n    for _,k,x in block:\n        n=norm_text(x["title"])\n        if n not in used:\n            used.add(n);chosen.append((k,x));break\n    # 1条科技/AI重点；若当天没有可靠AI大事则由科技或财经补位。\n    block=[]\n    for k in ("ai","tech","finance","society"):\n        for x in sections[k]:\n            if is_top_candidate(k,x,True):\n                bonus=2 if k=="ai" else (1 if k=="tech" else 0)\n                block.append((x["_score"]+bonus,k,x))\n    block.sort(key=lambda z:(z[0],z[2]["_tier"],z[2]["published_at"]),reverse=True)\n    for _,k,x in block:\n        n=norm_text(x["title"])\n        if n not in used:\n            used.add(n);chosen.append((k,x));break\n    if len(chosen)<5:\n        pool=[]\n        for k in ("china","world","society","finance","tech","ai"):\n            for x in sections[k]:\n                if is_top_candidate(k,x,False):pool.append((x["_score"],k,x))\n        pool.sort(key=lambda z:(z[0],z[2]["_tier"],z[2]["published_at"]),reverse=True)\n        for _,k,x in pool:\n            n=norm_text(x["title"])\n            if n in used:continue\n            used.add(n);chosen.append((k,x))\n            if len(chosen)>=5:break\n    return [pack_top(k,x) for k,x in chosen[:5]]\n'''
+          s=s[:start]+build+s[end:]
+
+          # Bing新闻页无图时，再从Bing图片结果拿与标题最接近的第一张缩略图。\n          anchor='def bing_html_thumbnail(title):'
+          if 'def bing_image_thumbnail(title):' not in s:
+              pos=s.index(anchor)
+              func='''def bing_image_thumbnail(title):\n    try:\n        q=quote('"'+title[:72]+'"')\n        r=requests.get(f"https://www.bing.com/images/search?q={q}&setlang=zh-cn",headers=UA,timeout=6)\n        if r.status_code>=400:return ""\n        text=html.unescape(r.text)\n        pats=[\n            r'"turl"\\s*:\\s*"(https:[^"\\]+)',\n            r'"thumbnailUrl"\\s*:\\s*"(https:[^"\\]+)',\n            r'(https://tse[0-9]+\\.mm\\.bing\\.net/th[^"\\'<> ]+)'\n        ]\n        for pat in pats:\n            m=re.search(pat,text,re.I)\n            if m:\n                u=html.unescape(m.group(1)).replace('\\\\u0026','&').replace('\\\\/','/')\n                if u.startswith('http'):return u\n    except Exception:\n        pass\n    return ""\n\n'''
+              s=s[:pos]+func+s[pos:]
+          s=s.replace('return bing_html_thumbnail(title),""\n\ndef recency_bonus', 'return bing_html_thumbnail(title) or bing_image_thumbnail(title),""\n\ndef recency_bonus')
+          s=s.replace('if not img: img=bing_html_thumbnail(title)\n        return img,desc', 'if not img: img=bing_html_thumbnail(title) or bing_image_thumbnail(title)\n        return img,desc')
+          s=s.replace('return bing_html_thumbnail(title),""\n', 'return bing_html_thumbnail(title) or bing_image_thumbnail(title),""\n')
+
+          # 内部排序字段不写入前端JSON。\n          s=s.replace('item.pop("_score",None)\n', 'item.pop("_score",None)\n            item.pop("_feed_bonus",None)\n')
+
+          p.write_text(s,encoding='utf-8')
+          PY
+          python -m py_compile news/scripts/update_news.py
+      - name: Install dependencies
+        run: pip install -r news/requirements.txt
+      - name: Refresh and validate
+        run: |
+          python news/scripts/update_news.py
+          python - <<'PY'
+          import json
+          d=json.load(open('news/data/news.json',encoding='utf-8'))
+          t=d['top5']
+          assert len(t)==5
+          assert sum(x.get('category')=='国内' for x in t)>=2
+          assert any(x.get('category')=='国际' for x in t)
+          assert not any('_feed_bonus' in x for arr in d['sections'].values() for x in arr)
+          banned=('研讨会','交流活动','道歉','市场汇价','限时优惠','时装周')
+          assert not any(any(w in x.get('title','') for w in banned) for x in t)
+          imgs=sum(bool(x.get('image_url')) for arr in d['sections'].values() for x in arr)
+          print('image_count',imgs)
+          for x in t:print(x['category'],x['source'],x['title'])
+          PY
+      - name: Commit tuned updater and data
+        run: |
+          git config user.name "daily-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add news/scripts/update_news.py news/data/news.json
+          git commit -m "improve: tune daily brief headline mix"
+          git pull --rebase origin main
+          git push origin HEAD:main
