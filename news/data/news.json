@@ -1,27 +1,775 @@
 {
-  "updated_at": "2026-09-07T08:00:00+08:00",
-  "markets_updated_at": "2026-09-07T08:00:00+08:00",
+  "updated_at": "2026-09-07T14:27:13.806708+08:00",
+  "markets_updated_at": "2026-09-07T14:27:13.806708+08:00",
   "top5": [
-    {"title":"示例：中国重要政策与民生新闻将优先展示","why_it_matters":"自动更新后，这里每天从国内重大新闻中筛选最重要内容。"},
-    {"title":"示例：全球仅保留真正影响较大的头条","why_it_matters":"战争、重大外交、重大经济事件等会进入首页，普通国际新闻不会占据版面。"},
-    {"title":"示例：财经重点关注A股、港股、汇率与宏观政策","why_it_matters":"帮助快速理解当天市场环境与政策变化。"},
-    {"title":"示例：AI快报追踪OpenAI、DeepSeek、Claude、Gemini等","why_it_matters":"模型发布、产品更新、监管和重要融资会集中展示。"},
-    {"title":"示例：黄金、原油、天然气、铜等资源价格涨跌","why_it_matters":"首页直接看到国际大宗资源的方向变化。"}
+    {
+      "title": "“首位拥有社会智库背景的国务院参事”王辉耀：六次突围与全球化之路 | 中国特色新型智库建设",
+      "why_it_matters": "与国内政策、经济或民生直接相关。",
+      "category": "国内",
+      "source": "全球化智库（CCG）",
+      "published_at": "2026-09-07T13:47:53+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE43d1p1OEZLd0hrWlhpM3I2QTZMQnk2YnZjdnhTdDZCYUZNSHdEdzk4OUtCSlNJLWZES0tSRFpWbW1TanQ5blRIRVVlWkw?oc=5",
+      "image_url": ""
+    },
+    {
+      "title": "特斯拉中国宣布推出限时优惠政策，购买以下车型可享现金激励5000元起",
+      "why_it_matters": "与国内政策、经济或民生直接相关。",
+      "category": "国内",
+      "source": "新浪财经",
+      "published_at": "2026-09-07T11:09:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LMERnVkU3VTI0M2lFS3RaMXBEcVQtdVJSZnF5YTlaR1BHZE1wRm5pLWRLTHJpd0JZUjNRTVk0bENSMFkxM3lNakpCUUx5eDdJNm0wQzc0SkVKdVB1bWxZVVVoQXo2bThYUVNadGJfeERrd2FZMHVGZA?oc=5",
+      "image_url": ""
+    },
+    {
+      "title": "德国东部萨安州选举 极右翼政党取得重大胜利 | 国际",
+      "why_it_matters": "属于全球头条级事件，可能影响国际局势或市场。",
+      "category": "国际",
+      "source": "orientaldaily.com.my",
+      "published_at": "2026-09-07T11:54:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hczZocXpVSkRFY296a1FQT241MDgtRmtCRDBSMnFuMXkwaTRzM0l1dW1tZkVPMWx3aGFJaFYxQkJ3MVgtakJ1eTVTZEtVZFI2TGNJZDlqRHZfS2lkbVp1LXVFQWdmQmwtaGVDa0hIQi13QWw4TUF0SA?oc=5",
+      "image_url": ""
+    },
+    {
+      "title": "再耗下去都得崩盘？俄乌和谈迎重大进展，普京一举动气炸泽连斯基，双方同步停火背后藏着超多耐人寻味的门道！",
+      "why_it_matters": "属于全球头条级事件，可能影响国际局势或市场。",
+      "category": "国际",
+      "source": "Sohu",
+      "published_at": "2026-09-07T11:23:07+08:00",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTFdJa2V0VnVMU2ROcGJ2bFAwSmpUSXFUNTcwbktuODdxTTQ4NUc4ZUJYOElvbHA2dWU3Vmw1Vll4bXhteXhEX0J6YlNCWVVDWUtvNEp5WUNCQktBd2xrMXkxNTNLRnhaMF9xQkxWcDZmS0U5dm1jekcydFA3MkhrVFpGZFZCcGQ0RUpUSA?oc=5",
+      "image_url": ""
+    },
+    {
+      "title": "再打下去都得完蛋？俄乌和谈重大进展，普京一个举动让泽连斯基气炸",
+      "why_it_matters": "属于全球头条级事件，可能影响国际局势或市场。",
+      "category": "国际",
+      "source": "Sohu",
+      "published_at": "2026-09-07T10:51:41+08:00",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOenlrTTE3ZXluZjVfVW5QdkhQNFAtdFY3bEhmRHI1NVZUSXlDU0hvLU9VTll5NHZZeDN6S2RzMnhhd0VrT3E3RTRMT2pyNVNMeGgyek1VTlV5MG1uZjVndlJkWFYwY3VBV2w1SXMzLUdibTVmcy1wNlFEVlNYUFZYb0dabFQ3VGNrOUY3aQ?oc=5",
+      "image_url": ""
+    }
   ],
   "sections": {
-    "china":[{"category":"国内","title":"网站已上线：自动更新任务运行后将替换为当天中国重点新闻","summary":"当前页面已完成新闻分类、来源展示、手机端布局和自动更新框架。","source":"系统","published_at":"2026-09-07T08:00:00+08:00","url":"","hot":true,"verified":true}],
-    "world":[{"category":"国际","title":"全球新闻只保留头条级事件","summary":"优先重大冲突、外交、经济和突发事件。","source":"系统","published_at":"2026-09-07T08:00:00+08:00","url":"","hot":true,"verified":true}],
-    "finance":[{"category":"财经","title":"财经频道已就绪","summary":"覆盖宏观经济、A股、港股、美股、汇率、利率与重大公司新闻。","source":"系统","published_at":"2026-09-07T08:00:00+08:00","url":"","hot":false,"verified":true}],
-    "tech":[{"category":"科技","title":"科技频道已就绪","summary":"重点覆盖芯片、机器人、新能源、互联网与重大科研进展。","source":"系统","published_at":"2026-09-07T08:00:00+08:00","url":"","hot":false,"verified":true}],
-    "society":[{"category":"社会","title":"社会频道已就绪","summary":"以国内重要社会新闻为主，减少纯娱乐和低信息量热搜。","source":"系统","published_at":"2026-09-07T08:00:00+08:00","url":"","hot":false,"verified":true}],
-    "ai":[{"category":"AI","title":"AI快报已就绪","summary":"重点关注OpenAI、DeepSeek、Claude、Gemini、字节、阿里、腾讯、华为等。","source":"系统","published_at":"2026-09-07T08:00:00+08:00","url":"","hot":true,"verified":true}]
+    "china": [
+      {
+        "category": "国内",
+        "title": "投资于人是发展方式的重要转变（财经书吧）",
+        "summary": "",
+        "source": "人民日报",
+        "published_at": "2026-09-07T06:52:16+08:00",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EczI5N19IRUhybnc2QkdLY1p2eTlHVnBDcVFOWHRYMGZMamdjblhuTDh1UFVtZGNMTnR2VEJ0cWxrd1VuOTVXQlBTYThjbzgwWDZoWlJPYk56bTM0bWVJcE1US3dsMGs0STJvMHNiVU1Zem1TMHRRSXQ2bmhUSUE?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true
+      },
+      {
+        "category": "国内",
+        "title": "“首位拥有社会智库背景的国务院参事”王辉耀：六次突围与全球化之路 | 中国特色新型智库建设",
+        "summary": "",
+        "source": "全球化智库（CCG）",
+        "published_at": "2026-09-07T13:47:53+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE43d1p1OEZLd0hrWlhpM3I2QTZMQnk2YnZjdnhTdDZCYUZNSHdEdzk4OUtCSlNJLWZES0tSRFpWbW1TanQ5blRIRVVlWkw?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false
+      },
+      {
+        "category": "国内",
+        "title": "特斯拉中国宣布推出限时优惠政策，购买以下车型可享现金激励5000元起",
+        "summary": "",
+        "source": "新浪财经",
+        "published_at": "2026-09-07T11:09:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LMERnVkU3VTI0M2lFS3RaMXBEcVQtdVJSZnF5YTlaR1BHZE1wRm5pLWRLTHJpd0JZUjNRTVk0bENSMFkxM3lNakpCUUx5eDdJNm0wQzc0SkVKdVB1bWxZVVVoQXo2bThYUVNadGJfeERrd2FZMHVGZA?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false
+      },
+      {
+        "category": "国内",
+        "title": "复星医药控股股东质押3.3亿股还债 累计质押比例超7成",
+        "summary": "",
+        "source": "中国经济网",
+        "published_at": "2026-09-07T14:03:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sWnBWZjc0bjJSSTRDMlVSRGNhYlZKbUxYY2VqTjdjVXZud0VUREJwWkwzQW1lbFRZYnVrY0xUTVVhV0w2OE0xNmlmZy1iLThtQWNzbElWMm9zLVdvOG9zT2pUM01pcTN0WURXMWMwQ2hIdw?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
+      },
+      {
+        "category": "国内",
+        "title": "数据赋能 交叉致远",
+        "summary": "",
+        "source": "中国社会科学网",
+        "published_at": "2026-09-07T12:50:14+08:00",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZMnVkNlEzeTlVYVczeGNBeE5xeEI3MndMNGRrWlZxcUprRkE2Yjh5RmVwVWxfY3hqSUt5WS1fQ19yTU8wcTI2VnZGYzBTTUxTOV9mWmJ6OFNzOWFnWmJyZU4tWWxfdVo5MWVOSQ?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
+      },
+      {
+        "category": "国内",
+        "title": "【新书】《亚里士多德》",
+        "summary": "",
+        "source": "中国社会科学网",
+        "published_at": "2026-09-07T12:50:11+08:00",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13S2xONjRqQjZ4UlM1NUJRT2NTS1phdm9BU3JTbGF3QVN1YXlQYWJDekNrR3plb2ZYWHNXOWZ3OFo1NFNVSXp2Ylp5NmhiM0h2Rm5MTDZHUXpHYnRCOWZxSFlodUJmN19LbW93Xw?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
+      },
+      {
+        "category": "国内",
+        "title": "江苏省徐悲鸿研究会第六次会员代表大会在南京召开",
+        "summary": "",
+        "source": "中国社会科学网",
+        "published_at": "2026-09-07T12:49:22+08:00",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aYmY1TThTLTh0OGNtYlJ6a2UycHEtcWg5b1N3WWdlUFFkQ1NxanV4d2hTOTNvYTJnc21KTkJQanVUTm44R0pvYnVnYmtqdFZ1WFJnWVYxeVozd2NTZ1ZTa09QSkFUM0Q1UEV4Rg?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
+      },
+      {
+        "category": "国内",
+        "title": "2026年度陕西省哲学社会科学普及月启动",
+        "summary": "",
+        "source": "中国社会科学网",
+        "published_at": "2026-09-07T12:41:23+08:00",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mOGRJdXFWN1JzOXpldmdlNG1nRWxtdnByQnVGU3ZZSFlucjdxQnJ0SlU0YUlDdEtBWkZkQVVTTEduSmNmbDVlRjk3STlGOFE1V21XdVAwR0s4OE5Xa1dkMDdMZDNsZVFwYzRsLQ?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
+      },
+      {
+        "category": "国内",
+        "title": "汽车贸促会、上海贸促会联合发文：京沪车展维持单双年错峰格局",
+        "summary": "",
+        "source": "中国经济网",
+        "published_at": "2026-09-07T12:40:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52ZmFMSF92N0tzVWhMUXI2WWVhT3VNRXJ2aDBfNUdvM2J5YmNiVjJuUXJnbkN5TFo2aEdPU0FyNU5sczhWVmJVQjkzU3BQQ3g2WDU2WGpwNzlYTENCY0tIYg?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
+      },
+      {
+        "category": "国内",
+        "title": "SS2027北京时装周新闻发布会暨郭培居庸关长城高定艺术发布圆满举办",
+        "summary": "",
+        "source": "中国经济网",
+        "published_at": "2026-09-07T12:29:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1JUVIzN0pWbzVrVFJkemFfUVM0Ul9XcHUxTGJUQXNrUHVHM0N6aGYyM2o4V1h4WW5tRWQwcDNLd3N5TVk1OE9XTU54X1l3d0ZnVFhFV3cxQUFvc0VvYUVXMzZxVGZvMUZaSFE?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
+      },
+      {
+        "category": "国内",
+        "title": "中国推动住宅“竣工后销售”",
+        "summary": "",
+        "source": "日经中文网",
+        "published_at": "2026-09-07T12:20:45+08:00",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lOHk0ZUpIcWNJLWhPSXlOVXVVN3UteVktUmFoQnQxUDBpa2ZNdG54QTUwU3RqbF9waVp2anNzSkRTdW5jejgtM21IRDBjN2Qtc0RkblpFNEtZVlo0d3ZEdzFsNV9lT24tbS1GcjVmdnhnVDZLVnc?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
+      },
+      {
+        "category": "国内",
+        "title": "中外代表共议亚太合作：经贸相连也要心意相通",
+        "summary": "",
+        "source": "中青在线",
+        "published_at": "2026-09-07T12:18:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04NllSMndITXJZOWlZQWl1T1pzYWNjRDh0RGo4c21iOGtBVkpiRHN0UFd1NUYzcEFIVFdrQ1FJOGIwTUZaYjVPWV9kcWRnUzFMWEpmX21iazBJWDNJYlJfVHhKbFV5aDctaTctbThnWkUyQVFjNG9ZVw?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
+      }
+    ],
+    "world": [
+      {
+        "category": "国际",
+        "title": "德国东部萨安州选举 极右翼政党取得重大胜利 | 国际",
+        "summary": "",
+        "source": "orientaldaily.com.my",
+        "published_at": "2026-09-07T11:54:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hczZocXpVSkRFY296a1FQT241MDgtRmtCRDBSMnFuMXkwaTRzM0l1dW1tZkVPMWx3aGFJaFYxQkJ3MVgtakJ1eTVTZEtVZFI2TGNJZDlqRHZfS2lkbVp1LXVFQWdmQmwtaGVDa0hIQi13QWw4TUF0SA?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false
+      },
+      {
+        "category": "国际",
+        "title": "再耗下去都得崩盘？俄乌和谈迎重大进展，普京一举动气炸泽连斯基，双方同步停火背后藏着超多耐人寻味的门道！",
+        "summary": "",
+        "source": "Sohu",
+        "published_at": "2026-09-07T11:23:07+08:00",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTFdJa2V0VnVMU2ROcGJ2bFAwSmpUSXFUNTcwbktuODdxTTQ4NUc4ZUJYOElvbHA2dWU3Vmw1Vll4bXhteXhEX0J6YlNCWVVDWUtvNEp5WUNCQktBd2xrMXkxNTNLRnhaMF9xQkxWcDZmS0U5dm1jekcydFA3MkhrVFpGZFZCcGQ0RUpUSA?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false
+      },
+      {
+        "category": "国际",
+        "title": "再打下去都得完蛋？俄乌和谈重大进展，普京一个举动让泽连斯基气炸",
+        "summary": "",
+        "source": "Sohu",
+        "published_at": "2026-09-07T10:51:41+08:00",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOenlrTTE3ZXluZjVfVW5QdkhQNFAtdFY3bEhmRHI1NVZUSXlDU0hvLU9VTll5NHZZeDN6S2RzMnhhd0VrT3E3RTRMT2pyNVNMeGgyek1VTlV5MG1uZjVndlJkWFYwY3VBV2w1SXMzLUdibTVmcy1wNlFEVlNYUFZYb0dabFQ3VGNrOUY3aQ?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false
+      },
+      {
+        "category": "国际",
+        "title": "民主党期中选举拿下参众两院的可能性持续升高，美银：将成重大避险事件",
+        "summary": "",
+        "source": "新浪财经",
+        "published_at": "2026-09-07T09:44:26+08:00",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqOGtkblNnemJzV0VTa05xZWQ3T0Rvdm1nYVFQNDIwczVyeWVKM0FQYnB6cEg3MEhycUg5S08yT2pxdzNlSnJCUnlGeGpZTWxRZE85N0N0Y1I4N0pPMW1sVDRhWEk0QkNvTzVVMHNNTkdGcmlfYXc?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false
+      },
+      {
+        "category": "国际",
+        "title": "特朗普政府再战最高法院！强推邮寄选票新限制，11月选举恐迎重大变数",
+        "summary": "",
+        "source": "FX168财经",
+        "published_at": "2026-09-07T09:31:39+08:00",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVQU1QUXlFWmlIakVaN1BPVHF0RkI5Y3Q5WWVWdVdGTmdUeHNNYl9UMU1WME82QWtzcnBJTUhwZks3emZCV3JqZXpjWjI0QzlPLWl3SHgwWkxYZHRVQjluX21aa1FHLURPeDlOYWZTY1YwVmdCdjN0WA?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false
+      },
+      {
+        "category": "国际",
+        "title": "泽连斯基预计战争将持续到冬季 寻求防空与能源援助",
+        "summary": "",
+        "source": "中华军事",
+        "published_at": "2026-09-07T09:16:41+08:00",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zMjVWWnVySHVlakFyLWp1a3RYeG44Uzh6YWJXNlducUpfTXRybXpsSWZFcHlEX2dReHFrNFo0WDBkTVpRMFhGa2VjeVRwQnExakY0c21rYTBQeklqSmNvOW83U0RNbEtHTHdidmhsOXk?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false
+      },
+      {
+        "category": "国际",
+        "title": "特朗普突发重大表态：加拿大与美国的货币“失衡”不可接受！",
+        "summary": "",
+        "source": "FX168财经",
+        "published_at": "2026-09-07T08:17:41+08:00",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiSjlxT3VqNjM0cWJjdjg3cnBQMmU0TDQ3NmgycGUwRFZ0QkFRc2xlUlQxWDJ2U2VaaVNCaGpsZExiVVBVXzZuM19PRXFKVzQ4bWttNDNxUFVjTHp0OENIdjlEeFBvcEdJV0lCaFR5eDA1NURZQXJ5Vw?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false
+      },
+      {
+        "category": "国际",
+        "title": "伊朗，重大宣布！霍尔木兹海峡，传大消息！国际油价，突迎重磅",
+        "summary": "",
+        "source": "新浪财经",
+        "published_at": "2026-09-07T07:27:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkVnRDTzI5Qk9TU0Q2NHZCX2JVZFlhSERobUFTMWRMd19VY2VGb1lQd1ktNFYtQnJtb0lnNGswM1h1a2ZlUmdsUk10ZUpwMTRuWEtla1dNaDNlMC1QTHB6dzlWN19XWkh1aWQ2ai1zN3NQV0R2LWpaLQ?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false
+      }
+    ],
+    "finance": [
+      {
+        "category": "财经",
+        "title": "低利率环境叠加险资新规，红利低波防御价值凸显，南方基金旗下红利低波50ETF南方(515450)跟踪标的指数标普中国A股大盘红利低波50指数(SPCLLHCP.SPI) 前一交易日收涨0.61%",
+        "summary": "",
+        "source": "财联社",
+        "published_at": "2026-09-07T10:32:35+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5YaEh1TDNjRnFfTDJOYTRrVVVkY2hFSmVtdmRzVHlFWGtqSlREUVlDN09ueEItd1pNYS0tV3U1TWhtVDdLMFZNQw?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true
+      },
+      {
+        "category": "财经",
+        "title": "特斯拉中国宣布：最高现金激励10000元",
+        "summary": "",
+        "source": "新浪财经",
+        "published_at": "2026-09-07T09:45:20+08:00",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtVEZqa3Z5UktWeHJBLVdYN3ZSbE9Lb2t5ODhqVUVJRllmZVBHRTRyZ2F2T0ppcHBPVU9kaVJna1E2Slhfdl8zeDBTMDZtZThHdk95TUN1YjRJSVplUFhFaHRoN3NQbXJRSU1OQ1dR?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false
+      },
+      {
+        "category": "财经",
+        "title": "中国央行：今日开展5亿元7天逆回购操作，投标量5亿元，中标量5亿元，操作利率为1.40%，与此前持平。",
+        "summary": "",
+        "source": "新浪财经",
+        "published_at": "2026-09-07T09:21:42+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SUW40QzVmc1R3Yks5emhpakotVUJOaU00NTJWdVpYcjZFREJEU1I5UmZyVzFHb2IzekRMUFd3N1hFZUlNWTZRUk84VQ?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false
+      },
+      {
+        "category": "财经",
+        "title": "本周重磅日程：中美CPI、苹果折叠屏iPhone首秀、甲骨文财报、欧央行决议",
+        "summary": "",
+        "source": "华尔街见闻",
+        "published_at": "2026-09-06T19:54:59+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10NU1RS2VFcDh4WHl0d044NVBzZ3haTFJ6LWhmZVY1dlFIUFdIbDlZV2d2RklqSGNpXzdxQWhUU2xNSnZWd3hQcDg0X1dCSV9qTlpR?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false
+      },
+      {
+        "category": "财经",
+        "title": "黄金暴跌是骗局？华尔街做空，中国央行疯狂扫货 展开",
+        "summary": "",
+        "source": "video.sina.com.cn",
+        "published_at": "2026-09-06T19:46:03+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaE8zR3lRMEFzallOclNpLXpXZ1h2VnJ3RW1yekc4VzNRRDhxVDZuSE9TN1NFSFg3LVd1dXAzQnZZN2xrQlJqQ3FhakZjVWxLTXVHQ3lYRHRab25pWmhVME9pSlFYdFhQZkRBbjBvWjV0clNJOTdxYTgtUFJySzd3ZXh3?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false
+      },
+      {
+        "category": "财经",
+        "title": "专家：房地产信贷制度迎里程碑式改革，当群众还款困难，银行应该共担风险",
+        "summary": "",
+        "source": "中华网",
+        "published_at": "2026-09-07T13:52:57+08:00",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhRkhPZzAxcmhjRjlEWnhrT0VlbHZZWU9ZMjdCWkR4SHdZS1lJeVlaYXp5UTRkbUdNVzV0dlNkYUR0eHZqS001Y1I3bUp5QXhsSGJHdzlkRGpVcWhvbFJ1VTNjZFJ4R2NhMHd6WUh6cGg?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
+      },
+      {
+        "category": "财经",
+        "title": "“中国版Palantir”中科闻歌获恒生综指、港股通“双纳入”",
+        "summary": "",
+        "source": "新浪财经",
+        "published_at": "2026-09-07T13:13:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52cUU0d1JZSy1ZYUdfNmV5S2hNbTRvT1V1aUdxQkFaTWhkYkhMOVRNdmNXaHk2SFdHczZNci1JMzY4ZExNWkNrbmY4QTR3aXFIdk1ON3p4ZHNPaTlFalJsN2dmd2pHVU5uLWlWLXl1aFFOUGxpUEdIVQ?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
+      },
+      {
+        "category": "财经",
+        "title": "里昂：中国内地土地市场呈杠铃格局 偏好低杠杆龙头国企",
+        "summary": "",
+        "source": "观点网",
+        "published_at": "2026-09-07T12:25:14+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA2eUFTeDRsZlhMal9tRFVsYWV5alRVR3hIZ3lKVWFYdmplMjN3alZ3ZGNpdHlrblpUZlcyWjQwMWR5OVRqTVpLOUhvUWZITW13ams0R2xzdDdLc0pHQkRwTXZn?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
+      },
+      {
+        "category": "财经",
+        "title": "港股内房股盘中普跌 绿城中国、中国金茂跌近3%",
+        "summary": "",
+        "source": "观点网",
+        "published_at": "2026-09-07T11:40:12+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KdmNuWm54UHgxbzdLcmVyMy0wbE1LS3hoMDNCa1dQblV1eDh5STl5NnFBdUc0QkpJZ0trUTZuV3ZFN0FTd2gxcUxUeldsa05vQmZKOTVoZmg3TUFsR3pZTEN3?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
+      },
+      {
+        "category": "财经",
+        "title": "中国又一产业 从“一芯难求”到“内卷”",
+        "summary": "",
+        "source": "aboluowang.com",
+        "published_at": "2026-09-07T11:23:59+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pc3VrMmxjZWo1SU5CVXlpZ2VyRDRUVTNtVlEwb2VaOUZ1bkI4Yi05emFRTTVEcXh5cmRvUUp4bkZWZ1A2WUFIemZBQmlLdnZfWHpnTE5lWkllSDRSdVlzOFFGRdIBY0FVX3lxTE1pc3VrMmxjZWo1SU5CVXlpZ2VyRDRUVTNtVlEwb2VaOUZ1bkI4Yi05emFRTTVEcXh5cmRvUUp4bkZWZ1A2WUFIemZBQmlLdnZfWHpnTE5lWkllSDRSdVlzOFFGRQ?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
+      }
+    ],
+    "tech": [
+      {
+        "category": "科技",
+        "title": "中国机器人在沙特LEAP科技展“圈粉”",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-09-07T08:53:53+08:00",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fTEJSQXhBQlQ5ZUxGa1NmMnU1TXhUM1RTc3l0YTJheXU1ZXRqc3RSNlptSWRUUEVYZERWUVJfVTVvSzROXzI5QkFsTEJFVnJxank2enp5UGtGRzVKYUVpVHlnMHJPQVRoWXJFWjY1XzJQUDR3YTRwelNTZm4?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true
+      },
+      {
+        "category": "科技",
+        "title": "人民锐评：半导体迎来“韬（τ）定律” 中国定义将改写世界",
+        "summary": "",
+        "source": "财联社",
+        "published_at": "2026-09-07T01:48:37+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RYXNPb01HbnRFa180a2M1dFdZU1lLMkpkU3VQTkpIUFRVV25JVjNDM0tORllFci00MzNha1pVTUt2eHJMNzhRRA?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true
+      },
+      {
+        "category": "科技",
+        "title": "海外研选 | 巴克莱：自动化3.0时代开启 人形机器人市场10年后或达2000亿美元",
+        "summary": "",
+        "source": "财联社",
+        "published_at": "2026-09-07T00:50:18+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE12ZjBIMXNiQVEtUTZXbHRaMTFFNGtGVjdUM1hLY3RwSm9lcS15Z1k4WkgzdW9LT3Y4ZUJyN3hjUjhDTHNaOWhzcg?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true
+      },
+      {
+        "category": "科技",
+        "title": "观察：中国机器人“登陆”IFA 25号馆",
+        "summary": "",
+        "source": "财联社",
+        "published_at": "2026-09-06T16:33:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9YcjUzRXE1VzBmVkFaVkdYOGNlLWZmbjN4LTdLQmhoM0xRaV9iUmVzWVRQNHZiU3J4M05peUFuSkduXzY1aFhlTw?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true
+      },
+      {
+        "category": "科技",
+        "title": "画廊 Ennead Architects 建筑事务所宣布中国南京麒麟科技创新园项目计划 - 7",
+        "summary": "",
+        "source": "ArchDaily",
+        "published_at": "2026-09-07T07:18:02+08:00",
+        "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPOWZENkpoNnp1ZWlQZWdZMzlnLTlIT1JDbVZ5b3VDcnBvajgtOGVvaDV5OXQwNVFOWVFDSkNLbWlrZ01NU2tHaVFQYUVGNGlPSnpELTRXTGtWOG0zdjMzd3otUlBXMXctTFJpSktQNHRRSmF3emExLXUtYXMza1AxWmltVWFrZzFOMmpNWFNVeHdzR0V2TnpkRmxlT3dXY2tjMkphSjE4ZktxLUxlNmRHZTVaSHJWSUQ4eFFrbExhN0tIOGw1TGRhYWpCcDVXVU1mZVROQlFsbTJPVmlCb2ZWT3BZdUxKOTNXSV8wa0pKSnlCdXRkcG9BbExSbmtMOGs0TzJOMjZUTzZ2YTd1ZjV6YUpidmFRNzBBVkVOczh3YlJQT2o2VlU5Y2FtUUc4bEhQbEw3Wjd2bTZDTGprTy1pVlFkb29nWm9kQWFlbVhJSVBfU3duT0JDLQ?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false
+      },
+      {
+        "category": "科技",
+        "title": "澳门永利网站中国登录入口：2026年5月重大科技升级与功能变革全解析",
+        "summary": "",
+        "source": "格隆汇",
+        "published_at": "2026-09-07T02:22:30+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92QTR6THJxeGtDS2ZveEdHVzBkelp4ZGp1cVJxYkE1c0xBRzNNZ3l4dU1neUpjTXZBYXdjRHdlVXV5OWRSUDg3WDN2czlYTEFFc1E?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false
+      },
+      {
+        "category": "科技",
+        "title": "开局之年看中国·日新江淮丨量子科技如何从实验室飞向“寻常百姓家”？",
+        "summary": "",
+        "source": "新浪财经",
+        "published_at": "2026-09-07T14:03:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50aldWWFlCVk1pczFpU0xmQWlFd3RpRXNydExyYzZ4M2lha3FXWnduMjh2VmxUUEIydFNJWGZnQUFPT3lMR1JlYkNGcVNGeFVjclN6Ql9PVXVvcnVweUNoa21QVVlTUlNobElDQjlMNm45YmJ4MWNXQg?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
+      },
+      {
+        "category": "科技",
+        "title": "IFA2026柏林展：中国企业加码户外庭院机器人 消费市场成熟后向商用赛道拓展",
+        "summary": "",
+        "source": "新浪财经",
+        "published_at": "2026-09-07T13:59:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRTzItRDQxbU9EZVp1MVFSX1BmN2xPQlo3cHNCc0tpWHczRlRZXzNJRk9YRXBPME9wV1JFWmZ5UWxxeTdnaHFVaWdWXzRLTXp2enBNY2FERnJlTFVLSFBCVmJQaFlvMTdSYktOV2RLc0RUVTRoSmstTA?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
+      },
+      {
+        "category": "科技",
+        "title": "好评中国｜追“光”逐“量”，在科技浪潮中勇立潮头",
+        "summary": "",
+        "source": "chinanews.com.cn",
+        "published_at": "2026-09-07T13:40:40+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RdmlrcEw5MFY3UmFCa2IwVFl4cjZKdG9yNzNEUjE4VUxteGI5S0NvdmE2QU5tbXpqMkV5ZV94SHA1cXdGWXR4X3dWaFV4VUZWNUYtMFhUblJUcHNoTmZSN29odV9BU1pB?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
+      },
+      {
+        "category": "科技",
+        "title": "地平线：力争明年中国自动驾驶芯片市场市占率第一 超越英伟达",
+        "summary": "",
+        "source": "新浪财经",
+        "published_at": "2026-09-07T13:30:36+08:00",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LeWhpNkJFWjUwSEZZV1g4Y0JVbTV1b2piN1kzbm5lX3RTbTZ0X3BCNTQwTnRudzY5VXA2Vl9aVEJkWGdGdkUzVnVVVURqenZNUDZhNEdqYVRHSURqVkZjRWI0d0hDLUVtR3EwSTJDZzBTazVxcHNCaA?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
+      }
+    ],
+    "society": [
+      {
+        "category": "社会",
+        "title": "AI赋能提升中国医疗服务水平",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-09-07T10:27:25+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNUZHZlpOZDJzVG16aG9ZbXVYX2NyUTZZS29ucDhTaVNTMk9PWkpYbE1Ocmw0aW1IVlhVWWlvRk9mTkV1SWlpaFVCYXF6VWtMcjdZVXFmbDVVMnhxMlJ6OVJxUWlvUEN3TDVvZTFjbnRVLTJJV3FubUhuRzlGVXZCQXlB?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true
+      },
+      {
+        "category": "社会",
+        "title": "中国人民解放军“和平列车”医疗队抵达老挝万象",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-09-06T23:30:38+08:00",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pOV8zM1BMTnE4V0dBVXhHYW11YjBTMV9SYzNOY254OUZRaDJsZXJfOERLOE92a2lyNUJSVmViLWhGenVpcnFWUmpKRThoSnBhd00xanJmQi1VVy1NLXhXaktGeVNhRlR3dmttV0hPdXctZHdSbTJvY3hrejhFTlk?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true
+      },
+      {
+        "category": "社会",
+        "title": "施劲松任中国社会科学院考古研究所所长",
+        "summary": "",
+        "source": "thepaper.cn",
+        "published_at": "2026-09-06T19:57:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HU0JhT0ZYNm13cnR2Q3M1WnlXcEtOZ0w0N1BYczROTUprTmtBcTdwRVFYeUYxbHoza0x3SE9zQnRHdHZXc0Q1ckVBZWVmdnpmWkg2Sm5XNFI0Z1ZyRjNMWQ?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true
+      },
+      {
+        "category": "社会",
+        "title": "战争纪念馆6·25教育时使用中国宣传用语“抗美援朝”引争议",
+        "summary": "",
+        "source": "cnnews.chosun.com",
+        "published_at": "2026-09-07T06:05:01+08:00",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORFctdXNURXh4ZFM5RzNmZkw4WGlheWdrOFN2RVVSbFpzM2Fsak5wOU1GSDNfemQtNDJqckpfcmZ5OEgtaFhaSm5YZm8tLWRYRjIwRER5ZG9QNXlWd0N6c0U0SnVxRDdfS3BzeW9WblI2RFhZMEtLOURlTk9tc2RuV3ZobTVQNU5uSklRdHZR?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false
+      },
+      {
+        "category": "社会",
+        "title": "江苏大学学科数据平台建设与数据治理实践",
+        "summary": "",
+        "source": "edu.cn",
+        "published_at": "2026-09-07T14:07:47+08:00",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UTFdQRExMTC15VjVGWjlKU2dQeTJRQUJlb09PY0hWcXBydG1xRDlfYWFydGRBTXV0UF8tNnNQVjZKV2VUVW9TQ3BxeU9MZWhqRXpzVk5BRnYyU2t3bFhqR3gtMUUyVC1nSEQxNTh3?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
+      },
+      {
+        "category": "社会",
+        "title": "中国银行重庆市分行2026年金融教育宣传周活动全面启动",
+        "summary": "",
+        "source": "Sohu",
+        "published_at": "2026-09-07T13:40:22+08:00",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb0NjemxRd2xzT2dpWHd0YVlQTmkzQ3ZyUlc5MGtkdjliYm1aNmhKa1JpZnV1MHRpMWU5Q29nM2JwVHJzTUl4S2djWV9hZjFmd3JSSDVqUHh6M3dOWXUwS05TdXhXN3FtVWtUUGlaZGQ3UjBLbXhXNFVNZ2UwTVZTRWVLdzZZT3NST09rbg?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
+      },
+      {
+        "category": "社会",
+        "title": "中国平安全面启动“金融教育宣传周”，清朗金融网络，守护安心消费",
+        "summary": "",
+        "source": "新浪网",
+        "published_at": "2026-09-07T13:08:19+08:00",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wMHpyTVliRmFXd1lndVZXMGtKUEJfOTN2dWs5VVJwMlQ0amVRY0ZibG55ZV9ja3l4YlhmZ3kzajVkNl9ZTENoM3FBS1JudUtIOGVwTmRpUzc3ZDdpR1owdHdiSnQ3MHNhSU1QU2J3QUx0LWQ2QVoxb05KMVhsaFE?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
+      },
+      {
+        "category": "社会",
+        "title": "数据赋能 交叉致远",
+        "summary": "",
+        "source": "中国社会科学网",
+        "published_at": "2026-09-07T12:50:14+08:00",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZMnVkNlEzeTlVYVczeGNBeE5xeEI3MndMNGRrWlZxcUprRkE2Yjh5RmVwVWxfY3hqSUt5WS1fQ19yTU8wcTI2VnZGYzBTTUxTOV9mWmJ6OFNzOWFnWmJyZU4tWWxfdVo5MWVOSQ?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
+      },
+      {
+        "category": "社会",
+        "title": "共铸同心圆的中国叙事",
+        "summary": "",
+        "source": "中国社会科学网",
+        "published_at": "2026-09-07T12:50:10+08:00",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81VHRIckg5RVZFcDRPaWxvcmdUcTJ5OE9wZmNlaDA2Q0FQTGlBaHlWV3h6NXJMX2tlclFtSXBFWGxJNzFILS1xRzZfdVVxb1BOaFZjMDQ5cEpaSnVCSllQeVplMHBJYU9vZVVxYg?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
+      },
+      {
+        "category": "社会",
+        "title": "气学、心学的当代实学价值",
+        "summary": "",
+        "source": "中国社会科学网",
+        "published_at": "2026-09-07T12:49:24+08:00",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lVi0zLUxKMERUVlVqNF9vSVY4b3BTMVFvYXRTYlhnOWQwU2hjajUtWHNmR3J5ZnlhSnVKU1d3d1dqVWtGOVlFQnc4c2YxQklmaWdSbDFmSEJrRmgyU0ctbVg3Zy1ObVBVM0VIYg?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false
+      }
+    ],
+    "ai": [
+      {
+        "category": "AI",
+        "title": "AI时代学数学出路在哪？同济陈小杨：别局限于小方向，大胆挑战核心问题",
+        "summary": "",
+        "source": "thepaper.cn",
+        "published_at": "2026-09-07T13:58:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1b2F3RTdkRDlTN2RpcnhrRWxrV1dhM1FBcndYZzVkZUUzd1ZqcVFKSmJZZUUwVGYtZHBnU0lTWVVscnZJWDlyT3hmeDBzZVpmX1M2QW82TVB6dzlRX3c?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true
+      },
+      {
+        "category": "AI",
+        "title": "开展人工智能中小企业创业支持计划",
+        "summary": "",
+        "source": "人民日报",
+        "published_at": "2026-09-07T12:42:27+08:00",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbjY2WDZ5Q1FzSkhXT0dFT2JheDVyQi1zRVNEYnYtS2c3SklUT1VERVp5eVltRk5jMjlqcFlMWDFZeVhZbExjY1EtNVpCYlcwN0lfZkkwUnUzTVRVZTZOUU16bXNJZi0tbXRtdjF1OTIzQVIzb3Z3SXY0TkI3Z0d5Tw?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true
+      },
+      {
+        "category": "AI",
+        "title": "电报解读",
+        "summary": "",
+        "source": "财联社",
+        "published_at": "2026-09-07T11:01:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1qbFpWaVA0WUFzdzVfT3dLSzBiRXpNTWIza1RrU1BwalNJdG9wY2NHS2ZNVDc4cy1SdU5ZLUJQS1NOWEZER3dHRw?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true
+      },
+      {
+        "category": "AI",
+        "title": "AI算力狂潮延续，关注南方基金旗下创业板人工智能ETF南方（159382）等科技系列ETF布局机遇",
+        "summary": "",
+        "source": "财联社",
+        "published_at": "2026-09-07T10:33:05+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1FTXgxUDQxX0lBRjIyNWZUanEzM0ZfdDhNM21QZzBGWmpOZWJVdC03YlFJVGtCckZvUTY2dzVrVkp1RHlybTdWMw?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true
+      },
+      {
+        "category": "AI",
+        "title": "AI赋能提升中国医疗服务水平",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-09-07T10:27:25+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNUZHZlpOZDJzVG16aG9ZbXVYX2NyUTZZS29ucDhTaVNTMk9PWkpYbE1Ocmw0aW1IVlhVWWlvRk9mTkV1SWlpaFVCYXF6VWtMcjdZVXFmbDVVMnhxMlJ6OVJxUWlvUEN3TDVvZTFjbnRVLTJJV3FubUhuRzlGVXZCQXlB?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true
+      },
+      {
+        "category": "AI",
+        "title": "人工智能让“中国智造”更具吸引力",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-09-07T10:25:10+08:00",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CXzJ5QmtqdzZtbUtONFBTLUk3Tm94RVFNNWtNbncyY3MtQlJEQXpiLWlfNUR0VWY5YTV1emF3T0ZCckdYTi1reTJNdFo2Nk9PaDQ0aVlyWk5ZWk9BcFhER3pTZWs0TlBzWkNMZWZ1Y2JOd2xwMU8tUWZ4dU1SQQ?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true
+      },
+      {
+        "category": "AI",
+        "title": "读懂人工智能的“千里马之喻”（创新谈）",
+        "summary": "",
+        "source": "人民日报",
+        "published_at": "2026-09-07T08:34:12+08:00",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HT1g3NmFOcGZOTWYyV0ZwOHV2bHc1QmpxbEZCUzV2aGNVYWVFUGlDWTR3MTFzeTgxd0R3aTg3c2RCSlE0MU9jUTItQi1TUXc4TmRsZzJnV1R4cHVvUjNId2swbUZ1YnEzNndpQklMbFd2UlUwbjhobTNjZEE5a2c?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true
+      },
+      {
+        "category": "AI",
+        "title": "什么信号？科技巨头疯狂迭代AI模型秀实力，但用户和专家显审美疲劳！",
+        "summary": "",
+        "source": "财联社",
+        "published_at": "2026-09-07T08:06:12+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1JWUNNUUFVaEVhRE1tcWNqSEM2V0lkaTUzbm5ld1BlbVZYVTczX210QmdxNzZuVUQ4WG82R3JWdVc4M2JsYlRuMA?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true
+      },
+      {
+        "category": "AI",
+        "title": "和衷共济完善人工智能全球治理（专题深思）",
+        "summary": "",
+        "source": "人民日报",
+        "published_at": "2026-09-07T06:22:02+08:00",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tRmxGTkw5ZktIZFNnOUY4WUlnV3JPbXhfLVJFdjdPOFRPbXpYcFNQbTEtX3dNbHdsNHdjcW00d3JaaTBvQnpuVFBhQnFYNU9iYlh5RXFTOVFEYzlZR1IzYlhXaVBJUWxVbDRPSlhBeHVScno1V2dhZXRPeE5WS2c?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true
+      },
+      {
+        "category": "AI",
+        "title": "中兴努比亚宣布全球首款AI智能体手机9月16日发布",
+        "summary": "",
+        "source": "观点网",
+        "published_at": "2026-09-07T14:19:16+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaeGpBZ2pUMnNhV1FBSHY1YTRZMTRCUGRBbTgtX2g1ZWpiUGlXb0hSdHZ1SlRpeXd6WU1ubFprRE43bnl4Qk5Ia0NoWlZoT1g3XzVKT05TaV93c1JfRzRvVkhR?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false
+      }
+    ]
   },
-  "markets":[
-    {"name":"黄金","symbol":"GC=F","price":"--","unit":"USD/oz","change_pct":0,"note":"等待自动更新"},
-    {"name":"白银","symbol":"SI=F","price":"--","unit":"USD/oz","change_pct":0,"note":"等待自动更新"},
-    {"name":"WTI原油","symbol":"CL=F","price":"--","unit":"USD/bbl","change_pct":0,"note":"等待自动更新"},
-    {"name":"布伦特原油","symbol":"BZ=F","price":"--","unit":"USD/bbl","change_pct":0,"note":"等待自动更新"},
-    {"name":"天然气","symbol":"NG=F","price":"--","unit":"USD/MMBtu","change_pct":0,"note":"等待自动更新"},
-    {"name":"铜","symbol":"HG=F","price":"--","unit":"USD/lb","change_pct":0,"note":"等待自动更新"}
+  "markets": [
+    {
+      "name": "黄金",
+      "symbol": "GC=F",
+      "price": "4476.60",
+      "unit": "USD/oz",
+      "change_pct": 1.06,
+      "note": "Yahoo Finance 延迟行情"
+    },
+    {
+      "name": "白银",
+      "symbol": "SI=F",
+      "price": "66.75",
+      "unit": "USD/oz",
+      "change_pct": 1.06,
+      "note": "Yahoo Finance 延迟行情"
+    },
+    {
+      "name": "WTI原油",
+      "symbol": "CL=F",
+      "price": "91.48",
+      "unit": "USD/bbl",
+      "change_pct": 0.0,
+      "note": "Yahoo Finance 延迟行情"
+    },
+    {
+      "name": "布伦特原油",
+      "symbol": "BZ=F",
+      "price": "96.28",
+      "unit": "USD/bbl",
+      "change_pct": 0.0,
+      "note": "Yahoo Finance 延迟行情"
+    },
+    {
+      "name": "天然气",
+      "symbol": "NG=F",
+      "price": "2.97",
+      "unit": "USD/MMBtu",
+      "change_pct": 0.0,
+      "note": "Yahoo Finance 延迟行情"
+    },
+    {
+      "name": "铜",
+      "symbol": "HG=F",
+      "price": "6.68",
+      "unit": "USD/lb",
+      "change_pct": 1.3,
+      "note": "Yahoo Finance 延迟行情"
+    }
   ]
 }
