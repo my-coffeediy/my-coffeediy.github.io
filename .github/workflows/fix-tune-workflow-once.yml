@@ -1,0 +1,38 @@
+name: Fix Tune Workflow Once
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - ".github/workflows/fix-tune-workflow-once.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Fix literal newline in tune workflow
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('.github/workflows/tune-daily-brief-once.yml')
+          s=p.read_text(encoding='utf-8')
+          old='。\\n          anchor='
+          new='。\n          anchor='
+          if old not in s:
+              raise SystemExit('literal newline marker not found')
+          p.write_text(s.replace(old,new,1),encoding='utf-8')
+          PY
+      - name: Commit fix
+        run: |
+          git config user.name "daily-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add .github/workflows/tune-daily-brief-once.yml
+          git commit -m "fix: tune workflow newline"
+          git pull --rebase origin main
+          git push origin HEAD:main
