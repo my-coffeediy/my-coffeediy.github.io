@@ -1,0 +1,141 @@
+name: Add Brief Summaries Once
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - ".github/workflows/add-brief-summaries-once.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Add 2-3 sentence summaries and labels
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          # 1) Data generator: build a safe 2-3 sentence brief from headline + available source snippet.
+          p=Path('news/scripts/update_news.py')
+          s=p.read_text(encoding='utf-8')
+          if 'def brief_for(key,item):' not in s:
+              marker='def pack_top(key,item):\n'
+              if marker not in s:
+                  raise SystemExit('pack_top marker missing')
+              helper=r'''def brief_for(key,item):
+    """Create a concise 2-3 sentence Chinese brief without inventing facts."""
+    title=clean(item.get("title","")).strip().rstrip("。！？!?；;")
+    source=clean(item.get("source","")).strip() or "权威媒体"
+    raw=clean(item.get("summary","")).strip()
+
+    first=f"{source}报道，{title}。" if title else f"{source}发布了最新消息。"
+    parts=[]
+    if raw and norm_text(raw)!=norm_text(title):
+        raw=re.sub(r"\s+"," ",raw)
+        # Keep only factual source snippets; remove obvious navigation/boilerplate fragments.
+        raw=re.sub(r"^(点击查看|查看详情|阅读全文|更多详情)[:：]?\s*","",raw)
+        for x in re.split(r"(?<=[。！？!?])\s*",raw):
+            x=clean(x).strip()
+            if not x: continue
+            if len(x)>105: x=x[:102].rstrip("，,；; ")+"…"
+            if norm_text(x)==norm_text(title): continue
+            if x[-1:] not in "。！？!?…": x+="。"
+            parts.append(x)
+            if len(parts)>=2: break
+
+    fallback={
+        "china":"目前可确认的信息以相关部门和权威媒体后续发布为准。",
+        "world":"事件仍在发展，后续需关注各方官方表态与权威媒体的交叉确认。",
+        "finance":"后续影响将取决于政策执行、市场反应和相关数据变化。",
+        "tech":"后续重点关注官方披露、产业链反应和实际落地情况。",
+        "society":"后续重点关注主管部门通报、处置进展和实际影响范围。",
+        "ai":"后续重点关注官方发布、产品落地、监管变化与行业反馈。"
+    }[key]
+
+    if not parts:
+        parts=[fallback]
+    # First sentence + up to two factual/context sentences = 2-3 sentences total.
+    return first+"".join(parts[:2])
+
+'''
+              s=s.replace(marker,helper+marker,1)
+
+          old='''    return {\n        "title":item["title"],\n        "why_it_matters":reason_for(key,item["title"]),\n        "category":item["category"],'''
+          new='''    return {\n        "title":item["title"],\n        "summary":brief_for(key,item),\n        "why_it_matters":reason_for(key,item["title"]),\n        "category":item["category"],'''
+          if '"summary":brief_for(key,item)' not in s:
+              if old not in s:
+                  raise SystemExit('pack_top body marker missing')
+              s=s.replace(old,new,1)
+          p.write_text(s,encoding='utf-8')
+
+          # 2) Front end: show Summary and Why it matters in hero and each Top 5 item.
+          p=Path('news/app.js')
+          a=p.read_text(encoding='utf-8')
+          old='''${x.why_it_matters?`<div class="hero-reason">${esc(x.why_it_matters)}</div>`:''}'''
+          new='''${x.summary?`<div class="hero-summary"><span>摘要</span>${esc(x.summary)}</div>`:''}${x.why_it_matters?`<div class="hero-reason"><span>为什么重要</span>${esc(x.why_it_matters)}</div>`:''}'''
+          if 'class="hero-summary"' not in a:
+              if old not in a: raise SystemExit('hero reason marker missing')
+              a=a.replace(old,new,1)
+          old='''<div class="top-title">${esc(x.title)}</div><div class="top-reason">${esc(x.why_it_matters||'')}</div>'''
+          new='''<div class="top-title">${esc(x.title)}</div>${x.summary?`<div class="top-summary"><span>摘要</span>${esc(x.summary)}</div>`:''}${x.why_it_matters?`<div class="top-reason"><span>为什么重要</span>${esc(x.why_it_matters)}</div>`:''}'''
+          if 'class="top-summary"' not in a:
+              if old not in a: raise SystemExit('top item marker missing')
+              a=a.replace(old,new,1)
+          p.write_text(a,encoding='utf-8')
+
+          # 3) Styling: readable on both desktop and mobile.
+          p=Path('news/style.css')
+          c=p.read_text(encoding='utf-8')
+          css='''.hero-summary{font-size:13px;line-height:1.72;color:#d6deea;margin-top:10px;max-width:790px}.hero-summary span,.hero-reason span,.top-summary span,.top-reason span{display:inline-block;margin-right:7px;font-size:10px;font-weight:850;letter-spacing:.3px;color:#a7ddfb;background:rgba(125,211,252,.09);border:1px solid rgba(125,211,252,.14);border-radius:999px;padding:2px 7px;vertical-align:1px}.hero-reason span,.top-reason span{color:#ffd19d;background:rgba(255,184,107,.08);border-color:rgba(255,184,107,.14)}.top-summary{margin-top:8px;color:#c0cad8;font-size:12px;line-height:1.68}.top-reason{margin-top:7px}@media(max-width:520px){.hero-summary{font-size:12px;line-height:1.65}.top-summary,.top-reason{font-size:11.5px}.top-item{padding:13px;grid-template-columns:30px 1fr;gap:10px}.top-num{width:30px;height:30px}}
+'''
+          if '.hero-summary{' not in c:
+              c=c.rstrip()+"\n"+css
+          p.write_text(c,encoding='utf-8')
+          PY
+          python -m py_compile news/scripts/update_news.py
+
+      - name: Install dependencies
+        run: pip install -r news/requirements.txt
+
+      - name: Refresh data and validate briefs
+        run: |
+          python news/scripts/update_news.py
+          python - <<'PY'
+          import json,re
+          d=json.load(open('news/data/news.json',encoding='utf-8'))
+          top=d.get('top5',[])
+          assert len(top)==5
+          for x in top:
+              b=x.get('summary','').strip()
+              assert b, x.get('title')
+              assert x.get('why_it_matters','').strip(), x.get('title')
+              # At least two sentence-ending marks: headline fact + detail/context.
+              assert len(re.findall(r'[。！？!?…]',b))>=2, b
+          a=open('news/app.js',encoding='utf-8').read()
+          assert 'hero-summary' in a and 'top-summary' in a and '为什么重要' in a
+          print('TOP5 BRIEFS')
+          for i,x in enumerate(top,1):
+              print(i,x['title'])
+              print('摘要:',x['summary'])
+              print('重要性:',x['why_it_matters'])
+          PY
+
+      - name: Commit brief feature
+        run: |
+          git config user.name "daily-news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add news/scripts/update_news.py news/app.js news/style.css news/data/news.json
+          git commit -m "feat: add 2-3 sentence daily brief summaries"
+          git pull --rebase origin main
+          git push origin HEAD:main
