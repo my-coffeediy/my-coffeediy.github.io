@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+  <meta name="theme-color" content="#080b12" />
+  <meta name="description" content="中国新闻为主、全球头条精选、财经科技社会、AI快报与国际资源行情。" />
+  <title>今日简报 · 最新版</title>
+  <base href="/news/" />
+  <link rel="stylesheet" href="./style.css?v=20260907-1614" />
+</head>
+<body>
+  <div class="ambient ambient-a"></div><div class="ambient ambient-b"></div>
+  <div class="app-shell">
+    <header class="topbar">
+      <div class="brand"><div class="brand-mark">今</div><div><div class="eyebrow">DAILY BRIEF · LIVE</div><h1>今日简报</h1></div></div>
+      <button id="refreshBtn" class="ghost-btn" aria-label="刷新">↻ 刷新</button>
+    </header>
+
+    <section class="meta-card">
+      <div><div id="todayDate" class="date"></div><div id="updatedAt" class="muted">正在读取最新数据…</div></div>
+      <div class="status-pill"><span class="dot"></span> 新版实时数据</div>
+    </section>
+
+    <nav class="tabs" id="tabs">
+      <button class="tab active" data-tab="overview">总览</button><button class="tab" data-tab="china">国内</button><button class="tab" data-tab="world">国际</button><button class="tab" data-tab="finance">财经</button><button class="tab" data-tab="tech">科技</button><button class="tab" data-tab="society">社会</button><button class="tab" data-tab="ai">AI快报</button><button class="tab" data-tab="markets">资源行情</button>
+    </nav>
+
+    <main>
+      <section class="panel tab-panel active" data-panel="overview">
+        <div class="section-head"><div><div class="eyebrow">LEAD STORY</div><h2>今日头条</h2></div><span>最值得先看的一条</span></div>
+        <div id="heroStory"></div>
+
+        <div class="section-head"><div><div class="eyebrow">TOP 5</div><h2>今天你只需要知道这 5 件事</h2></div></div>
+        <div id="top5" class="top-list"></div>
+
+        <div class="split-grid">
+          <section><div class="section-head compact"><h2>中国重点</h2><span>优先展示</span></div><div id="chinaPreview" class="news-list"></div></section>
+          <section><div class="section-head compact"><h2>全球头条</h2><span>只看大事</span></div><div id="worldPreview" class="news-list"></div></section>
+        </div>
+
+        <section class="markets-card"><div class="section-head compact"><h2>国际资源涨跌</h2><span id="marketTime"></span></div><div id="marketStrip" class="market-strip"></div></section>
+        <section><div class="section-head compact"><h2>AI 快报</h2><span>模型 · 产品 · 行业</span></div><div id="aiPreview" class="news-list"></div></section>
+      </section>
+
+      <section class="panel tab-panel" data-panel="china"><div class="section-head"><h2>国内新闻</h2><span>政策 · 经济 · 民生</span></div><div id="chinaList" class="news-list"></div></section>
+      <section class="panel tab-panel" data-panel="world"><div class="section-head"><h2>国际头条</h2><span>仅保留重点</span></div><div id="worldList" class="news-list"></div></section>
+      <section class="panel tab-panel" data-panel="finance"><div class="section-head"><h2>财经</h2><span>市场 · 宏观 · 公司</span></div><div id="financeList" class="news-list"></div></section>
+      <section class="panel tab-panel" data-panel="tech"><div class="section-head"><h2>科技</h2><span>芯片 · 机器人 · 科研</span></div><div id="techList" class="news-list"></div></section>
+      <section class="panel tab-panel" data-panel="society"><div class="section-head"><h2>社会</h2><span>高信息量民生新闻</span></div><div id="societyList" class="news-list"></div></section>
+      <section class="panel tab-panel" data-panel="ai"><div class="section-head"><h2>AI 快报</h2><span>大模型 · 产品 · 行业</span></div><div id="aiList" class="news-list"></div></section>
+      <section class="panel tab-panel" data-panel="markets"><div class="section-head"><h2>国际资源行情</h2><span>延迟行情</span></div><div id="marketsGrid" class="markets-grid"></div><p class="disclaimer">行情用于信息浏览，不构成投资建议。不同交易所与数据源报价可能存在延迟或差异。</p></section>
+    </main>
+
+    <footer><p>中国新闻优先，全球仅保留头条级事件。重点新闻显示摘要与“为什么重要”。</p><p>自动更新：08:00 / 12:00 / 20:00（北京时间）</p></footer>
+  </div>
+  <script src="./app.js?v=20260907-1614"></script>
+</body>
+</html>
