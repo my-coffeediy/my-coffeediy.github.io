@@ -5,6 +5,7 @@ on:
   push:
     paths:
       - "news/scripts/update_news.py"
+      - "news/scripts/localize_markets.py"
       - "news/scripts/add_quick_briefs.py"
       - "news/scripts/enrich_quick_briefs.py"
       - "news/scripts/enrich_ddg.py"
@@ -38,6 +39,8 @@ jobs:
         run: pip install -r news/requirements.txt
       - name: Refresh news and markets
         run: python news/scripts/update_news.py
+      - name: Convert resource prices to RMB
+        run: python news/scripts/localize_markets.py
       - name: Add quick briefs for every story
         run: python news/scripts/add_quick_briefs.py
       - name: Enrich detailed quick briefs
@@ -62,5 +65,5 @@ jobs:
             git push origin HEAD:main
           fi
 
-# Daily Brief v6: fuller validated quick summaries, no separate “why it matters” block,
-# Google/Bing/DuckDuckGo enrichment, and conflict-safe scheduled publishing.
+# Daily Brief v7: market cards are localized to RMB and compare the latest quote
+# with the previous trading session, alongside the validated news-summary pipeline.
