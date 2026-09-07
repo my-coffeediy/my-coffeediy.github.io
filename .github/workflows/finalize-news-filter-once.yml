@@ -51,8 +51,8 @@ jobs:
               if marker not in s: raise SystemExit('CLICKBAIT marker missing')
               s=s.replace(marker,marker+additions,1)
 
-          needle='''        title,source=parse_source(clean(e.get("title","")))\n        norm=norm_text(title)\n'''
-          replacement='''        title,source=parse_source(clean(e.get("title","")))\n        if key=="china" and any(w in title for w in FOREIGN_MARKERS) and not any(w in title for w in CHINA_ANCHORS):\n            continue\n        norm=norm_text(title)\n'''
+          needle='''            title,source=parse_source(clean(e.get("title","")))\n            norm=norm_text(title)\n'''
+          replacement='''            title,source=parse_source(clean(e.get("title","")))\n            if key=="china" and any(w in title for w in FOREIGN_MARKERS) and not any(w in title for w in CHINA_ANCHORS):\n                continue\n            norm=norm_text(title)\n'''
           if needle not in s:
               raise SystemExit('fetch_section title marker missing')
           s=s.replace(needle,replacement,1)
