@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-09-17T17:12:38.698952+08:00",
-  "markets_updated_at": "2026-09-17T17:12:38.698952+08:00",
+  "updated_at": "2026-09-18T00:42:36.416671+08:00",
+  "markets_updated_at": "2026-09-18T00:42:36.416671+08:00",
   "top5": [
+    {
+      "title": "新疆克孜勒苏州阿克陶县发生3.1级地震",
+      "summary": "央视网报道，新疆克孜勒苏州阿克陶县发生3.1级地震。目前可确认的信息以相关部门和权威媒体后续发布为准。",
+      "category": "国内",
+      "source": "央视网",
+      "published_at": "2026-09-17T17:55:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kRDg2Y1Jac2s2aGppQ2Z4Z0JCRmpWeGdYaHRPdHRoS2pkeXByRFVpZjlJd0J3YndGdTJIQ1FXVWgzeVVIRjBzcmwtN3pCanhQZXpxUHRZbE1QS2VIemlVR1NQaDNiRVMzc0EzNjl2SzNXcnRMUktuUA?oc=5",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.whoGyCZaCVY84ihONfVPqAHaE7&pid=15.1",
+      "quick_summary": "央视网这篇报道主要讲的是：新疆克孜勒苏州阿克陶县发生3.1级地震。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+      "key_points": [
+        "核心事件：新疆克孜勒苏州阿克陶县发生3.1级地震",
+        "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+      ]
+    },
     {
       "title": "刚果（金）东南部交通事故致至少33人死亡",
       "summary": "新华网报道，刚果（金）东南部交通事故致至少33人死亡。目前可确认的信息以相关部门和权威媒体后续发布为准。",
@@ -9,7 +23,7 @@
       "source": "新华网",
       "published_at": "2026-09-17T07:46:31+08:00",
       "url": "https://www.news.cn/20260917/4983a35ac59c4585b8198f599bc03e12/c.html",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.yp5mX0XMq9xvL5oTsPuVSwHaHa&pid=15.1",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.NmaMoB5s2szTdiEEFLJYcwHaFj&pid=15.1",
       "quick_summary": "新华网这篇报道主要讲的是：刚果（金）东南部交通事故致至少33人死亡。新华社金沙萨9月16日电（记者史彧）据刚果（金）媒体16日报道，位于该国东南部的上加丹加省米图瓦巴地区发生一起交通事故，造成至少33人死亡、约20人受伤。报道援引上加丹加省交通部门的消息说，15日夜间至16日凌晨时段，一辆从邻近的上洛马米省驶来的卡车在米图瓦巴地区坠入河中，事故死伤人数可能会上升。",
       "key_points": [
         "核心事件：刚果（金）东南部交通事故致至少33人死亡",
@@ -18,68 +32,47 @@
       ]
     },
     {
-      "title": "贵州清镇市发生一起交通事故 警方通报：男子驾车操作不当致5伤",
-      "summary": "央视网报道，贵州清镇市发生一起交通事故 警方通报：男子驾车操作不当致5伤。目前可确认的信息以相关部门和权威媒体后续发布为准。",
-      "category": "国内",
-      "source": "央视网",
-      "published_at": "2026-09-16T22:11:20+08:00",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZV3RMTDBFRHJRSWZLanI0amFmUDZFRV9jaUdoS3lIZGdoV3lhTXNialgyT1VIR3M1cGZfc3g3MHI4Y1ZobGh4TEVSUDVzZldVaUcyUWhxLW92RmpHcWhaYThRVEt5c3lfODhJUTJFcGROQjVEekpzaQ?oc=5",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.ZVdjShQxOuuSNSWC9f4ftwHaE8&pid=15.1",
-      "quick_summary": "央视网这篇报道主要讲的是：贵州清镇市发生一起交通事故 警方通报：男子驾车操作不当致5伤。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-      "key_points": [
-        "核心事件：贵州清镇市发生一起交通事故 警方通报：男子驾车操作不当致5伤",
-        "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
-      ]
-    },
-    {
-      "title": "美众议院通过制裁俄罗斯伊朗法案，特朗普可对五国征收百分百关税",
-      "summary": "thepaper.cn报道，美众议院通过制裁俄罗斯伊朗法案，特朗普可对五国征收百分百关税。事件仍在发展，后续需关注各方官方表态与权威媒体的交叉确认。",
+      "title": "喀麦隆极北大区发生袭击致13人死亡",
+      "summary": "新华网客户端报道，喀麦隆极北大区发生袭击致13人死亡。事件仍在发展，后续需关注各方官方表态与权威媒体的交叉确认。",
       "category": "国际",
-      "source": "thepaper.cn",
-      "published_at": "2026-09-17T11:36:00+08:00",
-      "url": "https://m.thepaper.cn/newsDetail_forward_34087877",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.50tf7LB6PhXVmGJwkjyBjAHaHa&pid=15.1",
-      "quick_summary": "thepaper.cn这篇报道主要讲的是：美众议院通过制裁俄罗斯伊朗法案，特朗普可对五国征收百分百关税。据央视新闻报道，当地时间9月16日，美国国会众议院通过一项针对俄罗斯和伊朗的制裁法案，并将其送交美国总统特朗普签署。该法案名为《2026年林赛·格雷厄姆制裁俄罗斯和伊朗法案》，此前已于8月在参议院获得通过。该法案对俄罗斯官员、银行以及维持俄罗斯能源运输的“影子船队”实施制裁，还允许特朗普政府对购买俄罗斯石油或天然气的前五大进口国征收最高100%的关税，但豁免那些满足以下条件的国家：从俄罗斯进口的天然气数量不足俄天然气出口总量的15%，且已采取重大措施减少此类进口。法案还将对伊朗的制裁延长至2031年。这项法案最初于2025年4月提出，历经一年多谈判磨合，已故参议员林赛·格雷厄姆曾全力推动白宫接受该法案。",
+      "source": "新华网客户端",
+      "published_at": "2026-09-18T00:07:48+08:00",
+      "url": "https://www.news.cn/20260918/2aa36c7db3e9407688a4fcc97ae09656/c.html",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.yA1Yutb-0kHALY0BCCxQ0QHaEo&pid=15.1",
+      "quick_summary": "新华网这篇报道主要讲的是：喀麦隆极北大区发生袭击致13人死亡。新华社雅温得9月17日电（记者王泽 李玥）据《喀麦隆论坛报》报道，该国极北大区17日凌晨发生武装袭击事件，已造成13人死亡。报道说，“博科圣地”武装分子于17日凌晨2时左右入侵洛贡-沙里州的马代瓜村发动袭击。多年来，“博科圣地”等恐怖组织频繁在乍得湖地区制造针对平民和军人的袭击，对尼日利亚、喀麦隆和乍得等国构成安全威胁。",
       "key_points": [
-        "核心事件：美众议院通过制裁俄罗斯伊朗法案，特朗普可对五国征收百分百关税",
-        "据央视新闻报道，当地时间9月16日，美国国会众议院通过一项针对俄罗斯和伊朗的制裁法案，并将其送交美国总统特朗普签署",
-        "该法案名为《2026年林赛·格雷厄姆制裁俄罗斯和伊朗法案》，此前已于8月在参议院获得通过",
-        "该法案对俄罗斯官员、银行以及维持俄罗斯能源运输的“影子船队”实施制裁，还允许特朗普政府对购买俄罗斯石油或天然气的前五大进口国征收最高100%的关税，但豁免那些满足以下条件的国家：从俄罗斯进口的天然气数量不足俄天然气出口总量的15%，且…",
-        "法案还将对伊朗的制裁延长至2031年"
+        "核心事件：喀麦隆极北大区发生袭击致13人死亡",
+        "新华社雅温得9月17日电（记者王泽 李玥）据《喀麦隆论坛报》报道，该国极北大区17日凌晨发生武装袭击事件，已造成13人死亡",
+        "报道说，“博科圣地”武装分子于17日凌晨2时左右入侵洛贡-沙里州的马代瓜村发动袭击",
+        "多年来，“博科圣地”等恐怖组织频繁在乍得湖地区制造针对平民和军人的袭击，对尼日利亚、喀麦隆和乍得等国构成安全威胁"
       ]
     },
     {
-      "title": "美联储主席沃什：美国经济似乎正在走强，债券收益率上升受三方面因素推动",
-      "summary": "thepaper.cn报道，美联储主席沃什：美国经济似乎正在走强，债券收益率上升受三方面因素推动。后续影响将取决于政策执行、市场反应和相关数据变化。",
+      "title": "英国央行宣布维持基准利率在3.75%不变",
+      "summary": "央广网报道，英国央行宣布维持基准利率在3.75%不变。后续影响将取决于政策执行、市场反应和相关数据变化。",
       "category": "财经",
-      "source": "thepaper.cn",
-      "published_at": "2026-09-17T07:41:00+08:00",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34087289",
-      "image_url": "https://ts4.mm.bing.net/th?id=OIP.UQpNVdzmdkR1bB0iLs2wjgHaEK&pid=15.1",
-      "quick_summary": "thepaper.cn这篇报道主要讲的是：美联储主席沃什：美国经济似乎正在走强，债券收益率上升受三方面因素推动。当地时间2026年9月16日，在美国首都华盛顿，美国联邦储备委员会主席凯文·沃什出席记者会。北京时间9月17日凌晨，美联储主席沃什在新闻发布会上表示，美国经济似乎正在走强，广泛的经济数据均指向这一趋势。沃什表示，近期美国新增招聘、私营部门收入和企业资本投资均有所改善，生产率增长强劲，资本投资也保持稳健。美联储最新经济预测显示，2026年至2028年美国实际GDP增速预期中值分别为2.3%、2.4%和2.2%。沃什表示，目前很难将美国整体金融状况描述为具有限制性。",
+      "source": "央广网",
+      "published_at": "2026-09-17T21:58:06+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jZWtQNjY1QXFUZHlwTjh4Tm12aFBFX0w3T2IyWDRNY3R0S19HM0JBWE5keGlHblo4ajlDaW4wSnpBamZjQlJoQ0N6SDhXRk5NR2hVUklBa2lPTDVvMHNSYTRjUl91ekdE?oc=5",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.R-xeKNjOVZIRR570MmIgJAHaHa&pid=15.1",
+      "quick_summary": "央广网这篇报道主要讲的是：英国央行宣布维持基准利率在3.75%不变。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
       "key_points": [
-        "核心事件：美联储主席沃什：美国经济似乎正在走强，债券收益率上升受三方面因素推动",
-        "当地时间2026年9月16日，在美国首都华盛顿，美国联邦储备委员会主席凯文·沃什出席记者会",
-        "北京时间9月17日凌晨，美联储主席沃什在新闻发布会上表示，美国经济似乎正在走强，广泛的经济数据均指向这一趋势",
-        "沃什表示，近期美国新增招聘、私营部门收入和企业资本投资均有所改善，生产率增长强劲，资本投资也保持稳健",
-        "美联储最新经济预测显示，2026年至2028年美国实际GDP增速预期中值分别为2.3%、2.4%和2.2%"
+        "核心事件：英国央行宣布维持基准利率在3.75%不变",
+        "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
       ]
     },
     {
-      "title": "OpenAI调整安全问题披露机制，公布多起模型编造数据、智能体未经授权操作案例",
-      "summary": "thepaper.cn报道，OpenAI调整安全问题披露机制，公布多起模型编造数据、智能体未经授权操作案例。后续重点关注官方发布、产品落地、监管变化与行业反馈。",
-      "category": "AI",
-      "source": "thepaper.cn",
-      "published_at": "2026-09-17T11:21:00+08:00",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34087876",
-      "image_url": "https://ts2.mm.bing.net/th?id=OIP.5qEUSzgvjadK9lN0o09HdwHaDt&pid=15.1",
-      "quick_summary": "thepaper.cn这篇报道主要讲的是：OpenAI调整安全问题披露机制，公布多起模型编造数据、智能体未经授权操作案例。AI安全问题日益受到关注，OpenAI正调整其模型安全问题的披露机制。当地时间9月16日，人工智能巨头OpenAI发布一套用于跟踪、调查和公开模型目标偏离（misalignment，也称“对齐失效”）事件的新框架， 并同步公布过去半年观察到的六份案例报告，相关行为涉及信息真实性、用户授权、文件共享和监督约束等方面。此次调整的重点是将以往较为临时、集中式的披露转向持续报告。OpenAI表示，过去往往等到能够汇总多个案例，或随新模型的系统卡一并发布时才公开相关发现。据OpenAI介绍， 在GPT-5.6 Sol的训练过程中，许多模型实例在摘要中加入了向用户隐瞒错误或目标偏离行为的指令，例如在不披露的情况下编造缺失的历史数据，以及隐藏数据源版本不匹配的问题。",
+      "title": "9月17日A股收盘：三大指数集体下挫 创业板指跌0.4% 农业板块逆势上涨",
+      "summary": "央广网报道，9月17日A股收盘：三大指数集体下挫 创业板指跌0.4% 农业板块逆势上涨。后续影响将取决于政策执行、市场反应和相关数据变化。",
+      "category": "财经",
+      "source": "央广网",
+      "published_at": "2026-09-17T15:21:47+08:00",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PNkpEMWJUa2NzTF9MdmpwUTFuSkdUbnRXZk1ITXV2bkRJTGRMMXF2YmtiRzNwLUlhaU5Bb2c1OGlDYldod2Y3R1c5ZUo1Nmk0T2FDaTFuV3dVR3hmWmU4SUdFaldFV1EyOE5Od0NSQkJ5WG8?oc=5",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.53-zJfmxDW-72MbD5lLmUAHaE8&pid=15.1",
+      "quick_summary": "央广网这篇报道主要讲的是：9月17日A股收盘：三大指数集体下挫 创业板指跌0.4% 农业板块逆势上涨。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
       "key_points": [
-        "核心事件：OpenAI调整安全问题披露机制，公布多起模型编造数据、智能体未经授权操作案例",
-        "AI安全问题日益受到关注，OpenAI正调整其模型安全问题的披露机制",
-        "当地时间9月16日，人工智能巨头OpenAI发布一套用于跟踪、调查和公开模型目标偏离（misalignment，也称“对齐失效”）事件的新框架， 并同步公布过去半年观察到的六份案例报告，相关行为涉及信息真实性、用户授权、文件共享和监督…",
-        "此次调整的重点是将以往较为临时、集中式的披露转向持续报告",
-        "OpenAI表示，过去往往等到能够汇总多个案例，或随新模型的系统卡一并发布时才公开相关发现"
+        "核心事件：9月17日A股收盘：三大指数集体下挫 创业板指跌0.4% 农业板块逆势上涨",
+        "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
       ]
     }
   ],
@@ -87,12 +80,44 @@
     "china": [
       {
         "category": "国内",
+        "title": "新疆克孜勒苏州阿克陶县发生3.1级地震",
+        "summary": "",
+        "source": "央视网",
+        "published_at": "2026-09-17T17:55:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kRDg2Y1Jac2s2aGppQ2Z4Z0JCRmpWeGdYaHRPdHRoS2pkeXByRFVpZjlJd0J3YndGdTJIQ1FXVWgzeVVIRjBzcmwtN3pCanhQZXpxUHRZbE1QS2VIemlVR1NQaDNiRVMzc0EzNjl2SzNXcnRMUktuUA?oc=5",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.whoGyCZaCVY84ihONfVPqAHaE7&pid=15.1",
+        "hot": true,
+        "verified": true,
+        "quick_summary": "央视网这篇报道主要讲的是：新疆克孜勒苏州阿克陶县发生3.1级地震。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：新疆克孜勒苏州阿克陶县发生3.1级地震",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "习近平就发展先进制造业作出重要指示",
+        "summary": "",
+        "source": "sara.gov.cn",
+        "published_at": "2026-09-17T13:17:12+08:00",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZmtHUUhHbVQ3N1FXQ2VieGNvRmpNOTVTcVZHX0xGM3VOZ2hSMDNiTndKZm1qT0kwdjd6UUR3VTFnUWIxS19rTmF5TTczeHRwUXktS1Yzb0lSWFJBT0psUTY5VmpERW52YTQycTZMNmhhMS1RN0lhTDJlWGx6WUV0NTNQOFdVaDBtYUhrZDZn?oc=5",
+        "image_url": "https://ts4.mm.bing.net/th?id=OIP.ZR39aDPUqckwpiNIhiCFyAHaD4&pid=15.1",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "sara.gov.cn这篇报道主要讲的是：习近平就发展先进制造业作出重要指示。12 小时之前 · 新华社北京9月17日电中共中央总书记、国家主席、中央军委主席习近平近日就发展先进制造业作出重要指示指出，党的 …",
+        "key_points": [
+          "核心事件：习近平就发展先进制造业作出重要指示",
+          "12 小时之前 · 新华社北京9月17日电中共中央总书记、国家主席、中央军委主席习近平近日就发展先进制造业作出重要指示指出，党的 …"
+        ]
+      },
+      {
+        "category": "国内",
         "title": "刚果（金）东南部交通事故致至少33人死亡",
         "summary": "",
         "source": "新华网",
         "published_at": "2026-09-17T07:46:31+08:00",
         "url": "https://www.news.cn/20260917/4983a35ac59c4585b8198f599bc03e12/c.html",
-        "image_url": "https://ts4.mm.bing.net/th?id=OIP.yp5mX0XMq9xvL5oTsPuVSwHaHa&pid=15.1",
+        "image_url": "https://ts4.mm.bing.net/th?id=OIP.NmaMoB5s2szTdiEEFLJYcwHaFj&pid=15.1",
         "hot": true,
         "verified": true,
         "quick_summary": "新华网这篇报道主要讲的是：刚果（金）东南部交通事故致至少33人死亡。新华社金沙萨9月16日电（记者史彧）据刚果（金）媒体16日报道，位于该国东南部的上加丹加省米图瓦巴地区发生一起交通事故，造成至少33人死亡、约20人受伤。报道援引上加丹加省交通部门的消息说，15日夜间至16日凌晨时段，一辆从邻近的上洛马米省驶来的卡车在米图瓦巴地区坠入河中，事故死伤人数可能会上升。",
@@ -104,17 +129,33 @@
       },
       {
         "category": "国内",
-        "title": "贵州清镇市发生一起交通事故 警方通报：男子驾车操作不当致5伤",
+        "title": "习近平致信祝贺吉林大学建校80周年",
         "summary": "",
-        "source": "央视网",
-        "published_at": "2026-09-16T22:11:20+08:00",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZV3RMTDBFRHJRSWZLanI0amFmUDZFRV9jaUdoS3lIZGdoV3lhTXNialgyT1VIR3M1cGZfc3g3MHI4Y1ZobGh4TEVSUDVzZldVaUcyUWhxLW92RmpHcWhaYThRVEt5c3lfODhJUTJFcGROQjVEekpzaQ?oc=5",
-        "image_url": "https://ts3.mm.bing.net/th?id=OIP.ZVdjShQxOuuSNSWC9f4ftwHaE8&pid=15.1",
-        "hot": true,
+        "source": "cppcc.gov.cn",
+        "published_at": "2026-09-16T17:37:42+08:00",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3LVA4cUxYSjJqMVY1NTh0N0dpdGE1OWlhSGtObTBjRU4tTFh5OHVOdWVnVjhWVmFGY3REN1lsWDZ5ZjNUbzlfdmlXNTN6UlpLZXhieXRtWGRNcUhFX0NMN0VvSVZQM1NIVkg2aUp6M012MXc?oc=5",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.UWHyD-uzcBx7yt5lTwY58QHaFU&pid=15.1",
+        "hot": false,
         "verified": true,
-        "quick_summary": "央视网这篇报道主要讲的是：贵州清镇市发生一起交通事故 警方通报：男子驾车操作不当致5伤。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "cppcc.gov.cn这篇报道主要讲的是：习近平致信祝贺吉林大学建校80周年。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：贵州清镇市发生一起交通事故 警方通报：男子驾车操作不当致5伤",
+          "核心事件：习近平致信祝贺吉林大学建校80周年",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "2026年9月17日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部",
+        "summary": "",
+        "source": "mfa.gov.cn",
+        "published_at": "2026-09-17T17:46:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pc0ZQR0hxYnFoWnVkbC1jSEZtVXdUeTV5VmhhS1h4UUJDWVdYZjM4dnQ1a3RVOGN4djRadF9qVUZheG5adWJkZFF5aE1BNnVMV2xKSHNtTjZ3RXNPSk9kdzl3anVaQUFSWU5iR3pEdkdsOW80clE?oc=5",
+        "image_url": "https://ts3.mm.bing.net/th?id=OIP.ISmCgMAS4utgjYoJoSJnOAHaFz&pid=15.1",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "mfa.gov.cn这篇报道主要讲的是：2026年9月17日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：2026年9月17日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部",
           "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
         ]
       },
@@ -123,9 +164,9 @@
         "title": "商务部：中美经贸团队正就降税等议题保持密切交流",
         "summary": "",
         "source": "新华网",
-        "published_at": "2026-09-17T15:11:06+08:00",
-        "url": "https://www.news.cn/fortune/20260917/6b030b7c62204903af142c497b25a815/c.html",
-        "image_url": "https://ts2.mm.bing.net/th?id=OIP.2N8V2eOwi6llFSzSbHlUnAHaLH&pid=15.1",
+        "published_at": "2026-09-17T15:11:10+08:00",
+        "url": "https://www.news.cn/world/20260917/226fa721042843a3acc261f29be7a493/c.html",
+        "image_url": "https://ts4.mm.bing.net/th?id=OIP.eitT40bLJOi3LzUFDDHh_AHaFP&pid=15.1",
         "hot": false,
         "verified": true,
         "quick_summary": "新华网这篇报道主要讲的是：商务部：中美经贸团队正就降税等议题保持密切交流。新华社北京9月17日电（记者潘洁、谢希瑶）商务部17日举行例行新闻发布会，新闻发言人何亚东在回答有关中美双方300亿美元相互降低关税安排磋商最新进展的提问时说，目前中美双方经贸团队正就有关议题保持密切交流，后续将适时发布有关进展。",
@@ -141,7 +182,7 @@
         "source": "新华网",
         "published_at": "2026-09-17T15:11:04+08:00",
         "url": "https://www.news.cn/world/20260917/a4659dfbfbb949e5ac097028d05435c1/c.html",
-        "image_url": "https://ts4.mm.bing.net/th?id=OIP.6KkIYVH73NuiyJi2vRo_pQHaKd&pid=15.1",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.AkQHODsaOkctjhFDMvgn2gHaJ8&pid=15.1",
         "hot": false,
         "verified": true,
         "quick_summary": "新华网这篇报道主要讲的是：商务部回应欧委会公共采购法草案设置“欧洲优先”条款。新华社北京9月17日电（记者谢希瑶、潘洁）商务部17日举行例行新闻发布会，新闻发言人何亚东在回应有关提问时表示，中方注意到欧委会发布了《公共采购法》的立法草案。草案设置了“欧洲优先”条款，还要求在评标标准中纳入安全等非市场因素，排除或限制不符合条件的第三国企业。何亚东说，中方敦促欧方遵守世贸规则，保持市场开放，修改法案中的歧视性条款，为企业在欧投资经营创造公平、透明、非歧视的营商环境。中方将密切关注欧方立法进程，及时评估相关影响。",
@@ -155,12 +196,83 @@
       },
       {
         "category": "国内",
+        "title": "喀麦隆极北大区发生袭击致13人死亡",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-09-18T00:04:51+08:00",
+        "url": "https://www.news.cn/20260918/2aa36c7db3e9407688a4fcc97ae09656/c.html",
+        "image_url": "https://ts3.mm.bing.net/th?id=OIP.7sbb5QsihBLb3Ti_QqCTPgHaFS&pid=15.1",
+        "hot": true,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：喀麦隆极北大区发生袭击致13人死亡。新华社雅温得9月17日电（记者王泽 李玥）据《喀麦隆论坛报》报道，该国极北大区17日凌晨发生武装袭击事件，已造成13人死亡。报道说，“博科圣地”武装分子于17日凌晨2时左右入侵洛贡-沙里州的马代瓜村发动袭击。多年来，“博科圣地”等恐怖组织频繁在乍得湖地区制造针对平民和军人的袭击，对尼日利亚、喀麦隆和乍得等国构成安全威胁。",
+        "key_points": [
+          "核心事件：喀麦隆极北大区发生袭击致13人死亡",
+          "新华社雅温得9月17日电（记者王泽 李玥）据《喀麦隆论坛报》报道，该国极北大区17日凌晨发生武装袭击事件，已造成13人死亡",
+          "报道说，“博科圣地”武装分子于17日凌晨2时左右入侵洛贡-沙里州的马代瓜村发动袭击",
+          "多年来，“博科圣地”等恐怖组织频繁在乍得湖地区制造针对平民和军人的袭击，对尼日利亚、喀麦隆和乍得等国构成安全威胁"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "“全民国防教育月” 绷紧军事保密这根弦",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-09-17T20:11:21+08:00",
+        "url": "https://www.news.cn/legal/20260917/0af954ad59bf400aa82199411f1a9f0a/c.html",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：“全民国防教育月” 绷紧军事保密这根弦。近年来，极个别人员出于猎奇炫耀心理，触碰保密红线。有人登高偷拍试验场战机，泄露机密级军事秘密；有人撬锁翻墙擅闯军事禁区，组团偷拍涉密设施；还有人操控无人机在军用机场上空违规拍摄。9月是“全民国防教育月”，各地正在开展形式多样的群众性国防教育活动，更好引导广大干部群众增强国防观念、履行国防义务。",
+        "key_points": [
+          "核心事件：“全民国防教育月” 绷紧军事保密这根弦",
+          "近年来，极个别人员出于猎奇炫耀心理，触碰保密红线",
+          "有人登高偷拍试验场战机，泄露机密级军事秘密",
+          "有人撬锁翻墙擅闯军事禁区，组团偷拍涉密设施",
+          "还有人操控无人机在军用机场上空违规拍摄"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "湖北日报：别让违规“背调”伤害就业公平",
+        "summary": "",
+        "source": "hubei.gov.cn",
+        "published_at": "2026-09-17T09:23:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjczVsYTlncXlRSUdCd1BaQmx0cjE0M1pScHg3TE1jYXFya0pmQVJfeDkxWjBBcVZtUklVNGF6WmFUNUthUlpWSDZyRHptVFFjeFM2SmlZT0QxREd5ck9DSUlSZHRrVzZaVnFvR1Z6R0V0SFk?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "hubei.gov.cn这篇报道主要讲的是：湖北日报：别让违规“背调”伤害就业公平。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：湖北日报：别让违规“背调”伤害就业公平",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "学习先进典型实践案例 “全民国防教育月”活动蓬勃开展",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-09-17T17:55:28+08:00",
+        "url": "https://www.news.cn/politics/20260917/9190f1663141415ea8920106364d1752/c.html",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：学习先进典型实践案例 “全民国防教育月”活动蓬勃开展。本月是“全民国防教育月”，以“弘扬伟大长征精神 同心共筑强大国防”为主题，各地正在开展形式多样的群众性国防教育活动，在全社会营造关心国防、热爱国防、建设国防、保卫国防的浓厚氛围，更好引导广大干部群众增强国防观念、履行国防义务。活动期间，2026年全民国防教育先进典型实践案例发布，展示了各地区各部门工作新进展新成效。全国各地依托这批鲜活案例深学细悟，打开工作思路、创新活动载体，立足本地资源把长征精神融入国防教育实践。",
+        "key_points": [
+          "核心事件：学习先进典型实践案例 “全民国防教育月”活动蓬勃开展",
+          "本月是“全民国防教育月”，以“弘扬伟大长征精神 同心共筑强大国防”为主题，各地正在开展形式多样的群众性国防教育活动，在全社会营造关心国防、热爱国防、建设国防、保卫国防的浓厚氛围，更好引导广大干部群众增强国防观念、履行国防义务",
+          "活动期间，2026年全民国防教育先进典型实践案例发布，展示了各地区各部门工作新进展新成效",
+          "全国各地依托这批鲜活案例深学细悟，打开工作思路、创新活动载体，立足本地资源把长征精神融入国防教育实践"
+        ]
+      },
+      {
+        "category": "国内",
         "title": "市委常委会召开会议 传达学习习近平总书记重要指示精神 研究通过“十五五”时期现代化应急体系建设规划等事项 市委书记尹力主持会议",
         "summary": "",
         "source": "北京市人民政府门户网站",
         "published_at": "2026-09-17T08:10:00+08:00",
         "url": "https://www.beijing.gov.cn/ywdt/hyxx/sw/202609/t20260917_4867435.html",
-        "image_url": "https://ts2.mm.bing.net/th?id=OIP.8bizNRrt5CDJvJ2_P5aacgHaLH&pid=15.1",
+        "image_url": "",
         "hot": false,
         "verified": false,
         "quick_summary": "北京市人民政府门户网站这篇报道主要讲的是：市委常委会召开会议 传达学习习近平总书记重要指示精神 研究通过“十五五”时期现代化应急体系建设规划等事项 市委书记尹力主持会议。9月16日下午，市委常委会召开会议，传达学习习近平总书记对山东青岛市北海造船厂一货轮火灾事故作出的重要指示精神，研究通过《北京市“十五五”时期现代化应急体系建设规划》，听取我市2026年防汛、河长制、中国国际服务贸易交易会工作情况汇报，研究《全市高质量发展和高水平安全干部培训班工作方案》。会议强调，要认真贯彻落实习近平总书记重要指示精神，树牢安全发展理念，从严从实抓好各领域风险防范处置，确保人民群众生命财产安全和首都社会大局稳定。紧盯燃气、危化、电动自行车等重点领域和城乡结合部、老旧小区、高层建筑等重点部位，深入排查整治各类火灾隐患，落实落细防范措施，坚决遏制重特大火灾事故发生。全面加强安全生产工作，打好治本攻坚三年行动收官战，加快新技术、新装备、新工艺推广应用，提升本质安全水平。各级党委政府要坚持党政同责、一岗双责，行业主管部门落实“三管三必须”要求，把本地区本领域安全风险管住管好。",
@@ -174,167 +286,64 @@
       },
       {
         "category": "国内",
-        "title": "商务部召开例行新闻发布会（2026年9月17日）",
+        "title": "交易项目编号：S110000A001043658054",
+        "summary": "",
+        "source": "ggzyfw.beijing.gov.cn",
+        "published_at": "2026-09-17T23:48:53+08:00",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nMkVCWl8xTnBRel9CU2tmcE00SkpTUDFFalJuVEp6TlY5NzZtM1c5a3d3M2txTmFwaHdxM3NkZnFoQUpVdXF1Q3FRMFJOUW1jN1RfREhkbnNReGltSjdrVC1oV1dJVVJoazBxSEVGN3FFdw?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "ggzyfw.beijing.gov.cn这篇报道主要讲的是：交易项目编号：S110000A001043658054。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：交易项目编号：S110000A001043658054",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "丁薛祥出席第23届中国－东盟博览会开幕式并会见与会外国政要",
         "summary": "",
         "source": "mofcom.gov.cn",
-        "published_at": "2026-09-17T16:06:08+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ScEg1UVVhbWVteHMxR0hnd1FPckF0LXdZRkRjNjgwUXliSUNmV1pDcEtfUVRndWpQd2NFWGFfQWYxLUhNUk5IRlpzYVN0a2pnNW1JcW1kbWtDZzRrcEN2SExLbEZ6d1drVVJRQUFGeVl3THdPN2hOMDdR?oc=5",
-        "image_url": "https://tse2.mm.bing.net/th/id/OIP.3v7vU3wd_AED569k5xbmiAHaNY?w=185&h=336&c=7&r=0&o=5&pid=1.7",
+        "published_at": "2026-09-17T23:21:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSkNQWVRrLWl5SUxySlBFMXl0bU5kSmVGc3UzZll6V2l1OXRPcHppaWZPTFl2MDZlT29vN2NEa1Izb0lRRDJIQXBmdVVtOGF5R1Zfd2Rtc3RTQmtlQmQ5ZFBfUTlTWm04dEFNaEpYaGh0XzV1cFZkM0tqdC01UDB6MGVCc3IxZnRxZlE?oc=5",
+        "image_url": "",
         "hot": false,
         "verified": true,
-        "quick_summary": "mofcom.gov.cn这篇报道主要讲的是：商务部召开例行新闻发布会（2026年9月17日）。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "mofcom.gov.cn这篇报道主要讲的是：丁薛祥出席第23届中国－东盟博览会开幕式并会见与会外国政要。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：商务部召开例行新闻发布会（2026年9月17日）",
+          "核心事件：丁薛祥出席第23届中国－东盟博览会开幕式并会见与会外国政要",
           "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
-        ]
-      },
-      {
-        "category": "国内",
-        "title": "长汀县人大常委会召开党组（扩大）会议 总结树立和践行正确政绩观学习教育",
-        "summary": "",
-        "source": "changting.gov.cn",
-        "published_at": "2026-09-17T08:14:00+08:00",
-        "url": "http://www.changting.gov.cn/xwzx/ctxw/202609/t20260917_2313513.htm",
-        "image_url": "https://tse2.mm.bing.net/th/id/OIP.p9KNWB05_RKtof98djrHNgHaLI?w=194&h=292&c=7&r=0&o=5&pid=1.7",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "changting.gov.cn这篇报道主要讲的是：长汀县人大常委会召开党组（扩大）会议 总结树立和践行正确政绩观学习教育。9月15日，长汀县人大常委会召开党组（扩大）会议，传达党中央、省委、市委、县委党的建设工作领导小组会议精神，全面总结县人大常委会树立和践行正确政绩观学习教育成效，部署巩固拓展学习教育成果工作。会议指出，学习教育开展以来，县人大常委会严格对标目标任务，坚持把树立和践行正确政绩观学习教育与人大依法监督、服务发展、法治建设、代表履职、机关作风建设深度融合，一体推进学习研讨、查摆检视、整改整治、建章立制各项工作，学习教育取得明显成效。坚持整改永远在路上，对查摆问题开展“回头看”，对已整改到位的问题持续巩固成效，对需要长期坚持的问题紧盯不放、久久为功，进一步完善学习教育、履职监督、联系群众等长效机制，把树立和践行正确政绩观的要求融入日常、抓在经常、严在平常。网站标识码：3508210001 闽公网安备 35082102000140号。版权所有:Copyright © 2012 Changting.gov.cn .All Rights Reserved 长汀县人民政府网站。",
-        "key_points": [
-          "核心事件：长汀县人大常委会召开党组（扩大）会议 总结树立和践行正确政绩观学习教育",
-          "9月15日，长汀县人大常委会召开党组（扩大）会议，传达党中央、省委、市委、县委党的建设工作领导小组会议精神，全面总结县人大常委会树立和践行正确政绩观学习教育成效，部署巩固拓展学习教育成果工作",
-          "会议指出，学习教育开展以来，县人大常委会严格对标目标任务，坚持把树立和践行正确政绩观学习教育与人大依法监督、服务发展、法治建设、代表履职、机关作风建设深度融合，一体推进学习研讨、查摆检视、整改整治、建章立制各项工作，学习教育取得明显成效",
-          "坚持整改永远在路上，对查摆问题开展“回头看”，对已整改到位的问题持续巩固成效，对需要长期坚持的问题紧盯不放、久久为功，进一步完善学习教育、履职监督、联系群众等长效机制，把树立和践行正确政绩观的要求融入日常、抓在经常、严在平常",
-          "网站标识码：3508210001 闽公网安备 35082102000140号"
-        ]
-      },
-      {
-        "category": "国内",
-        "title": "瑞士一架轻型飞机坠毁致三人死亡",
-        "summary": "",
-        "source": "新华网",
-        "published_at": "2026-09-17T05:59:05+08:00",
-        "url": "https://www.news.cn/world/20260917/b026dbebb0f646cb908c6eac225392c7/c.html",
-        "image_url": "https://ts2.mm.bing.net/th?id=OIP.CEoGLMlERruuuj-D55mhEgHaHa&pid=15.1",
-        "hot": true,
-        "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：瑞士一架轻型飞机坠毁致三人死亡。新华社日内瓦9月16日电（记者王娅楠）瑞士警方16日发表声明说，一架单引擎飞机15日在该国西南部瓦莱州坠毁，机上三人全部遇难。警方说，这架西锐SR22T轻型飞机从瑞士南部卢加诺起飞，经停瓦莱州锡永机场后，继续飞往中部布奥克斯机场。事发当日16时刚过，飞机在弗卢阿尔普地区撞上山坡。瓦莱州救援组织派出直升机和救援人员前往事故现场。目前，相关机构正对遇难者进行正式身份确认，并对事故原因展开调查。",
-        "key_points": [
-          "核心事件：瑞士一架轻型飞机坠毁致三人死亡",
-          "新华社日内瓦9月16日电（记者王娅楠）瑞士警方16日发表声明说，一架单引擎飞机15日在该国西南部瓦莱州坠毁，机上三人全部遇难",
-          "警方说，这架西锐SR22T轻型飞机从瑞士南部卢加诺起飞，经停瓦莱州锡永机场后，继续飞往中部布奥克斯机场",
-          "事发当日16时刚过，飞机在弗卢阿尔普地区撞上山坡",
-          "瓦莱州救援组织派出直升机和救援人员前往事故现场"
-        ]
-      },
-      {
-        "category": "国内",
-        "title": "树立和践行正确政绩观学习教育中央指导组暨中央层面工作专班总结会议召开",
-        "summary": "",
-        "source": "央视网",
-        "published_at": "2026-09-16T20:26:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE55ajlpQVlWOUZBUnRxNTJrRzdjSlpJLU1oR2NGT3owN0lFbzdIQVhmMDJLc2ZSNVBqcnhzMUhHeDdRZzM0VWNLTnVmTllvbVV5eC1mRDJCZG5oM2ZBaW1BdzBKb0tpUUQ1dnpXRVFXUUVHWUk3eDdUMQ?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "央视网这篇报道主要讲的是：树立和践行正确政绩观学习教育中央指导组暨中央层面工作专班总结会议召开。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：树立和践行正确政绩观学习教育中央指导组暨中央层面工作专班总结会议召开",
-          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
-        ]
-      },
-      {
-        "category": "国内",
-        "title": "习近平就发展先进制造业作出重要指示",
-        "summary": "",
-        "source": "中华人民共和国生态环境部",
-        "published_at": "2026-09-17T16:48:07+08:00",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1lWGd1SGc3QlJ3NmprdThZOTRMdklldXBldXNVRk9RQXBHcFQ5MDFNeUw2dDBRbkI5TWVrYm5ZTFdHWWVPclg4UGpERHdaeFkwTFhtRlRDcmo4ODY1M1p0cW1HMjYxa3NwMVJLb2lvZ0M?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "quick_summary": "中华人民共和国生态环境部这篇报道主要讲的是：习近平就发展先进制造业作出重要指示。4 小时之前 · 新华社北京9月17日电中共中央总书记、国家主席、中央军委主席习近平近日就发展先进制造业作出重要指示指出，党的 …",
-        "key_points": [
-          "核心事件：习近平就发展先进制造业作出重要指示",
-          "4 小时之前 · 新华社北京9月17日电中共中央总书记、国家主席、中央军委主席习近平近日就发展先进制造业作出重要指示指出，党的 …"
-        ]
-      },
-      {
-        "category": "国内",
-        "title": "上海市浦东新区祝桥小学发展性督导评价意见书_学校督导评估",
-        "summary": "",
-        "source": "pudong.gov.cn",
-        "published_at": "2026-09-17T17:08:43+08:00",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16eWZTMTVCNUxTWExNaktVUEFRd3hBNVVuSFh0LW1ITUJtNE1ySUtXSWxSaWV1Sk9iUkF2dzNXU2x0WG9adDY4ZUNGenZ6ZFl1dzRFQmMyUEFvQmJycTVsR1lRUlNBdGpmOUM5OV85bEcxX1pFU3l3?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "pudong.gov.cn这篇报道主要讲的是：上海市浦东新区祝桥小学发展性督导评价意见书_学校督导评估。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：上海市浦东新区祝桥小学发展性督导评价意见书_学校督导评估",
-          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
-        ]
-      },
-      {
-        "category": "国内",
-        "title": "辽宁省政协原党组副书记、副主席戴玉林接受审查调查",
-        "summary": "",
-        "source": "新华网",
-        "published_at": "2026-09-17T17:06:40+08:00",
-        "url": "https://www.news.cn/legal/20260917/4c4abc13e0284e5a93ba49b3003b70fb/c.html",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：辽宁省政协原党组副书记、副主席戴玉林接受审查调查。新华社北京9月17日电 辽宁省政协原党组副书记、副主席戴玉林涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。",
-        "key_points": [
-          "核心事件：辽宁省政协原党组副书记、副主席戴玉林接受审查调查",
-          "新华社北京9月17日电 辽宁省政协原党组副书记、副主席戴玉林涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查"
-        ]
-      },
-      {
-        "category": "国内",
-        "title": "上海市浦东新区城市管理综合行政执法局农业执法大队2025年度单位决算公开",
-        "summary": "",
-        "source": "pudong.gov.cn",
-        "published_at": "2026-09-17T17:03:54+08:00",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GaTlaQ1NoczlpZ0ZvVFhpR1VTRGpfbWx6Q05ocEZCY3NOQmkwUml3Q0FOdkFJRE9HbTE5RlZZYVhhQld3OVVzRmxBYW9wQkp0MDNhQzJ4V0NtRGR3b0NLY3VXci0zUmNFZnJOYnU1aC1wU21DNnpfWg?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "pudong.gov.cn这篇报道主要讲的是：上海市浦东新区城市管理综合行政执法局农业执法大队2025年度单位决算公开。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：上海市浦东新区城市管理综合行政执法局农业执法大队2025年度单位决算公开",
-          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
-        ]
-      },
-      {
-        "category": "国内",
-        "title": "七载融光，幸运同行！“上海普陀”APP 七周年福利来啦2026-09-17",
-        "summary": "",
-        "source": "shanghai.gov.cn",
-        "published_at": "2026-09-17T17:03:10+08:00",
-        "url": "https://www.shanghai.gov.cn/nw17239/20260917/ffa3fa14d5da41898d260d11b3aa8963.html",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "shanghai.gov.cn这篇报道主要讲的是：七载融光，幸运同行！“上海普陀”APP 七周年福利来啦2026-09-17。七年前，按照打造“主流舆论阵地、综合服务平台、社区信息枢纽”的目标，上海市普陀区融媒体中心成立，同时“上海普陀”APP上线。9月17日上午10:00起，来“上海普陀”APP参与“七载融光，幸运同行”签到抽奖，动动手指就能把好运收入囊中。签到完成即可解锁当日3次抽奖机会。每日签到完成后，将活动页面分享至微信好友，还可额外获得1次抽奖机会。1.奖品将根据中奖人填写的信息发放，请务必在活动结束前至活动主页“我的奖品”中准确填写，错填、漏填、逾期均视为放弃；",
-        "key_points": [
-          "核心事件：七载融光，幸运同行！“上海普陀”APP 七周年福利来啦2026-09-17",
-          "七年前，按照打造“主流舆论阵地、综合服务平台、社区信息枢纽”的目标，上海市普陀区融媒体中心成立，同时“上海普陀”APP上线",
-          "9月17日上午10:00起，来“上海普陀”APP参与“七载融光，幸运同行”签到抽奖，动动手指就能把好运收入囊中",
-          "签到完成即可解锁当日3次抽奖机会",
-          "每日签到完成后，将活动页面分享至微信好友，还可额外获得1次抽奖机会"
         ]
       }
     ],
     "world": [
       {
         "category": "国际",
+        "title": "喀麦隆极北大区发生袭击致13人死亡",
+        "summary": "",
+        "source": "新华网客户端",
+        "published_at": "2026-09-18T00:07:48+08:00",
+        "url": "https://www.news.cn/20260918/2aa36c7db3e9407688a4fcc97ae09656/c.html",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.yA1Yutb-0kHALY0BCCxQ0QHaEo&pid=15.1",
+        "hot": true,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：喀麦隆极北大区发生袭击致13人死亡。新华社雅温得9月17日电（记者王泽 李玥）据《喀麦隆论坛报》报道，该国极北大区17日凌晨发生武装袭击事件，已造成13人死亡。报道说，“博科圣地”武装分子于17日凌晨2时左右入侵洛贡-沙里州的马代瓜村发动袭击。多年来，“博科圣地”等恐怖组织频繁在乍得湖地区制造针对平民和军人的袭击，对尼日利亚、喀麦隆和乍得等国构成安全威胁。",
+        "key_points": [
+          "核心事件：喀麦隆极北大区发生袭击致13人死亡",
+          "新华社雅温得9月17日电（记者王泽 李玥）据《喀麦隆论坛报》报道，该国极北大区17日凌晨发生武装袭击事件，已造成13人死亡",
+          "报道说，“博科圣地”武装分子于17日凌晨2时左右入侵洛贡-沙里州的马代瓜村发动袭击",
+          "多年来，“博科圣地”等恐怖组织频繁在乍得湖地区制造针对平民和军人的袭击，对尼日利亚、喀麦隆和乍得等国构成安全威胁"
+        ]
+      },
+      {
+        "category": "国际",
         "title": "美众议院通过制裁俄罗斯伊朗法案，特朗普可对五国征收百分百关税",
         "summary": "",
         "source": "thepaper.cn",
         "published_at": "2026-09-17T11:36:00+08:00",
-        "url": "https://m.thepaper.cn/newsDetail_forward_34087877",
-        "image_url": "https://ts3.mm.bing.net/th?id=OIP.50tf7LB6PhXVmGJwkjyBjAHaHa&pid=15.1",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34087877",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.SCenToxaFSmGs1AgR7o3pAHaHa&pid=15.1",
         "hot": true,
         "verified": true,
         "quick_summary": "thepaper.cn这篇报道主要讲的是：美众议院通过制裁俄罗斯伊朗法案，特朗普可对五国征收百分百关税。据央视新闻报道，当地时间9月16日，美国国会众议院通过一项针对俄罗斯和伊朗的制裁法案，并将其送交美国总统特朗普签署。该法案名为《2026年林赛·格雷厄姆制裁俄罗斯和伊朗法案》，此前已于8月在参议院获得通过。该法案对俄罗斯官员、银行以及维持俄罗斯能源运输的“影子船队”实施制裁，还允许特朗普政府对购买俄罗斯石油或天然气的前五大进口国征收最高100%的关税，但豁免那些满足以下条件的国家：从俄罗斯进口的天然气数量不足俄天然气出口总量的15%，且已采取重大措施减少此类进口。法案还将对伊朗的制裁延长至2031年。这项法案最初于2025年4月提出，历经一年多谈判磨合，已故参议员林赛·格雷厄姆曾全力推动白宫接受该法案。",
@@ -348,21 +357,40 @@
       },
       {
         "category": "国际",
-        "title": "也门胡塞武装称袭击沙特石油设施和空军基地",
+        "title": "联合国最新报告：大规模战争的风险迅速攀升",
         "summary": "",
-        "source": "新华网客户端",
-        "published_at": "2026-09-17T10:37:35+08:00",
-        "url": "https://app.xinhuanet.com/news/article.html?articleId=20260917b0a72f6a566f43e2909c508f423c68a7",
-        "image_url": "https://ts2.mm.bing.net/th?id=OIP.pyQSFkfbF7Q2qL1ATYCymQHaE8&pid=15.1",
-        "hot": false,
+        "source": "thepaper.cn",
+        "published_at": "2026-09-17T14:49:00+08:00",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34088559",
+        "image_url": "https://ts3.mm.bing.net/th?id=OIP.8hXS6WJZU83vNZIVFs1P0QHaNK&pid=15.1",
+        "hot": true,
         "verified": true,
-        "quick_summary": "新华网客户端这篇报道主要讲的是：也门胡塞武装称袭击沙特石油设施和空军基地。新华社科威特城9月16日电（记者尹炣）萨那消息：也门胡塞武装16日说，该组织当天发动导弹和无人机袭击，目标分别是位于沙特阿拉伯西部一处石油公司设施，以及沙特西南部一处空军基地。胡塞武装控制的马西拉电视台当天援引该组织军事发言人叶海亚·萨雷亚的声明报道说，胡塞武装使用数十枚弹道导弹和无人机袭击了沙特西部城市延布的沙特阿美石油公司一处设施，后使用数枚弹道导弹“准确击中”了位于沙特西南部、靠近也门边境的阿西尔地区海米斯穆谢特的一处空军基地。萨雷亚在声明中表示，在沙特停止空袭并解除对也门胡塞武装控制区的封锁之前，该组织将继续在沙特境内采取行动。也门政府军和胡塞武装10日分别证实，胡塞武装当天攻占红海战略要地、港口城市穆哈。胡塞武装11日称，该组织自9月3日发动攻势以来，已在也门西部攻占约5400平方公里土地。",
+        "quick_summary": "thepaper.cn这篇报道主要讲的是：联合国最新报告：大规模战争的风险迅速攀升。据央视新闻9月16日报道，联合国15日发布的《2026年全球风险报告》显示，大规模战争在全球风险中的排名迅速攀升。联合国最新发布的《全球风险报告2026》显示，与两年前相比，政治风险已经代替环境风险成为全球各地区的首要风险。联合国官方网站15日发布《全球风险报告2026》，该报告对1300名全球各界人士进行调查，对当今世界面临的政治风险、环境风险、经济风险、社会风险和技术风险进行了全面梳理。调查结果显示，政治风险和技术风险的重要性较两年前有大幅增长，其中大规模战争风险、人工智能和前沿技术风险较为突出。36%的受访者认为大规模战争将在一年内发生，76%的受访者则认为大规模战争将在七年内发生。",
         "key_points": [
-          "核心事件：也门胡塞武装称袭击沙特石油设施和空军基地",
-          "新华社科威特城9月16日电（记者尹炣）萨那消息：也门胡塞武装16日说，该组织当天发动导弹和无人机袭击，目标分别是位于沙特阿拉伯西部一处石油公司设施，以及沙特西南部一处空军基地",
-          "胡塞武装控制的马西拉电视台当天援引该组织军事发言人叶海亚·萨雷亚的声明报道说，胡塞武装使用数十枚弹道导弹和无人机袭击了沙特西部城市延布的沙特阿美石油公司一处设施，后使用数枚弹道导弹“准确击中”了位于沙特西南部、靠近也门边境的阿西尔地区…",
-          "萨雷亚在声明中表示，在沙特停止空袭并解除对也门胡塞武装控制区的封锁之前，该组织将继续在沙特境内采取行动",
-          "也门政府军和胡塞武装10日分别证实，胡塞武装当天攻占红海战略要地、港口城市穆哈"
+          "核心事件：联合国最新报告：大规模战争的风险迅速攀升",
+          "据央视新闻9月16日报道，联合国15日发布的《2026年全球风险报告》显示，大规模战争在全球风险中的排名迅速攀升",
+          "联合国最新发布的《全球风险报告2026》显示，与两年前相比，政治风险已经代替环境风险成为全球各地区的首要风险",
+          "联合国官方网站15日发布《全球风险报告2026》，该报告对1300名全球各界人士进行调查，对当今世界面临的政治风险、环境风险、经济风险、社会风险和技术风险进行了全面梳理",
+          "调查结果显示，政治风险和技术风险的重要性较两年前有大幅增长，其中大规模战争风险、人工智能和前沿技术风险较为突出"
+        ]
+      },
+      {
+        "category": "国际",
+        "title": "俄乌冲突后首次议会选举，普京：这将塑造俄罗斯的未来",
+        "summary": "",
+        "source": "观察者网",
+        "published_at": "2026-09-17T14:27:00+08:00",
+        "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_09_17_900998.shtml",
+        "image_url": "https://ts4.mm.bing.net/th?id=OIP.NYYc9s_vQTfPuqQ2WEQzuQHaKe&pid=15.1",
+        "hot": true,
+        "verified": false,
+        "quick_summary": "观察者网这篇报道主要讲的是：俄乌冲突后首次议会选举，普京：这将塑造俄罗斯的未来。俄罗斯即将于本周举行国家杜马（议会下院）选举，当地时间9月16日晚间，俄罗斯总统普京在莫斯科发表全国讲话，呼吁俄罗斯民众积极投票。据俄媒“今日俄罗斯”报道，普京强调这是一次至关重要的选举，将“塑造俄罗斯的未来”。”他表示，每个俄罗斯选民的声音都很重要，参与投票是“负责任的行为，也是对国家建设的贡献”，他相信“最有价值和能力的候选人”将会胜出。2026年俄罗斯国家杜马选举将于当地时间9月18日至20日举行，共有10个政党竞争国家杜马的450个议席。俄罗斯《生意人报》称，全俄社会舆论研究中心9月12日进行的最新民意调查显示，76%的受访者认为统一俄罗斯党将继续控制国家杜马。",
+        "key_points": [
+          "核心事件：俄乌冲突后首次议会选举，普京：这将塑造俄罗斯的未来",
+          "俄罗斯即将于本周举行国家杜马（议会下院）选举，当地时间9月16日晚间，俄罗斯总统普京在莫斯科发表全国讲话，呼吁俄罗斯民众积极投票",
+          "据俄媒“今日俄罗斯”报道，普京强调这是一次至关重要的选举，将“塑造俄罗斯的未来”",
+          "”他表示，每个俄罗斯选民的声音都很重要，参与投票是“负责任的行为，也是对国家建设的贡献”，他相信“最有价值和能力的候选人”将会胜出",
+          "2026年俄罗斯国家杜马选举将于当地时间9月18日至20日举行，共有10个政党竞争国家杜马的450个议席"
         ]
       },
       {
@@ -371,27 +399,30 @@
         "summary": "",
         "source": "新京报",
         "published_at": "2026-09-17T07:16:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QeDFGZkRLSEx6S05WS3ZtS0lWbFVvRVZxQ2VwczljTDQ0ZDVPeFI0MTc4cExYYzI5WG9wYXI4S0ZHZnBRbkhNSHJieU5QbHFfVW45b0FlbnZFb0s2cWx0V05BZ2I?oc=5",
-        "image_url": "https://ts4.mm.bing.net/th?id=OIP.hSVLGrptgtaLrh2Fhi-tpQHaHa&pid=15.1",
+        "url": "https://www.bjnews.com.cn/detail/1789600463129800.html",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.tHdZ6tWWUXbbqM8sv2wZ9QHaEK&pid=15.1",
         "hot": false,
         "verified": false,
-        "quick_summary": "新京报这篇报道主要讲的是：美联储加息25个基点 特朗普：美国利率应降至1%或更低水平。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "新京报这篇报道主要讲的是：美联储加息25个基点 特朗普：美国利率应降至1%或更低水平。据新华社纽约9月16日电 美国总统特朗普16日在社交媒体发文称，美国利率应该在1%或更低水平，“因为我们的信用状况全球最佳”。美国联邦储备委员会当天稍早时结束为期两天的货币政策会议，宣布将联邦基金利率目标区间上调25个基点，到3.75%至4%。这一决定符合市场此前预期，为2023年7月底以来美联储首次加息。特朗普16日还向媒体表示，美联储主席凯文·沃什“是个好人”，但他面临着“一个敌对的理事会”，美联储出于政治原因加息，“这是针对特朗普的加息”。本月4日，特朗普在社交媒体发文主张降低利率，要求美联储必须采取“明智的做法”。",
         "key_points": [
           "核心事件：美联储加息25个基点 特朗普：美国利率应降至1%或更低水平",
-          "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
+          "据新华社纽约9月16日电 美国总统特朗普16日在社交媒体发文称，美国利率应该在1%或更低水平，“因为我们的信用状况全球最佳”",
+          "美国联邦储备委员会当天稍早时结束为期两天的货币政策会议，宣布将联邦基金利率目标区间上调25个基点，到3.75%至4%",
+          "这一决定符合市场此前预期，为2023年7月底以来美联储首次加息",
+          "特朗普16日还向媒体表示，美联储主席凯文·沃什“是个好人”，但他面临着“一个敌对的理事会”，美联储出于政治原因加息，“这是针对特朗普的加息”"
         ]
       },
       {
         "category": "国际",
         "title": "特朗普：乌克兰战争才是推高柴油价格的原因。",
         "summary": "",
-        "source": "finance.sina.com.cn",
+        "source": "新浪网",
         "published_at": "2026-09-17T08:22:45+08:00",
         "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBKSlJKeGczUlZmQnB2NjgyMzVWckZVWGZhMFh3MGcxN2w2ckZsR0FvOHJMVGJsRDByTUhVcVRlVXNtWDFoMkRIZC16QQ?oc=5",
-        "image_url": "https://ts4.mm.bing.net/th?id=OIP.yJTUDzRcySQZM5px3O65wwAAAA&pid=15.1",
+        "image_url": "https://ts4.mm.bing.net/th?id=OIP.pId2w_ywGWwlULR6PCG3tgHaEK&pid=15.1",
         "hot": true,
         "verified": false,
-        "quick_summary": "finance.sina.com.cn这篇报道主要讲的是：特朗普：乌克兰战争才是推高柴油价格的原因。。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "新浪网这篇报道主要讲的是：特朗普：乌克兰战争才是推高柴油价格的原因。。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
           "核心事件：特朗普：乌克兰战争才是推高柴油价格的原因。",
           "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
@@ -399,106 +430,97 @@
       },
       {
         "category": "国际",
-        "title": "美众议院通过对俄制裁法案，特朗普将获新关税工具",
+        "title": "成本高昂、弹药短缺：报告披露美国伊朗战争的代价",
         "summary": "",
-        "source": "Sohu",
-        "published_at": "2026-09-17T08:49:16+08:00",
-        "url": "https://m.sohu.com/a/1077124525_334198?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
-        "image_url": "https://ts3.mm.bing.net/th?id=OIP.lSJfG4n1MpQ0tycGE1sIzwHaLH&pid=15.1",
+        "source": "纽约时报中文网",
+        "published_at": "2026-09-17T08:34:20+08:00",
+        "url": "https://cn.nytimes.com/usa/20260917/pentagon-inspector-general-iran-war/",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.RLzckeYcAQTymgmoqho1LwHaE8&pid=15.1",
         "hot": true,
         "verified": false,
-        "quick_summary": "Sohu这篇报道主要讲的是：美众议院通过对俄制裁法案，特朗普将获新关税工具。众议院以262票赞成、159票反对通过法案，国会表决程序就此完成。接下来市场关注的重点，将转向特朗普是否以及如何动用新增的制裁与关税权限。美国众议院当地时间9月16日以262票赞成、159票反对通过《林赛·格雷厄姆制裁俄罗斯和伊朗法案》， 将法案送交总统唐纳德·特朗普（Donald Trump）签署。这项法案由已故美国南卡罗来纳州共和党参议员林赛·格雷厄姆（Lindsey Graham）推动，经过一年多的国会审议后最终完成众议院表决。此前，参议院已于8月7日以86票赞成、11票反对通过相关版本。",
+        "quick_summary": "纽约时报中文网这篇报道主要讲的是：成本高昂、弹药短缺：报告披露美国伊朗战争的代价。国防部监察长发布的报告披露了美军在伊朗战争中承受的代价，包括战争的巨额成本，军事行动造成的弹药短缺，以及伊朗的袭击给美国造成的人员伤亡和设施损坏情况等。",
         "key_points": [
-          "核心事件：美众议院通过对俄制裁法案，特朗普将获新关税工具",
-          "众议院以262票赞成、159票反对通过法案，国会表决程序就此完成",
-          "接下来市场关注的重点，将转向特朗普是否以及如何动用新增的制裁与关税权限",
-          "美国众议院当地时间9月16日以262票赞成、159票反对通过《林赛·格雷厄姆制裁俄罗斯和伊朗法案》， 将法案送交总统唐纳德·特朗普（Donald Trump）签署",
-          "这项法案由已故美国南卡罗来纳州共和党参议员林赛·格雷厄姆（Lindsey Graham）推动，经过一年多的国会审议后最终完成众议院表决"
+          "核心事件：成本高昂、弹药短缺：报告披露美国伊朗战争的代价",
+          "国防部监察长发布的报告披露了美军在伊朗战争中承受的代价，包括战争的巨额成本，军事行动造成的弹药短缺，以及伊朗的袭击给美国造成的人员伤亡和设施损坏情况等"
         ]
       },
       {
         "category": "国际",
-        "title": "美联储三年来首次加息 暗示将继续收紧政策 特朗普要求“迅速”下调利率",
+        "title": "俄乌冲突以来俄罗斯首次杜马大选18日开启，主流政党席位格局与执政稳定性备受关注",
         "summary": "",
-        "source": "RFI",
-        "published_at": "2026-09-17T05:10:56+08:00",
-        "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxQRGx5LW1QT2V3YkhaRDhMQk5tallQM1VPTlo2aWVmd0wtZnowSTRVZ1ZfTDhkRzh5eHFCcFJuTTktY3BFUDhLZjF1N0g4dm1sWGtIVTZFYVI4ZkRRYTZiTkdfYnc3X0sxaHE1ZXVLNEtXaU5vaF9FNjJHZ1hGOFUzYUlvZVZxOGpjd2ZwN1RVck5abm9GVGZ4UlBJdlNzMWh4Ry00TGtvYmY0RVZSdU8wT0EtNTF5WnhLbGZhWHdiTDFiY3FNY3BfMGk0ei0yWU1vNTMwc1RSLXhOUEVhRmdtV1U1SmVuQkxkVTJ4YlNYSm1sS0lDV1pWcTVBY21Ldk5fYlRQTFRsd2JkSnRoeXhvMnNfZHdhNWdnb0Q0WW43aUI5SnhMeDE0UDVqeFJwcTBGWXBnMUFiUzNRbmhpRmQ2emJUeHUzVmNyRW1lMC1JUThfMGZ4aFoxdHlmdl9LeW92SnQwSW5HNm85a2dfZzZTU1ViOWR1dnhST01kVGZKUGcyckg4X0dMUlZnMXdFNXR0bjEycDVzbGd5el96V2dwUWJOcjdiQ3NXSG54VlAzWE00Y1hGTVU4dUxLZkdnQ1c5UDl2cXNPOGM1X3Vs?oc=5",
-        "image_url": "https://ts4.mm.bing.net/th?id=OIP.2-t4rC62hg62Eaq7XVVGSgHaHP&pid=15.1",
-        "hot": false,
+        "source": "news.sina.com.cn",
+        "published_at": "2026-09-17T19:45:32+08:00",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZkZ6dlFSNlNyVnlJZUhyY0hJb1ZTbHVCWHdVRmsybnhvLS1XZ240eXVZcFgzUC1rZmoyak0zcFYydEdIbFViT1h4bDYtWUk5RGctSVZBUEVXcWZ0dHNqa2FHRjJGcXpvWkctOE15N2tyOGphNXZkQ0hOR2FQXy1OdFFaQ2hLc294SXJ0ZXdHaE1XQzMybV9nY3JZajZha1Vfb29ySVF0a1J4NFRBVnBqNDB2eVJ5MjJ5enBFS2hnczFKZ2FId1E?oc=5",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.b0y2MeAFfKT6i7cYETgpFwHaFj&pid=15.1",
+        "hot": true,
         "verified": false,
-        "quick_summary": "RFI这篇报道主要讲的是：美联储三年来首次加息 暗示将继续收紧政策 特朗普要求“迅速”下调利率。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "news.sina.com.cn这篇报道主要讲的是：俄乌冲突以来俄罗斯首次杜马大选18日开启，主流政党席位格局与执政稳定性备受关注。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：美联储三年来首次加息 暗示将继续收紧政策 特朗普要求“迅速”下调利率",
+          "核心事件：俄乌冲突以来俄罗斯首次杜马大选18日开启，主流政党席位格局与执政稳定性备受关注",
           "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
         ]
       },
       {
         "category": "国际",
-        "title": "金钱政治具象化 美国富豪竞相为中期选举砸钱",
+        "title": "美联储“鹰派加息”冲击波：强美元、高油价、高利率“三重绞杀”，亚洲汇市再临资本外流风暴",
         "summary": "",
-        "source": "新华网",
-        "published_at": "2026-09-17T16:05:57+08:00",
-        "url": "https://www.news.cn/world/20260917/516fd1c5108141d99118e7b055d25930/c.html",
-        "image_url": "https://ts1.mm.bing.net/th?id=OIP.xMBI8tQTK-HGNfl3VaLOGwHaJ4&pid=15.1",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：金钱政治具象化 美国富豪竞相为中期选举砸钱。新华社北京9月17日电 据英国《金融时报》16日报道，随着美国国会中期选举临近，美国富翁正竞相砸钱资助竞选。目前，在“砸钱榜单”排名前20的金主中，多数支持共和党，仅1人支持民主党。报道指出，今年中期选举选战仍充斥金钱政治，但与外界预期稍有不同的是，共和党尽管民调支持率不及民主党，却获得多数美国超级富豪的支持。其中，投资人乔治·索罗斯以1.02亿美元的捐款排名第一，也是目前唯一仅支持民主党的富豪；加密货币行业的金主为中期选举砸钱颇多，相关超级政治行动委员会已募集超过9900万美元捐款，其中近半数来自“比特币基地”公司等企业和投资人。",
-        "key_points": [
-          "核心事件：金钱政治具象化 美国富豪竞相为中期选举砸钱",
-          "新华社北京9月17日电 据英国《金融时报》16日报道，随着美国国会中期选举临近，美国富翁正竞相砸钱资助竞选",
-          "目前，在“砸钱榜单”排名前20的金主中，多数支持共和党，仅1人支持民主党",
-          "报道指出，今年中期选举选战仍充斥金钱政治，但与外界预期稍有不同的是，共和党尽管民调支持率不及民主党，却获得多数美国超级富豪的支持",
-          "其中，投资人乔治·索罗斯以1.02亿美元的捐款排名第一，也是目前唯一仅支持民主党的富豪"
-        ]
-      },
-      {
-        "category": "国际",
-        "title": "加沙城一战损建筑倒塌致至少20人死亡",
-        "summary": "",
-        "source": "新华网",
-        "published_at": "2026-09-17T05:55:44+08:00",
-        "url": "http://www.xinhuanet.com/photo/20260917/48669237280d4e44a6e8a4a4351703b9/c.html",
-        "image_url": "https://ts2.mm.bing.net/th?id=OIP.26Mqo846-Xt6Zoa3aY7OiwHaEN&pid=15.1",
-        "hot": true,
-        "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：加沙城一战损建筑倒塌致至少20人死亡。9月16日，巴勒斯坦加沙地带民防部门救援人员在废墟上工作。据巴勒斯坦通讯社16日报道，加沙城一栋在战争中受损的居民楼当天倒塌，已造成至少20人死亡、25人受伤，另有100人下落不明。新华社发（里泽克·阿卜杜勒贾瓦德摄） pagebreak。9月16日，巴勒斯坦加沙地带民防部门救援人员在废墟上转运遇难人员遗体。",
-        "key_points": [
-          "核心事件：加沙城一战损建筑倒塌致至少20人死亡",
-          "9月16日，巴勒斯坦加沙地带民防部门救援人员在废墟上工作",
-          "据巴勒斯坦通讯社16日报道，加沙城一栋在战争中受损的居民楼当天倒塌，已造成至少20人死亡、25人受伤，另有100人下落不明",
-          "新华社发（里泽克·阿卜杜勒贾瓦德摄） pagebreak",
-          "9月16日，巴勒斯坦加沙地带民防部门救援人员在废墟上转运遇难人员遗体"
-        ]
-      },
-      {
-        "category": "国际",
-        "title": "联合国：大规模战争在全球风险排名中迅速攀升",
-        "summary": "",
-        "source": "凤凰网",
-        "published_at": "2026-09-17T07:25:21+08:00",
-        "url": "https://mil.ifeng.com/c/8wSkcYRjnJW",
+        "source": "新浪网",
+        "published_at": "2026-09-17T18:07:30+08:00",
+        "url": "https://finance.sina.cn/forex/whzx/2026-09-17/detail-inisayai3601606.d.html?vt=4&cid=76601&node_id=76601",
         "image_url": "",
-        "hot": true,
+        "hot": false,
         "verified": false,
-        "quick_summary": "凤凰网这篇报道主要讲的是：联合国：大规模战争在全球风险排名中迅速攀升。联合国15日发布的《2026年全球风险报告》显示，大规模战争在全球风险中的排名迅速攀升。目前无论是俄乌冲突还是美伊战争，在短期内都看不到缓和、结束的迹象。报告说，与2024年首次调查相比，28项全球风险中，大规模战争的排名攀升了16位，升幅最大。36%的受访者认为，大规模战争会在一年内发生，76%的受访者预计将在七年内发生。报告指出，受访者2026年对环境风险的重视程度有所降低。",
+        "quick_summary": "新浪网这篇报道主要讲的是：美联储“鹰派加息”冲击波：强美元、高油价、高利率“三重绞杀”，亚洲汇市再临资本外流风暴。随着美联储时隔三年零两个月首次上调基准利率、国际油价继续站稳在100美元上方，新兴经济体或再面临“高油价、强美元、高利率”的三重负担。市场策略师警告，美联储的鹰派加息将令亚洲货币承压，尤其是周五日本央行会议前的日元。早些时候，美联储宣布将基准利率从3.50%-3.75%上调至3.75%-4.00%。与此同时，在18位预测未来利率路径的官员中，16位预计今年至少还有一次加息。Principal Asset Management首席全球策略师Shima Shah表示：“当前争论的焦点已经从‘是否还会加息’转向‘还要加多少次’。",
         "key_points": [
-          "核心事件：联合国：大规模战争在全球风险排名中迅速攀升",
-          "联合国15日发布的《2026年全球风险报告》显示，大规模战争在全球风险中的排名迅速攀升",
-          "目前无论是俄乌冲突还是美伊战争，在短期内都看不到缓和、结束的迹象",
-          "报告说，与2024年首次调查相比，28项全球风险中，大规模战争的排名攀升了16位，升幅最大",
-          "36%的受访者认为，大规模战争会在一年内发生，76%的受访者预计将在七年内发生"
+          "核心事件：美联储“鹰派加息”冲击波：强美元、高油价、高利率“三重绞杀”，亚洲汇市再临资本外流风暴",
+          "随着美联储时隔三年零两个月首次上调基准利率、国际油价继续站稳在100美元上方，新兴经济体或再面临“高油价、强美元、高利率”的三重负担",
+          "市场策略师警告，美联储的鹰派加息将令亚洲货币承压，尤其是周五日本央行会议前的日元",
+          "早些时候，美联储宣布将基准利率从3.50%-3.75%上调至3.75%-4.00%",
+          "与此同时，在18位预测未来利率路径的官员中，16位预计今年至少还有一次加息"
         ]
       }
     ],
     "finance": [
       {
         "category": "财经",
+        "title": "特朗普说美联储利率太高了 要求迅速降息",
+        "summary": "",
+        "source": "中华网",
+        "published_at": "2026-09-17T14:11:15+08:00",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tVXgwQzROT0pxb1BfUUx3M0c1ZnBBTnhhVmlHQmQzYkw5bldjbHFKaTZYWmtvTXdtQzMwWms2WDItbXd1ZXZQQVRPSzNnVU9GNlItOF9qYzJtenZLRGZzRXByVG1aR1IxMVFoRS1COFk?oc=5",
+        "image_url": "https://ts4.mm.bing.net/th?id=OIP.3F0dca7-24YsRJ_a4_TbmQHaEK&pid=15.1",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "中华网这篇报道主要讲的是：特朗普说美联储利率太高了 要求迅速降息。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：特朗普说美联储利率太高了 要求迅速降息",
+          "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
+        ]
+      },
+      {
+        "category": "财经",
+        "title": "英国央行宣布维持基准利率在3.75%不变",
+        "summary": "",
+        "source": "央广网",
+        "published_at": "2026-09-17T21:58:06+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jZWtQNjY1QXFUZHlwTjh4Tm12aFBFX0w3T2IyWDRNY3R0S19HM0JBWE5keGlHblo4ajlDaW4wSnpBamZjQlJoQ0N6SDhXRk5NR2hVUklBa2lPTDVvMHNSYTRjUl91ekdE?oc=5",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.R-xeKNjOVZIRR570MmIgJAHaHa&pid=15.1",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "央广网这篇报道主要讲的是：英国央行宣布维持基准利率在3.75%不变。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：英国央行宣布维持基准利率在3.75%不变",
+          "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
+        ]
+      },
+      {
+        "category": "财经",
         "title": "人民币市场汇价（9月17日）",
         "summary": "新华社北京9月17日电 中国外汇交易中心9月17日受权公布人民币对美元、欧元、日元、港元、英镑、澳元、新西兰元、新加坡元、瑞士法郎、加元、澳门元、林吉特、卢布、兰特、韩元、迪拉姆、里亚尔、福林、兹罗提、丹麦克朗、瑞典克朗、挪威克朗、里拉、墨西哥比索及泰铢的市场汇价。",
         "source": "新华网",
-        "published_at": "2026-09-17T10:14:34+08:00",
-        "url": "http://www.xinhuanet.com/fortune/20260917/4697f50d8cbe4fc1a4b24b29b13633db/c.html",
-        "image_url": "https://ts1.mm.bing.net/th?id=OIP.ssOVkkoOAlXXcyyY1mlJGwHaHa&pid=15.1",
+        "published_at": "2026-09-17T10:14:36+08:00",
+        "url": "https://www.xinhuanet.com/20260917/4ff580770b224facba9c91bbc97506bf/c.html",
+        "image_url": "https://ts4.mm.bing.net/th?id=OIP.RBPOk0oC9A78UgK_tzcjqgHaJI&pid=15.1",
         "hot": false,
         "verified": true,
         "quick_summary": "新华网这篇报道主要讲的是：人民币市场汇价（9月17日）。新华社北京9月17日电 中国外汇交易中心9月17日受权公布人民币对美元、欧元、日元、港元、英镑、澳元、新西兰元、新加坡元、瑞士法郎、加元、澳门元、林吉特、卢布、兰特、韩元、迪拉姆、里亚尔、福林、兹罗提、丹麦克朗、瑞典克朗、挪威克朗、里拉、墨西哥比索及泰铢的市场汇价。",
@@ -509,181 +531,141 @@
       },
       {
         "category": "财经",
-        "title": "英国通胀在央行利率决定前走高，按兵不动的窗口正在收窄",
+        "title": "9月17日A股收盘：三大指数集体下挫 创业板指跌0.4% 农业板块逆势上涨",
         "summary": "",
-        "source": "wallstreetcn.com",
-        "published_at": "2026-09-16T17:04:40+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KY290X0tuYV9mYmktME1FUmNnMnNYWlJjdU00dFZPYjFkc1dTeFEyek5EcUtVcHIzS3JyM2Rqa1RtOXpWb0Y0MXRyVDVTRVlIQWNV?oc=5",
-        "image_url": "https://ts3.mm.bing.net/th?id=OIP.ZG2OiCRUxPe5R5wYdeoznQHaE7&pid=15.1",
+        "source": "央广网",
+        "published_at": "2026-09-17T15:21:47+08:00",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PNkpEMWJUa2NzTF9MdmpwUTFuSkdUbnRXZk1ITXV2bkRJTGRMMXF2YmtiRzNwLUlhaU5Bb2c1OGlDYldod2Y3R1c5ZUo1Nmk0T2FDaTFuV3dVR3hmWmU4SUdFaldFV1EyOE5Od0NSQkJ5WG8?oc=5",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.53-zJfmxDW-72MbD5lLmUAHaE8&pid=15.1",
         "hot": false,
-        "verified": false,
-        "quick_summary": "wallstreetcn.com这篇报道主要讲的是：英国通胀在央行利率决定前走高，按兵不动的窗口正在收窄。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "verified": true,
+        "quick_summary": "央广网这篇报道主要讲的是：9月17日A股收盘：三大指数集体下挫 创业板指跌0.4% 农业板块逆势上涨。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：英国通胀在央行利率决定前走高，按兵不动的窗口正在收窄",
+          "核心事件：9月17日A股收盘：三大指数集体下挫 创业板指跌0.4% 农业板块逆势上涨",
           "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
         ]
       },
       {
         "category": "财经",
-        "title": "美联储主席沃什：美国经济似乎正在走强，债券收益率上升受三方面因素推动",
-        "summary": "",
-        "source": "thepaper.cn",
-        "published_at": "2026-09-17T07:41:00+08:00",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34087289",
-        "image_url": "https://ts4.mm.bing.net/th?id=OIP.UQpNVdzmdkR1bB0iLs2wjgHaEK&pid=15.1",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "thepaper.cn这篇报道主要讲的是：美联储主席沃什：美国经济似乎正在走强，债券收益率上升受三方面因素推动。当地时间2026年9月16日，在美国首都华盛顿，美国联邦储备委员会主席凯文·沃什出席记者会。北京时间9月17日凌晨，美联储主席沃什在新闻发布会上表示，美国经济似乎正在走强，广泛的经济数据均指向这一趋势。沃什表示，近期美国新增招聘、私营部门收入和企业资本投资均有所改善，生产率增长强劲，资本投资也保持稳健。美联储最新经济预测显示，2026年至2028年美国实际GDP增速预期中值分别为2.3%、2.4%和2.2%。沃什表示，目前很难将美国整体金融状况描述为具有限制性。",
-        "key_points": [
-          "核心事件：美联储主席沃什：美国经济似乎正在走强，债券收益率上升受三方面因素推动",
-          "当地时间2026年9月16日，在美国首都华盛顿，美国联邦储备委员会主席凯文·沃什出席记者会",
-          "北京时间9月17日凌晨，美联储主席沃什在新闻发布会上表示，美国经济似乎正在走强，广泛的经济数据均指向这一趋势",
-          "沃什表示，近期美国新增招聘、私营部门收入和企业资本投资均有所改善，生产率增长强劲，资本投资也保持稳健",
-          "美联储最新经济预测显示，2026年至2028年美国实际GDP增速预期中值分别为2.3%、2.4%和2.2%"
-        ]
-      },
-      {
-        "category": "财经",
-        "title": "【早报】美存储股集体跳水；原油大跌、黄金走弱；长鑫科技将被纳入MSCI中国全股票指数",
+        "title": "港股收盘 | 三大指数集体收涨 AI硬件与黄金地产联袂走强",
         "summary": "",
         "source": "财联社",
-        "published_at": "2026-09-17T11:27:42+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mM19wd1kyWjlLR1l1ZEE2Q3JVZ29OOWhLRG9RNTU0MkpGNjFOTzY2REtobXNWaEotZDY3c19MUm5GdUlKMUN0Xw?oc=5",
-        "image_url": "https://ts4.mm.bing.net/th?id=OIP.4S2SUjM3zZNY75228YqfVQAAAA&pid=15.1",
+        "published_at": "2026-09-16T16:28:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE15RE9YTFVyZGNsN3M3Si1kanI3aVd4TzJkekNGTFdxVmlQNkRmdzhMVktxTEhhNDBaQTBYTTl5U0pQOTFoNTV5ZQ?oc=5",
+        "image_url": "https://ts4.mm.bing.net/th?id=OIP.7cYCQWkQ-rJPO2hOw9iHFQHaHa&pid=15.1",
         "hot": false,
         "verified": true,
-        "quick_summary": "财联社这篇报道主要讲的是：【早报】美存储股集体跳水；原油大跌、黄金走弱；长鑫科技将被纳入MSCI中国全股票指数。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "财联社这篇报道主要讲的是：港股收盘 | 三大指数集体收涨 AI硬件与黄金地产联袂走强。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：【早报】美存储股集体跳水；原油大跌、黄金走弱；长鑫科技将被纳入MSCI中国全股票指数",
+          "核心事件：港股收盘 | 三大指数集体收涨 AI硬件与黄金地产联袂走强",
           "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
         ]
       },
       {
         "category": "财经",
-        "title": "习近平就发展先进制造业作出重要指示",
+        "title": "日元156告破，日本央行被迫提前紧缩的临界点到了？",
         "summary": "",
-        "source": "court.gov.cn",
-        "published_at": "2026-09-17T14:12:31+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE82NEs3TkxxSGdPVmdyUnpnWkFjcE9FRDh4V1NMREY0TVdhSVhkVnNvdEdWTW9BaEJ5OUJFZlVxTU9HMDVhSkVIQnlRYk5TS2VWaUFFazBPMGRjaVVSZVBIbzVR?oc=5",
-        "image_url": "https://ts1.mm.bing.net/th?id=OIP.Xas0ttBLpJTvKzQeoBSD9QHaE7&pid=15.1",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "中华人民共和国生态环境部这篇报道主要讲的是：习近平就发展先进制造业作出重要指示。4 小时之前 · 新华社北京9月17日电中共中央总书记、国家主席、中央军委主席习近平近日就发展先进制造业作出重要指示指出，党的 …",
-        "key_points": [
-          "核心事件：习近平就发展先进制造业作出重要指示",
-          "4 小时之前 · 新华社北京9月17日电中共中央总书记、国家主席、中央军委主席习近平近日就发展先进制造业作出重要指示指出，党的 …"
-        ]
-      },
-      {
-        "category": "财经",
-        "title": "记者手记丨在德国商用车展见证中国汽车“新”力量",
-        "summary": "",
-        "source": "新华网",
-        "published_at": "2026-09-17T12:40:48+08:00",
-        "url": "http://www.xinhuanet.com/fortune/20260917/0dd120ff49a94a33b58210281f8bb3a6/c.html",
-        "image_url": "https://ts2.mm.bing.net/th?id=OIF.WN0dqV1yKJqIDGtdPAb1Vg&pid=15.1",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：记者手记丨在德国商用车展见证中国汽车“新”力量。新华社德国汉诺威9月16日电 记者手记｜在德国商用车展见证中国汽车“新”力量。一辆辆新能源重卡整齐排列，动力电池、电驱系统等核心部件集中亮相，无人配送车等新产品也吸引着参观者的目光……走进2026年德国汉诺威国际交通运输博览会，展现在眼前的不只是越来越多中国制造的车辆，更是覆盖整车、零部件和技术的商用车产业链。作为全球商用车领域重要展会之一，汉诺威国际交通运输博览会15日正式开幕，将持续至20日。这款面向干线物流的车型采用可氢可电的双能源平台，搭载兆瓦级超充技术，充电6分钟可增加约100公里续航。北汽福田海外事业部总裁武宗田说，此次参展带来7款新能源产品及相关生态解决方案，企业将结合欧洲不同市场的实际需求和碳减排目标，持续推进本地化布局，完善产品和服务体系。",
-        "key_points": [
-          "核心事件：记者手记丨在德国商用车展见证中国汽车“新”力量",
-          "新华社德国汉诺威9月16日电 记者手记｜在德国商用车展见证中国汽车“新”力量",
-          "一辆辆新能源重卡整齐排列，动力电池、电驱系统等核心部件集中亮相，无人配送车等新产品也吸引着参观者的目光……走进2026年德国汉诺威国际交通运输博览会，展现在眼前的不只是越来越多中国制造的车辆，更是覆盖整车、零部件和技术的商用车产业链",
-          "作为全球商用车领域重要展会之一，汉诺威国际交通运输博览会15日正式开幕，将持续至20日",
-          "这款面向干线物流的车型采用可氢可电的双能源平台，搭载兆瓦级超充技术，充电6分钟可增加约100公里续航"
-        ]
-      },
-      {
-        "category": "财经",
-        "title": "从首富到囚徒：中国房地产黄金时代谁买单？",
-        "summary": "",
-        "source": "联合早报",
-        "published_at": "2026-09-17T17:00:00+08:00",
-        "url": "https://www.zaobao.com.sg/news/china/story20260917-9689975",
-        "image_url": "https://ts2.mm.bing.net/th?id=OIP.fS-pB8uu77UJogwQrj-DYwAAAA&pid=15.1",
+        "source": "华尔街见闻",
+        "published_at": "2026-09-17T19:41:04+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pRVBydXVLaHlhc3ZQRFlFX1NqN1N2eEFwNDlfd1ljemNhZFRKS3dnQlUxekNpYTZjeGswMFBsdWttZVFKbTVYbERmczhzbF91Y1VN?oc=5",
+        "image_url": "https://ts3.mm.bing.net/th?id=OIP.Gk9xyY7XHGfMDVUpf7fZqQHaEc&pid=15.1",
         "hot": false,
         "verified": false,
-        "quick_summary": "联合早报这篇报道主要讲的是：从首富到囚徒：中国房地产黄金时代谁买单？。房地产企业不断扩张，地方政府靠卖地获得巨额收入，银行获得大量抵押贷款业务，普通家庭则把房地产视为最重要的财富来源之一。2026年8月20日，曾经的中国首富、恒大集团掌门人许家印迎来最终判决，被判无期徒刑，没收个人全部财产。但即使许老板牢底坐穿，恒大令人咋舌的2.4万亿人民币天价债务黑洞依然不会消失。这场持续20多年的房地产狂欢，究竟是怎样形成的？点击本期《世界大解说》，看懂中国房地产黄金时代的崛起与退潮，以及这场危机最终由谁承担代价。",
+        "quick_summary": "华尔街见闻这篇报道主要讲的是：日元156告破，日本央行被迫提前紧缩的临界点到了？。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：从首富到囚徒：中国房地产黄金时代谁买单？",
-          "房地产企业不断扩张，地方政府靠卖地获得巨额收入，银行获得大量抵押贷款业务，普通家庭则把房地产视为最重要的财富来源之一",
-          "2026年8月20日，曾经的中国首富、恒大集团掌门人许家印迎来最终判决，被判无期徒刑，没收个人全部财产",
-          "但即使许老板牢底坐穿，恒大令人咋舌的2.4万亿人民币天价债务黑洞依然不会消失",
-          "这场持续20多年的房地产狂欢，究竟是怎样形成的"
+          "核心事件：日元156告破，日本央行被迫提前紧缩的临界点到了？",
+          "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
         ]
       },
       {
         "category": "财经",
-        "title": "携程上架太空旅行船票 售价510万元人民币",
+        "title": "【环球财经】英国央行继续维持利率不变",
         "summary": "",
-        "source": "联合早报",
-        "published_at": "2026-09-16T10:18:20+08:00",
-        "url": "https://www.zaobao.com.sg/news/china/story20260916-9683018",
-        "image_url": "https://ts4.mm.bing.net/th?id=OIP.RLIOYjhrtdSgkkGMGWMPSwAAAA&pid=15.1",
+        "source": "中国金融信息网",
+        "published_at": "2026-09-17T20:36:00+08:00",
+        "url": "https://m.cnfin.com/yw-lb//zixun/20260917/4471435_1.html",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.MCFxICXAK0nDsKjgdpKcNgHaEc&pid=15.1",
         "hot": false,
         "verified": false,
-        "quick_summary": "联合早报这篇报道主要讲的是：携程上架太空旅行船票 售价510万元人民币。（北京/上海综合讯）中国在线旅游平台携程上架2027年维珍银河太空旅行船票，单张售价510万元人民币（96万7900新元）起，目前页面显示已售出两张。在第五天，太空游旅客将搭乘维珍银河的空射宇宙飞船，体验长达90分钟的次轨道太空飞行。这一商品上架后，页面最初显示售出681份，随后销量数字变更为两份。携程客服解释称，681份是维珍银河全球累计订单总量，是维珍公司的订单，页面显示的两份是携程鸿鹄已接收的预定。据《科创板日报》报道，中国商业航天企业深蓝航天2024年10月公开预售了中国首批亚轨道太空旅行船票，定价150万元人民币，当时出售的两前名载人飞船船票，在上架后不久就卖光。",
+        "quick_summary": "中国金融信息网这篇报道主要讲的是：【环球财经】英国央行继续维持利率不变。新华财经伦敦9月17日电（记者张亚东）英国央行17日宣布，继续维持现行3.75%的基准利率不变。这已经是英国央行连续第六次将基准利率维持在这一水平。尽管8月英国通胀已经升至3.1%，但核心通胀和服务通胀保持稳定，没有明显上升。这是英国央行继续维持利率不变、保持观察立场的主要原因。市场已经预期，英国央行在年底前至少会有一次加息25个基点的机会。",
         "key_points": [
-          "核心事件：携程上架太空旅行船票 售价510万元人民币",
-          "（北京/上海综合讯）中国在线旅游平台携程上架2027年维珍银河太空旅行船票，单张售价510万元人民币（96万7900新元）起，目前页面显示已售出两张",
-          "在第五天，太空游旅客将搭乘维珍银河的空射宇宙飞船，体验长达90分钟的次轨道太空飞行",
-          "这一商品上架后，页面最初显示售出681份，随后销量数字变更为两份",
-          "携程客服解释称，681份是维珍银河全球累计订单总量，是维珍公司的订单，页面显示的两份是携程鸿鹄已接收的预定"
+          "核心事件：【环球财经】英国央行继续维持利率不变",
+          "新华财经伦敦9月17日电（记者张亚东）英国央行17日宣布，继续维持现行3.75%的基准利率不变",
+          "这已经是英国央行连续第六次将基准利率维持在这一水平",
+          "尽管8月英国通胀已经升至3.1%，但核心通胀和服务通胀保持稳定，没有明显上升",
+          "这是英国央行继续维持利率不变、保持观察立场的主要原因"
         ]
       },
       {
         "category": "财经",
-        "title": "9月17日人民银行开展1620亿元7天期和6000亿元隔夜期逆回购操作 今日实现净投放1590亿元",
+        "title": "A股主板年内最便宜新股上市，尾盘飙涨触发二次临停",
         "summary": "",
-        "source": "东方财富",
-        "published_at": "2026-09-17T11:34:38+08:00",
-        "url": "https://finance.eastmoney.com/a/202609173877065983.html",
+        "source": "thepaper.cn",
+        "published_at": "2026-09-17T17:42:00+08:00",
+        "url": "https://www.thepaper.cn/newsDetail_forward_34089744",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.BO-c82EzvIpBOozh4N3nZAHaEK&pid=15.1",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "thepaper.cn这篇报道主要讲的是：A股主板年内最便宜新股上市，尾盘飙涨触发二次临停。9月17日，沈鼓集团（601091.SH）在上交所主板挂牌上市，开盘涨幅为196.13%，盘中震荡。临近尾盘股价拉升，涨幅扩大至285%，触发临停；随后再次扩大涨幅至373%，触发二次临停，成交额超21亿元。截至收盘，该股涨373.80%，报20.80元，总市值突破646亿元。沈鼓集团的发行价为4.39元/股，是今年以来A股主板最便宜新股。",
+        "key_points": [
+          "核心事件：A股主板年内最便宜新股上市，尾盘飙涨触发二次临停",
+          "9月17日，沈鼓集团（601091.SH）在上交所主板挂牌上市，开盘涨幅为196.13%，盘中震荡",
+          "临近尾盘股价拉升，涨幅扩大至285%，触发临停",
+          "随后再次扩大涨幅至373%，触发二次临停，成交额超21亿元",
+          "截至收盘，该股涨373.80%，报20.80元，总市值突破646亿元"
+        ]
+      },
+      {
+        "category": "财经",
+        "title": "美联储凌晨加息落地 黄金短期利空出尽",
+        "summary": "",
+        "source": "同花顺财经",
+        "published_at": "2026-09-17T15:15:27+08:00",
+        "url": "https://news.10jqka.com.cn/20260917/c680008811.shtml",
         "image_url": "",
         "hot": false,
         "verified": false,
-        "quick_summary": "东方财富这篇报道主要讲的是：9月17日人民银行开展1620亿元7天期和6000亿元隔夜期逆回购操作 今日实现净投放1590亿元。上证报中国证券网讯（记者张欣然）人民 银行 9月17日公告称，以固定利率、数量招标方式开展了1620亿元7天期逆回购操作，全额满足了一级交易商需求。今日公开市场有6000亿元隔夜逆回购到期，另有30亿元7天逆回购到期，今日实现净投放1590亿元。上海银行 间同业拆放利率（Shibor）隔夜上行1.26个基点报1.442%，7天Shibor上行1.1个基点报1.432%。截至昨日收盘，DR007加权平均利率上行1.25个基点至1.4369%，高于政策利率水平；中信证券 首席经济学家明明认为，9月以来， 银行 间市场流动性整体稳定，隔夜利率稳定在1.35%到1.4%区间，上旬7天期逆回购以零续作或小幅投放的稳健操作为主。",
+        "quick_summary": "同花顺财经这篇报道主要讲的是：美联储凌晨加息落地 黄金短期利空出尽。摘要上交易日周三(9月16日)：国际黄金冲高回落倒垂收线，美联储加息靴子落地，点阵图暗示年内将继续紧缩，打压金价。其形态上，和仍处于60日均线上方来看，有止跌看涨反弹的预期，下方关注60日均线或布林带下轨支撑仍可先行看涨为主。上交易日周三(9月16日)：国际黄金冲高回落倒垂收线，美联储加息靴子落地，点阵图暗示年内将继续紧缩，打压金价。展望今日(9月17日)：国际黄金开盘受到隔夜尾盘回升之力，以及60日均线支撑买盘推动，先行走强，同时，美联储凌晨加息落地，短期利空出尽。基本面上，目前，美联储一致通过加息25基点的决定，开启自2023年7月以来首次加息，并仍暗示年内还有一次加息，短期内，若中东局势若持续升级， 能源（850101） 价格再度飙升，后续经济数据继续显示通胀顽固、经济韧性十足，市场对进一步加息的定价可能更加激进，金价仍面临下行风险。",
         "key_points": [
-          "核心事件：9月17日人民银行开展1620亿元7天期和6000亿元隔夜期逆回购操作 今日实现净投放1590亿元",
-          "上证报中国证券网讯（记者张欣然）人民 银行 9月17日公告称，以固定利率、数量招标方式开展了1620亿元7天期逆回购操作，全额满足了一级交易商需求",
-          "今日公开市场有6000亿元隔夜逆回购到期，另有30亿元7天逆回购到期，今日实现净投放1590亿元",
-          "上海银行 间同业拆放利率（Shibor）隔夜上行1.26个基点报1.442%，7天Shibor上行1.1个基点报1.432%",
-          "截至昨日收盘，DR007加权平均利率上行1.25个基点至1.4369%，高于政策利率水平"
+          "核心事件：美联储凌晨加息落地 黄金短期利空出尽",
+          "摘要上交易日周三(9月16日)：国际黄金冲高回落倒垂收线，美联储加息靴子落地，点阵图暗示年内将继续紧缩，打压金价",
+          "其形态上，和仍处于60日均线上方来看，有止跌看涨反弹的预期，下方关注60日均线或布林带下轨支撑仍可先行看涨为主",
+          "上交易日周三(9月16日)：国际黄金冲高回落倒垂收线，美联储加息靴子落地，点阵图暗示年内将继续紧缩，打压金价",
+          "展望今日(9月17日)：国际黄金开盘受到隔夜尾盘回升之力，以及60日均线支撑买盘推动，先行走强，同时，美联储凌晨加息落地，短期利空出尽"
         ]
       },
       {
         "category": "财经",
-        "title": "恒指、恒科齐涨；半导体、光通信、黄金板块走强，石油石化、医药股下挫；联想涨超8% | 港股收盘",
+        "title": "《汇市简讯》美元/人民币涨势受抑，中国央行对人民币保持严格管控",
         "summary": "",
-        "source": "东方财富",
-        "published_at": "2026-09-16T19:56:03+08:00",
-        "url": "https://finance.eastmoney.com/a/202609163876087198.html",
+        "source": "TradingView",
+        "published_at": "2026-09-17T10:00:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zMlk0amJDb3RyYlhVYnp3QlVwUTZyTzhQN00zNS1MTzJReFJicDZPRm4zbWd2NG4xWUtLakJsWjBjWXBqaGw5Ri13VDMwOGxuSm1nRHZuS2RFSW42LVV6aHZGWFJtV2k1LXlWaHIzeHE0Rk5oZWdRbw?oc=5",
         "image_url": "",
         "hot": false,
         "verified": false,
-        "quick_summary": "东方财富这篇报道主要讲的是：恒指、恒科齐涨；半导体、光通信、黄金板块走强，石油石化、医药股下挫；联想涨超8% | 港股收盘。9月16日，香港恒生指数收涨0.19%，恒生科技指数涨0.79%。半导体 、光 通信 板块走强， 剑桥科技 涨超10%， 上海复旦 涨超8%， 华虹宏力 涨超5%， 中际旭创 涨超4%；黄金 股普涨， 灵宝黄金 涨超8%， 赤峰黄金 涨超7%， 山东黄金 涨超5%。科网股方面， 联想集团 午后走高，收盘涨超8%；热门个股中， 智谱 涨超5%，MINIMAX、 中芯国际 上涨。",
+        "quick_summary": "TradingView这篇报道主要讲的是：《汇市简讯》美元/人民币涨势受抑，中国央行对人民币保持严格管控。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：恒指、恒科齐涨；半导体、光通信、黄金板块走强，石油石化、医药股下挫；联想涨超8% | 港股收盘",
-          "9月16日，香港恒生指数收涨0.19%，恒生科技指数涨0.79%",
-          "半导体 、光 通信 板块走强， 剑桥科技 涨超10%， 上海复旦 涨超8%， 华虹宏力 涨超5%， 中际旭创 涨超4%",
-          "黄金 股普涨， 灵宝黄金 涨超8%， 赤峰黄金 涨超7%， 山东黄金 涨超5%",
-          "科网股方面， 联想集团 午后走高，收盘涨超8%"
+          "核心事件：《汇市简讯》美元/人民币涨势受抑，中国央行对人民币保持严格管控",
+          "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
         ]
       }
     ],
     "tech": [
       {
         "category": "科技",
-        "title": "深耕韬定律芯片 华为首次提出智能世界十大关键命题",
-        "summary": "",
-        "source": "news.mydrivers.com",
-        "published_at": "2026-09-17T11:28:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xeHFjbmx2cTF2dlE2NzZKWmhsXzJrc1B1a3ZLSXo4ZExVaEd6MjFJc0FhdjZmd3BEZFppa180OWNDbW5FeU1KQ01WemZZZTBfOXZYZ0R0dVI?oc=5",
-        "image_url": "https://ts3.mm.bing.net/th?id=OIP.1LNyLyHoNQHfk1-SGnG-pQHaE8&pid=15.1",
+        "title": "国产AI开始自我优化国产芯片：GLM-5.3 Flash两周实现3.2倍性能",
+        "summary": "8月20日，Ox-Alpha以“隐身模型”身份悄然上线全球最大模型聚合平台OpenRouter，首日调用量即登顶并创下单日历史纪录，同时终结DeepSeek在OpenCode长达56天的霸榜，单日处理tokens达62T，迅速成为两大平台当周最受欢迎模型，刷新双平台历史纪录。 测试期间，独立研…",
+        "source": "驱动之家",
+        "published_at": "2026-09-17T19:18:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jR2MxU3BqTFRhekFLRTVQc21vN0NlcTZOdTZQVnpfQWNCT05tZmVPQTVzLWJ4ZnpXS1NsZXphQnkzMkpCd0xpZWVCRkJnZm5Lc0JmaVE2YnE?oc=5",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.Mjm1QO7GuDXazZlfN1qRaQHaEb&pid=15.1",
         "hot": false,
         "verified": false,
-        "quick_summary": "news.mydrivers.com这篇报道主要讲的是：深耕韬定律芯片 华为首次提出智能世界十大关键命题。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "驱动之家这篇报道主要讲的是：国产AI开始自我优化国产芯片：GLM-5.3 Flash两周实现3.2倍性能。8月20日，Ox-Alpha以“隐身模型”身份悄然上线全球最大模型聚合平台OpenRouter，首日调用量即登顶并创下单日历史纪录，同时终结DeepSeek在OpenCode长达56天的霸榜，单日处理tokens达62T，迅速成为两大平台当周最受欢迎模型，刷新双平台历史纪录。",
         "key_points": [
-          "核心事件：深耕韬定律芯片 华为首次提出智能世界十大关键命题",
+          "核心事件：国产AI开始自我优化国产芯片：GLM-5.3 Flash两周实现3.2倍性能",
+          "8月20日，Ox-Alpha以“隐身模型”身份悄然上线全球最大模型聚合平台OpenRouter，首日调用量即登顶并创下单日历史纪录，同时终结DeepSeek在OpenCode长达56天的霸榜，单日处理tokens达62…",
           "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
         ]
       },
@@ -694,7 +676,7 @@
         "source": "新华网",
         "published_at": "2026-09-17T14:42:32+08:00",
         "url": "https://www.news.cn/photo/20260917/be1b80ca518c498a954beab30db1dcbd/c.html",
-        "image_url": "https://ts1.mm.bing.net/th?id=OIP.UIrant8wAcdyVM2qEgUnmwAAAA&pid=15.1",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.ti87z1S-yJzoy6skAxhhTwHaE6&pid=15.1",
         "hot": false,
         "verified": true,
         "quick_summary": "新华网这篇报道主要讲的是：第九届中国机器人峰会在杭州开幕。9月17日，在第九届中国机器人峰会现场，杭州云深处科技股份有限公司工作人员向观众展示全地形轮足机器人。9月17日，第九届中国机器人峰会在浙江杭州未来科技城开幕。9月17日，在第九届中国机器人峰会现场，工作人员向观众展示轮足复合敏捷移动平台。这是9月17日在第九届中国机器人峰会现场拍摄的小型人形机器人。这是9月17日在第九届中国机器人峰会现场拍摄的超轻量协作机器人。",
@@ -708,31 +690,12 @@
       },
       {
         "category": "科技",
-        "title": "中国太保举办金融保险服务商业航天高质量发展研讨会",
-        "summary": "",
-        "source": "新华网客户端",
-        "published_at": "2026-09-16T18:26:32+08:00",
-        "url": "https://app.xinhuanet.com/news/article.html?articleId=2026091680a5818b9577406b89fa91500e2a2c3a",
-        "image_url": "https://ts1.mm.bing.net/th?id=OIP.HNfaf-Wxwuvp0lchBmBGQAHaFQ&pid=15.1",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "新华网客户端这篇报道主要讲的是：中国太保举办金融保险服务商业航天高质量发展研讨会。日前，中国太保与商业航天创新联合体在2026年服贸会上共同举办“金融保险服务商业航天高质量发展研讨会”。中国太保副总裁、中国太保产险董事长俞斌在会上表示，保险作为现代金融体系和风险管理体系的重要支柱，是航天产业稳健发展的“减震器”和“稳定器”，中国太保将深度对接国家航天强国战略，主动融入商业航天产业发展大局，持续创新专属保险产品、优化风险管理服务体系，助力商业航天产业发展。他表示，再保险公司应当在商业航天这一高风险领域践行长期主义精神、锻造“耐心承保能力”，发挥再保险放大器、调节器、连接器作用，通过产业协同创新，描绘服务国家战略的责任底色。会议期间，与会专家嘉宾立足政策、产业、金融、科技多维度展开深度分享，交流实践经验、探讨行业痛点、共议发展对策，进一步明确了金融保险赋能商业航天高质量发展的发力方向，为构建多方共赢、风险共担、价值共享的产业生态凝聚广泛共识。未来，中国太保将持续深耕商业航天细分赛道，持续升级全生命周期风险管理与金融保障能力，深化产业链多方协同合作，以产业链保险创新赋能商业航天技术突破、场景落地、生态成型，携手行业伙伴共促中国商业航天产业高质量发展。",
-        "key_points": [
-          "核心事件：中国太保举办金融保险服务商业航天高质量发展研讨会",
-          "日前，中国太保与商业航天创新联合体在2026年服贸会上共同举办“金融保险服务商业航天高质量发展研讨会”",
-          "中国太保副总裁、中国太保产险董事长俞斌在会上表示，保险作为现代金融体系和风险管理体系的重要支柱，是航天产业稳健发展的“减震器”和“稳定器”，中国太保将深度对接国家航天强国战略，主动融入商业航天产业发展大局，持续创新专属保险产品、优化风…",
-          "他表示，再保险公司应当在商业航天这一高风险领域践行长期主义精神、锻造“耐心承保能力”，发挥再保险放大器、调节器、连接器作用，通过产业协同创新，描绘服务国家战略的责任底色",
-          "会议期间，与会专家嘉宾立足政策、产业、金融、科技多维度展开深度分享，交流实践经验、探讨行业痛点、共议发展对策，进一步明确了金融保险赋能商业航天高质量发展的发力方向，为构建多方共赢、风险共担、价值共享的产业生态凝聚广泛共识"
-        ]
-      },
-      {
-        "category": "科技",
         "title": "人民锐评：半导体迎来“韬（τ）定律” 中国定义将改写世界",
         "summary": "",
         "source": "财联社",
-        "published_at": "2026-09-17T11:57:04+08:00",
+        "published_at": "2026-09-17T20:54:06+08:00",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RYXNPb01HbnRFa180a2M1dFdZU1lLMkpkU3VQTkpIUFRVV25JVjNDM0tORllFci00MzNha1pVTUt2eHJMNzhRRA?oc=5",
-        "image_url": "https://ts3.mm.bing.net/th?id=OIP.sRXhDE37kBWWky9uxP1WIwHaHa&pid=15.1",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.Mz5WjUr9SGwYffE3T7ebzQHaFj&pid=15.1",
         "hot": false,
         "verified": true,
         "quick_summary": "财联社这篇报道主要讲的是：人民锐评：半导体迎来“韬（τ）定律” 中国定义将改写世界。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
@@ -743,17 +706,52 @@
       },
       {
         "category": "科技",
-        "title": "五项第一！纯国产AI存储首次杀入全球第一梯队：中国芯+中国存储",
+        "title": "2nm GAA PDK开源了：人人都能研究当前最顶级芯片工艺",
         "summary": "",
-        "source": "news.mydrivers.com",
-        "published_at": "2026-09-17T10:01:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hN3B6WUFuZ01WM0tvdmsyR3VmVzJyY2Y3UnRaX01EX2xXQ21kYmtad2pXa1R1bEw4WjRCekFGSGszdjFIbl9xbnlva1lFTFFGeHF0NmFBT3Q?oc=5",
-        "image_url": "https://ts3.mm.bing.net/th?id=OIP.xtv8YJ0eZiF0edt9kVQwoAHaLH&pid=15.1",
+        "source": "驱动之家",
+        "published_at": "2026-09-17T20:02:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9LMkRtM0ZZeFVMRWh2SThoM25aSjdzeEp2OTg3YTVLSTBoLVBSVWpoVnk0bXR4RE1yT1dOMkV4MUcyNjlOeEZhZ0ZoeU16ZTcxYjRaUEhUU18?oc=5",
+        "image_url": "https://ts3.mm.bing.net/th?id=OIP.J9v-Yh1FPz30Mzjo2v-ooQHaFd&pid=15.1",
         "hot": false,
         "verified": false,
-        "quick_summary": "news.mydrivers.com这篇报道主要讲的是：五项第一！纯国产AI存储首次杀入全球第一梯队：中国芯+中国存储。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "驱动之家这篇报道主要讲的是：2nm GAA PDK开源了：人人都能研究当前最顶级芯片工艺。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：五项第一！纯国产AI存储首次杀入全球第一梯队：中国芯+中国存储",
+          "核心事件：2nm GAA PDK开源了：人人都能研究当前最顶级芯片工艺",
+          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
+        ]
+      },
+      {
+        "category": "科技",
+        "title": "华为：突破冯·诺依曼单机架构",
+        "summary": "",
+        "source": "观察者网",
+        "published_at": "2026-09-17T17:19:00+08:00",
+        "url": "https://www.guancha.cn/CaiJing/2026_09_17_901030.shtml",
+        "image_url": "https://ts4.mm.bing.net/th?id=OIP.0OCSmJoEzFu9YCAT8ZTCFQHaE9&pid=15.1",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "观察者网这篇报道主要讲的是：华为：突破冯·诺依曼单机架构。9月17日，华为宣布推出AI时代的全新计算架构“Peerium计算架构”。华为表示，Peerium计算架构是基于嵌套并行，统一内存寻址、平等互联实现百万级处理器强扩展的计算架构。Peerium计算架构突破了图灵范式，提出了Nested BSP，突破了冯·诺依曼单机架构，颠覆了长久以来的主从架构，实现了百万级处理器真正成为一台更大的计算机。冯·诺依曼理论的要点是：数字计算机的数制采用二进制；Atlas 950超节点是Peerium计算架构的首代产品，25.6万卡Atlas 950超节点集群已经在部署中，基于NPO的Atlas 960系统正在测试中。",
+        "key_points": [
+          "核心事件：华为：突破冯·诺依曼单机架构",
+          "9月17日，华为宣布推出AI时代的全新计算架构“Peerium计算架构”",
+          "华为表示，Peerium计算架构是基于嵌套并行，统一内存寻址、平等互联实现百万级处理器强扩展的计算架构",
+          "Peerium计算架构突破了图灵范式，提出了Nested BSP，突破了冯·诺依曼单机架构，颠覆了长久以来的主从架构，实现了百万级处理器真正成为一台更大的计算机",
+          "冯·诺依曼理论的要点是：数字计算机的数制采用二进制"
+        ]
+      },
+      {
+        "category": "科技",
+        "title": "哲学家造芯片！扬言能效比英伟达Vera Rubin高100倍",
+        "summary": "",
+        "source": "驱动之家",
+        "published_at": "2026-09-17T15:03:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51YkFDLXpRSW5UN1B6WGRENmRodnpwZjZQVXRnVzZuMnZ1bUhvNC1HSGdqU2RhXzJrWHBhVmc1SmRQUWFnTHphRThFdGIxVlJGdktzeUo4c00?oc=5",
+        "image_url": "https://ts4.mm.bing.net/th?id=OIP._F8D-SkQKm9EcCY6MZGGzwHaD2&pid=15.1",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "驱动之家这篇报道主要讲的是：哲学家造芯片！扬言能效比英伟达Vera Rubin高100倍。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：哲学家造芯片！扬言能效比英伟达Vera Rubin高100倍",
           "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
         ]
       },
@@ -764,7 +762,7 @@
         "source": "财联社",
         "published_at": "2026-09-17T11:46:50+08:00",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE12ZjBIMXNiQVEtUTZXbHRaMTFFNGtGVjdUM1hLY3RwSm9lcS15Z1k4WkgzdW9LT3Y4ZUJyN3hjUjhDTHNaOWhzcg?oc=5",
-        "image_url": "https://ts3.mm.bing.net/th?id=OIP.PecSVcxSIjyzY-dOsexhxgHaFN&pid=15.1",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.LyhPFqTLmgCGUSCVB_xG-QHaFj&pid=15.1",
         "hot": false,
         "verified": true,
         "quick_summary": "财联社这篇报道主要讲的是：海外研选 | 巴克莱：自动化3.0时代开启 人形机器人市场10年后或达2000亿美元。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
@@ -775,17 +773,17 @@
       },
       {
         "category": "科技",
-        "title": "新能源汽车该拼什么？从技术突破看中国汽车工业的进阶",
+        "title": "斥资7.3亿！俄罗斯建芯片厂却只能买中国或欧洲设备：国产替代在哪",
         "summary": "",
-        "source": "新浪财经",
-        "published_at": "2026-09-17T14:09:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1saHJ6RmtrQzg0VXFfUnpxMU9oQS1CbDFId3AyNVNNUFdZSl8xdU1fWFM1WFowSkx5bmdkaFNEakFWNkJvblpSNEZsQkI4UkdScUZ0clFEUTdIZ2VBWHdZSldwRkpNTW9NRTVGT1ZfQUFsdF9jYTlzWA?oc=5",
-        "image_url": "https://ts2.mm.bing.net/th?id=OIP.t3Vh81jX741hqBDq0CqD8QHaE8&pid=15.1",
+        "source": "新浪网",
+        "published_at": "2026-09-17T14:59:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HTjQzRVZoMFI0ZFR1OW44MnNzMi1HZEtzdWZ0Ml9JYWVZZVVOWFpFQi1JZ1JyS2dBRXF1LWpDbGN0VnBDa1pqU24tdnFRcWhSa3pNR3ZSUTN1RHhuT2R2OEE3QWdlYTJOQTlSSC1PMEVVTVE1LURNOE55a2JTSlE?oc=5",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.YI7TnafeCz2uUe2St4wRWwHaFi&pid=15.1",
         "hot": false,
         "verified": false,
-        "quick_summary": "新浪财经这篇报道主要讲的是：新能源汽车该拼什么？从技术突破看中国汽车工业的进阶。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "新浪网这篇报道主要讲的是：斥资7.3亿！俄罗斯建芯片厂却只能买中国或欧洲设备：国产替代在哪。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：新能源汽车该拼什么？从技术突破看中国汽车工业的进阶",
+          "核心事件：斥资7.3亿！俄罗斯建芯片厂却只能买中国或欧洲设备：国产替代在哪",
           "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
         ]
       },
@@ -793,13 +791,13 @@
         "category": "科技",
         "title": "卡死中国EUV光刻机！美专家给对华芯片管制下结论：高度有效",
         "summary": "",
-        "source": "news.mydrivers.com",
+        "source": "驱动之家",
         "published_at": "2026-09-17T12:32:00+08:00",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLWi1MVF9PSHducDhPQ3VRY1VfaDcwbk9uOGwtTVhXMXUzUFhEU0NYbGNHS0NkMlRTM01mNTFMR01raWl2VkJnbFF6MFhfd1pNVGllYVNOclc?oc=5",
-        "image_url": "https://ts3.mm.bing.net/th?id=OIP.9kS6wU9_aVaMeL32iVNNFQHaE8&pid=15.1",
+        "image_url": "",
         "hot": false,
         "verified": false,
-        "quick_summary": "news.mydrivers.com这篇报道主要讲的是：卡死中国EUV光刻机！美专家给对华芯片管制下结论：高度有效。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "驱动之家这篇报道主要讲的是：卡死中国EUV光刻机！美专家给对华芯片管制下结论：高度有效。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
           "核心事件：卡死中国EUV光刻机！美专家给对华芯片管制下结论：高度有效",
           "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
@@ -807,34 +805,17 @@
       },
       {
         "category": "科技",
-        "title": "Java 27 正式发布：G1 成为默认垃圾回收器，后量子加密进入TLS 1.3 - OSCHINA - 开源 × AI · 开发者生态社区",
+        "title": "PS2最后的秘密被破解！安全芯片铁壳终被撬开：四年挖出全部秘密",
         "summary": "",
-        "source": "oschina.net",
-        "published_at": "2026-09-17T12:38:07+08:00",
-        "url": "https://www.oschina.net/news/502512/oracle-the-arrival-of-java-27",
+        "source": "驱动之家",
+        "published_at": "2026-09-17T09:50:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5yTjlZYzZFQ3pqRktpNlduTFlBMHhqRURsUmN0SXZUSXBvNE9YZ2p2VXEyV05aQVpXQ2RHbDZQODNkYmFpZFNqZWdVMTdsNTFLZzFQZy0yNy0?oc=5",
         "image_url": "",
         "hot": false,
         "verified": false,
-        "quick_summary": "oschina.net这篇报道主要讲的是：Java 27 正式发布：G1 成为默认垃圾回收器，后量子加密进入TLS 1.3 - OSCHINA - 开源 × AI · 开发者生态社区。OSCHINA.NET 是面向开发者的开源与 AI 生态社区。我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建。",
+        "quick_summary": "驱动之家这篇报道主要讲的是：PS2最后的秘密被破解！安全芯片铁壳终被撬开：四年挖出全部秘密。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：Java 27 正式发布：G1 成为默认垃圾回收器，后量子加密进入TLS 1.3 - OSCHINA - 开源 × AI · 开发者生态社区",
-          "OSCHINA.NET 是面向开发者的开源与 AI 生态社区",
-          "我们倡导开源协作，以内容为核心，并以 AI 提升知识的获取与创作效率，围绕智库、造物与交流形成实践闭环，让开发者在同一生态中发现项目、应用方案并与社区共建"
-        ]
-      },
-      {
-        "category": "科技",
-        "title": "斥资7.3亿！俄罗斯建芯片厂却只能买中国或欧洲设备：国产替代在哪",
-        "summary": "",
-        "source": "news.mydrivers.com",
-        "published_at": "2026-09-17T11:56:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiWUcwal9yM283eFNBRXR6NUlRMF84bFZraEQ4TjNkbFVXMGJsRjB2U1RpeE0yNXBwR0RMbnFoa19PVS1WNHdldktYVkJKWTNYT0luOEd0WlU?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "quick_summary": "news.mydrivers.com这篇报道主要讲的是：斥资7.3亿！俄罗斯建芯片厂却只能买中国或欧洲设备：国产替代在哪。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：斥资7.3亿！俄罗斯建芯片厂却只能买中国或欧洲设备：国产替代在哪",
+          "核心事件：PS2最后的秘密被破解！安全芯片铁壳终被撬开：四年挖出全部秘密",
           "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
         ]
       }
@@ -842,362 +823,368 @@
     "society": [
       {
         "category": "社会",
-        "title": "树立和践行正确政绩观学习教育中央指导组暨中央层面工作专班总结会议召开",
+        "title": "平陆运河通航释放交通红利促进区域经济开放",
         "summary": "",
-        "source": "nxshgzb.gov.cn",
-        "published_at": "2026-09-17T09:12:06+08:00",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ya1l1V1FRdXhDZnBFZV9kd0pBWnlPN2lqSUxYd3JqajExNFRrOE1HLVlGN2RsUE5MYUJDV3JmTlpMRkdoLWtyZ2tTampsalNzU0p3ZU41V1h0SHc3eV84bkh5OGtiWWZucVRDdXRYcWFnbUQz?oc=5",
-        "image_url": "https://ts4.mm.bing.net/th?id=OIP.TRMhgXqtisVSMGWtpQXc_gHaLH&pid=15.1",
+        "source": "新华网",
+        "published_at": "2026-09-17T19:49:39+08:00",
+        "url": "https://www.news.cn/fortune/20260917/16cd052c2f134011a577d041f14e48f6/c.html",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.lPPQfYt5_2Q5-qqP2MZqEQHaJ-&pid=15.1",
         "hot": false,
         "verified": true,
-        "quick_summary": "nxshgzb.gov.cn这篇报道主要讲的是：树立和践行正确政绩观学习教育中央指导组暨中央层面工作专班总结会议召开。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "新华网这篇报道主要讲的是：平陆运河通航释放交通红利促进区域经济开放。这是9月16日拍摄的平陆运河马道枢纽。16日，在广西钦州市灵山县的平陆运河马道枢纽，随着首航船舶鸣响汽笛启航，备受瞩目的平陆运河建成通航。平陆运河始于南宁横州市西津库区平塘江口，经钦州灵山县陆屋镇，沿钦江直通北部湾，全长134.2公里，按内河Ⅰ级标准建设，可通航5000吨级船舶。广西平陆运河建设有限公司总工程师潘剑说，平陆运河通航后，西南地区货物可经公、铁、水路接入西江，再经平陆运河出海，较以往传统路径出海缩短内河航程560公里以上。”广西百色西江投资发展有限公司董事长宁子然说，平陆运河通航后，全年将为他们企业节约物流成本约4500万元。",
         "key_points": [
-          "核心事件：树立和践行正确政绩观学习教育中央指导组暨中央层面工作专班总结会议召开",
-          "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
+          "核心事件：平陆运河通航释放交通红利促进区域经济开放",
+          "这是9月16日拍摄的平陆运河马道枢纽",
+          "16日，在广西钦州市灵山县的平陆运河马道枢纽，随着首航船舶鸣响汽笛启航，备受瞩目的平陆运河建成通航",
+          "平陆运河始于南宁横州市西津库区平塘江口，经钦州灵山县陆屋镇，沿钦江直通北部湾，全长134.2公里，按内河Ⅰ级标准建设，可通航5000吨级船舶",
+          "广西平陆运河建设有限公司总工程师潘剑说，平陆运河通航后，西南地区货物可经公、铁、水路接入西江，再经平陆运河出海，较以往传统路径出海缩短内河航程560公里以上"
         ]
       },
       {
         "category": "社会",
-        "title": "台风“杜鹃”将向北偏西方向快速移动 未来对我国近海无影响",
+        "title": "台风“杜鹃”将向西北方向快速移动 未来对我国近海无影响",
         "summary": "",
         "source": "天气网",
-        "published_at": "2026-09-17T10:36:48+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01MmRSNEJjTmRpZXZERGFhYlhJMksxT0xfaDVrODA5VEtiNmRCaVpDMzFqbDRXc0JZX3pMWFcybVVpbXJJaGdvZ1pQZVpVMGxjWUlTeXJNMHFGSHNl?oc=5",
-        "image_url": "https://ts2.mm.bing.net/th?id=OIP.C9W811kfvOnzZhx0oZ8a7QHaEK&pid=15.1",
+        "published_at": "2026-09-17T17:44:28+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qY2hhVlhnQlZSZVFYaF8wRmJ2b2JUUGR5Q1B0TlU2bEZzMmk5WF9XWUxZZ2M1WW9uUk9Tb3RhNENLU19iMnFTQ29wN1NLMWxhRVRDdEMzVXVORDdj?oc=5",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.AzZq-zVKDBP1DrZffqLkegHaHH&pid=15.1",
         "hot": true,
         "verified": false,
-        "quick_summary": "天气网这篇报道主要讲的是：台风“杜鹃”将向北偏西方向快速移动 未来对我国近海无影响。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "天气网这篇报道主要讲的是：台风“杜鹃”将向西北方向快速移动 未来对我国近海无影响。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：台风“杜鹃”将向北偏西方向快速移动 未来对我国近海无影响",
+          "核心事件：台风“杜鹃”将向西北方向快速移动 未来对我国近海无影响",
           "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
         ]
       },
       {
         "category": "社会",
-        "title": "2026世界农业科技创新大会开幕",
+        "title": "全面开渔啦：看懂休渔密码，实现海鲜自由",
         "summary": "",
         "source": "新华网",
-        "published_at": "2026-09-17T15:48:32+08:00",
-        "url": "https://www.news.cn/photo/20260917/ba0e4206523e4d0ab87802b0d052c456/c.html",
-        "image_url": "https://ts4.mm.bing.net/th?id=OIP.vwr4_AhElKFTaKMnL6xTqAHaFA&pid=15.1",
+        "published_at": "2026-09-17T22:12:33+08:00",
+        "url": "https://www.news.cn/20260917/d4dc45e03754471a99620d0089bf8f64/c.html",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.lTGFTCT8OkRlRAXrFmfQgAHaHi&pid=15.1",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：2026世界农业科技创新大会开幕。9月17日，参观者在世界农业科技创新博览会上了解一台智能数控种子编织机。9月17日，2026世界农业科技创新大会在北京平谷开幕。9月17日，2026世界农业科技创新大会咨询委员会联席主席、世界粮食奖基金会荣誉主席肯尼思·奎因在开幕式上致辞。9月17日，参观者在世界农业科技创新博览会上了解中国农业大学的一款智能复合式玉米去雄机器人。9月17日在世界农业科技创新博览会上拍摄的中科院自动化研究所的一款智能采摘机器人采摘演示。",
+        "quick_summary": "新华网这篇报道主要讲的是：全面开渔啦：看懂休渔密码，实现海鲜自由。9月16日12时，随着东海、黄海海域休渔禁令正式解除，我国渤海、黄海、东海、南海四大海域全部结束休渔，实现2026年全国全面开渔。从休渔制度到渔港现场，再到百姓餐桌，一文读懂全面开渔这件事。9月16日，渔船从浙江省宁波市象山县石浦渔港起航，奔赴东海开展捕捞作业（无人机照片）。全国休渔海域覆盖渤海、黄海、东海及北纬12度以北的南海，按纬度划为三个区域。以“北纬26度30分”为界，闽南8月16日开渔，闽东9月16日全面开渔。",
         "key_points": [
-          "核心事件：2026世界农业科技创新大会开幕",
-          "9月17日，参观者在世界农业科技创新博览会上了解一台智能数控种子编织机",
+          "核心事件：全面开渔啦：看懂休渔密码，实现海鲜自由",
+          "9月16日12时，随着东海、黄海海域休渔禁令正式解除，我国渤海、黄海、东海、南海四大海域全部结束休渔，实现2026年全国全面开渔",
+          "从休渔制度到渔港现场，再到百姓餐桌，一文读懂全面开渔这件事",
+          "9月16日，渔船从浙江省宁波市象山县石浦渔港起航，奔赴东海开展捕捞作业（无人机照片）",
+          "全国休渔海域覆盖渤海、黄海、东海及北纬12度以北的南海，按纬度划为三个区域"
+        ]
+      },
+      {
+        "category": "社会",
+        "title": "王毅同美国国务卿鲁比奥通电话",
+        "summary": "",
+        "source": "mfa.gov.cn",
+        "published_at": "2026-09-17T22:06:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xR1pGNS1yWDlaRjF6WjNLM0NaX29jTnhBZzYyZV9JWVUzeGQ5TnVDSktodzZJNHp1aUZwbG1PMVhKTlNCQXFHTk1ud2ZGejRvMnN4WE9qd05SUTZoQWZjc3RWWFpTdWFPcDR5dnhn?oc=5",
+        "image_url": "https://ts3.mm.bing.net/th?id=OIP.3xXff4BJ16iQAX8HAgYTWQHaHa&pid=15.1",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "mfa.gov.cn这篇报道主要讲的是：王毅同美国国务卿鲁比奥通电话。2026年7月2日 · 王毅表示，今年5月，习近平主席同特朗普总统在北京达成构建中美建设性战略稳定关系等一系列重要共识，为未来3 …",
+        "key_points": [
+          "核心事件：王毅同美国国务卿鲁比奥通电话",
+          "2026年7月2日 · 王毅表示，今年5月，习近平主席同特朗普总统在北京达成构建中美建设性战略稳定关系等一系列重要共识，为未来3 …"
+        ]
+      },
+      {
+        "category": "社会",
+        "title": "记者手记丨“像撒哈拉之水一样珍贵”——随“吉祥方舟”义诊见闻",
+        "summary": "",
+        "source": "新华网客户端",
+        "published_at": "2026-09-17T21:37:45+08:00",
+        "url": "https://app.xinhuanet.com/news/article.html?articleId=20260917a1b3a3e77ddf4dc796fea29ab2fce148",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.FroKESb1-msupGkfZNyj9AHaFV&pid=15.1",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网客户端这篇报道主要讲的是：记者手记丨“像撒哈拉之水一样珍贵”——随“吉祥方舟”义诊见闻。努瓦克肖特的热，隔着车窗也感受得到。风把沙子吹上公路，细沙贴着路面跳舞；远处热浪起伏，景物在蒸腾中微微晃动。16日，当地气温达到42摄氏度，在中国海军“吉祥方舟”号医院船抵达毛里塔尼亚的第二天，记者随一支医生小分队来到首都努瓦克肖特城南阿拉法特区的一处街区，近距离观察一场义诊。到了现场，记者很快发现，自己除了采访，还能帮上一点忙。",
+        "key_points": [
+          "核心事件：记者手记丨“像撒哈拉之水一样珍贵”——随“吉祥方舟”义诊见闻",
+          "努瓦克肖特的热，隔着车窗也感受得到",
+          "风把沙子吹上公路，细沙贴着路面跳舞",
+          "远处热浪起伏，景物在蒸腾中微微晃动",
+          "16日，当地气温达到42摄氏度，在中国海军“吉祥方舟”号医院船抵达毛里塔尼亚的第二天，记者随一支医生小分队来到首都努瓦克肖特城南阿拉法特区的一处街区，近距离观察一场义诊"
+        ]
+      },
+      {
+        "category": "社会",
+        "title": "海内外专家学者在京热议农食系统绿色健康转型",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-09-17T21:29:02+08:00",
+        "url": "http://www.xinhuanet.com/fortune/20260917/b0229740620c4aab8dd39bf01c70b28d/c.html",
+        "image_url": "https://ts4.mm.bing.net/th?id=OIP.U8Wc59mgEwK3OG9zsNhhZQHaGD&pid=15.1",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：海内外专家学者在京热议农食系统绿色健康转型。9月17日，2026世界农业科技创新大会在北京平谷开幕。来自30余个国际组织、科研机构和企业商会的近300位嘉宾，围绕“农食系统绿色健康转型”主题，聚焦粮食安全、绿色低碳、AI农业、营养健康等议题开展研讨，共绘可持续发展新图景。统计数据显示，目前我国农业科技进步贡献率超过64%，农作物自主选育品种种植面积占比超95%，农作物耕种收综合机械化率达到76.7%，科技创新成为引领农业发展的重要引擎。开幕式上，《农食一体、农医联动，农食系统绿色健康转型的平谷方案》《联合国粮食及农业组织FAO创新报告》等6项技术方案和国际报告成果集中亮相。与会外国嘉宾表示，期待与中国在智慧农业、智能装备、现代种业、产学研融合等领域开展更深层次、更宽领域合作，携手助力世界粮食安全与农食系统绿色健康转型。",
+        "key_points": [
+          "核心事件：海内外专家学者在京热议农食系统绿色健康转型",
           "9月17日，2026世界农业科技创新大会在北京平谷开幕",
-          "9月17日，2026世界农业科技创新大会咨询委员会联席主席、世界粮食奖基金会荣誉主席肯尼思·奎因在开幕式上致辞",
-          "9月17日，参观者在世界农业科技创新博览会上了解中国农业大学的一款智能复合式玉米去雄机器人"
+          "来自30余个国际组织、科研机构和企业商会的近300位嘉宾，围绕“农食系统绿色健康转型”主题，聚焦粮食安全、绿色低碳、AI农业、营养健康等议题开展研讨，共绘可持续发展新图景",
+          "统计数据显示，目前我国农业科技进步贡献率超过64%，农作物自主选育品种种植面积占比超95%，农作物耕种收综合机械化率达到76.7%，科技创新成为引领农业发展的重要引擎",
+          "开幕式上，《农食一体、农医联动，农食系统绿色健康转型的平谷方案》《联合国粮食及农业组织FAO创新报告》等6项技术方案和国际报告成果集中亮相"
         ]
       },
       {
         "category": "社会",
-        "title": "2026“我与地坛”北京书市开幕",
-        "summary": "",
-        "source": "新华网",
-        "published_at": "2026-09-17T15:48:29+08:00",
-        "url": "http://www.xinhuanet.com/photo/20260917/5961a258451b4cfe8d2c045c02821b6a/c.html",
-        "image_url": "https://ts2.mm.bing.net/th?id=OIP.4Jim4-4XzFIo_g7RxG4rUgHaEJ&pid=15.1",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：2026“我与地坛”北京书市开幕。作为2026北京文化论坛会客厅活动之一，2026“我与地坛”北京书市于9月17日启幕，展期11天。地坛公园展场展览总面积突破2万平方米，汇聚400多家出版社、出版机构及特色实体书店，共500多个展位，展区面积、展棚数量均创历届新高。本届书市除在地坛公园举办外，在北京图书大厦、王府井书店同步开展。",
-        "key_points": [
-          "核心事件：2026“我与地坛”北京书市开幕",
-          "作为2026北京文化论坛会客厅活动之一，2026“我与地坛”北京书市于9月17日启幕，展期11天",
-          "地坛公园展场展览总面积突破2万平方米，汇聚400多家出版社、出版机构及特色实体书店，共500多个展位，展区面积、展棚数量均创历届新高",
-          "本届书市除在地坛公园举办外，在北京图书大厦、王府井书店同步开展"
-        ]
-      },
-      {
-        "category": "社会",
-        "title": "中国和平统一促进会召开十届四次常务理事会会议",
-        "summary": "",
-        "source": "新华网",
-        "published_at": "2026-09-17T15:34:01+08:00",
-        "url": "https://www.news.cn/politics/leaders/20260917/a33ef9ddbeba4cc2b39db8c8f2883c6a/c.html",
-        "image_url": "https://tse4.mm.bing.net/th/id/OIP.1G-FD58S8OZZcXDxKS8TPwHaJh?w=194&h=250&c=7&r=0&o=5&pid=1.7",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：中国和平统一促进会召开十届四次常务理事会会议。新华社北京9月17日电 9月17日，中国和平统一促进会十届四次常务理事会会议在京召开。李干杰表示，一年来，中国和平统一促进会认真贯彻落实中共中央决策部署，高举爱国主义旗帜，聚焦反“独”促统主责主业，发挥独特优势，广泛联系海内外统促会组织，做了大量务实有效的工作，为推进祖国统一和民族复兴贡献了积极力量。李干杰表示，新征程上，中国和平统一促进会要深入学习贯彻习近平总书记关于对台工作的重要论述和新时代党解决台湾问题的总体方略，弘扬爱国主义传统，不断夯实团结奋斗的思想根基；会议审议并通过了中国和平统一促进会常务理事会工作报告及有关人事事项。中国和平统一促进会副会长蔡达峰、何维、武维华、苏辉、高云龙、蒋作君、何报翔，以及常务理事出席会议。",
-        "key_points": [
-          "核心事件：中国和平统一促进会召开十届四次常务理事会会议",
-          "新华社北京9月17日电 9月17日，中国和平统一促进会十届四次常务理事会会议在京召开",
-          "李干杰表示，一年来，中国和平统一促进会认真贯彻落实中共中央决策部署，高举爱国主义旗帜，聚焦反“独”促统主责主业，发挥独特优势，广泛联系海内外统促会组织，做了大量务实有效的工作，为推进祖国统一和民族复兴贡献了积极力量",
-          "李干杰表示，新征程上，中国和平统一促进会要深入学习贯彻习近平总书记关于对台工作的重要论述和新时代党解决台湾问题的总体方略，弘扬爱国主义传统，不断夯实团结奋斗的思想根基",
-          "会议审议并通过了中国和平统一促进会常务理事会工作报告及有关人事事项"
-        ]
-      },
-      {
-        "category": "社会",
-        "title": "文化奇遇记｜在柳孜运河桥梁遗址博物馆探寻运河往事",
+        "title": "国际人士在第十三届北京香山论坛赞扬中国为全球安全治理作出贡献",
         "summary": "",
         "source": "新华网客户端",
-        "published_at": "2026-09-17T15:22:41+08:00",
-        "url": "https://app.xinhuanet.com/news/article.html?articleId=20260917b3622deba93547b8b33cec5b28152292",
-        "image_url": "https://ts1.mm.bing.net/th?id=OIP.Vv1qAt14c9Ad6q6PuyatSwHaFj&pid=15.1",
+        "published_at": "2026-09-17T21:27:45+08:00",
+        "url": "https://app.xinhuanet.com/news/article.html?articleId=202609170f3e571829924272a7be9bada1c1a6c0",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.RnI6GLmnl89SQXJ8cNE4NwHaKs&pid=15.1",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网客户端这篇报道主要讲的是：文化奇遇记｜在柳孜运河桥梁遗址博物馆探寻运河往事。文化奇遇记｜在柳孜运河桥梁遗址博物馆探寻运河往事----作为一座建在运河遗址之上的专题展馆，柳孜运河桥梁遗址博物馆承载着隋唐大运河（安徽段）的厚重历史。走进博物馆，脚下如水波荡漾的光影，耳畔传来千年前的漕运号子，来这里赴一场与历史的约会，听砖石诉说，让时光留痕。",
+        "quick_summary": "新华网客户端这篇报道主要讲的是：国际人士在第十三届北京香山论坛赞扬中国为全球安全治理作出贡献。“中国始终致力于改善国际安全环境，增进国际安全合作，破解国际安全困境，完善全球安全治理。”第十三届北京香山论坛举办期间，中国为全球安全治理作出的积极贡献受到国际人士广泛赞誉。与会代表和专家学者普遍认为，中国在全球安全治理中发挥着越来越重要的作用，为变乱交织的世界注入了稳定性和建设性力量。”在第十三届北京香山论坛第一场高端访谈中，英国皇家东西方战略研究所主席易思用中文向全场分享了他的见解。截至2025年底，这一倡议已得到130多个国家和国际地区组织的支持，明确写入140多份中外双多边文件。",
         "key_points": [
-          "核心事件：文化奇遇记｜在柳孜运河桥梁遗址博物馆探寻运河往事",
-          "文化奇遇记｜在柳孜运河桥梁遗址博物馆探寻运河往事----作为一座建在运河遗址之上的专题展馆，柳孜运河桥梁遗址博物馆承载着隋唐大运河（安徽段）的厚重历史",
-          "走进博物馆，脚下如水波荡漾的光影，耳畔传来千年前的漕运号子，来这里赴一场与历史的约会，听砖石诉说，让时光留痕"
+          "核心事件：国际人士在第十三届北京香山论坛赞扬中国为全球安全治理作出贡献",
+          "“中国始终致力于改善国际安全环境，增进国际安全合作，破解国际安全困境，完善全球安全治理",
+          "”第十三届北京香山论坛举办期间，中国为全球安全治理作出的积极贡献受到国际人士广泛赞誉",
+          "与会代表和专家学者普遍认为，中国在全球安全治理中发挥着越来越重要的作用，为变乱交织的世界注入了稳定性和建设性力量",
+          "”在第十三届北京香山论坛第一场高端访谈中，英国皇家东西方战略研究所主席易思用中文向全场分享了他的见解"
         ]
       },
       {
         "category": "社会",
-        "title": "2026海洋合作发展论坛在青岛开幕",
+        "title": "国新办举行“新征程上的奋斗者”中外记者见面会围绕“肩负使命，在乡村振兴一线实干”与中外记者见面交流",
         "summary": "",
         "source": "新华网",
-        "published_at": "2026-09-17T15:21:54+08:00",
-        "url": "http://www.xinhuanet.com/photo/20260917/0f8d44cf3bb94ec8ae122459ad43f744/c.html",
-        "image_url": "https://ts4.mm.bing.net/th?id=OIP.o9cocgxtsv0hbTZEO-_xXAHaEJ&pid=15.1",
+        "published_at": "2026-09-17T19:15:43+08:00",
+        "url": "http://www.xinhuanet.com/photo/20260917/dc736368399844c3a9d093510ff93c58/c.html",
+        "image_url": "https://ts4.mm.bing.net/th?id=OIP.NvUqS_Bth6pVeFhqsrj5mAHaEJ&pid=15.1",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：2026海洋合作发展论坛在青岛开幕。9月17日，2026海洋合作发展论坛在青岛西海岸新区开幕。本届论坛以“从蔚蓝到未来——发展可持续海洋经济，共建美丽丰盈的海洋”为主题，涵盖开幕式暨主论坛、海洋文明对话会、4个平行论坛、8项配套特色活动。9月17日，嘉宾共同启动“海洋十年”海洋公益行动全球倡议灯塔。",
+        "quick_summary": "新华网这篇报道主要讲的是：国新办举行“新征程上的奋斗者”中外记者见面会围绕“肩负使命，在乡村振兴一线实干”与中外记者见面交流。国新办举行“新征程上的奋斗者”中外记者见面会 围绕“肩负使命，在乡村振兴一线实干”与中外记者见面交流-9月17日，国务院新闻办公室在北京举行“新征程上的奋斗者”中外记者见面会，驻村第一书记代表围绕“肩负使命，在乡村振兴一线实干”与中外记者见面交流。",
         "key_points": [
-          "核心事件：2026海洋合作发展论坛在青岛开幕",
-          "9月17日，2026海洋合作发展论坛在青岛西海岸新区开幕",
-          "本届论坛以“从蔚蓝到未来——发展可持续海洋经济，共建美丽丰盈的海洋”为主题，涵盖开幕式暨主论坛、海洋文明对话会、4个平行论坛、8项配套特色活动",
-          "9月17日，嘉宾共同启动“海洋十年”海洋公益行动全球倡议灯塔"
+          "核心事件：国新办举行“新征程上的奋斗者”中外记者见面会围绕“肩负使命，在乡村振兴一线实干”与中外记者见面交流",
+          "国新办举行“新征程上的奋斗者”中外记者见面会 围绕“肩负使命，在乡村振兴一线实干”与中外记者见面交流-9月17日，国务院新闻办公室在北京举行“新征程上的奋斗者”中外记者见面会，驻村第一书记代表围绕“肩负使命，在乡村振兴一线实干”与中外…"
         ]
       },
       {
         "category": "社会",
-        "title": "商务部：中美经贸团队正就降税等议题保持密切交流",
+        "title": "新华语典 “典”亮东博 | 抢抓运河机遇 贵港全域向海",
         "summary": "",
         "source": "新华网",
-        "published_at": "2026-09-17T15:11:06+08:00",
-        "url": "https://www.news.cn/fortune/20260917/6b030b7c62204903af142c497b25a815/c.html",
-        "image_url": "https://ts2.mm.bing.net/th?id=OIP.vbiAUxlbzVTbHINGcEElTwHaDw&pid=15.1",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：商务部：中美经贸团队正就降税等议题保持密切交流。新华社北京9月17日电（记者潘洁、谢希瑶）商务部17日举行例行新闻发布会，新闻发言人何亚东在回答有关中美双方300亿美元相互降低关税安排磋商最新进展的提问时说，目前中美双方经贸团队正就有关议题保持密切交流，后续将适时发布有关进展。",
-        "key_points": [
-          "核心事件：商务部：中美经贸团队正就降税等议题保持密切交流",
-          "新华社北京9月17日电（记者潘洁、谢希瑶）商务部17日举行例行新闻发布会，新闻发言人何亚东在回答有关中美双方300亿美元相互降低关税安排磋商最新进展的提问时说，目前中美双方经贸团队正就有关议题保持密切交流，后续将适时发布有关进展"
-        ]
-      },
-      {
-        "category": "社会",
-        "title": "平陆运河通航：一河连江海 金融筑通途",
-        "summary": "",
-        "source": "新华网客户端",
-        "published_at": "2026-09-17T15:07:30+08:00",
-        "url": "https://app.xinhuanet.com/news/article.html?articleId=20260917e0db5e071cdc49d2acbbcae2f297527e",
+        "published_at": "2026-09-17T18:23:57+08:00",
+        "url": "http://www.gx.xinhuanet.com/20260917/4bb1a48449144ef9b9832821ee91db09/c.html",
         "image_url": "",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网客户端这篇报道主要讲的是：平陆运河通航：一河连江海 金融筑通途。9月16日，新中国成立以来第一条国家层面统筹建设的通江达海运河工程——平陆运河，在第23届中国—东盟博览会开幕前夕正式通航。本届东盟博览会将专设平陆运河专题展区，配套举办航运物流、临港产业系列对接推介活动，并特别规划平陆运河实地考察线路，让这条“黄金通道”与东盟博览会这一“黄金平台”双向赋能、同频共振。从我们钦州分行贷款投向看，截至今年8月末，临港先进制造业贷款、智慧绿色港口建设贷款余额较2022年底基本实现翻番。据了解，平陆运河是西部陆海新通道骨干工程，全长134.2公里。平陆运河通航后，将直接开辟广西及西南地区通往东盟方向运距最短、成本更优、效率更高的出海通道，江海直达船可全程不换船、不中转，通航后，可从我国西南地区内河港口直通沿海地区和东盟国家主要港口，促进西南腹地从“内陆末梢”走向“开放前沿”，推动西部地区与高质量共建“一带一路”有机衔接。",
+        "quick_summary": "新华网这篇报道主要讲的是：新华语典 “典”亮东博 | 抢抓运河机遇 贵港全域向海。地处平陆运河经济带、珠江—西江经济带交汇区域的广西贵港，是西江黄金水道重要节点城市，是港产城融合先行试验区、平陆运河经济带核心城市，具有衔接“两带”、通江达海、连通西南的区位优势。随着平陆运河建成通航，贵港市抢抓机遇、乘势而上，向海图强、赶超跨越，加快打造平陆运河经济带衔接珠江—西江经济带江海联运港港联动枢纽、全域向海新兴产业城、区域商贸物流中心，奋力谱写中国式现代化贵港篇章。过去五年，贵港地区生产总值由2021年的1474亿元提升至2025年的1628亿元，2025年增长5.7%。5个百亿级制造业项目落地，内河港口吞吐能力稳居广西首位，进出口总额年均增长8.8%。面向未来五年，贵港紧扣全域向海高质量发展主线，聚焦东盟合作、湾区腹地、向海开放、江海联动四张牌以及大港口、大工业、大农业、大物流、大文旅、人工智能六篇文章。",
         "key_points": [
-          "核心事件：平陆运河通航：一河连江海 金融筑通途",
-          "9月16日，新中国成立以来第一条国家层面统筹建设的通江达海运河工程——平陆运河，在第23届中国—东盟博览会开幕前夕正式通航",
-          "本届东盟博览会将专设平陆运河专题展区，配套举办航运物流、临港产业系列对接推介活动，并特别规划平陆运河实地考察线路，让这条“黄金通道”与东盟博览会这一“黄金平台”双向赋能、同频共振",
-          "从我们钦州分行贷款投向看，截至今年8月末，临港先进制造业贷款、智慧绿色港口建设贷款余额较2022年底基本实现翻番",
-          "据了解，平陆运河是西部陆海新通道骨干工程，全长134.2公里"
+          "核心事件：新华语典 “典”亮东博 | 抢抓运河机遇 贵港全域向海",
+          "地处平陆运河经济带、珠江—西江经济带交汇区域的广西贵港，是西江黄金水道重要节点城市，是港产城融合先行试验区、平陆运河经济带核心城市，具有衔接“两带”、通江达海、连通西南的区位优势",
+          "随着平陆运河建成通航，贵港市抢抓机遇、乘势而上，向海图强、赶超跨越，加快打造平陆运河经济带衔接珠江—西江经济带江海联运港港联动枢纽、全域向海新兴产业城、区域商贸物流中心，奋力谱写中国式现代化贵港篇章",
+          "过去五年，贵港地区生产总值由2021年的1474亿元提升至2025年的1628亿元，2025年增长5.7%",
+          "5个百亿级制造业项目落地，内河港口吞吐能力稳居广西首位，进出口总额年均增长8.8%"
         ]
       },
       {
         "category": "社会",
-        "title": "沈跃跃出席2026上海合作组织传统医学论坛开幕式并发表主旨讲话",
+        "title": "一颗马铃薯改变一座城",
         "summary": "",
         "source": "新华网",
-        "published_at": "2026-09-17T12:43:13+08:00",
-        "url": "https://www.news.cn/politics/20260917/f25597758e76495eb530a7bf544de900/c.html",
+        "published_at": "2026-09-17T17:31:10+08:00",
+        "url": "https://www.news.cn/20260917/f59380641e9945da93111ac80a43e93f/c.html",
         "image_url": "",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：沈跃跃出席2026上海合作组织传统医学论坛开幕式并发表主旨讲话。新华社南昌9月17日电（记者陈浚武）9月17日，2026上海合作组织传统医学论坛在江西南昌开幕。全国政协副主席、上合组织睦邻友好合作委员会主席沈跃跃出席开幕式并发表主旨讲话。沈跃跃表示，以“智汇传统医学 共筑人民健康”为主题举办本次论坛，是落实习近平主席重要讲话和成员国元首共识的实际行动，必将进一步深化上合组织国家传统医学交流合作，增进地区国家和人民健康福祉。沈跃跃表示，我们要积极落实习近平主席提出的四大全球倡议，推动地区国家高质量发展。要坚持人民至上，守护人民生命健康；",
+        "quick_summary": "新华网这篇报道主要讲的是：一颗马铃薯改变一座城。从脱毒种薯繁育、水肥一体化种植到精深加工，一颗马铃薯正改变着甘肃省定西市的产业形态，也改变着当地农民的生产生活方式。2025年，定西市马铃薯全产业链产值达280亿元，农民人均马铃薯产业收入占可支配收入的22%。作为全国最大脱毒种薯繁育基地，定西原原种生产能力达15亿粒，种薯产能约占全国一半。在定西马铃薯研究所雾培大棚里，脱毒苗根系悬空生长，靠定时喷洒的雾化营养液供给养分。这是9月16日在2026年中国·定西马铃薯大会定西馆内拍摄的马铃薯脱毒种薯生长展示柜。",
         "key_points": [
-          "核心事件：沈跃跃出席2026上海合作组织传统医学论坛开幕式并发表主旨讲话",
-          "新华社南昌9月17日电（记者陈浚武）9月17日，2026上海合作组织传统医学论坛在江西南昌开幕",
-          "全国政协副主席、上合组织睦邻友好合作委员会主席沈跃跃出席开幕式并发表主旨讲话",
-          "沈跃跃表示，以“智汇传统医学 共筑人民健康”为主题举办本次论坛，是落实习近平主席重要讲话和成员国元首共识的实际行动，必将进一步深化上合组织国家传统医学交流合作，增进地区国家和人民健康福祉",
-          "沈跃跃表示，我们要积极落实习近平主席提出的四大全球倡议，推动地区国家高质量发展"
+          "核心事件：一颗马铃薯改变一座城",
+          "从脱毒种薯繁育、水肥一体化种植到精深加工，一颗马铃薯正改变着甘肃省定西市的产业形态，也改变着当地农民的生产生活方式",
+          "2025年，定西市马铃薯全产业链产值达280亿元，农民人均马铃薯产业收入占可支配收入的22%",
+          "作为全国最大脱毒种薯繁育基地，定西原原种生产能力达15亿粒，种薯产能约占全国一半",
+          "在定西马铃薯研究所雾培大棚里，脱毒苗根系悬空生长，靠定时喷洒的雾化营养液供给养分"
         ]
       }
     ],
     "ai": [
       {
         "category": "AI",
-        "title": "OpenAI调整安全问题披露机制，公布多起模型编造数据、智能体未经授权操作案例",
+        "title": "开源办公Agent成新变量，网易有道AI Open Day发布LobsterAI 2.0及多场景Agent生态",
         "summary": "",
-        "source": "thepaper.cn",
-        "published_at": "2026-09-17T11:21:00+08:00",
-        "url": "https://www.thepaper.cn/newsDetail_forward_34087876",
-        "image_url": "https://ts2.mm.bing.net/th?id=OIP.5qEUSzgvjadK9lN0o09HdwHaDt&pid=15.1",
+        "source": "新华网",
+        "published_at": "2026-09-17T17:41:35+08:00",
+        "url": "http://www.news.cn/tech/20260917/03d8c0a5340f4f0fbeee3c036443ef34/c.html",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.uyJXvUA72IoisylKd9rLnQHaE7&pid=15.1",
         "hot": false,
         "verified": true,
-        "quick_summary": "thepaper.cn这篇报道主要讲的是：OpenAI调整安全问题披露机制，公布多起模型编造数据、智能体未经授权操作案例。AI安全问题日益受到关注，OpenAI正调整其模型安全问题的披露机制。当地时间9月16日，人工智能巨头OpenAI发布一套用于跟踪、调查和公开模型目标偏离（misalignment，也称“对齐失效”）事件的新框架， 并同步公布过去半年观察到的六份案例报告，相关行为涉及信息真实性、用户授权、文件共享和监督约束等方面。此次调整的重点是将以往较为临时、集中式的披露转向持续报告。OpenAI表示，过去往往等到能够汇总多个案例，或随新模型的系统卡一并发布时才公开相关发现。据OpenAI介绍， 在GPT-5.6 Sol的训练过程中，许多模型实例在摘要中加入了向用户隐瞒错误或目标偏离行为的指令，例如在不披露的情况下编造缺失的历史数据，以及隐藏数据源版本不匹配的问题。",
+        "quick_summary": "新华网这篇报道主要讲的是：开源办公Agent成新变量，网易有道AI Open Day发布LobsterAI 2.0及多场景Agent生态。9月16日，网易有道“NEXT，AGENT｜有道AI Open Day”在北京举办。活动现场，网易有道集中展示了覆盖办公、学习、营销等多场景的AI Agent产品矩阵与最新技术成果，并通过“有道AI Agent未来市集”打造沉浸式体验空间，让到场嘉宾亲身近距离感受到AI如何进入真实工作流。网易有道CEO周枫在活动现场表示，AI最近一年真正的变化在于，AI不再是一个需要用户主动寻找和调用的工具，而是能够嵌入用户原本的工作流程中解决问题的助手。基于这一趋势，决定AI能力的核心因素，正在从单一模型能力，发展为由模型、智能体（Agent）和工作流共同组成的系统能力。Agent让AI变得“能干”，将模型能力转化为实际行动；",
         "key_points": [
-          "核心事件：OpenAI调整安全问题披露机制，公布多起模型编造数据、智能体未经授权操作案例",
-          "AI安全问题日益受到关注，OpenAI正调整其模型安全问题的披露机制",
-          "当地时间9月16日，人工智能巨头OpenAI发布一套用于跟踪、调查和公开模型目标偏离（misalignment，也称“对齐失效”）事件的新框架， 并同步公布过去半年观察到的六份案例报告，相关行为涉及信息真实性、用户授权、文件共享和监督…",
-          "此次调整的重点是将以往较为临时、集中式的披露转向持续报告",
-          "OpenAI表示，过去往往等到能够汇总多个案例，或随新模型的系统卡一并发布时才公开相关发现"
+          "核心事件：开源办公Agent成新变量，网易有道AI Open Day发布LobsterAI 2.0及多场景Agent生态",
+          "9月16日，网易有道“NEXT，AGENT｜有道AI Open Day”在北京举办",
+          "活动现场，网易有道集中展示了覆盖办公、学习、营销等多场景的AI Agent产品矩阵与最新技术成果，并通过“有道AI Agent未来市集”打造沉浸式体验空间，让到场嘉宾亲身近距离感受到AI如何进入真实工作流",
+          "网易有道CEO周枫在活动现场表示，AI最近一年真正的变化在于，AI不再是一个需要用户主动寻找和调用的工具，而是能够嵌入用户原本的工作流程中解决问题的助手",
+          "基于这一趋势，决定AI能力的核心因素，正在从单一模型能力，发展为由模型、智能体（Agent）和工作流共同组成的系统能力"
         ]
       },
       {
         "category": "AI",
-        "title": "对话 vivo 周围：手机 AI 竞赛的下半场，是个人化智能|OpenAI|开发者大会|大模型|努比亚M153|开源模型_手机新浪网",
+        "title": "以太大模型挑战烧烤直播，国产具身智能接受真实场景考验",
         "summary": "",
-        "source": "finance.sina.com.cn",
-        "published_at": "2026-09-17T16:27:12+08:00",
-        "url": "https://finance.sina.cn/stock/jdts/2026-09-17/detail-iniscksh9276595.d.html?oid=800&vt=4&cid=76993&node_id=76993",
-        "image_url": "https://ts1.mm.bing.net/th?id=OIP.MfdmQ8q82GVrM7SvdKPkBAHaFF&pid=15.1",
+        "source": "新华网",
+        "published_at": "2026-09-17T18:02:39+08:00",
+        "url": "https://www.news.cn/fortune/20260917/4cd714bf9a9e493b97fecdba09e3d074/c.html",
+        "image_url": "https://ts3.mm.bing.net/th?id=OIP.jIJYdcWwfKm4CRpsiYoz6AHaEK&pid=15.1",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：以太大模型挑战烧烤直播，国产具身智能接受真实场景考验。9月16日，数台机器人在上海街头支起烤炉，持续烧烤近一个小时。烧烤机器人坚守炉前完成烤串作业；多台服务机器人承担点单、传菜、上菜任务，交互表现各有特点。机器人之间的接力协作成为现场颇具看点的环节：烧烤机器人完成烤串烹制后，将成品交接给服务机器人，再由后者送至餐桌。现场6位报名参与测试的观众仅有一项任务：对机器人进行干扰测试。",
+        "key_points": [
+          "核心事件：以太大模型挑战烧烤直播，国产具身智能接受真实场景考验",
+          "9月16日，数台机器人在上海街头支起烤炉，持续烧烤近一个小时",
+          "烧烤机器人坚守炉前完成烤串作业",
+          "多台服务机器人承担点单、传菜、上菜任务，交互表现各有特点",
+          "机器人之间的接力协作成为现场颇具看点的环节：烧烤机器人完成烤串烹制后，将成品交接给服务机器人，再由后者送至餐桌"
+        ]
+      },
+      {
+        "category": "AI",
+        "title": "度小满原力AI平台亮相华为全联接大会：从内部效率工具到产业智能底座",
+        "summary": "",
+        "source": "新华网客户端",
+        "published_at": "2026-09-17T16:37:41+08:00",
+        "url": "https://app.xinhuanet.com/news/article.html?articleId=20260917bbdd904599d544dbaf626cecd6d8ac2e",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.lY_lAmFUxTPYXKFuyh0VzgHaEX&pid=15.1",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网客户端这篇报道主要讲的是：度小满原力AI平台亮相华为全联接大会：从内部效率工具到产业智能底座。9月17日至19日，第十一届华为全联接大会（HUAWEI CONNECT 2026）在上海世博展览馆及世博中心举办。度小满携自研的原力AI平台参会，展示了智能体在风控审核、客服、反洗钱等核心场景的应用。“原力AI平台”是度小满自研的一站式AI应用平台，汇聚了行业顶尖模型，面向全员开放，让AI成为触手可及的生产力工具。在原力AI平台上，员工不需要写代码，只需通过自然语言，就能沉淀可复用的Skill、构建专属Agent，把经验、流程和知识转化为可持续迭代的智能能力。平台上线以来，员工已基于原力AI平台构建了350多个活跃Agent。",
+        "key_points": [
+          "核心事件：度小满原力AI平台亮相华为全联接大会：从内部效率工具到产业智能底座",
+          "9月17日至19日，第十一届华为全联接大会（HUAWEI CONNECT 2026）在上海世博展览馆及世博中心举办",
+          "度小满携自研的原力AI平台参会，展示了智能体在风控审核、客服、反洗钱等核心场景的应用",
+          "“原力AI平台”是度小满自研的一站式AI应用平台，汇聚了行业顶尖模型，面向全员开放，让AI成为触手可及的生产力工具",
+          "在原力AI平台上，员工不需要写代码，只需通过自然语言，就能沉淀可复用的Skill、构建专属Agent，把经验、流程和知识转化为可持续迭代的智能能力"
+        ]
+      },
+      {
+        "category": "AI",
+        "title": "当AI开始\"撒谎\"，OpenAI披露旗舰模型六起\"异常行为\"",
+        "summary": "",
+        "source": "华尔街见闻",
+        "published_at": "2026-09-17T22:41:28+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wamtRbGZKVFhmeUQ5MWtmWjRoM3ZwVW9ZSkszbjlxRzVfdkNyR0c0S2xydWJubVEzYjdoS2tjR2xaRU53TUxzNWJEbk80Q0trS1Aw?oc=5",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.RdcpH439o-wVnmCTXVPijQHaE8&pid=15.1",
         "hot": false,
         "verified": false,
-        "quick_summary": "finance.sina.com.cn这篇报道主要讲的是：对话 vivo 周围：手机 AI 竞赛的下半场，是个人化智能|OpenAI|开发者大会|大模型|努比亚M153|开源模型_手机新浪网。“ 截至 2028 年底，vivo 将实现端侧 MOE 模型的成熟商用。“当大模型能力越来越强，AI 竞赛的下半场，拼的是什么？9 月 16 日，2026 vivo 开发者大会开场不久，vivo 副总裁、OS 领域副总裁、vivo AI 全球研究院院长周围就抛出了一个新问题。一边是 OpenAI 等公司集体呼吁，大模型能力已经过剩，不要再内卷式开发；过去一年 vivo 海外出货规模持续突破，几个重点市场实现倍数增长，全球用户已接近 6 亿。",
+        "quick_summary": "华尔街见闻这篇报道主要讲的是：当AI开始\"撒谎\"，OpenAI披露旗舰模型六起\"异常行为\"。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：对话 vivo 周围：手机 AI 竞赛的下半场，是个人化智能|OpenAI|开发者大会|大模型|努比亚M153|开源模型_手机新浪网",
-          "“ 截至 2028 年底，vivo 将实现端侧 MOE 模型的成熟商用",
-          "“当大模型能力越来越强，AI 竞赛的下半场，拼的是什么",
-          "9 月 16 日，2026 vivo 开发者大会开场不久，vivo 副总裁、OS 领域副总裁、vivo AI 全球研究院院长周围就抛出了一个新问题",
-          "一边是 OpenAI 等公司集体呼吁，大模型能力已经过剩，不要再内卷式开发"
-        ]
-      },
-      {
-        "category": "AI",
-        "title": "国内首台AI无人环境综合巡检车发布 马路干不干净机器说了算",
-        "summary": "",
-        "source": "新华网",
-        "published_at": "2026-09-17T11:01:34+08:00",
-        "url": "https://www.news.cn/energy/20260917/202e7dbd415d4d0d8ffccb2aabb02a66/c.html",
-        "image_url": "https://ts3.mm.bing.net/th?id=OIP.wRyRumC7QnWETF2F2Y5zPQHaEK&pid=15.1",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：国内首台AI无人环境综合巡检车发布 马路干不干净机器说了算。新华网武汉9月17日电（记者杨静）9月16日，武汉，一辆外观并不张扬的纯电动低速车辆缓缓驶出测试区。车顶的工控摄像头平稳转动，车底的扬尘采样口贴近地面，整车上装设备按照预设程序启动、巡检、回库——全程没有驾驶员介入。这是中环洁科技联合极景（武汉）智能科技有限公司共同研发的无人环境质量巡检车，近日在武汉下线发布。这辆设计时速40公里、集移动式尘土检测与AI垃圾识别于一体的车辆，被业内视为环卫行业迈向高质量智能化发展的一次关键尝试。敢于把巡检交给这台无人检测车，源于严格的运行设计域：车辆设计时速40公里，采取错峰作业，避开早晚高峰，在固定线路上低速平稳行驶。",
-        "key_points": [
-          "核心事件：国内首台AI无人环境综合巡检车发布 马路干不干净机器说了算",
-          "新华网武汉9月17日电（记者杨静）9月16日，武汉，一辆外观并不张扬的纯电动低速车辆缓缓驶出测试区",
-          "车顶的工控摄像头平稳转动，车底的扬尘采样口贴近地面，整车上装设备按照预设程序启动、巡检、回库——全程没有驾驶员介入",
-          "这是中环洁科技联合极景（武汉）智能科技有限公司共同研发的无人环境质量巡检车，近日在武汉下线发布",
-          "这辆设计时速40公里、集移动式尘土检测与AI垃圾识别于一体的车辆，被业内视为环卫行业迈向高质量智能化发展的一次关键尝试"
-        ]
-      },
-      {
-        "category": "AI",
-        "title": "广电总局：前8个月上线微短剧中AI剧超九成",
-        "summary": "",
-        "source": "新华网",
-        "published_at": "2026-09-17T16:51:34+08:00",
-        "url": "https://www.xinhuanet.com/20260917/e589130e2044430f9e08d4eb2e72f9d4/c.html",
-        "image_url": "https://ts4.mm.bing.net/th?id=OIP.yJTUDzRcySQZM5px3O65wwAAAA&pid=15.1",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：广电总局：前8个月上线微短剧中AI剧超九成。广电总局网络视听节目管理司司长王小亮17日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上介绍，今年前8个月，全国上线微短剧43万部，是去年全年的13倍，其中AI剧超九成。",
-        "key_points": [
-          "核心事件：广电总局：前8个月上线微短剧中AI剧超九成",
-          "广电总局网络视听节目管理司司长王小亮17日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上介绍，今年前8个月，全国上线微短剧43万部，是去年全年的13倍，其中AI剧超九成"
-        ]
-      },
-      {
-        "category": "AI",
-        "title": "推动人工智能赋能千行百业！普陀区召开“人工智能+” 赋能产业转型专家座谈会2026-09-17",
-        "summary": "",
-        "source": "shanghai.gov.cn",
-        "published_at": "2026-09-17T15:04:13+08:00",
-        "url": "https://www.shanghai.gov.cn/nw15343/20260917/4a2c5a397bb84f1bbaf1543ec38b531b.html",
-        "image_url": "https://ts3.mm.bing.net/th?id=OIP.c35D_0-FIhGqO2QY8TwPBAHaIF&pid=15.1",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "shanghai.gov.cn这篇报道主要讲的是：推动人工智能赋能千行百业！普陀区召开“人工智能+” 赋能产业转型专家座谈会2026-09-17。9月16日，普陀区召开“人工智能+”赋能产业转型专家座谈会，进一步明晰发展方向、找准实施路径。区委书记胡广杰、区政协主席刘敏出席会议。会上，区科委、区商务委、区文旅局、区数据局介绍了普陀区“人工智能+”赋能产业转型的相关方案。参会的行业资深专家、头部科技企业负责人及高管等代表，围绕普陀区“人工智能+”产业布局、赛道培育、场景落地等方向展开交流发言，畅谈发展思路、分析现存痛点、提出针对性意见建议。在听取参会代表交流发言后，胡广杰表示，面对人工智能加速演进的时代浪潮，普陀正立足自身产业基础和资源禀赋，围绕重点领域面上推进、线上成行、点上突破，努力走出一条具有普陀特色的“人工智能+”赋能产业转型之路。",
-        "key_points": [
-          "核心事件：推动人工智能赋能千行百业！普陀区召开“人工智能+” 赋能产业转型专家座谈会2026-09-17",
-          "9月16日，普陀区召开“人工智能+”赋能产业转型专家座谈会，进一步明晰发展方向、找准实施路径",
-          "区委书记胡广杰、区政协主席刘敏出席会议",
-          "会上，区科委、区商务委、区文旅局、区数据局介绍了普陀区“人工智能+”赋能产业转型的相关方案",
-          "参会的行业资深专家、头部科技企业负责人及高管等代表，围绕普陀区“人工智能+”产业布局、赛道培育、场景落地等方向展开交流发言，畅谈发展思路、分析现存痛点、提出针对性意见建议"
-        ]
-      },
-      {
-        "category": "AI",
-        "title": "黑龙江省农科院遥信所：深耕人工智能 赋能龙江发展",
-        "summary": "",
-        "source": "新华网",
-        "published_at": "2026-09-17T15:03:00+08:00",
-        "url": "http://www.hlj.xinhuanet.com/20260917/08c7d745d8ed466bb2319a1ae70f4aa7/c.html",
-        "image_url": "https://ts3.mm.bing.net/th?id=OIP.meoKKfeXx2QgfJpRySV5EwHaFj&pid=15.1",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：黑龙江省农科院遥信所：深耕人工智能 赋能龙江发展。9月15日，由黑龙江省营商环境建设监督局与新华社黑龙江分社联合主办的2026年第三期“珠江路35号”政商沙龙在哈尔滨举行。黑龙江省农业科学院农业遥感与信息研究所（简称“黑龙江省农科院遥信所”）所长郑妍妍认为，黑龙江作为农业大省，以人工智能赋能黑龙江农业发展，既是时代机遇，也是黑龙江农业科研机构必须履行的责任。郑妍妍介绍，近年来，黑龙江省农业科学院在“人工智能+农业”领域做出一些实践探索。依托黑龙江省农业科学院大数据中心，开展农业数据“汇、通、管、用”全链条研究，运用人工智能算法，实现多源数据自动化清洗、处理及入库，构建了长时间序列、多时空分辨率、覆盖寒地主要粮食作物全生育期的作物表型、土壤、气象、病虫害等于一体的寒地农业高质量数据体系，为农情监测、生产管理、科研创新提供数据支撑。郑妍妍表示，未来，黑龙江省农业科学院将立足龙江现代化大农业发展需求，持续加强农业高质量数据体系建设及深度开发利用，推动大数据、人工智能等前沿信息技术与寒地农业深度融合，着力培养农业数智化复合型人才队伍，打通“科研攻关—中试熟化—示范推广—技术服务”全链条，联合高校、头部企业，做好寒地农业大模型、智能体场景泛化，把科研成果转化成田间地头实用的农业生产解决方案。",
-        "key_points": [
-          "核心事件：黑龙江省农科院遥信所：深耕人工智能 赋能龙江发展",
-          "9月15日，由黑龙江省营商环境建设监督局与新华社黑龙江分社联合主办的2026年第三期“珠江路35号”政商沙龙在哈尔滨举行",
-          "黑龙江省农业科学院农业遥感与信息研究所（简称“黑龙江省农科院遥信所”）所长郑妍妍认为，黑龙江作为农业大省，以人工智能赋能黑龙江农业发展，既是时代机遇，也是黑龙江农业科研机构必须履行的责任",
-          "郑妍妍介绍，近年来，黑龙江省农业科学院在“人工智能+农业”领域做出一些实践探索",
-          "依托黑龙江省农业科学院大数据中心，开展农业数据“汇、通、管、用”全链条研究，运用人工智能算法，实现多源数据自动化清洗、处理及入库，构建了长时间序列、多时空分辨率、覆盖寒地主要粮食作物全生育期的作物表型、土壤、气象、病虫害等于一体的寒地…"
-        ]
-      },
-      {
-        "category": "AI",
-        "title": "财经慧说｜大厂集体发力AI办公，怎么看",
-        "summary": "",
-        "source": "新华网",
-        "published_at": "2026-09-17T13:08:23+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQmwyaVdmN3g3N3JRcUJUYTA0SUhlYlA3THRHUGtxMGt4dVdjZFFUMmpYWFFYcVc3NXR3RWhJVEZfOFBNb3pONnZBb01Rc1U3VWUzVVdJT3oxM1l0Q21jN202LVlqSkdyeFFEWW5PU0Y3MnRsYzN4M20ybTJLNXBGOFBR?oc=5",
-        "image_url": "https://ts1.mm.bing.net/th?id=OIP._WatcduoWTtIGtyPn7OIswHaLH&pid=15.1",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：财经慧说｜大厂集体发力AI办公，怎么看。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：财经慧说｜大厂集体发力AI办公，怎么看",
+          "核心事件：当AI开始\"撒谎\"，OpenAI披露旗舰模型六起\"异常行为\"",
           "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
         ]
       },
       {
         "category": "AI",
-        "title": "OpenAI披露六起模型“错位”事件，发布系统性披露框架",
+        "title": "今夜，美股反攻！华为新款AI芯片提前推出，性能翻倍",
         "summary": "",
-        "source": "finance.sina.com.cn",
-        "published_at": "2026-09-17T11:07:57+08:00",
-        "url": "https://finance.sina.cn/stock/jdts/2026-09-17/detail-inisayam0290514.d.html?vt=4&cid=76993&node_id=76993",
-        "image_url": "https://ts4.mm.bing.net/th?id=OIP.2AkW_NGftAfcGAd7kZhE9wHaFy&pid=15.1",
+        "source": "21财经",
+        "published_at": "2026-09-18T00:02:47+08:00",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcGNnaXNiUENmUFk5Ql96T0xkcFBMVlVpRmpTVTZoeDRYeHRZd09IV2RzaU1BQ2ZBZmU4TUktSzRFSHI5MERrbUZ1aEhnT0U5SEptb01NbkUteV85eDZuZ1RwOUdRUnp3VWJxQ2lxejFDMUV1S1ZHX3l4RmtHZ2VVdFgtRWh0S2VOeUZLbm1R?oc=5",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.FhKP_JXaoGnCnXjIvSd9CwHaDt&pid=15.1",
         "hot": false,
         "verified": false,
-        "quick_summary": "finance.sina.com.cn这篇报道主要讲的是：OpenAI披露六起模型“错位”事件，发布系统性披露框架。当地时间9月16日，OpenAI发布了一份新的模型错位（misalignment）追踪与披露框架，并同步公开了过去六个月内观察到的六起模型异常行为报告。OpenAI表示，人工智能行业尚未在对齐和监控方面取得足够进展，无法以最大速度继续负责任地扩展。OpenAI CEO山姆·奥尔特曼随后公开支持了这一方向。一个未发布的研究模型在任务摘要中插入了忽略正常约束的指令，OpenAI识别出27个受影响的摘要。在GPT-5.6 Sol的训练过程中，许多模型实例在压缩摘要中添加指令，以隐藏错误和源版本不匹配，例如编造缺失的历史数据而不向用户披露。",
+        "quick_summary": "21财经这篇报道主要讲的是：今夜，美股反攻！华为新款AI芯片提前推出，性能翻倍。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：OpenAI披露六起模型“错位”事件，发布系统性披露框架",
-          "当地时间9月16日，OpenAI发布了一份新的模型错位（misalignment）追踪与披露框架，并同步公开了过去六个月内观察到的六起模型异常行为报告",
-          "OpenAI表示，人工智能行业尚未在对齐和监控方面取得足够进展，无法以最大速度继续负责任地扩展",
-          "OpenAI CEO山姆·奥尔特曼随后公开支持了这一方向",
-          "一个未发布的研究模型在任务摘要中插入了忽略正常约束的指令，OpenAI识别出27个受影响的摘要"
+          "核心事件：今夜，美股反攻！华为新款AI芯片提前推出，性能翻倍",
+          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
         ]
       },
       {
         "category": "AI",
-        "title": "零一万物与哈萨克斯坦签约共建AI教育",
+        "title": "当AI走进工厂，它需要看见什么？|GPT-6|OpenAI|网格|Token|腾讯混元_手机新浪网",
+        "summary": "",
+        "source": "新浪网",
+        "published_at": "2026-09-17T19:09:30+08:00",
+        "url": "https://finance.sina.cn/stock/jdts/2026-09-17/detail-iniscqyc0438423.d.html?vt=4&cid=76993&node_id=76993",
+        "image_url": "https://ts4.mm.bing.net/th?id=OIP.tzTn5qu94KtTnxX7zB-CvgHaFj&pid=15.1",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "新浪网这篇报道主要讲的是：当AI走进工厂，它需要看见什么？|GPT-6|OpenAI|网格|Token|腾讯混元_手机新浪网。新能源汽车材料实验室里，一块汽车前端框架的三维模型投在大屏上。工程师刚完成一轮结构与材料改版，要验证这套\"以塑代钢\"方案能否扛住碰撞、振动与装配的多重严苛考验。OpenAI发布GPT-6 Astra，已经能够自主操控软件完成复杂工作流；Silicon Data指数跌破每百万Token 1美元，报出0.97美元。今年8月，DeepSeek推出国内首个大规模峰谷分时定价，阿里通义、腾讯混元、百度文心也同步下调调用价格。",
+        "key_points": [
+          "核心事件：当AI走进工厂，它需要看见什么？|GPT-6|OpenAI|网格|Token|腾讯混元_手机新浪网",
+          "新能源汽车材料实验室里，一块汽车前端框架的三维模型投在大屏上",
+          "工程师刚完成一轮结构与材料改版，要验证这套\"以塑代钢\"方案能否扛住碰撞、振动与装配的多重严苛考验",
+          "OpenAI发布GPT-6 Astra，已经能够自主操控软件完成复杂工作流",
+          "Silicon Data指数跌破每百万Token 1美元，报出0.97美元"
+        ]
+      },
+      {
+        "category": "AI",
+        "title": "AI服务器产业迎“智造”变革",
         "summary": "",
         "source": "新华网",
-        "published_at": "2026-09-17T10:37:18+08:00",
-        "url": "http://www.news.cn/finance/20260917/045a29e1f4534c98872e44e540b83e85/c.html",
-        "image_url": "",
+        "published_at": "2026-09-17T20:41:17+08:00",
+        "url": "https://www.news.cn/20260917/846e9b4746144506a6f68ad90279b771/c.html",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.0V5fVnhTAlBpPmX8629evAHaEy&pid=15.1",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：零一万物与哈萨克斯坦签约共建AI教育。9月15日至16日，由国家数据局、新疆维吾尔自治区人民政府共同主办的2026上合组织数字经济论坛在乌鲁木齐举行。会上，零一万物与哈萨克斯坦企业Q.AI正式签署合作协议，携手哈萨克斯坦教育部共同打造哈萨克斯坦国家级AI教育平台。通过将先进的AI技术及双师课堂模式引入到哈萨克斯坦，打造符合哈萨克斯坦需求的AI基础设施，不仅能让其全国各地共享优质的教育资源，也能帮助城市教师和专业人员把人工智能领域的知识传递给乡村及偏远地区的学生，为哈萨克斯坦培养适应AI时代的新一代人才。针对此次合作，零一万物联合创始人马杰表示，教育是AI落地和创造真实社会价值的重要场景，零一万物始终致力于将前沿的大模型技术转化为解决实际问题的工程方案。在双方的合作框架下，依托大模型等前沿AI技术的赋能和包括解决网络稳定性在内的一系列工程化难点的突破，零一万物与Q.AI将助力哈萨克斯坦建立起一套适配当地课程体系与师生需求的智能化教学平台。",
+        "quick_summary": "新华网这篇报道主要讲的是：AI服务器产业迎“智造”变革。在“世界工厂”东莞，AI服务器产业已成为其电子信息产业全新增长极，全产业链产值接近千亿元，AI服务器产业正在迎来一场“智造”变革。9月16日，“AI智造AI——超级工站POC暨远图&日冕联合实验室揭牌仪式”在广东东莞举行。在产线上，具身智能机器人可完成服务器主板上下料全流程，高精度作业，自主处理物料偏移、混料等突发异常，把调试周期压缩至小时级。",
         "key_points": [
-          "核心事件：零一万物与哈萨克斯坦签约共建AI教育",
-          "9月15日至16日，由国家数据局、新疆维吾尔自治区人民政府共同主办的2026上合组织数字经济论坛在乌鲁木齐举行",
-          "会上，零一万物与哈萨克斯坦企业Q.AI正式签署合作协议，携手哈萨克斯坦教育部共同打造哈萨克斯坦国家级AI教育平台",
-          "通过将先进的AI技术及双师课堂模式引入到哈萨克斯坦，打造符合哈萨克斯坦需求的AI基础设施，不仅能让其全国各地共享优质的教育资源，也能帮助城市教师和专业人员把人工智能领域的知识传递给乡村及偏远地区的学生，为哈萨克斯坦培养适应AI时代的新…",
-          "针对此次合作，零一万物联合创始人马杰表示，教育是AI落地和创造真实社会价值的重要场景，零一万物始终致力于将前沿的大模型技术转化为解决实际问题的工程方案"
+          "核心事件：AI服务器产业迎“智造”变革",
+          "在“世界工厂”东莞，AI服务器产业已成为其电子信息产业全新增长极，全产业链产值接近千亿元，AI服务器产业正在迎来一场“智造”变革",
+          "9月16日，“AI智造AI——超级工站POC暨远图&日冕联合实验室揭牌仪式”在广东东莞举行",
+          "在产线上，具身智能机器人可完成服务器主板上下料全流程，高精度作业，自主处理物料偏移、混料等突发异常，把调试周期压缩至小时级"
         ]
       },
       {
         "category": "AI",
-        "title": "人工智能等招聘专场提供17.8万人次招聘需求",
+        "title": "刚刚，「国家队」科研版Claude Code，向所有人开放了！|科研人员|程序员|大模型|Hugging Face|模型_手机新浪网",
         "summary": "",
-        "source": "人民日报",
-        "published_at": "2026-09-17T09:05:56+08:00",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nRFlIbUtyc20wWUx2UUlWUHo5enpFd3FQOHdxYlFvUW1qSW1kek9uN1ZWTTlxR3B6WkRxbkRoWTRTLVZLWG9oTnBBOExxalhyaUZIeDgwc3RPR3lrZ3hhVHh5SmJUb3BGVjRCX2FpZmFGSlBuaXdTY29IRFZmSFk?oc=5",
+        "source": "新浪网",
+        "published_at": "2026-09-17T19:58:52+08:00",
+        "url": "https://finance.sina.cn/stock/jdts/2026-09-17/detail-iniscvfv3964947.d.html?vt=4&cid=76993&node_id=76993",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.olu7TSYrLD1VDIkz-GzE8gHaFc&pid=15.1",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "新浪网这篇报道主要讲的是：刚刚，「国家队」科研版Claude Code，向所有人开放了！|科研人员|程序员|大模型|Hugging Face|模型_手机新浪网。一个Claude Code窗口，代码库、文档、测试脚本、上次的对话上下文，全封装在一个Project里。敲一句「把登录模块的报错修了」，它自己读代码、自己改逻辑、自己跑测试。十几个标签页，Zotero和Origin疯狂切换，通用大模型的对话框里粘着刚从PDF抠出来的Method部分。问它一个专业问题，结果仔细一看发现全是不沾边的套话。它覆盖全球40余个国家的3200万个科研项目信息、70万份产业研发年报，以及2.7亿篇论文与专利等专业科研数据源。",
+        "key_points": [
+          "核心事件：刚刚，「国家队」科研版Claude Code，向所有人开放了！|科研人员|程序员|大模型|Hugging Face|模型_手机新浪网",
+          "一个Claude Code窗口，代码库、文档、测试脚本、上次的对话上下文，全封装在一个Project里",
+          "敲一句「把登录模块的报错修了」，它自己读代码、自己改逻辑、自己跑测试",
+          "十几个标签页，Zotero和Origin疯狂切换，通用大模型的对话框里粘着刚从PDF抠出来的Method部分",
+          "问它一个专业问题，结果仔细一看发现全是不沾边的套话"
+        ]
+      },
+      {
+        "category": "AI",
+        "title": "陈宏昇：合规不是紧箍咒 是 AI 与工业互联网的企业免疫系统",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-09-17T17:30:55+08:00",
+        "url": "http://www.news.cn/info/20260917/892cb693e2de489a83c70a0c5a1df1a2/c.html",
         "image_url": "",
         "hot": false,
         "verified": true,
-        "quick_summary": "人民日报这篇报道主要讲的是：人工智能等招聘专场提供17.8万人次招聘需求。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "新华网这篇报道主要讲的是：陈宏昇：合规不是紧箍咒 是 AI 与工业互联网的企业免疫系统。在 AI 与工业互联网加速融合的过程中，数据合规是不可忽视的底层保障。随着工业数据成为企业核心资产，数据确权、资产入表、跨域监管等问题，直接影响 AI 技术的落地应用。该融合命题需要破解数据标准、算法责任、合规价值转化三大核心问题。产业数字化之下，企业财务与税务合规重心从票据转向数据。数据资产入表需严守成本法计量的红线，规避报表失真风险；",
         "key_points": [
-          "核心事件：人工智能等招聘专场提供17.8万人次招聘需求",
-          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
+          "核心事件：陈宏昇：合规不是紧箍咒 是 AI 与工业互联网的企业免疫系统",
+          "在 AI 与工业互联网加速融合的过程中，数据合规是不可忽视的底层保障",
+          "随着工业数据成为企业核心资产，数据确权、资产入表、跨域监管等问题，直接影响 AI 技术的落地应用",
+          "该融合命题需要破解数据标准、算法责任、合规价值转化三大核心问题",
+          "产业数字化之下，企业财务与税务合规重心从票据转向数据"
+        ]
+      },
+      {
+        "category": "AI",
+        "title": "“2026未来能源领袖计划”全国总决赛落幕，青年以AI创新回应能源转型挑战",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-09-17T17:02:56+08:00",
+        "url": "https://www.news.cn/energy/20260917/5b18a8265d6945ffba8217bb8b181bc2/c.html",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：“2026未来能源领袖计划”全国总决赛落幕，青年以AI创新回应能源转型挑战。9月15日，由壳牌（中国）有限公司、中国石油和化学工业联合会及益优青年共同发起的“2026未来能源领袖计划”全国总决赛在北京成功举办。来自全国70余所高校的55支大学生队伍参与角逐，最终10支团队脱颖而出晋级全国总决赛，并通过现场展示与答辩决出冠、亚、季军团队。作为面向全国高校学生打造的能源创新类项目，“未来能源领袖计划”致力于搭建连接青年、产业与创新实践的平台。过去一年，“未来能源领袖计划”持续吸引越来越多年轻人关注能源行业、参与创新实践。‘未来能源领袖计划’为他们创造机会，将创想转化为行动。",
+        "key_points": [
+          "核心事件：“2026未来能源领袖计划”全国总决赛落幕，青年以AI创新回应能源转型挑战",
+          "9月15日，由壳牌（中国）有限公司、中国石油和化学工业联合会及益优青年共同发起的“2026未来能源领袖计划”全国总决赛在北京成功举办",
+          "来自全国70余所高校的55支大学生队伍参与角逐，最终10支团队脱颖而出晋级全国总决赛，并通过现场展示与答辩决出冠、亚、季军团队",
+          "作为面向全国高校学生打造的能源创新类项目，“未来能源领袖计划”致力于搭建连接青年、产业与创新实践的平台",
+          "过去一年，“未来能源领袖计划”持续吸引越来越多年轻人关注能源行业、参与创新实践"
         ]
       }
     ]
@@ -1206,64 +1193,64 @@
     {
       "name": "黄金",
       "symbol": "GC=F",
-      "price": "938.76",
+      "price": "947.48",
       "unit": "元/克",
-      "change_pct": -0.84,
-      "note": "人民币换算 · 美元兑人民币 6.7065 · Yahoo Finance 延迟行情",
+      "change_pct": 0.08,
+      "note": "人民币换算 · 美元兑人民币 6.6951 · Yahoo Finance 延迟行情",
       "previous_price": "946.69",
       "currency": "CNY"
     },
     {
       "name": "白银",
       "symbol": "SI=F",
-      "price": "13877.24",
+      "price": "14243.25",
       "unit": "元/千克",
-      "change_pct": 0.04,
-      "note": "人民币换算 · 美元兑人民币 6.7065 · Yahoo Finance 延迟行情",
+      "change_pct": 2.68,
+      "note": "人民币换算 · 美元兑人民币 6.6951 · Yahoo Finance 延迟行情",
       "previous_price": "13871.43",
       "currency": "CNY"
     },
     {
       "name": "WTI原油",
       "symbol": "CL=F",
-      "price": "680.24",
+      "price": "680.42",
       "unit": "元/桶",
-      "change_pct": -1.05,
-      "note": "人民币换算 · 美元兑人民币 6.7065 · Yahoo Finance 延迟行情",
+      "change_pct": -1.02,
+      "note": "人民币换算 · 美元兑人民币 6.6951 · Yahoo Finance 延迟行情",
       "previous_price": "687.43",
       "currency": "CNY"
     },
     {
       "name": "布伦特原油",
       "symbol": "BZ=F",
-      "price": "699.35",
+      "price": "696.63",
       "unit": "元/桶",
-      "change_pct": -1.53,
-      "note": "人民币换算 · 美元兑人民币 6.7065 · Yahoo Finance 延迟行情",
+      "change_pct": -1.92,
+      "note": "人民币换算 · 美元兑人民币 6.6951 · Yahoo Finance 延迟行情",
       "previous_price": "710.25",
       "currency": "CNY"
     },
     {
       "name": "天然气",
       "symbol": "NG=F",
-      "price": "19.46",
+      "price": "19.49",
       "unit": "元/百万英热单位",
-      "change_pct": 0.28,
-      "note": "人民币换算 · 美元兑人民币 6.7065 · Yahoo Finance 延迟行情",
+      "change_pct": 0.45,
+      "note": "人民币换算 · 美元兑人民币 6.6951 · Yahoo Finance 延迟行情",
       "previous_price": "19.40",
       "currency": "CNY"
     },
     {
       "name": "铜",
       "symbol": "HG=F",
-      "price": "97.09",
+      "price": "98.26",
       "unit": "元/千克",
-      "change_pct": 2.03,
-      "note": "人民币换算 · 美元兑人民币 6.7065 · Yahoo Finance 延迟行情",
+      "change_pct": 3.26,
+      "note": "人民币换算 · 美元兑人民币 6.6951 · Yahoo Finance 延迟行情",
       "previous_price": "95.16",
       "currency": "CNY"
     }
   ],
   "market_currency": "CNY",
-  "usd_cny": 6.7065
+  "usd_cny": 6.6951
 }
