@@ -1,14 +1,1102 @@
 {
-  "updated_at": "2026-10-10T18:25:11.617578+08:00",
-  "markets_updated_at": "2026-10-10T18:25:11.617578+08:00",
-  "top5": [],
+  "updated_at": "2026-10-11T01:13:13.715601+08:00",
+  "markets_updated_at": "2026-10-11T01:13:13.715601+08:00",
+  "top5": [
+    {
+      "title": "巴拿马地震中资机构和当地华侨华人暂无伤亡报告",
+      "summary": "新华网报道，巴拿马地震中资机构和当地华侨华人暂无伤亡报告。目前可确认的信息以相关部门和权威媒体后续发布为准。",
+      "category": "国内",
+      "source": "新华网",
+      "published_at": "2026-10-10T03:46:37+08:00",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tQTlwMmVMNk9wLWlwTUtXV1Atek9WYVdzRjFZX1ZXZU1uZWR4dnZ6WVkwRmctUmxwU2dmQjk3OW1yYlJLdnZSeU1BdVVwYW9OWEY5SUpFQmM0cmEwdWdfQnJtLTh3bUVrMkhoLXZDOWo3R19aLWhqSFd0cmFLcE0?oc=5",
+      "image_url": "",
+      "quick_summary": "新华网这篇报道主要讲的是：巴拿马地震中资机构和当地华侨华人暂无伤亡报告。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+      "key_points": [
+        "核心事件：巴拿马地震中资机构和当地华侨华人暂无伤亡报告",
+        "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+      ]
+    },
+    {
+      "title": "中共中央、国务院印发《关于发展新质生产力的意见》",
+      "summary": "央视网报道，中共中央、国务院印发《关于发展新质生产力的意见》。目前可确认的信息以相关部门和权威媒体后续发布为准。",
+      "category": "国内",
+      "source": "央视网",
+      "published_at": "2026-10-10T14:27:04+08:00",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oY3Bla3pyRlFqbGJyMHhrV1BEUFhKVHJFVU1aTTZHVlFWQ2ZMa1BQWVVLaGVuS2dGLWpBYWx1OC0weTM3TzlQeVQxSnNSSFUwaXdNRUpSSjBNVDlFRWVPVTBjUHphZy0wYlNiX25LS1p3WTZEVmpz?oc=5",
+      "image_url": "",
+      "quick_summary": "央视网这篇报道主要讲的是：中共中央、国务院印发《关于发展新质生产力的意见》。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+      "key_points": [
+        "核心事件：中共中央、国务院印发《关于发展新质生产力的意见》",
+        "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+      ]
+    },
+    {
+      "title": "普京向特朗普转达伊朗方面解决冲突构想",
+      "summary": "中国新闻网报道，普京向特朗普转达伊朗方面解决冲突构想。事件仍在发展，后续需关注各方官方表态与权威媒体的交叉确认。",
+      "category": "国际",
+      "source": "中国新闻网",
+      "published_at": "2026-10-10T20:25:56+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44U3NwN0NPYjhnTnNRYTc5TGZKQnNqX05QQjNoQzJUMEx1TE9OY09aUDlMLUpwbmtadUpCV2lBMkdpTWlHR0wtb3VXMUlmR1dGZTA3WC1yd1UzOENBYVlOTC1UQWRsbGo5?oc=5",
+      "image_url": "",
+      "quick_summary": "中国新闻网这篇报道主要讲的是：普京向特朗普转达伊朗方面解决冲突构想。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+      "key_points": [
+        "核心事件：普京向特朗普转达伊朗方面解决冲突构想",
+        "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
+      ]
+    },
+    {
+      "title": "海南多地发布暴雨红色预警",
+      "summary": "新华网客户端报道，海南多地发布暴雨红色预警。后续重点关注主管部门通报、处置进展和实际影响范围。",
+      "category": "社会",
+      "source": "新华网客户端",
+      "published_at": "2026-10-09T20:30:40+08:00",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWlsU1RsZUE5MDNVNFFWOW9TVzU1NEV4V2duOTZiaXVURVNJdjllblJqLTRITkh5aDhZeGhUTThlYndkLVhOMTdDTWpmSmtnZmJzNVFlWTFLdXpiQnJObjFPa1NmRVQxZEhQc1laRjE4b2xXZ09GbzN3QUItT3J0a0RXV3VEUlFVb1ppdlhoV1BGRmZMQkdyXzRB?oc=5",
+      "image_url": "",
+      "quick_summary": "新华网客户端这篇报道主要讲的是：海南多地发布暴雨红色预警。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+      "key_points": [
+        "核心事件：海南多地发布暴雨红色预警",
+        "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
+      ]
+    },
+    {
+      "title": "市场监管总局就食品安全法修订草案征求意见稿答记者问",
+      "summary": "新华网报道，市场监管总局就食品安全法修订草案征求意见稿答记者问。后续重点关注主管部门通报、处置进展和实际影响范围。",
+      "category": "社会",
+      "source": "新华网",
+      "published_at": "2026-10-10T23:12:10+08:00",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fdURCSldOSTdPMlFKSnM0QzhkN1FHaTMyZkdDTlBIakdqaTdzeVplLVFTZU1NYU5MUkFGQXMxeS1wUHpPU25fRUFEaUtoRjFGcnpYbHdZSW9VWHIxOWc4UzVBcDA2OEF6TVFUM1Y2LTlqYmNHRlFxN0R5b21yclU?oc=5",
+      "image_url": "",
+      "quick_summary": "新华网这篇报道主要讲的是：市场监管总局就食品安全法修订草案征求意见稿答记者问。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+      "key_points": [
+        "核心事件：市场监管总局就食品安全法修订草案征求意见稿答记者问",
+        "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
+      ]
+    }
+  ],
   "sections": {
-    "china": [],
-    "world": [],
-    "finance": [],
-    "tech": [],
-    "society": [],
-    "ai": []
+    "china": [
+      {
+        "category": "国内",
+        "title": "巴拿马地震中资机构和当地华侨华人暂无伤亡报告",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-10-10T03:46:37+08:00",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tQTlwMmVMNk9wLWlwTUtXV1Atek9WYVdzRjFZX1ZXZU1uZWR4dnZ6WVkwRmctUmxwU2dmQjk3OW1yYlJLdnZSeU1BdVVwYW9OWEY5SUpFQmM0cmEwdWdfQnJtLTh3bUVrMkhoLXZDOWo3R19aLWhqSFd0cmFLcE0?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：巴拿马地震中资机构和当地华侨华人暂无伤亡报告。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：巴拿马地震中资机构和当地华侨华人暂无伤亡报告",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "中共中央、国务院印发《关于发展新质生产力的意见》",
+        "summary": "",
+        "source": "央视网",
+        "published_at": "2026-10-10T14:27:04+08:00",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oY3Bla3pyRlFqbGJyMHhrV1BEUFhKVHJFVU1aTTZHVlFWQ2ZMa1BQWVVLaGVuS2dGLWpBYWx1OC0weTM3TzlQeVQxSnNSSFUwaXdNRUpSSjBNVDlFRWVPVTBjUHphZy0wYlNiX25LS1p3WTZEVmpz?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "央视网这篇报道主要讲的是：中共中央、国务院印发《关于发展新质生产力的意见》。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：中共中央、国务院印发《关于发展新质生产力的意见》",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "巴拿马中部发生5级地震",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-10-10T23:43:40+08:00",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CNE1PQjlWTlB0ZkhlcjhhSVE4ZFlCNG9KR01WRTJHVkhNdzI3Q0xoUzZyRS1QWEUyLURNTFZHa1lSZjhNQlh2WjdvV1BYNXZDNmVBRnNhcm5xYkg2WHIwQzlVcFZBekJFU0oyN3EzSWtBNkxyZ2kw?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：巴拿马中部发生5级地震。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：巴拿马中部发生5级地震",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "新华社快讯：巴拿马再发地震",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-10-10T22:11:21+08:00",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlN1lleUJmR3dlS1RSQ0prY2hTdkJOUGpCVnE4SDdsZjdYLUQ2aGhQYkE1Z05uNUtzWFZiRjhCbnJJN19JcmV3cGhqMnBlbThiLTFmSVpFQllDcDdFYk4xS1V0dHJXZTUzNURjZTd1TEtwVzYzRjNVaDVuOXk0ZWM?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：新华社快讯：巴拿马再发地震。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：新华社快讯：巴拿马再发地震",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "外交部：暂无中国公民在巴拿马地震中伤亡报告",
+        "summary": "",
+        "source": "华龙网",
+        "published_at": "2026-10-10T22:49:41+08:00",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xaW5tWlJkbjRlMUtmR2RzUVZvSHExNFl4SkVSS2ZaTnEyY01vcFZsQzZFWDVkdnVINlRUN0xZWW91Y3BPUVlncUZodWVFQlRKd2JzOTlWeFdoSEt1eUtyeTdtQ2tkXy1sZEpZ?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false,
+        "quick_summary": "华龙网这篇报道主要讲的是：外交部：暂无中国公民在巴拿马地震中伤亡报告。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：外交部：暂无中国公民在巴拿马地震中伤亡报告",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "巴拿马地震已致27人受伤 多地建筑受损",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-10-10T16:08:59+08:00",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LVlNnQjB6VURCRHlMeU5VTEZCbUMzLVk2TGpINk5ja2h3TjZKQTNvM1hkZjQ3aGMyejl2SnBISTF1UVM0OXZOek1MVWFXdS1xNGdTUHE1UzUyaktmYlpqY3BrRXAtQVVxbE5IUnRMeDMzcEJwQW5hOFdHeVNfdVE?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：巴拿马地震已致27人受伤 多地建筑受损。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：巴拿马地震已致27人受伤 多地建筑受损",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "巴拿马总统：地震灾情严重 政府正协调援助",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-10-10T10:14:02+08:00",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tX0lZQ0tXSHd5UktFR0pCQ0txSVVOR1JoV1BKNmpmMHE0RnVlTGFRMm1zQjZJbGxpOEFONEFvNGNsbVVtZUlKWWdOU1lnb1gtY1VTY0o2Tm9qd2ZFNlJKRVhrVjg4THFTaGNVSlFhUURxbWlBbmc1em9VYkFPbkU?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：巴拿马总统：地震灾情严重 政府正协调援助。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：巴拿马总统：地震灾情严重 政府正协调援助",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "巴拿马强震后又发生6.9级地震",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-10-10T05:33:46+08:00",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoY0l1NU9WN2ZoTDlpZS1PN2lkaEVYaHNlWldmUUMzQ2gwOE4wNVpwNXhvZXdrdmJjWGJpbjBkenZvaDVYODI4SHZ1aWNDYWlBTDZicmtrRENpUV9pNGd5QjdWWU1EYnNpbEVqUzFNX1A0ODEwUlRXeU5pNThzaDA?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：巴拿马强震后又发生6.9级地震。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：巴拿马强震后又发生6.9级地震",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "巴拿马运河运营保持正常 暂未受地震影响",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-10-10T04:20:58+08:00",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OTVFlcUZORDdhanE3Um1HNGcxZGRHRHNuQXktcUl3eEZDXzh1SjkxcEZBZGl3dFJwLTR4bzEwbXhLUVdpSkJxdTRiUEZBblJPaFdSVFVYVEN3SlJzOUtVWllmTW5FZFUzdVhRZ3N3QVpBMF8wNzNR?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：巴拿马运河运营保持正常 暂未受地震影响。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：巴拿马运河运营保持正常 暂未受地震影响",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "新华社快讯：巴拿马发生7.6级地震",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-10-10T02:31:52+08:00",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmR1VZLVBwaFpNNWRYSnJvQ24wNEJGRlVKNkIyXzJNUVRtMEJEbWdQVVBtN3doclpfX19KUEp4cElBYUs1WkttNWd6bzVqYzZmRlgxRnEwcktnTUtGT0hVVWlqdm9kSEtWRWx6dmhuU1g4MDFIVU8w?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：新华社快讯：巴拿马发生7.6级地震。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：新华社快讯：巴拿马发生7.6级地震",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "巴拿马发生7.6级地震",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-10-10T02:17:38+08:00",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fbFMwbk5UWW9WTjdYLUlQTExtOWE0YS00MXl5Z2F3b1Y1TVRfU0NkNGNtelhRejl5TmVkSG9oQ0lvYWhvLVNld2NJZGhIbXQ0a3dRVUF6dmFnZFdjTW5NVHN3RU9oVzl0VjFGYUprSzR4VEk3RnlyWkVrb2tNWjA?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：巴拿马发生7.6级地震。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：巴拿马发生7.6级地震",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "巴拿马城附近9日发生地震 震感明显",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-10-10T02:10:34+08:00",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwaUtSSFRqWndBZ1BNX0VzMURZVHhNaDAzZkxTT0FvUHk2SEZfQWxLbG0zSVMwUlBKbW4tX0NCRG5uVDJaVTZKQzY1V0xQMW54X0tJWXNBVlFPdm5HUGQ2YzVkZUZXeDdXRWxBVmpGU2JacHFnRTlSUWpXSWk0SXM?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：巴拿马城附近9日发生地震 震感明显。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：巴拿马城附近9日发生地震 震感明显",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "外交部发言人就巴拿马发生7.6级地震答记者问",
+        "summary": "",
+        "source": "中华人民共和国驻巴塞罗那总领馆",
+        "published_at": "2026-10-10T22:20:01+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ2pYZTZuQURZV09adG9fcjdxRnNOV2ZOWHlIcjV0TGRFN0ZNeHIyeUNXLU0yU1g3ZHczcXhtX1JMa3pHZHpJZGdIRm01Y0xCVVZtRmxtaXNWLVhBTnVoaFJ4b0RLWFFrRjZ6NDVaQk52d3M4bUEwT09LRzQ0Nk5yb0t3?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false,
+        "quick_summary": "中华人民共和国驻巴塞罗那总领馆这篇报道主要讲的是：外交部发言人就巴拿马发生7.6级地震答记者问。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：外交部发言人就巴拿马发生7.6级地震答记者问",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "（经济观察）发展新质生产力中国明确企业做创新主角|中共中央|国务院|发改委|科技创新|科技",
+        "summary": "",
+        "source": "新浪新闻",
+        "published_at": "2026-10-10T21:55:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12MkhWUzNSOS11MF9EM29rLUtZcHhmdzNPdTNjS1VHYmdiczVzSTl0dGNUWFlUUjZ1WWNMeFFvQkdCRGl0YmJhRTlRbFhqQW81UGpzVTdsZjU5bjJFN1RNX2RJT19rTnh1eXVsU2xHUzhNMWVUbUE?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "新浪新闻这篇报道主要讲的是：（经济观察）发展新质生产力中国明确企业做创新主角|中共中央|国务院|发改委|科技创新|科技。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：（经济观察）发展新质生产力中国明确企业做创新主角|中共中央|国务院|发改委|科技创新|科技",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "category": "国际",
+        "title": "普京向特朗普转达伊朗方面解决冲突构想",
+        "summary": "",
+        "source": "中国新闻网",
+        "published_at": "2026-10-10T20:25:56+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44U3NwN0NPYjhnTnNRYTc5TGZKQnNqX05QQjNoQzJUMEx1TE9OY09aUDlMLUpwbmtadUpCV2lBMkdpTWlHR0wtb3VXMUlmR1dGZTA3WC1yd1UzOENBYVlOTC1UQWRsbGo5?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": true,
+        "quick_summary": "中国新闻网这篇报道主要讲的是：普京向特朗普转达伊朗方面解决冲突构想。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：普京向特朗普转达伊朗方面解决冲突构想",
+          "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
+        ]
+      },
+      {
+        "category": "国际",
+        "title": "特朗普与普京达成协议允俄国出售柴油，泽连斯基批评“送大礼”",
+        "summary": "",
+        "source": "BBC",
+        "published_at": "2026-10-10T04:37:22+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mWW8xNnZPaHowb3ZIMWlHdXRmRWVlNmxKbkxraEVSOGg1cUl0NV9CSHlTU3d5UFQyaXRXc1FkaWhtWTRGRnpQZzNVV0t2MVBhMXNMYTA3V0xVZ2pwbUxCWUtfZUlTdVXSAWxBVV95cUxPb0ZUTGc5WHlQQzZ6UF9mV3M3dS14Z3UxRTBlRlZyRmxSSnB0bllOZVdRS25YaFRJWldjaXVaa29sbEgwd0JvalZuVTN6V1I0dFdkWG1sVGhySUFxOW5zZnB6XzgweEo0cHplZGg?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "BBC这篇报道主要讲的是：特朗普与普京达成协议允俄国出售柴油，泽连斯基批评“送大礼”。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：特朗普与普京达成协议允俄国出售柴油，泽连斯基批评“送大礼”",
+          "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
+        ]
+      },
+      {
+        "category": "国际",
+        "title": "普京向特朗普转达伊朗方面解决冲突构想|马苏德·佩泽希齐扬|唐纳德·特朗普|乌克兰问题|佩斯科夫|俄罗斯",
+        "summary": "",
+        "source": "finance.sina.com.cn",
+        "published_at": "2026-10-10T23:46:17+08:00",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdnB1Snlja2hPM0VIdmNMdG11U3cxRFFiaXpjR01YbVdSckktNHg1djF3Q1ZId2QxWFI0VDRyZmZJOU4xMnM0VGdGX2djZnh1RUp4RXdGQlRWalNvZnV2MEdiV1hGSjJ5UUY3dGZob1JvYjNZRzRvV3VtbHV3Vm80TmlQUVFyRUF5bWE3Y2hSbUpGTnA3YkljS2trVDRQLTVGbmhZcFZ4U3g5bjhram1oYzNwakU2QzdvUGR5VFAyRWZXc3lwOFZoeWVTYlpoMHN6aEZ6dmZuV3pWVy1taUQyUkotbWx6T2t3UnYxc0xuOEJINGdjNU9LWnpQMGxvNXB4T242dzNrOEhkNjJZ?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false,
+        "quick_summary": "finance.sina.com.cn这篇报道主要讲的是：普京向特朗普转达伊朗方面解决冲突构想|马苏德·佩泽希齐扬|唐纳德·特朗普|乌克兰问题|佩斯科夫|俄罗斯。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：普京向特朗普转达伊朗方面解决冲突构想|马苏德·佩泽希齐扬|唐纳德·特朗普|乌克兰问题|佩斯科夫|俄罗斯",
+          "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
+        ]
+      },
+      {
+        "category": "国际",
+        "title": "俄媒：普京向特朗普转达伊朗方面关于解决冲突的构想",
+        "summary": "",
+        "source": "新浪财经",
+        "published_at": "2026-10-10T21:17:52+08:00",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12VnlqSGVRblU2eVRwSkZJX2tGZTFocHFLSEpEYndXaG1mMklCMVJYV1pJUDlnTGZlNWYwLXNoMEo3WV9RaHYyRVJoSXJYcF8yRHU2NHk2WmgxRVpvcF9hczVLSHpoVWpHdGpxbGkzWEJ4dG1WYkYwUg?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false,
+        "quick_summary": "新浪财经这篇报道主要讲的是：俄媒：普京向特朗普转达伊朗方面关于解决冲突的构想。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：俄媒：普京向特朗普转达伊朗方面关于解决冲突的构想",
+          "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
+        ]
+      },
+      {
+        "category": "国际",
+        "title": "特朗普再次逆转对俄制裁 宣布与普京达成柴油协议",
+        "summary": "",
+        "source": "DW.com",
+        "published_at": "2026-10-10T18:03:50+08:00",
+        "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNZ3dZb1pHNlpvcXFlUVAxaDlub3JlNkNoY2E0OUVsU3Z5aVV5ZWJpTzMxSER2TktoV2tXd1oxTnlSWmlRV3RhZERNem9KMXM3MUl0d3g3VTY3RUxuTGt1eGQ2SG1JS0Q0emRpYk5Fbi1QOTNRQ1ZYbDF6cnpta3EtZ1FWZWpFdWhmV1Vuam9VWk5namVKeFYzS255eFE4bkg4ZGVPY0dzY1djS05HNURqTW1oemI1TG1jSnh1Q2NDemlPeUpoNktxNTg5cEZzbWFCckNDMmpFcU04SnZfUzA0eGdXb2FMVi1reFA3RmFVcjhDSzRHSUdGYTlmblNrbXdBc0ZYNDRuVFlJV0FwZ3FDckdBTm9FZVBFeFBaN0hFcVZkM3E4TzJKOXR4am4tajM1NE1LbjQyYVdSUGF3eWM5STlVR2tXa09XaU5XNEEwbzZNZ9IB0gJBVV95cUxNZ3dZb1pHNlpvcXFlUVAxaDlub3JlNkNoY2E0OUVsU3Z5aVV5ZWJpTzMxSER2TktoV2tXd1oxTnlSWmlRV3RhZERNem9KMXM3MUl0d3g3VTY3RUxuTGt1eGQ2SG1JS0Q0emRpYk5Fbi1QOTNRQ1ZYbDF6cnpta3EtZ1FWZWpFdWhmV1Vuam9VWk5namVKeFYzS255eFE4bkg4ZGVPY0dzY1djS05HNURqTW1oemI1TG1jSnh1Q2NDemlPeUpoNktxNTg5cEZzbWFCckNDMmpFcU04SnZfUzA0eGdXb2FMVi1reFA3RmFVcjhDSzRHSUdGYTlmblNrbXdBc0ZYNDRuVFlJV0FwZ3FDckdBTm9FZVBFeFBaN0hFcVZkM3E4TzJKOXR4am4tajM1NE1LbjQyYVdSUGF3eWM5STlVR2tXa09XaU5XNEEwbzZNZw?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false,
+        "quick_summary": "DW.com这篇报道主要讲的是：特朗普再次逆转对俄制裁 宣布与普京达成柴油协议。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：特朗普再次逆转对俄制裁 宣布与普京达成柴油协议",
+          "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
+        ]
+      },
+      {
+        "category": "国际",
+        "title": "“总有一天或许能再见到她”：丈夫15年来潜水760次，为了“靠近”海啸失踪妻子",
+        "summary": "",
+        "source": "BBC",
+        "published_at": "2026-10-10T15:53:36+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GM0N2dGs3a1VvTVZaRkROUnppUmxZdF9kRTYydXQtU01Mc1BrU1pWeU9fN1BGYWZZdEF6N3hCNVRlcXdNTmhKQUdNLUtNNVJYRWl3UDhhUlQ1QXpibHdwSkc3UXBtY3PSAWxBVV95cUxPd1dhQXF4QnV0MWhCYlJHQTJBejI5YlpkNjFTSUJLc1ZNX24zTzhuWkIzMDlaMElESGdxU2VEMDY5NjVPdXVNTlVxSjlpZlRKY1gtNUpCTkczMGQ3SVF5eFRIRnl6bDdOVjU5Uk0?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "BBC这篇报道主要讲的是：“总有一天或许能再见到她”：丈夫15年来潜水760次，为了“靠近”海啸失踪妻子。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：“总有一天或许能再见到她”：丈夫15年来潜水760次，为了“靠近”海啸失踪妻子",
+          "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
+        ]
+      },
+      {
+        "category": "国际",
+        "title": "美国宣布制裁国际刑事法院 联合国秘书长及多国发声明反对",
+        "summary": "",
+        "source": "中国新闻网",
+        "published_at": "2026-10-10T09:47:50+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0LW9FWnpHYmQwSi1STnFlRkNLM0RNQWNTLVF2N2didERmZmhWSmVUdmFNNVdULVc2dmN4cTRpTnlpNnhjS3ZQWW9uRk16dnZ2N1I4MWo3dG00WkNFaEdNZmJLSEJOZmRQ?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": true,
+        "quick_summary": "中国新闻网这篇报道主要讲的是：美国宣布制裁国际刑事法院 联合国秘书长及多国发声明反对。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：美国宣布制裁国际刑事法院 联合国秘书长及多国发声明反对",
+          "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
+        ]
+      },
+      {
+        "category": "国际",
+        "title": "冲突升级！美国制裁国际刑事法院 英国 丹麦 法国 德国 日本 意大利 荷兰 加拿大 “强烈反对”",
+        "summary": "环球网7月14日援引欧洲动态网站、“政治新闻网”欧洲版等媒体报道，丹麦、法国、德国、意大利、荷兰、挪威、西班牙、瑞典、乌克兰和英国领导人当地时间13日在法国巴黎举行的“志愿联盟”峰会期间签署联合声明，宣布组建一个“纯防御性质的反弹道导弹 ...",
+        "source": "搜狐网",
+        "published_at": "2026-10-10T23:37:12+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYXJkQUpHZGVEU2VlcDNaTDhXN1gtcGdLUXA5OVdJYzVTc0EzdXN1WmtDWGNGTGowTURNaFdkTGR3MlRhcnBQMXkycnpBUzZSc0lJc3k5ZUM2cXFoV1BxYjRFbE5CN2dfcDhSelZXM2VEVGE4RXJYTVBQTnZURElQbG1NVTEtc1Mw?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false,
+        "quick_summary": "搜狐网这篇报道主要讲的是：冲突升级！美国制裁国际刑事法院 英国 丹麦 法国 德国 日本 意大利 荷兰 加拿大 “强烈反对”。环球网7月14日援引欧洲动态网站、“政治新闻网”欧洲版等媒体报道，丹麦、法国、德国、意大利、荷兰、挪威、西班牙、瑞典、乌克兰和英国领导人当地时间13日在法国巴黎举行的“志愿联盟”峰会期间签署联合声明，宣布组建一个“纯防御性质的反弹道导弹 ...。",
+        "key_points": [
+          "核心事件：冲突升级！美国制裁国际刑事法院 英国 丹麦 法国 德国 日本 意大利 荷兰 加拿大 “强烈反对”",
+          "环球网7月14日援引欧洲动态网站、“政治新闻网”欧洲版等媒体报道，丹麦、法国、德国、意大利、荷兰、挪威、西班牙、瑞典、乌克兰和英国领导人当地时间13日在法国巴黎举行的“志愿联盟”峰会期间签署联合声明，宣布组建一个“纯防…",
+          "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
+        ]
+      },
+      {
+        "category": "国际",
+        "title": "市政厅爆发冲突！美中期选举遭遇“反数据中心”浪潮：民众抗议四起，三座城市同日暂停建设，特朗普在重要摇摆州辩护竟遭无视",
+        "summary": "",
+        "source": "新浪新闻_手机新浪网",
+        "published_at": "2026-10-10T18:31:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NT19XampWWGwtb2tqSVk3MFl4dzB1YWlSOGN0X1pQODAwYjVMTkl2VnpSWVQ0TzZiZnlxemRrc2h3VV8xTFMzM0loUWRuUm9VSVdhT2ZGNjhqeGRZZ0tUTlF3SjZ4TkJoY2UwdXYwWGI?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false,
+        "quick_summary": "新浪新闻_手机新浪网这篇报道主要讲的是：市政厅爆发冲突！美中期选举遭遇“反数据中心”浪潮：民众抗议四起，三座城市同日暂停建设，特朗普在重要摇摆州辩护竟遭无视。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：市政厅爆发冲突！美中期选举遭遇“反数据中心”浪潮：民众抗议四起，三座城市同日暂停建设，特朗普在重要摇摆州辩护竟遭无视",
+          "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
+        ]
+      }
+    ],
+    "finance": [
+      {
+        "category": "财经",
+        "title": "人民币汇率被低估了吗？央行最新政策立场给出答案|中国人民银行|人民币美元|顺差|升值|贬值",
+        "summary": "",
+        "source": "新浪财经",
+        "published_at": "2026-10-10T14:38:10+08:00",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQzltbjkyYUtJbzYtS2JZVDI5UHFaZGNZeUFucjBNWGdlbDJoaUtkdnI5d0Fvc0J1MFdPa3RhekFHOUdEdktMM2ZWbXotc2ZzenhGZkNMSkU1LUY3ZGtzLUdJd1FuaVg1cDlvaHVrdU0tOHF6OVdncDFnRXE5MHJHMlNzZTd4ME96cW43T0h6VUVlTGdEM25LVg?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "新浪财经这篇报道主要讲的是：人民币汇率被低估了吗？央行最新政策立场给出答案|中国人民银行|人民币美元|顺差|升值|贬值。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：人民币汇率被低估了吗？央行最新政策立场给出答案|中国人民银行|人民币美元|顺差|升值|贬值",
+          "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
+        ]
+      },
+      {
+        "category": "财经",
+        "title": "金融价值观｜首期1500亿元落地 财政部发行中央金融机构注资特别国债",
+        "summary": "",
+        "source": "新华网客户端",
+        "published_at": "2026-10-10T18:13:39+08:00",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVEFfelVsU1o3NmdmTUxJeEZielYtQkhfdHRreGpNTTkwOGZKOEhEbi1TMHFhTlVCWXdxVldJSEY0YTdFRzV4UER1U21tMm5Na0xpbUFzTS15OWhlT1gyckc5VEUyZTAyZnNyN3hWUEFkUzhOX3N2aF94QUFxUWdZSmxEa3hxclg1U1d2cG5qelA0OWJTWDVxYlR3?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网客户端这篇报道主要讲的是：金融价值观｜首期1500亿元落地 财政部发行中央金融机构注资特别国债。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：金融价值观｜首期1500亿元落地 财政部发行中央金融机构注资特别国债",
+          "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
+        ]
+      },
+      {
+        "category": "财经",
+        "title": "人民币市场汇价（10月9日）",
+        "summary": "新华社北京10月9日电 中国外汇交易中心10月9日受权公布人民币对美元、欧元、日元、港元、英镑、澳元、新西兰元、新加坡元、瑞士法郎、加元、澳门元、林吉特、卢布、兰特、韩元、迪拉姆、里亚尔、福林、兹罗提、丹麦克朗、瑞典克朗、挪威克朗、里拉、墨西哥比索及泰铢的市场汇价。 100人民币 501.49…",
+        "source": "新华网",
+        "published_at": "2026-10-09T10:10:12+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaU50TExnZ2t5Y3hqYWRqV2NfdDVJMU5ZNXpObEpRd2lWNnA4bzFwQ25NUWtJYjRYeE9OMHh4LTV4MVRBd0ZuS0pUeThPLXA3cThBN1lkYVRsdzZPUGJtandaaWZMY3U3SzJfNEkwN3RtcXJzTHVCQ2dBb1cyOVVSd0tDUjVYMld0?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：人民币市场汇价（10月9日）。新华社北京10月9日电 中国外汇交易中心10月9日受权公布人民币对美元、欧元、日元、港元、英镑、澳元、新西兰元、新加坡元、瑞士法郎、加元、澳门元、林吉特、卢布、兰特、韩元、迪拉姆、里亚尔、福林、兹罗提、丹麦克朗、瑞典克朗、挪威克朗、里拉、墨西哥比索及泰铢的市场汇价。100人民币 501.49…",
+        "key_points": [
+          "核心事件：人民币市场汇价（10月9日）",
+          "新华社北京10月9日电 中国外汇交易中心10月9日受权公布人民币对美元、欧元、日元、港元、英镑、澳元、新西兰元、新加坡元、瑞士法郎、加元、澳门元、林吉特、卢布、兰特、韩元、迪拉姆、里亚尔、福林、兹罗提、丹麦克朗、瑞典克…",
+          "100人民币 501.49…"
+        ]
+      },
+      {
+        "category": "财经",
+        "title": "央行10月9日开展20亿元7天期逆回购操作 利率维持不变",
+        "summary": "",
+        "source": "央广财经",
+        "published_at": "2026-10-09T09:52:34+08:00",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40SzhrOW9WSTM2TFJKM3hTOFpKVUlEVjZRMFVFSFpNMHc1QnJWVHdYbS1PRVhuWk9DVUJkeHRKYmNWV3BBSDR6UThabGFJTGZuWWZKYmxkU2lNZk9YUUJZRmVEYzBpMnIxeHBabGVYOA?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "央广财经这篇报道主要讲的是：央行10月9日开展20亿元7天期逆回购操作 利率维持不变。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：央行10月9日开展20亿元7天期逆回购操作 利率维持不变",
+          "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
+        ]
+      },
+      {
+        "category": "财经",
+        "title": "【早报】深夜，中概股全线爆发；原油黄金，双双收涨；时隔12年，公募基金运作办法修订",
+        "summary": "",
+        "source": "财联社",
+        "published_at": "2026-10-10T07:27:26+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBoLUxOcVVlN2wwOEppd2ZTa2RpT1hnZElxRmxkMzY3MENvLWo0TEQ2RHJocHJVVW5MUUhaVk5CNWZEX1hRa2tzVw?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "财联社这篇报道主要讲的是：【早报】深夜，中概股全线爆发；原油黄金，双双收涨；时隔12年，公募基金运作办法修订。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：【早报】深夜，中概股全线爆发；原油黄金，双双收涨；时隔12年，公募基金运作办法修订",
+          "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
+        ]
+      },
+      {
+        "category": "财经",
+        "title": "港股9日涨1.79% 收报24211.35点",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-10-09T17:14:25+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDJjekpXelB4aXBNQ2tBZVNBcmFuZVhqSDJtNk9XaEhSV3BNYUJtRW1Sd2tHb0hxOGdSVkE4eVV3bkpmLXYyaTVEcXFmVmtDZUFhMEl4QWRJMERwX3prbzF4anpOcEU5Z2lVYmRkVnhVQWdqT2FweUJwRUdvVzNhNnozcHNIenlM?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：港股9日涨1.79% 收报24211.35点。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：港股9日涨1.79% 收报24211.35点",
+          "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
+        ]
+      },
+      {
+        "category": "财经",
+        "title": "（经济观察）勿将贸易账算在汇率上 人民币涨跌由市场决定",
+        "summary": "",
+        "source": "中国新闻网",
+        "published_at": "2026-10-10T18:07:01+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zS01wRTVSb3Z3Vkd4WUN3TUdfdVMwTFFERk53dXlnMFpIRlgtS1NoSVNfSU5nTk1LcmNidTVDQnI4THZqOWJTbVluMTFBU0RnM3FRaFdQX0kzQlVnNGVpUGdlZjJUeUhW?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "中国新闻网这篇报道主要讲的是：（经济观察）勿将贸易账算在汇率上 人民币涨跌由市场决定。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：（经济观察）勿将贸易账算在汇率上 人民币涨跌由市场决定",
+          "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
+        ]
+      },
+      {
+        "category": "财经",
+        "title": "“金镯子断货”！水贝黄金，外国游客组团扫货",
+        "summary": "",
+        "source": "新华网客户端",
+        "published_at": "2026-10-09T17:05:35+08:00",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdHBDQW01T01RVlFrUXJuSUNDVGFFQ3g1SWVmUkxKTVRLSGVxWkNfTlVTNEwwUmJOT3VSd1hieHNRSUw1RllmQ0UwVFFDM3NDdzlkNktSY3F6dEZBWl9vNmVmRVV4YTF5bzZYMVhBMTFaejJ5a3hhUThoWWgxZ1RDRlVlVGFfOC1PYlc4QUNWZ0JWcXRPbXpwcjF3?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网客户端这篇报道主要讲的是：“金镯子断货”！水贝黄金，外国游客组团扫货。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：“金镯子断货”！水贝黄金，外国游客组团扫货",
+          "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
+        ]
+      },
+      {
+        "category": "财经",
+        "title": "美国农业部意外上调玉米产量预估，玉米期货盘中暴跌6%创三年最大跌幅",
+        "summary": "",
+        "source": "华尔街见闻",
+        "published_at": "2026-10-10T07:02:09+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pOTRqU255ellxYjBVbU5oMFBTQnlFRGlyWlRVeVV3SEFuMkhISWVWUWVNU2pObUZrN3VhYjJpUU4zZXFfZTh2ajh4MU5DTzI0VUw4?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false,
+        "quick_summary": "华尔街见闻这篇报道主要讲的是：美国农业部意外上调玉米产量预估，玉米期货盘中暴跌6%创三年最大跌幅。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：美国农业部意外上调玉米产量预估，玉米期货盘中暴跌6%创三年最大跌幅",
+          "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
+        ]
+      },
+      {
+        "category": "财经",
+        "title": "美银Hartnett：中选将成年底最强市场催化剂，债市会终结泡沫，别加仓科技，等降息再进场！",
+        "summary": "",
+        "source": "华尔街见闻",
+        "published_at": "2026-10-09T21:07:01+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nVURYNlNzRXBaTmUyYVFKVXZWT0NHVDZBbFRaNTZudHdsalhSZmZGekJiQ1dKS25nMklXQWd4ZDJELXVfN0lKWjhiMFo0Sy1XeG00?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "华尔街见闻这篇报道主要讲的是：美银Hartnett：中选将成年底最强市场催化剂，债市会终结泡沫，别加仓科技，等降息再进场！。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：美银Hartnett：中选将成年底最强市场催化剂，债市会终结泡沫，别加仓科技，等降息再进场！",
+          "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
+        ]
+      }
+    ],
+    "tech": [
+      {
+        "category": "科技",
+        "title": "国产DRAM重大突破！长鑫4F架构产品年底亮相：剑指服务器内存",
+        "summary": "",
+        "source": "驱动之家",
+        "published_at": "2026-10-10T18:45:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSVTdFTjFPMENPV1VzQzVMdFF2SEtPMnVQdWVhd29CTUtxaVdRU2ZWSVR1ajVEWElXV1BSdWlJNDhtTVlOb21IUEJNMkMxQkNoTThBX05vS0o?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "驱动之家这篇报道主要讲的是：国产DRAM重大突破！长鑫4F架构产品年底亮相：剑指服务器内存。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：国产DRAM重大突破！长鑫4F架构产品年底亮相：剑指服务器内存",
+          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
+        ]
+      },
+      {
+        "category": "科技",
+        "title": "“芯片大佬”Pat Gelsinger：从存储、光互联、电气到网络架构，当下是硬件创新的黄金时代",
+        "summary": "",
+        "source": "华尔街见闻",
+        "published_at": "2026-10-10T16:35:34+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSMUdvMFhKTnBJaFRpTFdWREh5RFpZTV8wYnVNRGpqT2w5OVpPWndoYUN0ODZrWmkyWW1KVUNxRThRbW5mV0s4ZGdaN01PRWowQ0tZ?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "华尔街见闻这篇报道主要讲的是：“芯片大佬”Pat Gelsinger：从存储、光互联、电气到网络架构，当下是硬件创新的黄金时代。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：“芯片大佬”Pat Gelsinger：从存储、光互联、电气到网络架构，当下是硬件创新的黄金时代",
+          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
+        ]
+      },
+      {
+        "category": "科技",
+        "title": "地平线海外订单超2000万套，中国车载芯片加速走向全球？",
+        "summary": "",
+        "source": "日经中文网",
+        "published_at": "2026-10-09T05:02:56+08:00",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMlI2Q08yWmtlWFhqOFdOcUExaERBNW1kYlFUdnA2UmVzdzBZQUh3OG5pS29hc3d1aEtYOFppRnBzblRTUmlxYzFnZjdDUkYyWnNZN3hBcFJjd0Q1X0NKV3hxd1Vua2JsSFdFaGhnV2xVWXNJUjNuTTlpVVRFR19uag?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "日经中文网这篇报道主要讲的是：地平线海外订单超2000万套，中国车载芯片加速走向全球？。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：地平线海外订单超2000万套，中国车载芯片加速走向全球？",
+          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
+        ]
+      },
+      {
+        "category": "科技",
+        "title": "中国制造新能源客车驶向全球",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-10-10T09:49:47+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vX3Nmd05xZVVJd0Z3TWU1VFg1RllMby02ejNGbklFREtLQzhkRkdWa25MbmhCRzU0cmlPRDFCYmpYSmdGSnpoUjg5ZFZxcEs1YnJiSHNnX1VKWFZ6WmpsYTh1LVU5dXhmN2lLMThWNFpKMlBSU20wZlln?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：中国制造新能源客车驶向全球。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：中国制造新能源客车驶向全球",
+          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
+        ]
+      },
+      {
+        "category": "科技",
+        "title": "AI“读心”新突破：凭脑扫描还原人眼所见 下一站是“读梦”？",
+        "summary": "",
+        "source": "驱动之家",
+        "published_at": "2026-10-10T20:08:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GUjBXcmN6TVduZnBvQU84bGoyTE0wcXE1WGpOWS1iMU1oUnBVRDByek5OTEdwLTdaYmEzZEcyeFJia2VqQUcxYXR1aVpQWTFjeTBYSFpjT0c?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "驱动之家这篇报道主要讲的是：AI“读心”新突破：凭脑扫描还原人眼所见 下一站是“读梦”？。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：AI“读心”新突破：凭脑扫描还原人眼所见 下一站是“读梦”？",
+          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
+        ]
+      },
+      {
+        "category": "科技",
+        "title": "重磅官宣永成股份获首尔半导体授权，“中国首尔芯片应用实验室”正式设立",
+        "summary": "",
+        "source": "同花顺财经",
+        "published_at": "2026-10-10T10:28:45+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uU0k0QzVmcFpsazZTelV3eDQzZy1WbmNBb1FyZi1sS1ItOTl2b3VPWVliYm15UGdIT0N4Qkg5bzh6Wm9IR0xkV0U4T3pWWHUzbVgxc2xXQ2JwZUxKc0pBTFB3?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "同花顺财经这篇报道主要讲的是：重磅官宣永成股份获首尔半导体授权，“中国首尔芯片应用实验室”正式设立。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：重磅官宣永成股份获首尔半导体授权，“中国首尔芯片应用实验室”正式设立",
+          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
+        ]
+      },
+      {
+        "category": "科技",
+        "title": "直观医疗高管：上海手术机器人生态加速成型 中国是全球创新伙伴",
+        "summary": "",
+        "source": "中国新闻网",
+        "published_at": "2026-10-10T19:06:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CX1lwMjkyOUVrNjB6U3BSZi1HRm56Q1FmY1IzMFp3YWtpWm9LaERmaWkyM2ZNOW1iUEtiR1Z2M1ZFdko3bGhhSl9uWVNuejVMUmgtcEI1aGJQSUNPUHN4MmxxWFR0WEpIR2dRYkx5Uk1ONjNnckxubGVIaU1MUQ?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "中国新闻网这篇报道主要讲的是：直观医疗高管：上海手术机器人生态加速成型 中国是全球创新伙伴。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：直观医疗高管：上海手术机器人生态加速成型 中国是全球创新伙伴",
+          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
+        ]
+      },
+      {
+        "category": "科技",
+        "title": "中国最北高铁 来了位“机器人医生”",
+        "summary": "",
+        "source": "中新网福建",
+        "published_at": "2026-10-10T15:01:10+08:00",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3RDRTMTg3YWI4bnpIeTVhbU8xUm1Va2t2Sjl4aUF1WFNtLWtUX2xDTk5mMF9iVHkwejUtRU9ENUdsclpDVi13NzNOaGlGcnJhaVdINnFKS2E2QWZQY0hHMnJ6MkhwWHBFczBwUlN2WGU5QQ?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "中新网福建这篇报道主要讲的是：中国最北高铁 来了位“机器人医生”。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：中国最北高铁 来了位“机器人医生”",
+          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
+        ]
+      },
+      {
+        "category": "科技",
+        "title": "涉转运搭载英伟达先进AI芯片服务器至中国 超微电脑案中间人认罪",
+        "summary": "",
+        "source": "RFI",
+        "published_at": "2026-10-10T17:27:06+08:00",
+        "url": "https://news.google.com/rss/articles/CBMi1wNBVV95cUxOZGNhZEt4UERKN2NyajJRdjUtdHM0R2ZGWWhDZ255MWZvSnFubFFXMmx4VkxRam5GU0pHQl9mM0pOZjRKYmd3V2x2Z1F6MG1sOU5XbFJObjdsLWpfSl9TUkpzSG8xcC1WR0VjMFNRemR0RWZLc0xHNVgxeXdfY0tQYXQ1YTFCRmY5a3JQcG5mQy1kWFRhMENmQ29vbTE2emJhMk5PbEJjZ2pZTE9XeWEtNUNMc0g1WXV4bmhKWlpvMzdlVG16MlJfVUNWSUlnaEtYZTAxZzdRbVBwT19ydzdvNGlJQ3pPdTlIZGtQLXAyZ0ZFRkdDVlp3Ujd2ZENoS2FXZURSQTlhdXlEbzNrc3ZKTmEwQ0psSjU2aGY2Um0xR2tkOXNDTGdwTXloRDVKMUR0Y1hSY3QzOERySTFCcHlkbm1mZkdUMWpkU2pkRE9BTzlveWx4NjhTM2VLZzg5dzJYYkM3MlgzMDk2bTZfaGdyWnlwLWdZakhIYWdIYms1SGlGUDBJVmhCZkp0bjBHOW44Y3RQZVozeW5tQUIxSDVQRHFfbHowZDRveTFYcmhkUzN6V0hNalE3VVcycC12RFJkcVY3ZEZNNjlKVlh0UUhrS1JQUkJmTmc?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "RFI这篇报道主要讲的是：涉转运搭载英伟达先进AI芯片服务器至中国 超微电脑案中间人认罪。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：涉转运搭载英伟达先进AI芯片服务器至中国 超微电脑案中间人认罪",
+          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
+        ]
+      },
+      {
+        "category": "科技",
+        "title": "OpenAI年化收入约500亿美元低于传闻200亿美元，引发美股半导体与云服务板块震荡",
+        "summary": "",
+        "source": "虎嗅网",
+        "published_at": "2026-10-10T07:31:10+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGSFEzVk1VWkJpTmRkYVJvSllFalBRaWZ6RVRlMjAtX1BoWThTOEMwY1g0UVVrMmJyUHNsZF9kTDlIYXJSNnhTODMzTEp3ZkR1TWx6Rg?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "虎嗅网这篇报道主要讲的是：OpenAI年化收入约500亿美元低于传闻200亿美元，引发美股半导体与云服务板块震荡。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：OpenAI年化收入约500亿美元低于传闻200亿美元，引发美股半导体与云服务板块震荡",
+          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
+        ]
+      }
+    ],
+    "society": [
+      {
+        "category": "社会",
+        "title": "海南多地发布暴雨红色预警",
+        "summary": "",
+        "source": "新华网客户端",
+        "published_at": "2026-10-09T20:30:40+08:00",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaWlsU1RsZUE5MDNVNFFWOW9TVzU1NEV4V2duOTZiaXVURVNJdjllblJqLTRITkh5aDhZeGhUTThlYndkLVhOMTdDTWpmSmtnZmJzNVFlWTFLdXpiQnJObjFPa1NmRVQxZEhQc1laRjE4b2xXZ09GbzN3QUItT3J0a0RXV3VEUlFVb1ppdlhoV1BGRmZMQkdyXzRB?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": true,
+        "quick_summary": "新华网客户端这篇报道主要讲的是：海南多地发布暴雨红色预警。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：海南多地发布暴雨红色预警",
+          "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
+        ]
+      },
+      {
+        "category": "社会",
+        "title": "市场监管总局就食品安全法修订草案征求意见稿答记者问",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-10-10T23:12:10+08:00",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fdURCSldOSTdPMlFKSnM0QzhkN1FHaTMyZkdDTlBIakdqaTdzeVplLVFTZU1NYU5MUkFGQXMxeS1wUHpPU25fRUFEaUtoRjFGcnpYbHdZSW9VWHIxOWc4UzVBcDA2OEF6TVFUM1Y2LTlqYmNHRlFxN0R5b21yclU?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：市场监管总局就食品安全法修订草案征求意见稿答记者问。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：市场监管总局就食品安全法修订草案征求意见稿答记者问",
+          "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
+        ]
+      },
+      {
+        "category": "社会",
+        "title": "中国驻巴拿马使馆提醒在巴中国公民防范地震灾害|地震预警|外交部|报警|报警电话|次生灾害",
+        "summary": "",
+        "source": "finance.sina.com.cn",
+        "published_at": "2026-10-10T17:43:48+08:00",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PcG9pMHlENTNOdnR3bWJ2ejdFYndudTRUVDVldnN3OGlvWVFCajlUMWZCR2NfVmszZEhOU2tKMFAwalVpeGUtTzJnR21JTFFQUWE2RFplZ1dMOGxwTVFOQ3ZST3RobXFkb3Ric0ZxZ0NMT0tvYnJLdg?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false,
+        "quick_summary": "finance.sina.com.cn这篇报道主要讲的是：中国驻巴拿马使馆提醒在巴中国公民防范地震灾害|地震预警|外交部|报警|报警电话|次生灾害。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：中国驻巴拿马使馆提醒在巴中国公民防范地震灾害|地震预警|外交部|报警|报警电话|次生灾害",
+          "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
+        ]
+      },
+      {
+        "category": "社会",
+        "title": "中国共产党历史展览馆推出两大长征主题展",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-10-10T21:38:15+08:00",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaXItekhVRG5lU0doMlF3aHRSSG5YOEhLTjFfMlFQbmdpWTkteHRLNWRtRnEyTjJ2ZlJuNnliZ2ZCclA3NlRqSnFmZS1HZ0p1azJaWF84bm9kZV9aXzRSU19SQUl3RGFGU3FyQURFN3o0S0VoWkd5X2N1V25WQW42eFBNb3VjQQ?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：中国共产党历史展览馆推出两大长征主题展。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：中国共产党历史展览馆推出两大长征主题展",
+          "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
+        ]
+      },
+      {
+        "category": "社会",
+        "title": "财经聚焦｜需求集中释放 信心持续修复——国庆假期一线楼市探访",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-10-10T20:49:31+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTGVJZVZ1ZU15ODhZZXdQQ0VKd1pVa0VzOE5rbW8wZXNlbXk4UXVlaDdsVUIxSW5qODBBTDduTU5DakU2V3RHUVRXOXRRX2N4NmFjaGR2ZHZkVVhfTXdTV2lLWmk5dmt6by1SRklFNWlIeDh2VnFaUWI3YWVSSXJFMnRB?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：财经聚焦｜需求集中释放 信心持续修复——国庆假期一线楼市探访。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：财经聚焦｜需求集中释放 信心持续修复——国庆假期一线楼市探访",
+          "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
+        ]
+      },
+      {
+        "category": "社会",
+        "title": "“2026世界市长对话·洛阳”活动嘉宾参访洛阳",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-10-10T20:13:53+08:00",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTmN1R0ZGWXAwdUVUU2kyQVkyVlN5Q1JaM1Z3bmpPSUUzeUJCUGViMUM1cUlOQjZDcEoyeHpzblpkVmxTQkRfUF9jdzRCajVnaThxNW9mT3JCa2dGeEh1YTVNaEZFaFdlODNJdkhaeS0xR0JNR1RYNjRadEEwX1BibWhWWGxmdw?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：“2026世界市长对话·洛阳”活动嘉宾参访洛阳。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：“2026世界市长对话·洛阳”活动嘉宾参访洛阳",
+          "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
+        ]
+      },
+      {
+        "category": "社会",
+        "title": "“根魂梦:纪念中国侨联成立70周年专题学术研讨会”在北京召开",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-10-10T18:52:34+08:00",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYmFIY1dXYlNOMmxNXzNPMi0wUEJTUmYtLUZtTUdGdUlCbHZHZ2l3aFN5akxiZi00TlY0dWpCT0M3ZncxX0ctZ20ta2FyMjFncTEyVmVuZjNMZU9oblBHOG5UY2YxNkxRQlBXcXBuZVZESnVKVHlkb0tUX3BXOEgyV1VtcFNBdw?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：“根魂梦:纪念中国侨联成立70周年专题学术研讨会”在北京召开。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：“根魂梦:纪念中国侨联成立70周年专题学术研讨会”在北京召开",
+          "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
+        ]
+      },
+      {
+        "category": "社会",
+        "title": "打击效仿小说情节盗掘古墓葬等 两部门发布典型案例",
+        "summary": "",
+        "source": "新华网客户端",
+        "published_at": "2026-10-10T10:11:32+08:00",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU3pCWlZZMlRBQTFZVFAwSVVfQmJKeDBZajRva0NLTkotckpXMWtSbnBiQVB5dVVYWm9RRlZ2cGg4ZXVIRFFwd2U4UnNOTjhlbjVtT1ZqWkMwQnBtYmRGdVc2V1Fic1dxMmZuWWY5NG5WRV9zZENIVkJwOWhvNWEtSjlQc21QeHZjZUlBa21iVjNVc3drbHFVdmtR?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网客户端这篇报道主要讲的是：打击效仿小说情节盗掘古墓葬等 两部门发布典型案例。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：打击效仿小说情节盗掘古墓葬等 两部门发布典型案例",
+          "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
+        ]
+      },
+      {
+        "category": "社会",
+        "title": "山东德州：秋粮收获忙",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-10-10T09:31:43+08:00",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVMlAycGhRbklvdVJqbDhxM05xSlB6QzFhTG0yRW01OXJKVkxfcTByUTNCaWwyUFZTRTgxcFl4eE5sdy1OQTRtWG5tUUw5ZW9NLTJGZy1wdURVX0lWTlRsTjZEcjBLdjhwNFg4VUJ1Njl4YnhFaVNYZ2FlenJNUXc?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：山东德州：秋粮收获忙。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：山东德州：秋粮收获忙",
+          "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
+        ]
+      },
+      {
+        "category": "社会",
+        "title": "平陆运河水上游览航线累计接待游客约2.3万人次",
+        "summary": "",
+        "source": "新华社广西分社",
+        "published_at": "2026-10-10T09:27:43+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUk9fUjJuX2N6Zjl1eWdGSXVQVXVLVEphSmRzOGx4eGpWSnRBcnp3ZEtQMjhpUzNVM0RoUGlXcWt3bDdCd003Sy1ZTFF1aS0yR1diY3BLTHMtVUpMMWtrTDA1UTNMR2g5UF9VeVFsZU94bUxJZDZwZzJDWU5TR1dZeVd3?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华社广西分社这篇报道主要讲的是：平陆运河水上游览航线累计接待游客约2.3万人次。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：平陆运河水上游览航线累计接待游客约2.3万人次",
+          "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
+        ]
+      }
+    ],
+    "ai": [
+      {
+        "category": "AI",
+        "title": "给AI植入广告涉及不正当竞争，GEO监管处罚已达3起|21世纪经济报道|DeepSeek|市场监管|深圳市|大模型",
+        "summary": "",
+        "source": "新浪财经",
+        "published_at": "2026-10-10T22:03:45+08:00",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yaVlPd0loRDBOSVVuUzF6QzlLTmc0c1JNemF1S3V1cjFzeEZybGNIaW5qV3QtdUtrQTNyR2lkRDNOVUdDekNUNzFkYl9OVjRZSVl1SDUwSmxtR2l2Yzd1OXVwWV9hdUp6SjV2LWxJQzhRc29aTENEZ2JHZ0pPZw?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "新浪财经这篇报道主要讲的是：给AI植入广告涉及不正当竞争，GEO监管处罚已达3起|21世纪经济报道|DeepSeek|市场监管|深圳市|大模型。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：给AI植入广告涉及不正当竞争，GEO监管处罚已达3起|21世纪经济报道|DeepSeek|市场监管|深圳市|大模型",
+          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
+        ]
+      },
+      {
+        "category": "AI",
+        "title": "AI进化速递丨腾讯云开源内部自用TeamAI工具|Skill|Claude|工作流|就业|人工智能",
+        "summary": "",
+        "source": "手机新浪网",
+        "published_at": "2026-10-10T21:44:02+08:00",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTlY5M25FOTZJUXhDcWlMMkRfZGVKa3I2ZE12U1hzREhhbWoxZHhURVVvTF9QX2ExcUZaRGJ2NkJ2U041SnRBSGRleGJNRk1CNTNkN2I2SzVxbWR1bFpYY3lFakg4T2w2YXowLVJFMjNhNkVUT1RLMERUckVTTXY0M2NreGgwRG9lY2RBazU5N3YwTDVZRDl6R01haEdKVGhuUW9KQ25Rdjk5b2hzUGlRNXJPckY1UWNIakdjTlJMT3FlcmNHT2R1T29ROVlMRDFMU1g3T2hfMG1laFBPc1lIY1ZtbTR6MFo3VnZodl9pelNkWkFu?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "手机新浪网这篇报道主要讲的是：AI进化速递丨腾讯云开源内部自用TeamAI工具|Skill|Claude|工作流|就业|人工智能。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：AI进化速递丨腾讯云开源内部自用TeamAI工具|Skill|Claude|工作流|就业|人工智能",
+          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
+        ]
+      },
+      {
+        "category": "AI",
+        "title": "刚刚，谷歌下一代杀器Gemini 4 Carbon曝光！RSI大招逼近Opus 5.5|Google|OpenAI|Anthropic|Google AI|模型",
+        "summary": "",
+        "source": "finance.sina.com.cn",
+        "published_at": "2026-10-11T00:36:15+08:00",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR0RKOV95anlYZVVZQTk2N1AtMkN4d251dTBidkQ0ZW9ITUJ0anFPbm1KZFg1M0w0amNseFdvNDVIUGZaVHBVelgwaG5oVG5kMFNFa3JWNDlscWZVU1NveXdSSDM3ZDY0dVZxLS1DaUl6NHE1Zk9NYjNXVEgybUpZcDFaNDhqc1ZOcEJSUUNSa2RRVzR5ZTY0UGhWZEt6WHZNX1g3OGhKT3JWTU9KNk9KWnNn?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "finance.sina.com.cn这篇报道主要讲的是：刚刚，谷歌下一代杀器Gemini 4 Carbon曝光！RSI大招逼近Opus 5.5|Google|OpenAI|Anthropic|Google AI|模型。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：刚刚，谷歌下一代杀器Gemini 4 Carbon曝光！RSI大招逼近Opus 5.5|Google|OpenAI|Anthropic|Google AI|模型",
+          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
+        ]
+      },
+      {
+        "category": "AI",
+        "title": "字节发现 DeepSeek 隐藏 Bug，加点空格，模型翻车",
+        "summary": "",
+        "source": "雷峰网",
+        "published_at": "2026-10-10T19:40:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmT1NKVHBKQXB4MVM4VmJncTc1UHBZODFVMkd6c3BjSEdhRE41NGVjbEZ6NVR4T2JDU19iVnhvRTBBb2VXQjcwLXNYcDdleUFQTVM4dzh1RWppUXl0R1lpOUdNTGJkQ0dZVHNDMGI1eTRzQQ?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "雷峰网这篇报道主要讲的是：字节发现 DeepSeek 隐藏 Bug，加点空格，模型翻车。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：字节发现 DeepSeek 隐藏 Bug，加点空格，模型翻车",
+          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
+        ]
+      },
+      {
+        "category": "AI",
+        "title": "AI智能体迭代提速三十九只概念股获机构积极评级|ChatGPT|OpenAI|GPT-6|Agent|AI助手",
+        "summary": "消息面上，美国科技公司OpenAl临时举行直播活动，发布通用人工智能代理ChatGPT智能体。ChatGPT Agent具备自主思考和行动的能力，能够主动从其技能库中选择合适的工具，包括Operator、Deep Research和ChatGPT来完成各种超复杂任务。 市场分析人士指出，这一举…",
+        "source": "新浪财经",
+        "published_at": "2026-10-10T17:20:06+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOcVJoNS1hMGJlbFRtTXl1ZTFMa0ZzOEdzcmpCZzdUZktUc2FVYmF5NFMyTEtZOC1jdHZtakpNWUZlMjF5Nno4RE9BYkZ0eUQ3ZEQ3d3J4NDQ5d3JJVjQyaTZNLWRRc1hYUDNaamoxZUlpNXhYNkQ5VHF4YnNqbzhfMzZzRmdWVGE5WU9CZEwyaEFHRHQtLUtFYUpiZ0RDV1Yzbjc4QW9YdDB5MmdpSElpcGZyU2lneWNrdHNUNzZGUUNMVGlLX0plVTBTdW4tcXFDNXVRR0FpTEpWZ2V6Qzh5YXlGX0REZXBRX0dsU0l2UkJZTW5SWUVqeW9sLXVMYVo4SEQtZzFIM3NteEdSWDIzbVM1TU9FSFUyZml3cXk4eGdpNG9ONnMxNm4yM3VibmhNUUJOZGRtbkdLNzJKcDRqbg?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "新浪财经这篇报道主要讲的是：AI智能体迭代提速三十九只概念股获机构积极评级|ChatGPT|OpenAI|GPT-6|Agent|AI助手。消息面上，美国科技公司OpenAl临时举行直播活动，发布通用人工智能代理ChatGPT智能体。ChatGPT Agent具备自主思考和行动的能力，能够主动从其技能库中选择合适的工具，包括Operator、Deep Research和ChatGPT来完成各种超复杂任务。",
+        "key_points": [
+          "核心事件：AI智能体迭代提速三十九只概念股获机构积极评级|ChatGPT|OpenAI|GPT-6|Agent|AI助手",
+          "消息面上，美国科技公司OpenAl临时举行直播活动，发布通用人工智能代理ChatGPT智能体",
+          "ChatGPT Agent具备自主思考和行动的能力，能够主动从其技能库中选择合适的工具，包括Operator、Deep Research和ChatGPT来完成各种超复杂任务"
+        ]
+      },
+      {
+        "category": "AI",
+        "title": "苏姿丰：AI芯片需求非常旺盛 AMD将持续大幅扩产",
+        "summary": "",
+        "source": "财联社",
+        "published_at": "2026-10-10T11:15:48+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5seFp4aDQ3dzN5alEzN1VFMnp4VnRkY2RqQjBtblh4UWlYWXJRQTk1YzlGSjZ5aDBHTW5pcng1MWg0bjdYZlRyNA?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "财联社这篇报道主要讲的是：苏姿丰：AI芯片需求非常旺盛 AMD将持续大幅扩产。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：苏姿丰：AI芯片需求非常旺盛 AMD将持续大幅扩产",
+          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
+        ]
+      },
+      {
+        "category": "AI",
+        "title": "Token贷落地算力换贷款到底怎么操作？|大模型|金融|人工智能|融资|模型",
+        "summary": "",
+        "source": "新浪新闻",
+        "published_at": "2026-10-10T23:07:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDeVRXaHQza2UwdGpUV1lDVHBVbDNjSjdkalJINjMwOVNRNDlmRXFFTmZERlkzMk1pNGdiQ194bHI4aDB3U0w5M2VyNVVQbXl2MEVBU0p3NGp5YXJ3OTZ0NUVrY3dGd1IwcGFOOWVRdGxnQUp4Mnc?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "新浪新闻这篇报道主要讲的是：Token贷落地算力换贷款到底怎么操作？|大模型|金融|人工智能|融资|模型。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：Token贷落地算力换贷款到底怎么操作？|大模型|金融|人工智能|融资|模型",
+          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
+        ]
+      },
+      {
+        "category": "AI",
+        "title": "AI企业向生物学研究链条上游延伸",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-10-10T15:13:28+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZGVrRmxzZnFyM0tWQWxjR2JoRWl4X3duSmc0bE9zTEN1TkdYaDZ1VEQwMVl0aWhURWc2aFNNaFYxX1V2SWE0ZFJyMy16V21rTkN5ZXFFTnB6anl1NjI5R3g5WU5RS3FuTjg5T0JWNTdpTU1hTHJVUHlEbU04QkM0Y1Bn?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：AI企业向生物学研究链条上游延伸。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：AI企业向生物学研究链条上游延伸",
+          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
+        ]
+      },
+      {
+        "category": "AI",
+        "title": "我国将开展适应人工智能发展促就业行动",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-10-10T14:57:52+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNmhIdDFvcE1NMVFRT1c3eHUyaElMczhXLVQ0WDBFaXZvRGNJOWhQdTNXZGdhbVlXTXIwM0JUdm1oaW41dmZ5TnZqUHliWENnT3VKY3lqOFc4djhoM1gtUHJsVWxEaW1ZSlR1M2ZoUnFreGl3Y09yOW40Y0VmdHRFZlZR?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：我国将开展适应人工智能发展促就业行动。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：我国将开展适应人工智能发展促就业行动",
+          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
+        ]
+      },
+      {
+        "category": "AI",
+        "title": "浙江温州首期AI行业翻译专项能力培训班开班",
+        "summary": "",
+        "source": "新华网浙江",
+        "published_at": "2026-10-10T14:42:59+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYTdzYm5LeG5zQVdaSzVKUkd4RU14b3lfMUdmSTFnM0dWVlZZOWdmRUlndEhvZlplbGxUaVYxbTBxWnBrSDI2aFBRYzV6Wi1Sd3p4UjFSaUVlRGpEb05FVDB3aWxiMjhGQnpIZV9QenNCb0c2RUVrSGRzOEtfcG9fUFdR?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网浙江这篇报道主要讲的是：浙江温州首期AI行业翻译专项能力培训班开班。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：浙江温州首期AI行业翻译专项能力培训班开班",
+          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
+        ]
+      }
+    ]
   },
   "markets": [
     {
