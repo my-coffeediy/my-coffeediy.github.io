@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-10-14T17:17:03.378182+08:00",
-  "markets_updated_at": "2026-10-14T17:17:03.378182+08:00",
+  "updated_at": "2026-10-15T00:56:55.994184+08:00",
+  "markets_updated_at": "2026-10-15T00:56:55.994184+08:00",
   "top5": [
-    {
-      "title": "印度东部船只倾覆事故致13人死亡",
-      "summary": "新华网报道，印度东部船只倾覆事故致13人死亡。目前可确认的信息以相关部门和权威媒体后续发布为准。",
-      "category": "国内",
-      "source": "新华网",
-      "published_at": "2026-10-14T11:35:19+08:00",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEUy1XQWtkS280ZkJpTV9uUjNHY3RPVU9xY3ljSEVRellxd1NYZlBXZVE0S05QNnZ4ckNBMngzZG5Oc3hwYTg4cV84aTN5OXJ4TDBDaDJOZ29zUFZhX0VqQ2tWM0wwRXdMajBMZ242V28xQ3V5akdhZmpNTmdkWTg?oc=5",
-      "image_url": "",
-      "quick_summary": "新华网这篇报道主要讲的是：印度东部船只倾覆事故致13人死亡。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-      "key_points": [
-        "核心事件：印度东部船只倾覆事故致13人死亡",
-        "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
-      ]
-    },
     {
       "title": "巴布亚新几内亚发生6.0级地震",
       "summary": "新华网报道，巴布亚新几内亚发生6.0级地震。目前可确认的信息以相关部门和权威媒体后续发布为准。",
@@ -31,66 +17,64 @@
       ]
     },
     {
-      "title": "俄称“能源停火”无新进展 泽连斯基称俄继续打击乌",
-      "summary": "中国新闻网报道，俄称“能源停火”无新进展 泽连斯基称俄继续打击乌。事件仍在发展，后续需关注各方官方表态与权威媒体的交叉确认。",
-      "category": "国际",
-      "source": "中国新闻网",
-      "published_at": "2026-10-13T21:19:41+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56c0pra3JXOUtCeU8tb0hYSDJqcWxVeEo4TGlEbUhlMG5DZzZiWGRIaVBvS3BaNlZnTEJIWkJYeG9TRjl4eEZSTDdNTTNmM3pLXzk4UU1rZXdXZU1oN2dycW1aMW16ZVY0?oc=5",
+      "title": "印度东部船只倾覆事故致13人死亡",
+      "summary": "新华网报道，印度东部船只倾覆事故致13人死亡。目前可确认的信息以相关部门和权威媒体后续发布为准。",
+      "category": "国内",
+      "source": "新华网",
+      "published_at": "2026-10-14T11:35:19+08:00",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEUy1XQWtkS280ZkJpTV9uUjNHY3RPVU9xY3ljSEVRellxd1NYZlBXZVE0S05QNnZ4ckNBMngzZG5Oc3hwYTg4cV84aTN5OXJ4TDBDaDJOZ29zUFZhX0VqQ2tWM0wwRXdMajBMZ242V28xQ3V5akdhZmpNTmdkWTg?oc=5",
       "image_url": "",
-      "quick_summary": "中国新闻网这篇报道主要讲的是：俄称“能源停火”无新进展 泽连斯基称俄继续打击乌。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+      "quick_summary": "新华网这篇报道主要讲的是：印度东部船只倾覆事故致13人死亡。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
       "key_points": [
-        "核心事件：俄称“能源停火”无新进展 泽连斯基称俄继续打击乌",
+        "核心事件：印度东部船只倾覆事故致13人死亡",
+        "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+      ]
+    },
+    {
+      "title": "俄罗斯袭击乌克兰发电厂，泽连斯基称袭击违反能源停火",
+      "summary": "美国之音报道，俄罗斯袭击乌克兰发电厂，泽连斯基称袭击违反能源停火。事件仍在发展，后续需关注各方官方表态与权威媒体的交叉确认。",
+      "category": "国际",
+      "source": "美国之音",
+      "published_at": "2026-10-14T23:19:33+08:00",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ3BHZEJXVURSQzltOHg5NVdsZVM4Ti1mOGwtMi1oLU9mbk9HUEgwRHoxVWgxVXZQUlBqdkdxVE5Bc3NtSE9jbHVSdzhINXlxekRkcjQ1Qm5sZHFsa2JHVmNpOUZOa3VfNzVYZ3RTUlc3bF9vV1hvbmphVU85RkpXZzhkNkJrYmRabzFJbDVEdURVbDY1THVNQUpmZmdiWVN4bE55X2FZWFNCQzV2U3dvcnVwQno3WGNybURpakZPQ0d1LWl4NDdaZXpQbXo3YlZsV3NJMjZn0gHYAUFVX3lxTE1kUmN6UnRENlR1eWJSMmVtLUxGYmVSU25ERDQ2dVVqNE1PUVRZTXBWNUdhYXlPb2w5Q2M1X05yM05odWFUMGFmZl9ueTBsakNSM045OE52Mko1YmpjalRBbmFxSFU2QkhwTXJFeHdFbllBNVUzZlJla3pMVV94VHpob1N4anQyanlyMUtJYXpuS3BuTkdNbHNMQWNCWHp2RzR3b3ZpdUxtSlFjdmIxSnp6YnVKYmtackxOX0VfVFRKUnRvaHA1YVNxODFyVEhJMXZKZWV3VmNidw?oc=5",
+      "image_url": "",
+      "quick_summary": "美国之音这篇报道主要讲的是：俄罗斯袭击乌克兰发电厂，泽连斯基称袭击违反能源停火。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+      "key_points": [
+        "核心事件：俄罗斯袭击乌克兰发电厂，泽连斯基称袭击违反能源停火",
         "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
       ]
     },
     {
-      "title": "多名美联储官员释放年底加息信号，美国9月CPI今晚公布",
-      "summary": "ThePaper.cn报道，多名美联储官员释放年底加息信号，美国9月CPI今晚公布。后续影响将取决于政策执行、市场反应和相关数据变化。",
-      "category": "财经",
-      "source": "ThePaper.cn",
-      "published_at": "2026-10-14T09:52:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yRERMZTJyaE9NQ0szMWtDZy0za3dvdldzOFBmZjg5SVBNUm1GZVFaa09aVTZTek1nX2hnQ0tiWmNmOWl1QnYwdzhfdm5EZkNOaldSZDdEYkhpT1o3VF9sZg?oc=5",
+      "title": "社保服务进万家 湖南多措保障新就业劳动者权益",
+      "summary": "中国新闻网报道，社保服务进万家 湖南多措保障新就业劳动者权益。后续重点关注主管部门通报、处置进展和实际影响范围。",
+      "category": "社会",
+      "source": "中国新闻网",
+      "published_at": "2026-10-14T22:02:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RSTRxeThPTkhKYktod1NzQlljQ0htS2QzQ01GejRqRWpiQjc5TTBIYWpSeXZPQ2lGT0JIbG51SVN0bmVJRy0zMDBYN0R3UExSdWdWWWlwOGRDTk5kR2hDQmFWZDZGeEc2TTBhaVMzbw?oc=5",
       "image_url": "",
-      "quick_summary": "ThePaper.cn这篇报道主要讲的是：多名美联储官员释放年底加息信号，美国9月CPI今晚公布。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+      "quick_summary": "中国新闻网这篇报道主要讲的是：社保服务进万家 湖南多措保障新就业劳动者权益。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
       "key_points": [
-        "核心事件：多名美联储官员释放年底加息信号，美国9月CPI今晚公布",
-        "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
+        "核心事件：社保服务进万家 湖南多措保障新就业劳动者权益",
+        "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
       ]
     },
     {
-      "title": "2026年“社保服务进万家”活动启动",
-      "summary": "新华网报道，2026年“社保服务进万家”活动启动。后续重点关注主管部门通报、处置进展和实际影响范围。",
-      "category": "社会",
-      "source": "新华网",
-      "published_at": "2026-10-14T14:41:47+08:00",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT2Fib3BSelVoM3lFWG5tSDF6M1lJdWNsNW5KY2ZGZFdzZ3o4VnV6ZlphMkRoYlJvZmxWX0ZnNngzMW40UFo0UWxDWllIN3F0ekR1LV9OdWs3UF8zenBOQ2o5bVhVSndpelUzbElHYVgzODhPMFhzRGFveFZETVY0b0JUTQ?oc=5",
+      "title": "央行将开展7000亿元买断式逆回购操作 四季度加发政府债券需流动性支持",
+      "summary": "财联社电报报道，央行将开展7000亿元买断式逆回购操作 四季度加发政府债券需流动性支持。后续影响将取决于政策执行、市场反应和相关数据变化。",
+      "category": "财经",
+      "source": "财联社电报",
+      "published_at": "2026-10-14T21:35:05+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wYzRRWmc3emsyZGFSMlUwSEVMZG9LRVA5STkzZGxTdUIwbXh6cGltX0tjOExnWGExR3JNLWhONE1JV2ZHOHc?oc=5",
       "image_url": "",
-      "quick_summary": "新华网这篇报道主要讲的是：2026年“社保服务进万家”活动启动。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+      "quick_summary": "财联社电报这篇报道主要讲的是：央行将开展7000亿元买断式逆回购操作 四季度加发政府债券需流动性支持。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
       "key_points": [
-        "核心事件：2026年“社保服务进万家”活动启动",
-        "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
+        "核心事件：央行将开展7000亿元买断式逆回购操作 四季度加发政府债券需流动性支持",
+        "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
       ]
     }
   ],
   "sections": {
     "china": [
-      {
-        "category": "国内",
-        "title": "印度东部船只倾覆事故致13人死亡",
-        "summary": "",
-        "source": "新华网",
-        "published_at": "2026-10-14T11:35:19+08:00",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEUy1XQWtkS280ZkJpTV9uUjNHY3RPVU9xY3ljSEVRellxd1NYZlBXZVE0S05QNnZ4ckNBMngzZG5Oc3hwYTg4cV84aTN5OXJ4TDBDaDJOZ29zUFZhX0VqQ2tWM0wwRXdMajBMZ242V28xQ3V5akdhZmpNTmdkWTg?oc=5",
-        "image_url": "",
-        "hot": true,
-        "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：印度东部船只倾覆事故致13人死亡。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：印度东部船只倾覆事故致13人死亡",
-          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
-        ]
-      },
       {
         "category": "国内",
         "title": "巴布亚新几内亚发生6.0级地震",
@@ -109,33 +93,33 @@
       },
       {
         "category": "国内",
-        "title": "习近平会见多哥部长会议主席福雷",
+        "title": "第一观察 | 习近平主席向广交会致贺信传递高水平开放强音",
         "summary": "",
-        "source": "国务院新闻办公室",
-        "published_at": "2026-10-14T11:34:52+08:00",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4X3E5Q19zMG1aTmZ2bmkwWXBfTlJGc0hkNTEwSzFta2huZWlGbkNyOFdVbWtuSXRjazJoMUtDRWFodC1mcUE2bGNkdDVjUEJTRWVXTE5scS1QbU1lSDlBdlc3QzdHaHBYdFd4d2R3?oc=5",
+        "source": "新华网",
+        "published_at": "2026-10-15T00:23:08+08:00",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSFYwMXZVLUQxajdaMmpCa3pmUm9xaGRRWHVDV0hPV3ZHb21Tc2FQeG9DZ0I1YkpYZTNRcjZ4eWVvRmJVdXZrbWJoV2t6LWdFaEtJOUh1MTg5Tk00SVZHOG4xRVV1bWhfSDR3MVZkVmdlWXV6T011Q29kWTNLaUoxeS1PUl90X2pOTnpzMnFB?oc=5",
         "image_url": "",
         "hot": false,
         "verified": true,
-        "quick_summary": "国务院新闻办公室这篇报道主要讲的是：习近平会见多哥部长会议主席福雷。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "新华网这篇报道主要讲的是：第一观察 | 习近平主席向广交会致贺信传递高水平开放强音。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：习近平会见多哥部长会议主席福雷",
+          "核心事件：第一观察 | 习近平主席向广交会致贺信传递高水平开放强音",
           "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
         ]
       },
       {
         "category": "国内",
-        "title": "习近平同博茨瓦纳总统博科会谈",
+        "title": "印度东部船只倾覆事故致13人死亡",
         "summary": "",
-        "source": "国务院新闻办公室",
-        "published_at": "2026-10-14T11:34:52+08:00",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Id0tsanpnc25IbzRubXBZZ2xxc1Ficy0xVGZrVnFrQlJCbmRvSkViMk81cjg2eXE3Z3lQM2JhWjVVMGlySkNqemZQNHV6NURyTHNhQ3pjUllHOUdrQVlDYXRPZnFyTlpLRGdzeFJB?oc=5",
+        "source": "新华网",
+        "published_at": "2026-10-14T11:35:19+08:00",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEUy1XQWtkS280ZkJpTV9uUjNHY3RPVU9xY3ljSEVRellxd1NYZlBXZVE0S05QNnZ4ckNBMngzZG5Oc3hwYTg4cV84aTN5OXJ4TDBDaDJOZ29zUFZhX0VqQ2tWM0wwRXdMajBMZ242V28xQ3V5akdhZmpNTmdkWTg?oc=5",
         "image_url": "",
-        "hot": false,
+        "hot": true,
         "verified": true,
-        "quick_summary": "国务院新闻办公室这篇报道主要讲的是：习近平同博茨瓦纳总统博科会谈。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "新华网这篇报道主要讲的是：印度东部船只倾覆事故致13人死亡。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：习近平同博茨瓦纳总统博科会谈",
+          "核心事件：印度东部船只倾覆事故致13人死亡",
           "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
         ]
       },
@@ -173,6 +157,38 @@
       },
       {
         "category": "国内",
+        "title": "暴雨蓝色预警：5省市有大雨 重庆贵州湖南部分地区有暴雨",
+        "summary": "",
+        "source": "央视网",
+        "published_at": "2026-10-14T09:05:07+08:00",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YemtYVnkySHpKRkJRSlRIR0hyOXJzcGJDRWRLTnRZLS1RNlNpanE3YU1uUlY3ZE1hSk1HeGNCQ2FRVndYZ2czeWk3RW1Mb1ZETWpOMFRfYlZlOEE3WUlOMWpOblRqaE1heHVzVFRuREgydkdlUmJNcA?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": true,
+        "quick_summary": "央视网这篇报道主要讲的是：暴雨蓝色预警：5省市有大雨 重庆贵州湖南部分地区有暴雨。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：暴雨蓝色预警：5省市有大雨 重庆贵州湖南部分地区有暴雨",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "李强出席第140届中国进出口商品交易会开幕式并发表主旨演讲",
+        "summary": "",
+        "source": "国务院新闻办公室",
+        "published_at": "2026-10-14T23:39:24+08:00",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xdE9mbmY4amRkc1dYTU8wZVotNW1oU2lmY3VWMDRUNkEtb0R3ems3cmZ5czZVUEVjUDROaEtWQkZ1NFRwZEpNTnJWMng0akZCVnAycFRvV1JXZGJuSWEzejR0dGRYbzlFa2xF?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "国务院新闻办公室这篇报道主要讲的是：李强出席第140届中国进出口商品交易会开幕式并发表主旨演讲。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：李强出席第140届中国进出口商品交易会开幕式并发表主旨演讲",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      },
+      {
+        "category": "国内",
         "title": "国务院台办：“台独”顽固分子沈伯洋丑陋行径令人不齿",
         "summary": "",
         "source": "央视网",
@@ -189,113 +205,97 @@
       },
       {
         "category": "国内",
-        "title": "李强出席“广交世界70年”座谈会",
-        "summary": "",
-        "source": "国务院新闻办公室",
-        "published_at": "2026-10-14T16:48:45+08:00",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoVVRsbllxUWM0a2JiVHBoZzVWVDV2UUQzQVlyLWRXaTB4WWpDcWFINGE4Q05IMGhzLWgxck42eTNVa2FSZFpBcHgwWmg1aGVBZXdrUXB0MHY2MUxRQ0xlQWZyZml3MVFrODlF?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "国务院新闻办公室这篇报道主要讲的是：李强出席“广交世界70年”座谈会。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：李强出席“广交世界70年”座谈会",
-          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
-        ]
-      },
-      {
-        "category": "国内",
-        "title": "国务院新闻办举行“新征程上的奋斗者”中外记者见面会",
-        "summary": "",
-        "source": "央视网",
-        "published_at": "2026-10-13T19:54:54+08:00",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Db1JZOHpqV09wOERNNTFNamhGM0JVNGJKbThLV2RqZzFoUHl6U0xTWEZ5MXNjeHRLU0xtanJRMlN2d2NWMGU4T2tZNWlRQlRrUVVfbkhfWVBRYS1JUi13aWVFSm5oSEVTVGpRTlJiVzI4RGhIaHlwRQ?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "央视网这篇报道主要讲的是：国务院新闻办举行“新征程上的奋斗者”中外记者见面会。3 天之前 · 央视网消息（新闻联播）：国务院新闻办公室今天（10月10日）举行“新征程上的奋斗者”中外记者见面会。",
-        "key_points": [
-          "核心事件：国务院新闻办举行“新征程上的奋斗者”中外记者见面会",
-          "3 天之前 · 央视网消息（新闻联播）：国务院新闻办公室今天（10月10日）举行“新征程上的奋斗者”中外记者见面会"
-        ]
-      },
-      {
-        "category": "国内",
-        "title": "今年前三季度外贸增速近五年同期最快",
-        "summary": "",
-        "source": "央视网",
-        "published_at": "2026-10-14T10:56:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54ZEJ6d1NTZmpMdldra3l1R25aVEJzdjFwNWc2Ym5ELXZFamtiWkcybG9naDBuanJObnFoSVVLbUxGeENqaU94RTczQW83X1kxMTVzUlVzd2xjQzJBMjBUTThxRHRtaVUyREM1VnFPSGcwYnB0ZEhYcg?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "央视网这篇报道主要讲的是：今年前三季度外贸增速近五年同期最快。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：今年前三季度外贸增速近五年同期最快",
-          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
-        ]
-      },
-      {
-        "category": "国内",
-        "title": "人民币国际使用论坛助推中罗金融互联互通",
+        "title": "四个关键字读懂前三季度我国外贸“成绩单”",
         "summary": "",
         "source": "新华网",
-        "published_at": "2026-10-13T20:09:13+08:00",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoUi04Nk5OV3NKM2l3TjVoLXctejJwaGZqY3NkZjRGVWczcnZva1ExWVMzY3VnV3ZzMnFsR084T1hnUmUybmFuanlxT1JVazNYbE1rOFFpNnN0QjBLX0VuNDY1QmJFSklLWVMtRUFqb0N6czY3RWtTU1lnckVEd2c?oc=5",
+        "published_at": "2026-10-14T19:01:32+08:00",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KMmJNdDhXZXVzNjhfWWZxOHdsV3RkcnFfQVNYSXh3Q0hRRGR6LVZhd1ltRjR6V0cwLUNlTnl3Q3BpRDhEbTZ2aWJPaGN3MGpVWTFocWpMd3JOam5wR1g1UFJkd3RfMmNyTlBqNi1XUmdkdlMwaGhZ?oc=5",
         "image_url": "",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：人民币国际使用论坛助推中罗金融互联互通。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "新华网这篇报道主要讲的是：四个关键字读懂前三季度我国外贸“成绩单”。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：人民币国际使用论坛助推中罗金融互联互通",
+          "核心事件：四个关键字读懂前三季度我国外贸“成绩单”",
           "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
         ]
       },
       {
         "category": "国内",
-        "title": "2026年“社保服务进万家”活动启动",
+        "title": "社保服务进万家 湖南多措保障新就业劳动者权益",
+        "summary": "",
+        "source": "中国新闻网",
+        "published_at": "2026-10-14T22:02:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RSTRxeThPTkhKYktod1NzQlljQ0htS2QzQ01GejRqRWpiQjc5TTBIYWpSeXZPQ2lGT0JIbG51SVN0bmVJRy0zMDBYN0R3UExSdWdWWWlwOGRDTk5kR2hDQmFWZDZGeEc2TTBhaVMzbw?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "中国新闻网这篇报道主要讲的是：社保服务进万家 湖南多措保障新就业劳动者权益。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：社保服务进万家 湖南多措保障新就业劳动者权益",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "数说中国丨2026年前三季度我国外贸增势强劲",
         "summary": "",
         "source": "新华网",
-        "published_at": "2026-10-14T14:41:47+08:00",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT2Fib3BSelVoM3lFWG5tSDF6M1lJdWNsNW5KY2ZGZFdzZ3o4VnV6ZlphMkRoYlJvZmxWX0ZnNngzMW40UFo0UWxDWllIN3F0ekR1LV9OdWs3UF8zenBOQ2o5bVhVSndpelUzbElHYVgzODhPMFhzRGFveFZETVY0b0JUTQ?oc=5",
+        "published_at": "2026-10-14T16:54:06+08:00",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NczNqRk0wcVljNXdkVDlBb1A4MkRVSnoteC1CNTFoOVF1b0pyUks5UmF0QTBYQklFVHlhZkFQb2pjc1VKQjlrdGZ2b1NQUGhRVkFBX29yTnR2ajB1bE9yM1VCejg1QVdRVVN3bjdsS0VGaDlhdzV3?oc=5",
         "image_url": "",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：2026年“社保服务进万家”活动启动。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "新华网这篇报道主要讲的是：数说中国丨2026年前三季度我国外贸增势强劲。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：2026年“社保服务进万家”活动启动",
+          "核心事件：数说中国丨2026年前三季度我国外贸增势强劲",
           "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
         ]
       },
       {
         "category": "国内",
-        "title": "教育部：“十四五”期间全国职业教育经费增长23.3%",
+        "title": "9月CPI数据公布，这些行业价格上涨→",
         "summary": "",
         "source": "央视网",
-        "published_at": "2026-10-14T10:35:09+08:00",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDZlhhS3Q4QjdpS3J5a3FMNkwxQy1KSWh4cGFqUkNiMk50VEJVeWlYOWJ5ajljOWVUX1p0TUpWeXRFOFZYaVhBTUVyUHU3Q0tkemVISmJpTnBVSlRmNGFnTjMzcktsRDZlZklBdGtWZ0dqWjFqSmpz?oc=5",
+        "published_at": "2026-10-14T14:54:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wQTVMU19mU2c5Nk8yeWZ4TjhuaUV4N2ZuSUVjRXZORjRGNE8tVjFkLTZLU25LUFo5cFJGV3l1Ulc5QlYtTldhUXVCVlFpOUZMYUFwaDNvcjQ3ZDZ3ZEs4SXdHbkZ6OVE0Q2ZaZkpFMm1Jbk5XNFZXMGZ4WEI?oc=5",
         "image_url": "",
         "hot": false,
         "verified": true,
-        "quick_summary": "央视网这篇报道主要讲的是：教育部：“十四五”期间全国职业教育经费增长23.3%。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "央视网这篇报道主要讲的是：9月CPI数据公布，这些行业价格上涨→。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：教育部：“十四五”期间全国职业教育经费增长23.3%",
+          "核心事件：9月CPI数据公布，这些行业价格上涨→",
           "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
         ]
       },
       {
         "category": "国内",
-        "title": "中国气象局出台《气象数据管理办法》",
+        "title": "俄方称俄乌“能源停火”相关工作仍在进行",
         "summary": "",
         "source": "新华网",
-        "published_at": "2026-10-14T09:11:15+08:00",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaUVPdlRwODFCWTJ1ZDlXT0ZMNnpFckNkc1QzQ1BIam9abzVmWjM3cERWclN1ajZMazlINEFhTnNMWVZ3bXNiRlpJUnJDeXlCdlhuUFNkRTFWaGJRcGNheHJHLS1IT3I3MUY4d1N0cWZqRU10d29nTWdaYzZ1UkNZMnNIZw?oc=5",
+        "published_at": "2026-10-14T21:29:10+08:00",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uZ3dCbmYzVURlX3g4eXJQZ3NDQ2hPdXBiVzNUVEFLOG5qaUxmY2NZTkw5cU0xdi1YWW5yd0dpdWtwQ0l1SURXMFI1M1NMM1o1UnpEdF9UNmtMalJMamxQZ3lmQ3VDc0VSZ01INlZ5UENtTnQ1UWVTTU5GYUpLb3c?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：俄方称俄乌“能源停火”相关工作仍在进行。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：俄方称俄乌“能源停火”相关工作仍在进行",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "习近平总书记为健康中国建设取得决定性进展指明方向",
+        "summary": "",
+        "source": "央视网",
+        "published_at": "2026-10-14T20:27:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uaktycmdMM2ZvV1VsYUU1LVRHaTZobzl4UU1HMXRTSVNDeWp2YXZ2T0V4R0Uwc01nOHdmeVJBaFFkX1FwcTVfWlloRkp3RmVoRWNEaHZMdkMzYzlPVmZwTTVwckh6dzltLXYxZloxb0RyUkY5T0dnZw?oc=5",
         "image_url": "",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：中国气象局出台《气象数据管理办法》。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "央视网这篇报道主要讲的是：习近平总书记为健康中国建设取得决定性进展指明方向。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：中国气象局出台《气象数据管理办法》",
+          "核心事件：习近平总书记为健康中国建设取得决定性进展指明方向",
           "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
         ]
       }
@@ -303,33 +303,33 @@
     "world": [
       {
         "category": "国际",
-        "title": "俄称“能源停火”无新进展 泽连斯基称俄继续打击乌",
+        "title": "俄罗斯袭击乌克兰发电厂，泽连斯基称袭击违反能源停火",
         "summary": "",
-        "source": "中国新闻网",
-        "published_at": "2026-10-13T21:19:41+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56c0pra3JXOUtCeU8tb0hYSDJqcWxVeEo4TGlEbUhlMG5DZzZiWGRIaVBvS3BaNlZnTEJIWkJYeG9TRjl4eEZSTDdNTTNmM3pLXzk4UU1rZXdXZU1oN2dycW1aMW16ZVY0?oc=5",
+        "source": "美国之音",
+        "published_at": "2026-10-14T23:19:33+08:00",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ3BHZEJXVURSQzltOHg5NVdsZVM4Ti1mOGwtMi1oLU9mbk9HUEgwRHoxVWgxVXZQUlBqdkdxVE5Bc3NtSE9jbHVSdzhINXlxekRkcjQ1Qm5sZHFsa2JHVmNpOUZOa3VfNzVYZ3RTUlc3bF9vV1hvbmphVU85RkpXZzhkNkJrYmRabzFJbDVEdURVbDY1THVNQUpmZmdiWVN4bE55X2FZWFNCQzV2U3dvcnVwQno3WGNybURpakZPQ0d1LWl4NDdaZXpQbXo3YlZsV3NJMjZn0gHYAUFVX3lxTE1kUmN6UnRENlR1eWJSMmVtLUxGYmVSU25ERDQ2dVVqNE1PUVRZTXBWNUdhYXlPb2w5Q2M1X05yM05odWFUMGFmZl9ueTBsakNSM045OE52Mko1YmpjalRBbmFxSFU2QkhwTXJFeHdFbllBNVUzZlJla3pMVV94VHpob1N4anQyanlyMUtJYXpuS3BuTkdNbHNMQWNCWHp2RzR3b3ZpdUxtSlFjdmIxSnp6YnVKYmtackxOX0VfVFRKUnRvaHA1YVNxODFyVEhJMXZKZWV3VmNidw?oc=5",
         "image_url": "",
         "hot": true,
-        "verified": true,
-        "quick_summary": "中国新闻网这篇报道主要讲的是：俄称“能源停火”无新进展 泽连斯基称俄继续打击乌。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "verified": false,
+        "quick_summary": "美国之音这篇报道主要讲的是：俄罗斯袭击乌克兰发电厂，泽连斯基称袭击违反能源停火。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：俄称“能源停火”无新进展 泽连斯基称俄继续打击乌",
+          "核心事件：俄罗斯袭击乌克兰发电厂，泽连斯基称袭击违反能源停火",
           "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
         ]
       },
       {
         "category": "国际",
-        "title": "分析：美国中期选举前夕油价降不下，特朗普难题加剧",
+        "title": "专家解读特朗普喊话俄乌“能源停火”：中期选举强化此举动力",
         "summary": "",
-        "source": "BBC",
-        "published_at": "2026-10-13T18:11:32+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zV1oyVThJTkpzVkktUzEwcEI3c2lMYmJHYmN6TVczbmlGcUhEY050aFNMZ29UUkczVm1WaVhjbTBQcTE4LUNJYjRCTkNXQzRnOTNEQUd6QmExN3FkVmJTRlM2SmE5OTDSAWxBVV95cUxPRHJQVXk0NlNyQ3JUWDNmYWdEMFpLenh0QVo4dERXWkQ0ZGhpQWVmV0ktNWprOGV1Ylg5U0EtQVViWjA1anpKS21va3JXczZKY1BMQTRORHhSVmN0QmczR21ubDd0RWdvaUFHWWc?oc=5",
+        "source": "东方财富",
+        "published_at": "2026-10-14T09:31:48+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8xNzVJcGllbEZBSmM4cEJlelVOVm9iUy1YWWdRdE5jcU82bHRSaTA1MzNSRTNTcXVrS3dGTGNJRE44bVVILWZZbE02MXNwWlJNY0hzdC1NRXlsYnQ4OGpVM3R6cEJhQQ?oc=5",
         "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "BBC这篇报道主要讲的是：分析：美国中期选举前夕油价降不下，特朗普难题加剧。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "hot": true,
+        "verified": false,
+        "quick_summary": "东方财富这篇报道主要讲的是：专家解读特朗普喊话俄乌“能源停火”：中期选举强化此举动力。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：分析：美国中期选举前夕油价降不下，特朗普难题加剧",
+          "核心事件：专家解读特朗普喊话俄乌“能源停火”：中期选举强化此举动力",
           "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
         ]
       },
@@ -354,7 +354,7 @@
         "title": "特朗普宣布“能源停火”后 乌称能源设施遭俄袭击",
         "summary": "",
         "source": "DW.com",
-        "published_at": "2026-10-14T01:57:06+08:00",
+        "published_at": "2026-10-14T06:33:38+08:00",
         "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxONWtVV2tZZWd2MmZLSjdCaEJBVGtZRUgyM1lveG9kRW83WDdJTU1GWFZ2TWdkemtZb0V3aktLNHNVWG5VUU1tVXVPQXdtR2ZxaG84UVhkQl9tdTNBdUZWWS1wMWRIRngzeVpRbVJVX2NNdkpVVzJTQmFaNHFnNkE4SmlyQkFwTWhOSHBONmU3alpDQnU5OWdnZWltQnNxSGRVNW1nUGdSSUVicjdtdkJaYWRBR2FuM3ZFRkh4MWhrVkNJZzdJOTdiMF8yc05YWU5tbEhhT3Bwekc3QUhHUWtPUHZmWXlXLVRMNWZUalY2eUhjd3Z4NDgwVWV5cTNPb3NHSVhfaEEyUFNfczZOOVJ6aHM4cUgyWlViNkhGSV9jQUh6Zi1qZ2RxQUJOWi1tamZtcm9uanZuMHVMUdIBugJBVV95cUxOSlFrdnhlNHBxQm1VbVRVa2ZWVDhzNmtyZ0xWaXljMTFtMlE4VEpoTS1MSW9WTkFDSmNvelNES2tEQ3B4T2VVZjZWbmVvYzRya3hyRjV1LUYyTVd5QVhOdVBReVFyS1lwdVJyZlFKTnIzSHFlMEdyMzlJVnE2NnhpYjA4Q29YSXFFZXJlZXdZN1JIUGNCQnp1SmJUZGE1VTE2ODVtT1RlWElMb3lHRjRIUHRsemdxbXFzbS1LZGM0Q21wU09uUXhqMmV4YWtFeFVfT0xQNVZUTW03YTl2MnMtNnhpQmNuVVJZdl8zRDVNV2xwTnRsUGMyQ3cycTBfWVZBZHI0SDB3V2oyX0xtRTdtWWpFTDhuQng2a2hOaWExUnNEQTExd2FUeGxwd3NzcFV3bXhDOUpQd2Q3dw?oc=5",
         "image_url": "",
         "hot": true,
@@ -367,81 +367,81 @@
       },
       {
         "category": "国际",
-        "title": "以媒：内塔尼亚胡与特朗普讨论重启对伊战争可能性--国际",
+        "title": "美国需要“能源停火”，俄乌冲突迎来转机？丨夜观天下",
         "summary": "",
-        "source": "人民网",
-        "published_at": "2026-10-14T08:38:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3RGlYV1U4NWtvd0lvNzZNSDlhemVVeWM2eG5Bck1uWkZ5WGZMMHhTYzdCZzlZRjFRMDRZQ0UwMTBSUm41MTd3TjRrNnRSXzBQX3A2U19GemVhUDJRc2dRenJyNVkweXVyRldn?oc=5",
+        "source": "四川在线",
+        "published_at": "2026-10-14T19:13:04+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rVkE2Sk5ZVUc0VGJpWEJVMmtlMlhXX2NTRWZhQk11endRWEx3LVBPZklIdFl5ZHRPNENFQllteDdIY2pHTWFteFZHd1RlaEw0MkpTQUE3SEdici05XzRDVg?oc=5",
         "image_url": "",
         "hot": true,
         "verified": false,
-        "quick_summary": "人民网这篇报道主要讲的是：以媒：内塔尼亚胡与特朗普讨论重启对伊战争可能性--国际。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "四川在线这篇报道主要讲的是：美国需要“能源停火”，俄乌冲突迎来转机？丨夜观天下。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：以媒：内塔尼亚胡与特朗普讨论重启对伊战争可能性--国际",
+          "核心事件：美国需要“能源停火”，俄乌冲突迎来转机？丨夜观天下",
           "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
         ]
       },
       {
         "category": "国际",
-        "title": "多名美参议员致信特朗普要求撤销美俄“柴油协议”",
+        "title": "马斯克等科技寡头，被特朗普正式编入美国战争机器，中国务必警惕",
         "summary": "",
-        "source": "新华网",
-        "published_at": "2026-10-14T14:08:07+08:00",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Yc3EwRW41d1FKcTVuMDRZS09QWHR3SWctYUZRRVFLLVFNWDloTUJCa0NyN3M4VXQ1MzQ3ZWVXdHNIQUtCM3gwMjF2Ylg1ZDZmVXI2MzMzYWlIT095R3hkX3FGSXR2MDFEdWVISDVobGRzdjlPdnlLNGZId1J5dw?oc=5",
+        "source": "新浪网",
+        "published_at": "2026-10-14T23:30:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xZHBmdkg3dGFZN2xFbEQ1d2Ixb2RoYWpENFFsVzFQb2s4R2ZaMWNaWGFuQmJjSlVTOVN6OWNna0xLbGJITHV6M1FpNllHWnRYa0NzY0NmdDhQYzFmVm1jQ2xOUW4xOC1zZm55QWdEdUdyTW5iYUZ3UkJnRUlob1U?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false,
+        "quick_summary": "新浪网这篇报道主要讲的是：马斯克等科技寡头，被特朗普正式编入美国战争机器，中国务必警惕。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：马斯克等科技寡头，被特朗普正式编入美国战争机器，中国务必警惕",
+          "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
+        ]
+      },
+      {
+        "category": "国际",
+        "title": "7月至今斥资2.76亿美元助选共和党 马斯克或成美中期选举最大“金主”",
+        "summary": "",
+        "source": "第一财经",
+        "published_at": "2026-10-14T19:59:27+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tRUlTNzZWbW5CNnoyby1qYTU3SlllMHB4MTU0SjZoUS1KLTBYMlJSSERkVGx3MEVMZzBzRlVYS2ZhNFVYcVZpZ0c4SDZGSDI1dXl3?oc=5",
         "image_url": "",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：多名美参议员致信特朗普要求撤销美俄“柴油协议”。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "第一财经这篇报道主要讲的是：7月至今斥资2.76亿美元助选共和党 马斯克或成美中期选举最大“金主”。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：多名美参议员致信特朗普要求撤销美俄“柴油协议”",
+          "核心事件：7月至今斥资2.76亿美元助选共和党 马斯克或成美中期选举最大“金主”",
           "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
         ]
       },
       {
         "category": "国际",
-        "title": "伊朗警告美国：敢打就扩大战争，阿联酋沙特都成目标！大选后算账",
+        "title": "普京攻打乌克兰新策略：让所有城市片瓦无存",
         "summary": "",
-        "source": "新浪网",
-        "published_at": "2026-10-14T14:17:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yY3I0WlZ2dW81aTU3MHJnY1laeEJyYU1jdHB3RXVlX3VzcF96WmdJemJXSW8wcUJxTGVKTUxCRWdsSjlCNWl3RlFGWWRrRUZ2QXo1Ty1kcDRnb01FTWRUemdNOVpRMVVCTmZ1VmRZZEhpUQ?oc=5",
+        "source": "BBC",
+        "published_at": "2026-10-14T17:21:32+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xbFF4LTEtOHZlblZWd3RvYUxPZlBJTlo5YXBKS3Nzb0t3TVAzbTBYZDRBaFMyX1FaUWwweV9qWUhRN0M4eXd4b3M3Unc3NUZ4M1BmS09wS3dfWnBSTUcxS1NnNFdvQWvSAWxBVV95cUxOM0dVR2pNbjZwY1ZUNGIyQTNBR2drSlBHLUY3S1RXNjQwdng1RUV3eEhrdFFBdW5OUnR3U1BWZXdhMHlNZ05vR2llUFl1am5MZDBMRGh1bE9VSWh4Nmp2cE1CUkZUZmZIbmdlU2s?oc=5",
         "image_url": "",
-        "hot": true,
-        "verified": false,
-        "quick_summary": "新浪网这篇报道主要讲的是：伊朗警告美国：敢打就扩大战争，阿联酋沙特都成目标！大选后算账。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "BBC这篇报道主要讲的是：普京攻打乌克兰新策略：让所有城市片瓦无存。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：伊朗警告美国：敢打就扩大战争，阿联酋沙特都成目标！大选后算账",
+          "核心事件：普京攻打乌克兰新策略：让所有城市片瓦无存",
           "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
         ]
       },
       {
         "category": "国际",
-        "title": "“能源停火”后，俄空袭乌克兰，但首次未袭击乌能源设施",
+        "title": "世界粮食计划署警告：冲突升级恶化也门生存状况",
         "summary": "",
-        "source": "凤凰网",
-        "published_at": "2026-10-14T07:58:13+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Cc0ZsbnRDSHFJZmtoUmlxWkJjVUNNNHZSUHJ4QU5FZkg5TXByWXRJYm0yenA1aEZvZVRRaVQwLTRXLXBVamNqeTVUclhEN25TM0E?oc=5",
+        "source": "中国网新闻中心",
+        "published_at": "2026-10-14T21:28:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14dWdBTDc5aURMeWYxX045QkJWLXV0NFd5d25mYlh0ejNyN1BhSHRSQmJJS1pPQkFjUjNBb2p3VEIxRjc5Um9IMUE5dWpCb2poS0twZC1iQkVVem9LRGFTQ1JTMWFQQkxkWFJB?oc=5",
         "image_url": "",
         "hot": true,
         "verified": false,
-        "quick_summary": "凤凰网这篇报道主要讲的是：“能源停火”后，俄空袭乌克兰，但首次未袭击乌能源设施。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "中国网新闻中心这篇报道主要讲的是：世界粮食计划署警告：冲突升级恶化也门生存状况。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：“能源停火”后，俄空袭乌克兰，但首次未袭击乌能源设施",
-          "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
-        ]
-      },
-      {
-        "category": "国际",
-        "title": "特朗普称将结束荒唐战争 或预示美调整对乌政策",
-        "summary": "",
-        "source": "中华军事",
-        "published_at": "2026-10-14T15:30:58+08:00",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MdFZ2azhHcFBaOW82QXZZLVk2cW1GeTFJZzduT3ZWUTZndnNjSF9iZTgyZl9kWEw4QjZjbGtObHo1NVRfRE1zS2g2QkVPMC0tRUpxZE9kbVltTERHT05zX1hUV2thSHpnMlhSblFBb2E?oc=5",
-        "image_url": "",
-        "hot": true,
-        "verified": false,
-        "quick_summary": "中华军事这篇报道主要讲的是：特朗普称将结束荒唐战争 或预示美调整对乌政策。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：特朗普称将结束荒唐战争 或预示美调整对乌政策",
+          "核心事件：世界粮食计划署警告：冲突升级恶化也门生存状况",
           "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
         ]
       }
@@ -449,50 +449,52 @@
     "finance": [
       {
         "category": "财经",
-        "title": "多名美联储官员释放年底加息信号，美国9月CPI今晚公布",
+        "title": "央行将开展7000亿元买断式逆回购操作 四季度加发政府债券需流动性支持",
         "summary": "",
-        "source": "ThePaper.cn",
-        "published_at": "2026-10-14T09:52:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yRERMZTJyaE9NQ0szMWtDZy0za3dvdldzOFBmZjg5SVBNUm1GZVFaa09aVTZTek1nX2hnQ0tiWmNmOWl1QnYwdzhfdm5EZkNOaldSZDdEYkhpT1o3VF9sZg?oc=5",
+        "source": "财联社电报",
+        "published_at": "2026-10-14T21:35:05+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wYzRRWmc3emsyZGFSMlUwSEVMZG9LRVA5STkzZGxTdUIwbXh6cGltX0tjOExnWGExR3JNLWhONE1JV2ZHOHc?oc=5",
         "image_url": "",
         "hot": false,
         "verified": true,
-        "quick_summary": "ThePaper.cn这篇报道主要讲的是：多名美联储官员释放年底加息信号，美国9月CPI今晚公布。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "财联社电报这篇报道主要讲的是：央行将开展7000亿元买断式逆回购操作 四季度加发政府债券需流动性支持。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：多名美联储官员释放年底加息信号，美国9月CPI今晚公布",
+          "核心事件：央行将开展7000亿元买断式逆回购操作 四季度加发政府债券需流动性支持",
           "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
         ]
       },
       {
         "category": "财经",
-        "title": "港股13日涨0.3% 收报24345.22点",
+        "title": "港股14日跌0.13% 收报24314.17点",
         "summary": "",
         "source": "新华网",
-        "published_at": "2026-10-13T17:45:35+08:00",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GQmRkbEQ0WTJRYXJlcDdnSlNUZ0E0R2taWnE3ZV9INC1yV2dIR0twcHZqVUJUUUxqWXVSeW5TeENpbGZzWEtUNmFHSG5WQW5EZjhDVUZhNHRILW9hSVJZWE9hWGtuYUJQamprNnh4dE9scHFuUkMtQjlITFFhQQ?oc=5",
+        "published_at": "2026-10-14T18:28:23+08:00",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLVB2OXVfdjM3dTBzSUxBWUdSN250TWtSVGhJak1fQVdyMy0wVmFMb2NMQnVOekFkTE5SN3VtVENDbUJUSXFiVm9NOUlMVWJteVF2VTZMM1JfYkE2RFNHcmNMVTB6LWtGOUh1WG44VmZzaUhqOEstdVBTV0ItZnJZQVl5X3VhWDQ?oc=5",
         "image_url": "",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：港股13日涨0.3% 收报24345.22点。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "新华网这篇报道主要讲的是：港股14日跌0.13% 收报24314.17点。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：港股13日涨0.3% 收报24345.22点",
+          "核心事件：港股14日跌0.13% 收报24314.17点",
           "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
         ]
       },
       {
         "category": "财经",
-        "title": "A股冲高回落大幅下挫，两市成交不足1.5万亿元",
-        "summary": "",
+        "title": "美国9月CPI同比上涨3.7%超预期，本月加息预期大幅升温",
+        "summary": "美国8月通胀数据符合市场预期，市场对美联储9月加息预期进一步升温。 美国劳工统计局9月11日发布的数据显示，美国8月CPI同比上涨3.4%，前值为3.4%，符合市场预期；扣除食品和能源后的核心CPI同比上涨2.4%，前值为2.5%。",
         "source": "ThePaper.cn",
-        "published_at": "2026-10-14T15:22:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOM283eER3ejY2OUNiV2dFbmJiRkp4dkJOWEh5cHVta1dyM2x2VVBCd2hVWmV4U2d2R2w4RGxNdjJYVFF2RUZUUUQyWG5PRWZhRDZqOF9lTVF0a2YxX1BMbA?oc=5",
+        "published_at": "2026-10-14T21:41:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xOVNXYlZWTndwS1dsZngyTnJwUWZXT0VscnRKVmpVZ2NTYW0wTUxEbnBpYTI3dzhlWjg5eHp2THBka3ZWaWhNLXhSUzMtd3k0YWoxRVRLV3NiZWdka09nZg?oc=5",
         "image_url": "",
         "hot": false,
         "verified": true,
-        "quick_summary": "ThePaper.cn这篇报道主要讲的是：A股冲高回落大幅下挫，两市成交不足1.5万亿元。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "ThePaper.cn这篇报道主要讲的是：美国9月CPI同比上涨3.7%超预期，本月加息预期大幅升温。美国8月通胀数据符合市场预期，市场对美联储9月加息预期进一步升温。美国劳工统计局9月11日发布的数据显示，美国8月CPI同比上涨3.4%，前值为3.4%，符合市场预期；扣除食品和能源后的核心CPI同比上涨2.4%，前值为2.5%。",
         "key_points": [
-          "核心事件：A股冲高回落大幅下挫，两市成交不足1.5万亿元",
-          "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
+          "核心事件：美国9月CPI同比上涨3.7%超预期，本月加息预期大幅升温",
+          "美国8月通胀数据符合市场预期，市场对美联储9月加息预期进一步升温",
+          "美国劳工统计局9月11日发布的数据显示，美国8月CPI同比上涨3.4%，前值为3.4%，符合市场预期",
+          "扣除食品和能源后的核心CPI同比上涨2.4%，前值为2.5%"
         ]
       },
       {
@@ -513,17 +515,17 @@
       },
       {
         "category": "财经",
-        "title": "印度央行救卢比掏空家底：外储骤降500亿美元，2000亿远期美元负债成定时炸弹",
+        "title": "中国9月社融新增3.55万亿元，人民币贷款新增1.08万亿，环比双双大幅回升，M2同比增加7.2%",
         "summary": "",
         "source": "华尔街见闻",
-        "published_at": "2026-10-14T12:10:36+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xX0hqZkxzVjZuc1RNZzFxSUxGQUtraEpUSXo5UXJyYl9nbHpieXNYb3JqUXdGa0ZqZWg3OU1hOHUyczY0cU1WcHk1S3JjSG4ybWlz?oc=5",
+        "published_at": "2026-10-14T17:53:01+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53RE1hZmhETGFfQUx1RWM0MVR4SGxlc2kzUi1RMVl2clJCdzhidjhJaGxMYjluVDNYcUhnU1hFbU5ZNTM0eDZydkVXa0sxUWZnYzFj?oc=5",
         "image_url": "",
         "hot": false,
         "verified": false,
-        "quick_summary": "华尔街见闻这篇报道主要讲的是：印度央行救卢比掏空家底：外储骤降500亿美元，2000亿远期美元负债成定时炸弹。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "华尔街见闻这篇报道主要讲的是：中国9月社融新增3.55万亿元，人民币贷款新增1.08万亿，环比双双大幅回升，M2同比增加7.2%。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：印度央行救卢比掏空家底：外储骤降500亿美元，2000亿远期美元负债成定时炸弹",
+          "核心事件：中国9月社融新增3.55万亿元，人民币贷款新增1.08万亿，环比双双大幅回升，M2同比增加7.2%",
           "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
         ]
       },
@@ -533,7 +535,7 @@
         "summary": "",
         "source": "联合早报",
         "published_at": "2026-10-14T10:36:57+08:00",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YeUJGbFJUVVVCZFp1MmE2a09wZWVFRWlaSE84OWcyVVdyc1VLRUNXMmpLdVlhZXpTOGlCUF9uTUNLY18wWlU4SGhzZVlpaXkxcHJrd092RlpzNHhHZjZDdHlxcDMwMm02OVAxM3pFWWRTS1F5clFuT2lSUGpTdk0?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvQ2FvRjZMTVdQeWVXR2RyY1U3bU03aWNaWnVOYXREM0NFRWJUb1BxOFE1UER1VXBWa0lXRXBLNFRaRWYtRy12dUV0Wk9vbnYzYXdtT2tEdjlkbXlrc2UxbVA2bTR6UUNVOHc?oc=5",
         "image_url": "",
         "hot": false,
         "verified": false,
@@ -545,65 +547,66 @@
       },
       {
         "category": "财经",
-        "title": "IMF总裁：美国的经济增长不足以缩减债务",
+        "title": "国家统计局：9月份CPI同比上涨0.9% PPI同比上涨5.0%_社会综合",
+        "summary": "【大纪元2025年10月15日讯】（大纪元记者方晓报导）中国9月份居民消费价格指数（CPI）同比下降0.3%，其中，城市下降0.2% ...",
+        "source": "中国甘肃网",
+        "published_at": "2026-10-14T16:49:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xYWp5eFZNU1BDNFVuM0trblhUMnk0SGgzSGxPR0s2ZlM0bGFVajBJcGQzblhMM0dTdUtNZXRWQzVHczRIdWNhaDlfb2dsNDJkMVpVcDFvellyTWo1R2xkclNMYlROYTc1bFE?oc=5",
+        "image_url": "https://i.epochtimes.com/assets/uploads/2025/08/id14573852-185259-700x359.jpg",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "中国甘肃网这篇报道主要讲的是：国家统计局：9月份CPI同比上涨0.9% PPI同比上涨5.0%_社会综合。【大纪元2025年10月15日讯】（大纪元记者方晓报导）中国9月份居民消费价格指数（CPI）同比下降0.3%，其中，城市下降0.2% ...。",
+        "key_points": [
+          "核心事件：国家统计局：9月份CPI同比上涨0.9% PPI同比上涨5.0%_社会综合",
+          "【大纪元2025年10月15日讯】（大纪元记者方晓报导）中国9月份居民消费价格指数（CPI）同比下降0.3%，其中，城市下降0.2% ...",
+          "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
+        ]
+      },
+      {
+        "category": "财经",
+        "title": "国际能源署：全球柴油供应紧张将持续至2027年",
         "summary": "",
         "source": "新华网客户端",
-        "published_at": "2026-10-14T16:35:47+08:00",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWFlwN2RpTzBBd25FcTZ0XzE5dWdCbW54MEZKc0RoTFk5THJZOXV5MmxIampnSE0wbENaVjhQMnQ0ak1hZ2xuZEpmNXJmNjRjam5YMTg3YXRDREhPQzFJakZ6eXNNSE1wb0RtMkFMXzNIRmY5ZHBKMmJPZENPNm5VTmNxTHBxNHdKWGMzbmdDUFlpSU5sa0ExMjdn?oc=5",
+        "published_at": "2026-10-14T22:40:53+08:00",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZlRKUVo1Q2VoTDljOVZTdHFyZE1hWjI5OFJkRDlDMF9wYTBMcGZDZ2xEZ3hUY0ExM2RwRW1vSTRudFYzeXdyRVVIZHlxaXlVRTg1VzRhZi1yVzNGemdRcWREQUVhbVRhcTF6U2ZpMjFwSXF1R1hBTFJHdW44ZUw2RXpTd0RYVGljU3diOHgtWV9TS1Z6WFE4ZmF3?oc=5",
         "image_url": "",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网客户端这篇报道主要讲的是：IMF总裁：美国的经济增长不足以缩减债务。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "新华网客户端这篇报道主要讲的是：国际能源署：全球柴油供应紧张将持续至2027年。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：IMF总裁：美国的经济增长不足以缩减债务",
+          "核心事件：国际能源署：全球柴油供应紧张将持续至2027年",
           "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
         ]
       },
       {
         "category": "财经",
-        "title": "金融价值观｜房贷贴息政策实施 多地业务加快落地",
+        "title": "我国发布15项氢能国家标准",
         "summary": "",
-        "source": "新华网客户端",
-        "published_at": "2026-10-14T15:55:47+08:00",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUjJpbW9ZeUJJV3IxR19pNzU3YWpwWjNodEM3VDE3T2VTNEcweXFSeVdDbkQ4ZW5IaW1ublJITFJDYmNMenphVWxvNUYyeFc2SnQ4azFrX2dZdHNDZXFXR0E4QkNIUTI2Si1SUzhHSjNNZnVNdDdQd2lnRnhaNFd4UUZYelh4S2dxTEdnVzhjczMtc1k3REp5V1RR?oc=5",
+        "source": "新华网",
+        "published_at": "2026-10-14T21:41:07+08:00",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMlEwSlBpNFlvbm9Wbi1iMHJpNHppeE10bUo3a0FwMzFLNEx6RGtISEhQM0x0S2Z6Q196YXVDb1JkdUxnS211MHRQTFJuendmbWcxQ0V6Rk9MRWxYb1d6RTNBMWo2ZFNzYWZIT09ieFFXV0JjUThNU1BIOWx6WFlHSHpycw?oc=5",
         "image_url": "",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网客户端这篇报道主要讲的是：金融价值观｜房贷贴息政策实施 多地业务加快落地。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "新华网这篇报道主要讲的是：我国发布15项氢能国家标准。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：金融价值观｜房贷贴息政策实施 多地业务加快落地",
+          "核心事件：我国发布15项氢能国家标准",
           "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
         ]
       },
       {
         "category": "财经",
-        "title": "中国财政部发行三期国债50年期利率2.2166%_公司新闻_财经",
+        "title": "数说中国丨2026年前三季度我国外贸增势强劲",
         "summary": "",
-        "source": "证券之星",
-        "published_at": "2026-10-14T13:07:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDclVqWEtRM0VOYnQ3Q3FwQU56enhhSmJjNURYV0FaSEVUTUxwUkNvVHZkVGZoMzgxRUVlUnZmV2UyLTVKWVhnX3hGcHRJWEo3OE9uby1uelFTVTdtTS1BaQ?oc=5",
+        "source": "新华网",
+        "published_at": "2026-10-14T16:54:06+08:00",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wWEZQN2c4X1dDekQ3akVpZWxtSi1rSzZUbWtUekxnd1E3NG44ZjNTcVhOa1JRV1ozZEVuX3k5ZnRpVVF3NGNMYkx2eVJhbHJMLXp5OV9vM25oV28yeFFFenJXUEZHS3MxQkhNbXd3QWprRzRkVjZESmxHNVF0b1U?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": false,
-        "quick_summary": "证券之星这篇报道主要讲的是：中国财政部发行三期国债50年期利率2.2166%_公司新闻_财经。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：数说中国丨2026年前三季度我国外贸增势强劲。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：中国财政部发行三期国债50年期利率2.2166%_公司新闻_财经",
-          "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
-        ]
-      },
-      {
-        "category": "财经",
-        "title": "金语梁言：黄金连续震荡，今晚CPI拉高继续空单尝试；_名家点金",
-        "summary": "",
-        "source": "黄金网",
-        "published_at": "2026-10-14T09:34:03+08:00",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tRmM0aHJuYmUwUVprRzlsQnM5azJRdjBlc3pRYzFPMUs1Y2kwajZWWC1QcHVxaVVrQjZJN3V3aHdVRXd6ZHA0NHQzOHZvLWxSNVV3SC1vVTIzN0gxbVEyZEZPNmVNbXU1cGhaNQ?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "quick_summary": "黄金网这篇报道主要讲的是：金语梁言：黄金连续震荡，今晚CPI拉高继续空单尝试；_名家点金。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：金语梁言：黄金连续震荡，今晚CPI拉高继续空单尝试；_名家点金",
+          "核心事件：数说中国丨2026年前三季度我国外贸增势强劲",
           "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
         ]
       }
@@ -611,33 +614,129 @@
     "tech": [
       {
         "category": "科技",
-        "title": "国产光刻机突围！海思8英寸全自动光刻机发运：专攻Micro LED芯片制造",
+        "title": "中国商业航天测控企业首次为国外航天器提供轨控服务在西安实现突破",
         "summary": "",
-        "source": "驱动之家",
-        "published_at": "2026-10-14T12:05:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9kT1RsNk5aU2tuWWFTb0I2aVVEYmhoY2lncW12SFIzQVQtUFdPWTcwMXhrVzhRQ3p4Z3lxcFpTNVM5c2FzRWFWeEFIT0FzQTJKMGhTVVd4S1E?oc=5",
+        "source": "未来天玑",
+        "published_at": "2026-10-14T09:55:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1udVBEX2wyR09IM1huZ1hVaGk0amVPbzNYYnZicHROcWJMS093cnJwbEQtdnh1NVlJUlBRTEQ1Qzd3UUlBZXE0eHlSZGtEb0dGZ2c?oc=5",
         "image_url": "",
         "hot": false,
         "verified": false,
-        "quick_summary": "驱动之家这篇报道主要讲的是：国产光刻机突围！海思8英寸全自动光刻机发运：专攻Micro LED芯片制造。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "未来天玑这篇报道主要讲的是：中国商业航天测控企业首次为国外航天器提供轨控服务在西安实现突破。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：国产光刻机突围！海思8英寸全自动光刻机发运：专攻Micro LED芯片制造",
+          "核心事件：中国商业航天测控企业首次为国外航天器提供轨控服务在西安实现突破",
           "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
         ]
       },
       {
         "category": "科技",
-        "title": "科技界翘首以待：Anthropic今日将首次透露Q3营收 AI交易能否再获支撑？",
+        "title": "紫光股份：预计前三季度净利同比增长72%-118% 把握智算与国产化机遇聚焦AI基础设施等核心业务",
         "summary": "",
         "source": "财联社",
-        "published_at": "2026-10-14T10:57:40+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1HSHJ3MnRld1JiZVUwMS1mNzk0ZEZpV2lQTlpPMjhTVWpvVGFlR0ZxaTdZVUN5X2RjOW1xLUU2dTZOQ0VBMFBhNQ?oc=5",
+        "published_at": "2026-10-14T16:32:54+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9UU3JsLTNQeHRpeWxJQTBDbC1QSFhENE1zUlpOUkxjUXFxUXFyS3NNTC1rc3IwU18xeHdZQnlKaU1VSmVzRmoxdg?oc=5",
         "image_url": "",
         "hot": false,
         "verified": true,
-        "quick_summary": "财联社这篇报道主要讲的是：科技界翘首以待：Anthropic今日将首次透露Q3营收 AI交易能否再获支撑？。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "财联社这篇报道主要讲的是：紫光股份：预计前三季度净利同比增长72%-118% 把握智算与国产化机遇聚焦AI基础设施等核心业务。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：科技界翘首以待：Anthropic今日将首次透露Q3营收 AI交易能否再获支撑？",
+          "核心事件：紫光股份：预计前三季度净利同比增长72%-118% 把握智算与国产化机遇聚焦AI基础设施等核心业务",
+          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
+        ]
+      },
+      {
+        "category": "科技",
+        "title": "ABB机器人中国区总裁：软银收购仍在推进，对中国市场承诺不变",
+        "summary": "",
+        "source": "ThePaper.cn",
+        "published_at": "2026-10-14T20:12:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45cFN5a3NOZzcwMjgtVUN5SUhubXliRkEwdmpFVGNHOHJ3MzFqZ2hEd2lZVFpWZVNzTmZiRE12ZmpKQlAyZUQtc19xbkxqRnlWamxUWlBEem1OcXllNnNVSQ?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "ThePaper.cn这篇报道主要讲的是：ABB机器人中国区总裁：软银收购仍在推进，对中国市场承诺不变。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：ABB机器人中国区总裁：软银收购仍在推进，对中国市场承诺不变",
+          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
+        ]
+      },
+      {
+        "category": "科技",
+        "title": "中国杂交水稻制种实现重大突破 科研团队揭秘高产故事",
+        "summary": "",
+        "source": "中国新闻网",
+        "published_at": "2026-10-14T17:53:25+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEU2REN1Z3UDJLejNhYl9hRXA2UE5xMDFTckV2UGxFWVB1Mm1pRzRuN1JQNjNOdnJ0SnBiZkQ3WDEtbmdJdnBCR0tMOUg5SmVDeXZTdHJJNWljMGhjWVJPVDF3V21uNVJU?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "中国新闻网这篇报道主要讲的是：中国杂交水稻制种实现重大突破 科研团队揭秘高产故事。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：中国杂交水稻制种实现重大突破 科研团队揭秘高产故事",
+          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
+        ]
+      },
+      {
+        "category": "科技",
+        "title": "上观：中国极紫外光源样机国产化率达90%，目前距离量产还需3—5年",
+        "summary": "",
+        "source": "华尔街见闻",
+        "published_at": "2026-10-14T19:11:32+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9USEY3VW1MWE8xYlVmS040aThyQ0IxR0swMUs3b0ktajdlRzEwZm05aTVnQVVKX3ZRdThjOEpVMVM0LTA3RnR2Z3pLYW9sbFZtU3Q4?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "华尔街见闻这篇报道主要讲的是：上观：中国极紫外光源样机国产化率达90%，目前距离量产还需3—5年。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：上观：中国极紫外光源样机国产化率达90%，目前距离量产还需3—5年",
+          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
+        ]
+      },
+      {
+        "category": "科技",
+        "title": "铭芯启睿“泰山一号”流片：国际首款高密度、大容量1T4R 1Gb RRAM芯片",
+        "summary": "",
+        "source": "驱动之家",
+        "published_at": "2026-10-14T16:09:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sUlFJZEpTdUZsd2tvSS1PV09aaW5vWDk0VG94azlaVzF3NS12TUVVM3FEMDdiT1owdjg5aUlWMHFTQ0ZVSXdOZHdEaV9tZUZPdnpPdUFYRXY?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "驱动之家这篇报道主要讲的是：铭芯启睿“泰山一号”流片：国际首款高密度、大容量1T4R 1Gb RRAM芯片。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：铭芯启睿“泰山一号”流片：国际首款高密度、大容量1T4R 1Gb RRAM芯片",
+          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
+        ]
+      },
+      {
+        "category": "科技",
+        "title": "最新金融数据出炉：前三季企业债净融资同比增约1.75倍，金融资源向科技创新等领域集聚",
+        "summary": "",
+        "source": "财联社",
+        "published_at": "2026-10-14T17:08:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pSnhWTmpHdll5MzBJT3NGX0VHQzl0Ymlfd01lYmpxODRKOXR5ZHVJdkh5TDgtUHdCaWFtNXVIa2Z6WDhOdFBScA?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "财联社这篇报道主要讲的是：最新金融数据出炉：前三季企业债净融资同比增约1.75倍，金融资源向科技创新等领域集聚。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：最新金融数据出炉：前三季企业债净融资同比增约1.75倍，金融资源向科技创新等领域集聚",
+          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
+        ]
+      },
+      {
+        "category": "科技",
+        "title": "沪电股份：预计前三季度净利同比增长101%-110% 受益于高速交换机、AI服务器等领域结构性需求",
+        "summary": "",
+        "source": "财联社",
+        "published_at": "2026-10-14T16:38:42+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13N3NYSEJhMUlnSmdzYS1mbFo4UVZDSEtOR2pETmx3ZExLeGZLNDNTNzVvRHlmS29VQU0yRW0wRDVNQURLS2drdg?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "财联社这篇报道主要讲的是：沪电股份：预计前三季度净利同比增长101%-110% 受益于高速交换机、AI服务器等领域结构性需求。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：沪电股份：预计前三季度净利同比增长101%-110% 受益于高速交换机、AI服务器等领域结构性需求",
           "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
         ]
       },
@@ -645,47 +744,15 @@
         "category": "科技",
         "title": "聚焦工博会：中国工业机器人从“演示”走向“真场景” 外国观众点赞“超级现代”",
         "summary": "",
-        "source": "中新网福建",
-        "published_at": "2026-10-14T15:48:27+08:00",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIbjM1UHdyakEtbnQ4N3VSSXcxdy1qc0d6dTBMQU1OTXQ2UHF5OU9xZjJEbWloZmdjRzhkbmQwOTZMRzZqdmlYWnZSbmd0N0xDSHItR3QtanZUOWRpNzU3NVRuUTdOMWpsM3Q1WkxjZTVzdw?oc=5",
+        "source": "中国新闻网",
+        "published_at": "2026-10-14T11:31:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIYVh4TlZCRkFKUl91VmlmX01TWXZaR1M5WlJoeEVmejIta0NmRlYwdWotUFB6bUp6Y3pMSi1YZUhpR3VrUWgtQjlBR3VjbnVFaFBSMGswOEZZdG1URlFJYjMxWUg5MFZsRzI2VFZsUEt4NDRjTHc2OWlQWQ?oc=5",
         "image_url": "",
         "hot": false,
         "verified": true,
-        "quick_summary": "中新网福建这篇报道主要讲的是：聚焦工博会：中国工业机器人从“演示”走向“真场景” 外国观众点赞“超级现代”。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "中国新闻网这篇报道主要讲的是：聚焦工博会：中国工业机器人从“演示”走向“真场景” 外国观众点赞“超级现代”。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
           "核心事件：聚焦工博会：中国工业机器人从“演示”走向“真场景” 外国观众点赞“超级现代”",
-          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
-        ]
-      },
-      {
-        "category": "科技",
-        "title": "第十六届中国国际航空航天博览会开幕在即",
-        "summary": "",
-        "source": "第一财经",
-        "published_at": "2026-10-13T18:35:05+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fbkhpZzNyVWJ5MjhtaUdHdWRSN1o5UUM1Tmd2OVBtNFBBSU1YNXhId0hQdnc5Yi1uVEQzZDdSZTZvUlNTbzN0R0R4dHlNVTA5amY4UQ?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "第一财经这篇报道主要讲的是：第十六届中国国际航空航天博览会开幕在即。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：第十六届中国国际航空航天博览会开幕在即",
-          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
-        ]
-      },
-      {
-        "category": "科技",
-        "title": "🚨 半导体血战：中国芯片扩张与人工智能泡沫的最大现实检验",
-        "summary": "",
-        "source": "Moomoo",
-        "published_at": "2026-10-13T22:02:56+08:00",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSm5nSTdQdVd0dzRCRnZxWW5rQjdyNUJGM1pjMGxINzFleEx3cjQ2YTdTSXlKcUhSU0Rqb1NpQVdkcjVqZGgzNFVsdHNWNVcyd0RLTXFRVlFSTkY0NXg5TUNNV1M3NlZ2OE41NVc4Q3hBYkVhVlRXazJKS1cyc19DamlwcHYxWVhyU0l0ZXBUUVA5SEpjcWxJbXIzcXUyX3UwTzh4Zk5MTm1qaUZWRkFLQ0hyT0Vrd25mZ1llWA?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "quick_summary": "Moomoo这篇报道主要讲的是：🚨 半导体血战：中国芯片扩张与人工智能泡沫的最大现实检验。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：🚨 半导体血战：中国芯片扩张与人工智能泡沫的最大现实检验",
           "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
         ]
       },
@@ -704,86 +771,22 @@
           "核心事件：青春华章｜中国最北高铁有了“机器人医生”！它如何完成探伤作业？",
           "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
         ]
-      },
-      {
-        "category": "科技",
-        "title": "中国9月芯片进出口额高增，原油进口量同比降21.5%、大豆降7.7%，稀土出口同比增6.7%",
-        "summary": "",
-        "source": "华尔街见闻",
-        "published_at": "2026-10-14T15:23:30+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQVkg2aE1jVEhUZndhMHlGQXRzMFgtVlRFQ1pTSUI4LWVqT3B5WnhxcWhQU0szV2lWZ3dOWnJ0eFdVSTdoQ2VvYVRtcEU4OFZ3emtn?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "quick_summary": "华尔街见闻这篇报道主要讲的是：中国9月芯片进出口额高增，原油进口量同比降21.5%、大豆降7.7%，稀土出口同比增6.7%。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：中国9月芯片进出口额高增，原油进口量同比降21.5%、大豆降7.7%，稀土出口同比增6.7%",
-          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
-        ]
-      },
-      {
-        "category": "科技",
-        "title": "ABB机器人亮相2026工博会，展示模仿学习、视觉与智能体AI前瞻技术",
-        "summary": "",
-        "source": "https://m.capwhale.com/",
-        "published_at": "2026-10-13T22:43:53+08:00",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNY0paSkVuMVR6U0RSdzNmNHZzUDJSU3J5MG56LWt6amN6MVUyOUpxdDZXN1RnVnlDRzJjUGdYakdlZkZ0RmhuSTc3RFNxcTNUMTdoZ21iUzk4cy1HVTlEN1UxNVRCMl9ranY1dzdMcXlDY25JZ0ZyU1hOVGxTb2hYT2gzV1VJc3I4QUFreTdLZlMtQQ?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "https://m.capwhale.com/这篇报道主要讲的是：ABB机器人亮相2026工博会，展示模仿学习、视觉与智能体AI前瞻技术。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：ABB机器人亮相2026工博会，展示模仿学习、视觉与智能体AI前瞻技术",
-          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
-        ]
-      },
-      {
-        "category": "科技",
-        "title": "泰瑞达机器人亮相2026中国工博会，将优傲机器人第七代平台引入中国",
-        "summary": "",
-        "source": "https://m.capwhale.com/",
-        "published_at": "2026-10-13T22:43:53+08:00",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNGk3TEdVM2VSOGstZXh0VTdFZ1BHeDdMTnM4a0c0Y2ZCMzh6THUzQklMZTM1VHlpMGt0UnNGQWI1RTRMdVl4RzNMbDgxdklheVdwaGNPalNHdTJBTWVMMDFUTUZlY2stbVJ0MGxVX1VTeGN2VUZRSFBBX1pPcVV2d0EtRGRQazYwRVdKODJNbU1sZw?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "https://m.capwhale.com/这篇报道主要讲的是：泰瑞达机器人亮相2026中国工博会，将优傲机器人第七代平台引入中国。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：泰瑞达机器人亮相2026中国工博会，将优傲机器人第七代平台引入中国",
-          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
-        ]
-      },
-      {
-        "category": "科技",
-        "title": "苹果发布Apple HomeView等智能家居新品，首次整合家庭入口、Siri AI与安防订阅服务",
-        "summary": "",
-        "source": "虎嗅网",
-        "published_at": "2026-10-14T13:15:09+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ualZhUzRscm5tX25LWVJLeUVseVVHM3FnSWhsTThxdVVRRGZnZWFKOV9RTFJKUWhDdkdEcXNJUkFXMlR6QVYwUjBpTHJTZTNEWmlEbw?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "quick_summary": "虎嗅网这篇报道主要讲的是：苹果发布Apple HomeView等智能家居新品，首次整合家庭入口、Siri AI与安防订阅服务。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：苹果发布Apple HomeView等智能家居新品，首次整合家庭入口、Siri AI与安防订阅服务",
-          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
-        ]
       }
     ],
     "society": [
       {
         "category": "社会",
-        "title": "2026年“社保服务进万家”活动启动",
+        "title": "社保服务进万家 湖南多措保障新就业劳动者权益",
         "summary": "",
-        "source": "新华网",
-        "published_at": "2026-10-14T14:41:47+08:00",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT2Fib3BSelVoM3lFWG5tSDF6M1lJdWNsNW5KY2ZGZFdzZ3o4VnV6ZlphMkRoYlJvZmxWX0ZnNngzMW40UFo0UWxDWllIN3F0ekR1LV9OdWs3UF8zenBOQ2o5bVhVSndpelUzbElHYVgzODhPMFhzRGFveFZETVY0b0JUTQ?oc=5",
+        "source": "中国新闻网",
+        "published_at": "2026-10-14T22:02:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RSTRxeThPTkhKYktod1NzQlljQ0htS2QzQ01GejRqRWpiQjc5TTBIYWpSeXZPQ2lGT0JIbG51SVN0bmVJRy0zMDBYN0R3UExSdWdWWWlwOGRDTk5kR2hDQmFWZDZGeEc2TTBhaVMzbw?oc=5",
         "image_url": "",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：2026年“社保服务进万家”活动启动。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "中国新闻网这篇报道主要讲的是：社保服务进万家 湖南多措保障新就业劳动者权益。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：2026年“社保服务进万家”活动启动",
+          "核心事件：社保服务进万家 湖南多措保障新就业劳动者权益",
           "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
         ]
       },
@@ -805,49 +808,113 @@
       },
       {
         "category": "社会",
-        "title": "山东国家级自然保护区：保护优先 护佑人与自然和谐共生",
+        "title": "怀化、常德、岳阳等地有暴雨 湖南发布汛情提醒",
         "summary": "",
-        "source": "新华网客户端",
-        "published_at": "2026-10-14T16:30:47+08:00",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWkpFa2xhajV4Qzd5MExCdVo2MGQtTUJ1M0lBYWpWNE00YmRBVThqX1ZGMnRhZ1dUYXZqSGVILTFMbXNWVFpKZlJHZ1ZqSUtlem52NlMzRGVQTlVKclpEdU5GTGo1Vlc2SXN0XzZ1clJXeFJDNkx2czdDeXItYUtBd1hyMDhRS01GcU43YnhfZmdhb1BOdTNTbnBB?oc=5",
-        "image_url": "https://ts4.mm.bing.net/th?id=OIP.FqWxdX6H6E-CyWOWOjavwQHaFF&pid=15.1",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "新华网客户端这篇报道主要讲的是：山东国家级自然保护区：保护优先 护佑人与自然和谐共生。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：山东国家级自然保护区：保护优先 护佑人与自然和谐共生",
-          "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
-        ]
-      },
-      {
-        "category": "社会",
-        "title": "国台办：团结广大台湾同胞共创美好未来",
-        "summary": "",
-        "source": "新华网",
-        "published_at": "2026-10-14T16:19:19+08:00",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83N0hsTmJZRTRGWnRDSDNjR2RvLW5INkpuRVVxbXROb3FvdlRkcTZOemN4blNkN1B4NjBzaVhGOWljMlhGVk9vcnpLNHVzdHhIaFpTOHZ3WGpZWlRXLUFzdlJ4cFI5MHp0UWE1OWNmYkxNUjl6alBGV002TQ?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：国台办：团结广大台湾同胞共创美好未来。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：国台办：团结广大台湾同胞共创美好未来",
-          "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
-        ]
-      },
-      {
-        "category": "社会",
-        "title": "暴雨预警：重庆贵州等5省市部分地区有大到暴雨 湖南局地大暴雨",
-        "summary": "",
-        "source": "天气网",
-        "published_at": "2026-10-14T10:05:06+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50V3hDUjJrQzRPcF80XzFBVTlDSnJCcWhUNGNCSUJFSmh2M2JXRE9uUFd6TlFxNzZvMHVTTnVJX2loWTlkcC1veVU2VWdrVUtZdFpaZTBETllBYXNk?oc=5",
+        "source": "华声在线",
+        "published_at": "2026-10-14T20:16:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pSmVQV2NTZGM1dGtza0Z0cVB6UGNmbkFJVzVOTkgwajNKWVdHUXdQa1lGSHpXd1dRZWZicEZXNDhuVjNIOGpPY3NmSFVnM19pdmVrc1JDZEJSTlFXYlJR?oc=5",
         "image_url": "",
         "hot": true,
         "verified": false,
-        "quick_summary": "天气网这篇报道主要讲的是：暴雨预警：重庆贵州等5省市部分地区有大到暴雨 湖南局地大暴雨。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "华声在线这篇报道主要讲的是：怀化、常德、岳阳等地有暴雨 湖南发布汛情提醒。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：暴雨预警：重庆贵州等5省市部分地区有大到暴雨 湖南局地大暴雨",
+          "核心事件：怀化、常德、岳阳等地有暴雨 湖南发布汛情提醒",
+          "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
+        ]
+      },
+      {
+        "category": "社会",
+        "title": "第一观察 | 习近平主席向广交会致贺信传递高水平开放强音",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-10-15T00:23:08+08:00",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSFYwMXZVLUQxajdaMmpCa3pmUm9xaGRRWHVDV0hPV3ZHb21Tc2FQeG9DZ0I1YkpYZTNRcjZ4eWVvRmJVdXZrbWJoV2t6LWdFaEtJOUh1MTg5Tk00SVZHOG4xRVV1bWhfSDR3MVZkVmdlWXV6T011Q29kWTNLaUoxeS1PUl90X2pOTnpzMnFB?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：第一观察 | 习近平主席向广交会致贺信传递高水平开放强音。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：第一观察 | 习近平主席向广交会致贺信传递高水平开放强音",
+          "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
+        ]
+      },
+      {
+        "category": "社会",
+        "title": "暴雨蓝色预警：重庆贵州等6省市有大到暴雨 湖南湖北局地大暴雨",
+        "summary": "",
+        "source": "天气网",
+        "published_at": "2026-10-14T18:01:13+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MdXVjcEYzVks4VFhmam1TVWZONDJidHRiV1lJdTRMUXFBWWRFdnJKbjVVNVdsSF93QnhtcXFuSUxZR1dvSHpaNmpZd1gzWGJpTXJvTkpZOHdvT21L?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": false,
+        "quick_summary": "天气网这篇报道主要讲的是：暴雨蓝色预警：重庆贵州等6省市有大到暴雨 湖南湖北局地大暴雨。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：暴雨蓝色预警：重庆贵州等6省市有大到暴雨 湖南湖北局地大暴雨",
+          "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
+        ]
+      },
+      {
+        "category": "社会",
+        "title": "2026“南大港杯”国际湿地摄影大赛征稿启事",
+        "summary": "",
+        "source": "新华网客户端",
+        "published_at": "2026-10-14T22:10:52+08:00",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUXQ0NXZwczZwaUZEOFFERnhpMlBpOUp3ZzBGMlFJTjVLejc0NUFsMERrYlBmQzZNcVNBeVhMT04weHpaX3FIMmNyRVVHSjhmaHNRSFBXRFpnNGJUSGcxUWRQdVpJQk5FYmhBeFpwb3BNZ1NmN1IzNHQwRkxrS2dtaWgxM1AwQncwbk16TDhfbTk1NEdJUHZuQXRR?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网客户端这篇报道主要讲的是：2026“南大港杯”国际湿地摄影大赛征稿启事。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：2026“南大港杯”国际湿地摄影大赛征稿启事",
+          "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
+        ]
+      },
+      {
+        "category": "社会",
+        "title": "香港举行纪念孙中山先生诞辰160周年座谈会",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-10-14T21:33:57+08:00",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcDh4ZmJfQWxWWFZQaFZRcTRvS2JubXBaZGtTWHZtcFlmSi05X3hiVHVueU5WVVVXa3VoUUVIazJtMWtNWGRIcjdSQmo1d0RzOEM3UVNkcXNPMFoxdi0tRHUzb3NMWkFISWFPLXkwWDNyWV96YlhLZko2cldVeXFPNw?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：香港举行纪念孙中山先生诞辰160周年座谈会。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：香港举行纪念孙中山先生诞辰160周年座谈会",
+          "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
+        ]
+      },
+      {
+        "category": "社会",
+        "title": "我国批准清洁能源国家标准600余项",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-10-14T20:40:11+08:00",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wOGM5VlZZUDdxRE9SUGtfbW5Wb2lMT3l4N2daQ0ZkYWJ2Uk1uNFpCUVppRFpxb3NrTElFVkJlaGpiTEhYX01iaGlIYkxnX0ZQYVZ3aEY4QkNQS3JvRURUdEhudjFHaFNPZ3FfbnVjQWNuRVFDY3hV?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：我国批准清洁能源国家标准600余项。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：我国批准清洁能源国家标准600余项",
+          "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
+        ]
+      },
+      {
+        "category": "社会",
+        "title": "赵乐际集体会见出席2026年国际议员友好交流论坛的各国代表",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-10-14T19:41:02+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeVh4Wi1pYVNMR1FLd2YxM0MzcGFsbjJCZWFKajN6cjFrTFpxMEhKMEpuUGt4YlNicXVIZDVLczk5ZlUtMi1iQjRfOEUxU2NoMGRmNEItb2E0TVNDRVVkVi0yWk5ueXE5WTZibFROTTdxVWc5dEhOdHJuQ1liM1Zpb3Z6N2wyZzdC?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：赵乐际集体会见出席2026年国际议员友好交流论坛的各国代表。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：赵乐际集体会见出席2026年国际议员友好交流论坛的各国代表",
           "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
         ]
       },
@@ -858,7 +925,7 @@
         "source": "天气网",
         "published_at": "2026-10-14T10:00:09+08:00",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01dWtKUWxaWm9BS2prZDU1LWZxbGF3blJWQ1VQYVdGN2JKd3gxZ1Qwck5VV24zNU0yZGRZUXBnbkhkajB0YXZJVGFVV2dCTWE3RnNJaGtEbktGTzBq?oc=5",
-        "image_url": "https://ts4.mm.bing.net/th?id=OIP.o3NjWV7ZNqqKU7PSHB-4rAHaGP&pid=15.1",
+        "image_url": "",
         "hot": true,
         "verified": false,
         "quick_summary": "天气网这篇报道主要讲的是：重庆降雨频繁部分地区有大到暴雨 多雨格局将延续至下周初。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
@@ -866,84 +933,84 @@
           "核心事件：重庆降雨频繁部分地区有大到暴雨 多雨格局将延续至下周初",
           "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
         ]
-      },
-      {
-        "category": "社会",
-        "title": "美丽中国行·探访东北虎豹国家公园丨黑龙江东宁：东北虎豹因何频现山林",
-        "summary": "",
-        "source": "新华网客户端",
-        "published_at": "2026-10-14T14:35:44+08:00",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOXzg4a00zV1FkZGVKSnVLaDViQTFxdVZsUXk5OVY3b1BNcHhIRXU0UjJST0JFVk9CVUdQNjRtTGo0SDdXVkRYMmlRUlVuVXFhZnNSM2cySEI0eUxEYU54RUtEc2IyVWkxcFR4RkdHV3VyZjJFR1RwZFJCQjEwVjFpeU84eWFlZU9sRElXSEwyS3YzX0RCcF9BMmRB?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "新华网客户端这篇报道主要讲的是：美丽中国行·探访东北虎豹国家公园丨黑龙江东宁：东北虎豹因何频现山林。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：美丽中国行·探访东北虎豹国家公园丨黑龙江东宁：东北虎豹因何频现山林",
-          "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
-        ]
-      },
-      {
-        "category": "社会",
-        "title": "河南内黄：椒红田野采收忙 全链条发展助农增收",
-        "summary": "",
-        "source": "新华网客户端",
-        "published_at": "2026-10-14T14:35:44+08:00",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbW5VcENqVmVhVGZWQ01XeGFTRmZxTFVnQmdJR0laMjRfWUV4S0x3dWpGenBuYi1YejRINW5VdnQzVVRYZURvN212UUpITm94YmN2QmlBejN1MUdoeW1jWUZoS01ud1V0eGROYVlpOEdYQm1HLVZuU01uY0lfeFdJMjc2cHJFY3RnckUzSlpnckttVTJEekNRZHdn?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "新华网客户端这篇报道主要讲的是：河南内黄：椒红田野采收忙 全链条发展助农增收。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：河南内黄：椒红田野采收忙 全链条发展助农增收",
-          "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
-        ]
-      },
-      {
-        "category": "社会",
-        "title": "特写丨殷玉珍给赛考斯送了套“大西装”",
-        "summary": "",
-        "source": "新华网客户端",
-        "published_at": "2026-10-14T14:00:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOckZydTRtX1RoY25FczRVb0xzMjdfZXp6cVdGNk8yY0xvQkhOVTh1b2FKcGwzS1BvWnZza25VNnp6OV95Z0J6RFRKYWtQWjVSbmZZVWpzOTN2a2xQanFYSVBMRjVYaVM5b05nVnNpR3hxUEdYYVFLUE1sWENMZ2hhRXdzeXhrRUJ2VTJhbkgxbTBDXzFsZ2Fjdk1B?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "新华网客户端这篇报道主要讲的是：特写丨殷玉珍给赛考斯送了套“大西装”。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：特写丨殷玉珍给赛考斯送了套“大西装”",
-          "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
-        ]
-      },
-      {
-        "category": "社会",
-        "title": "四川：“十五五”期间全面推进美丽四川建设",
-        "summary": "",
-        "source": "新华网",
-        "published_at": "2026-10-14T11:15:03+08:00",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQdW93bm5iWWY1c0dkdkl2dmtxZjlEaXJTUkY2NVgzUlJMeDFmUEJoZVpOVndjVXV4dHpKZXE1cGNVMVg2V3BIelNJR3NKem9TTk9FUU10WGhSbk41MklvNFRyUlN6OWlpMkJZdndvQzJzTDV0V0E?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：四川：“十五五”期间全面推进美丽四川建设。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：四川：“十五五”期间全面推进美丽四川建设",
-          "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
-        ]
       }
     ],
     "ai": [
       {
         "category": "AI",
-        "title": "含DeepSeek、微信等，151款应用拒绝接入豆包手机助手",
+        "title": "151款应用拒绝接入豆包手机，微信、淘宝、王者荣耀、DeepSeek在列",
         "summary": "",
-        "source": "华尔街见闻",
-        "published_at": "2026-10-14T16:33:18+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83RVdqMDFIY0ZWWTdkZGtVUVMxdnBadGE3eEM5dWh4OHhSb21GaHJyTjR6dGZNSEZnYUtoSklENVNMd0ZORmMySS1wSFNqbS1ucmlN?oc=5",
+        "source": "第一财经",
+        "published_at": "2026-10-14T17:59:13+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aMTJNaFZJYlJWNDUtRmNQYmh5WXdneDYzQjQzOTJ1Rjl6cWg2THFIcER2Y2UyM0F5Mk12aThQT1hORmZsSTMzNDNDVFRhNnNlMUtj?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "第一财经这篇报道主要讲的是：151款应用拒绝接入豆包手机，微信、淘宝、王者荣耀、DeepSeek在列。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：151款应用拒绝接入豆包手机，微信、淘宝、王者荣耀、DeepSeek在列",
+          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
+        ]
+      },
+      {
+        "category": "AI",
+        "title": "155款应用拒绝接入豆包手机助手，覆盖腾讯、阿里、快手、美团系",
+        "summary": "",
+        "source": "ThePaper.cn",
+        "published_at": "2026-10-14T21:40:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtYUR1VW5BTVZLejlQWnRnSFBkODdTUWJBT0Jrd09GcG9YZEhCMHJNR2VHbExHWHltN3pnbUdsNnpRb2dmckRiX052dGo4dFl4WTVuNXkxX1VIaWkyU3VyVg?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "ThePaper.cn这篇报道主要讲的是：155款应用拒绝接入豆包手机助手，覆盖腾讯、阿里、快手、美团系。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：155款应用拒绝接入豆包手机助手，覆盖腾讯、阿里、快手、美团系",
+          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
+        ]
+      },
+      {
+        "category": "AI",
+        "title": "有消息称，DeepSeek第二轮融资或达到千亿规模",
+        "summary": "",
+        "source": "新浪网",
+        "published_at": "2026-10-14T23:03:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fMEVMb0NVOXlfOWdNZ20yTDVPUU02R2NWYTMxd2ROZS1CZ1lYcC1xRFZSVThoVTFpTnhMaWZXOUpfTnpBbUl2eDhyX191RHNPV3ItWWNJbFY0Y0hma1o0bXA5T19wNWlXbGNhNi1kOGtPRXNZQzZiMm95bjJ3Nkk?oc=5",
         "image_url": "",
         "hot": false,
         "verified": false,
-        "quick_summary": "华尔街见闻这篇报道主要讲的是：含DeepSeek、微信等，151款应用拒绝接入豆包手机助手。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "新浪网这篇报道主要讲的是：有消息称，DeepSeek第二轮融资或达到千亿规模。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：有消息称，DeepSeek第二轮融资或达到千亿规模",
+          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
+        ]
+      },
+      {
+        "category": "AI",
+        "title": "DeepSeek、微信、美团、支付宝等，拒绝接入豆包手机助手",
+        "summary": "",
+        "source": "观察者网",
+        "published_at": "2026-10-14T21:33:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02WmhpNVhtYmtlT3FLajg5TC1JX25WaTNrQjVQSXg2aFBBN1lyR2xnVkZNOXFHN25sdUhnYTVVNEhOa1dDTWswaDhrcUI4YzRsVUM1Vi13OHpGbEhIMm1IaXdVOHg?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "观察者网这篇报道主要讲的是：DeepSeek、微信、美团、支付宝等，拒绝接入豆包手机助手。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：DeepSeek、微信、美团、支付宝等，拒绝接入豆包手机助手",
+          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
+        ]
+      },
+      {
+        "category": "AI",
+        "title": "含DeepSeek、微信等，151款应用拒绝接入豆包手机助手",
+        "summary": "",
+        "source": "Jiemian.com",
+        "published_at": "2026-10-14T16:18:55+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFNWQtbkhtR200bUNubFAzN3NwUUVyRTVvbDFZUVF6ZS1tZlE4cWN5YVdlb0Q2MmZZeEFWa003Vk1BN3BNNEVXRjVmRzk0VnFVUlh3MjRYMHk?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "Jiemian.com这篇报道主要讲的是：含DeepSeek、微信等，151款应用拒绝接入豆包手机助手。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
           "核心事件：含DeepSeek、微信等，151款应用拒绝接入豆包手机助手",
           "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
@@ -951,145 +1018,81 @@
       },
       {
         "category": "AI",
-        "title": "前沿AI模型“四国大战”打响！谷歌Gemini 4 Argon全面上架",
-        "summary": "",
-        "source": "财联社",
-        "published_at": "2026-10-14T02:32:52+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBIdDhncVp3NWhlSGNOV2FMYnZXV25KQ0liWXdleTBHa2ZNR3VfRFNGZEZPT1h0MENKTm5HY2h4ZGpHT19JWHVoYg?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "财联社这篇报道主要讲的是：前沿AI模型“四国大战”打响！谷歌Gemini 4 Argon全面上架。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：前沿AI模型“四国大战”打响！谷歌Gemini 4 Argon全面上架",
-          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
-        ]
-      },
-      {
-        "category": "AI",
-        "title": "国行iPhone多款机型新增大模型备案 含Apple智能、通义千问",
-        "summary": "",
-        "source": "观点网",
-        "published_at": "2026-10-14T15:40:04+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zVkgxR21nRmc2Y0xLRG1OcmFZWUxGNDRPNEZNZUtveUZxN1RMd1hiSnN4anZUNXZLLVktWlNIbi00WHBxR19YOVJ2a0kzejBwU0ZmZ1N3RldURnQtc1c0VURn?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "quick_summary": "观点网这篇报道主要讲的是：国行iPhone多款机型新增大模型备案 含Apple智能、通义千问。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：国行iPhone多款机型新增大模型备案 含Apple智能、通义千问",
-          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
-        ]
-      },
-      {
-        "category": "AI",
-        "title": "面对AI，如何成为会提问的人（教育优质均衡发展·四问“人工智能+教育”③）",
-        "summary": "",
-        "source": "人民日报",
-        "published_at": "2026-10-14T12:57:16+08:00",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wWjFVMW1XYzBaNW50MFVDcHE2d0lQUG9LNmVjc2xBM2FYSU5MZUVOQVp3VGtZaHVLWDNQcUFRaTBFWVh5S0RubWVwNXpuUVBwcnhod1dGUFQ4SzRHTDY1SkRIOVlyTVZaNlR1Z0ptcjc0S1ZKY1FLNjFHbmE1RVk?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "人民日报这篇报道主要讲的是：面对AI，如何成为会提问的人（教育优质均衡发展·四问“人工智能+教育”③）。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：面对AI，如何成为会提问的人（教育优质均衡发展·四问“人工智能+教育”③）",
-          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
-        ]
-      },
-      {
-        "category": "AI",
-        "title": "投完宇树，DeepSeek在具身智能领域又落一子",
-        "summary": "",
-        "source": "观察者网",
-        "published_at": "2026-10-14T16:35:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WRkZXWTJ2Wkx6VWM2c2Q2OEdUcnNmaDluXzVfWnFwWExHYVJUaGxucUhpNW1aTldINWdfU19kN2ZqMVFWQlVNRmwtN21hRDZpQzB2V25MWjQ0ZUkwU1Y0SVczYzg?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "quick_summary": "观察者网这篇报道主要讲的是：投完宇树，DeepSeek在具身智能领域又落一子。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：投完宇树，DeepSeek在具身智能领域又落一子",
-          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
-        ]
-      },
-      {
-        "category": "AI",
-        "title": "DeepSeek拟募800亿、Kimi估值500亿美元：钱越涌越多，AI的收入还没追上？",
-        "summary": "",
-        "source": "21财经",
-        "published_at": "2026-10-14T15:29:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONk1aSTJiSTFvS1YzT0RmNmxFT3NmTVA0RXhvRS1QZjZOeG1UTDdPZ285blROdnZzYlhjN3VtV2NSOHZpUU5rTEphVWpKbWVTMXpYYlMxdjctR283aWFiOExoT2xibnlfRjZOUzh0WUM4dTg5dDJ0c1RhdjlMNUgzdTJKRlE0aE1PczQ2SUlJbw?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "quick_summary": "21财经这篇报道主要讲的是：DeepSeek拟募800亿、Kimi估值500亿美元：钱越涌越多，AI的收入还没追上？。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：DeepSeek拟募800亿、Kimi估值500亿美元：钱越涌越多，AI的收入还没追上？",
-          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
-        ]
-      },
-      {
-        "category": "AI",
-        "title": "豆包工作上线新功能：支持从Claude Code等一键导入",
-        "summary": "",
-        "source": "DoNews",
-        "published_at": "2026-10-14T13:55:22+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56ZnBfOWFJZl9ZeE8zTWhob3hza2ROTUQwMFZpTUpYN1BJUDdDQlU4MllTNlhVN25rLXVuN2xxVkZLSE9pUUhOMTdrcGVVN2FQaXB6c2V0cmtPQWdVSkE?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "quick_summary": "DoNews这篇报道主要讲的是：豆包工作上线新功能：支持从Claude Code等一键导入。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：豆包工作上线新功能：支持从Claude Code等一键导入",
-          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
-        ]
-      },
-      {
-        "category": "AI",
-        "title": "Meta推AI工具谷歌开放Gemini苹果发布Home View",
-        "summary": "",
-        "source": "新浪网",
-        "published_at": "2026-10-14T13:06:24+08:00",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUHBCRE9JM2RqLW51Zl9MQVBjWDQ1SmdzVGllNnpvWmNGMmU2UThQZHh0YWticUFqZlU2eFhjeHc4NlhSalhSREtGNDRsVmc1U1RTRGFyT1p0WFJZbExoZE5seUs1aEhWb1hRMmNSaXY3WVZNNVplSDJTZFQtOHlFNw?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "quick_summary": "新浪网这篇报道主要讲的是：Meta推AI工具谷歌开放Gemini苹果发布Home View。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：Meta推AI工具谷歌开放Gemini苹果发布Home View",
-          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
-        ]
-      },
-      {
-        "category": "AI",
-        "title": "豆包工作支持一键迁移GPT、Claude Code 历史会话完整保留",
-        "summary": "",
-        "source": "驱动之家",
-        "published_at": "2026-10-14T12:43:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBONmZjZFA5YXlHdkR3SDlSZHRwZUh1MEtkZjU5R3JxcXlLenctc0NlbENPbUJQU2RCNGhRQmM1djI0dk5iNnpGRGE1eldPS3JHaktKOVhSMG0?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "quick_summary": "驱动之家这篇报道主要讲的是：豆包工作支持一键迁移GPT、Claude Code 历史会话完整保留。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：豆包工作支持一键迁移GPT、Claude Code 历史会话完整保留",
-          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
-        ]
-      },
-      {
-        "category": "AI",
-        "title": "活力中国调研行丨中国AI“出海”教种地",
+        "title": "财经慧说丨“不烧心”火了，今天我们聊聊AI短剧",
         "summary": "",
         "source": "新华网",
-        "published_at": "2026-10-14T11:11:45+08:00",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PVGZyMzVFNjRkeVZ6eFRBZWI0NEc2MG85anpMMFJlc19LUGRlMnVMQkczaHpiQi0zUW9xRVpNYktNZmdrMEUySlR6azNsZnV0dWduR0F6WnJrTVlhOE5WbmpVQ0FzaDM4Ui1oVXo2dXVkVVdvY1pmbk5Zb0tJQQ?oc=5",
+        "published_at": "2026-10-14T21:12:40+08:00",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43LVVYTk5LdFRJY3kyUjNNZnd4WHNUOHNnY05sY1NDRXZsUlRsbmZCT2psazZDT2ljdlZIeTZjdWpfMnpWVnlTSUw2Q29XUlpzRmdTWWVhbkJkaExiVTZIZDJKaC1jZUJVRFlMcEJLdEcweEd5ajdZ?oc=5",
         "image_url": "",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：活力中国调研行丨中国AI“出海”教种地。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "新华网这篇报道主要讲的是：财经慧说丨“不烧心”火了，今天我们聊聊AI短剧。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：活力中国调研行丨中国AI“出海”教种地",
+          "核心事件：财经慧说丨“不烧心”火了，今天我们聊聊AI短剧",
+          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
+        ]
+      },
+      {
+        "category": "AI",
+        "title": "阿里、腾讯、美团等对豆包手机助手说“No”",
+        "summary": "",
+        "source": "东方财富",
+        "published_at": "2026-10-14T22:34:31+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nSDdSTGJYR19WeWpjaTVUeDJrekU5bm1ZNC00b0xheHdCSEhHUndVS2JUTXdnWHpJV3JKQjdvSXFkZ1JZWml4WlY5RFY3ejZwR0JoRll5RUdLZWlrNlZPcVBTeUNwUQ?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "东方财富这篇报道主要讲的是：阿里、腾讯、美团等对豆包手机助手说“No”。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：阿里、腾讯、美团等对豆包手机助手说“No”",
+          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
+        ]
+      },
+      {
+        "category": "AI",
+        "title": "阿卜杜勒拉赫曼·阿尔福赞是谁？他是一名沙特公民，被指控窃听 OpenAI 的会议。",
+        "summary": "",
+        "source": "Al-Monitor",
+        "published_at": "2026-10-14T23:17:52+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYW1IVkZVWnU2THM1anVpNmlHUGpzb25yX1R3VnplOU5RT0c2MWZfZjJOVjduRWQ0ZmgwaWdNRElUV1RRSk4zX04yU0JFN1FMVHpPWkRWZjU5QXJyVFIwU0U1V0pwVExDbDc5bklRekhodi05OEhzM3dZckZCeVJmdWZrS0UzRUNLOEVOc1htYjBka2d5ZEJlNTJWSE5OWHFDMlQzVWo5eGU0dVp0X25hTGUtZkVrcHRJaWJxSXlDMTA0WWg2TEF2b25n?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "Al-Monitor这篇报道主要讲的是：阿卜杜勒拉赫曼·阿尔福赞是谁？他是一名沙特公民，被指控窃听 OpenAI 的会议。。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：阿卜杜勒拉赫曼·阿尔福赞是谁？他是一名沙特公民，被指控窃听 OpenAI 的会议。",
+          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
+        ]
+      },
+      {
+        "category": "AI",
+        "title": "中国物流发布2780亿参数“流云”大模型",
+        "summary": "",
+        "source": "观点网",
+        "published_at": "2026-10-14T21:41:15+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5uVUx4U3lvSkRPbmVxM29qdmpTNFR0MnNBLUlXOUtWUWZFTnYzYjBTSms0UUhubHVsbWZDbV91YW9qNWFBdW50OVllSkZjWG5IS3lZOFRUUDNTMDl4amZKRV9R?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "观点网这篇报道主要讲的是：中国物流发布2780亿参数“流云”大模型。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：中国物流发布2780亿参数“流云”大模型",
+          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
+        ]
+      },
+      {
+        "category": "AI",
+        "title": "太烧心！字节红果短剧登顶第一，AI的尽头是让人上瘾？",
+        "summary": "",
+        "source": "每日经济新闻",
+        "published_at": "2026-10-14T23:02:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hMmdQQWE1bHpBOF9VZU5nOVJNbjNUNEJ5SzBuQW1kS0M2VFZfT1RfQ3ItQnNadjRvY25qQzJ1c0xPcTlVcEVsUW9rTi1faG1oR180WkQ4M0tMSnlqckFWdEVSaTFzQQ?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "每日经济新闻这篇报道主要讲的是：太烧心！字节红果短剧登顶第一，AI的尽头是让人上瘾？。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：太烧心！字节红果短剧登顶第一，AI的尽头是让人上瘾？",
           "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
         ]
       }
@@ -1099,64 +1102,64 @@
     {
       "name": "黄金",
       "symbol": "GC=F",
-      "price": "896.19",
+      "price": "882.35",
       "unit": "元/克",
-      "change_pct": -0.29,
-      "note": "人民币换算 · 美元兑人民币 6.6921 · Yahoo Finance 延迟行情",
+      "change_pct": -1.83,
+      "note": "人民币换算 · 美元兑人民币 6.6867 · Yahoo Finance 延迟行情",
       "previous_price": "898.76",
       "currency": "CNY"
     },
     {
       "name": "白银",
       "symbol": "SI=F",
-      "price": "12643.64",
+      "price": "12011.07",
       "unit": "元/千克",
-      "change_pct": -0.67,
-      "note": "人民币换算 · 美元兑人民币 6.6921 · Yahoo Finance 延迟行情",
+      "change_pct": -5.64,
+      "note": "人民币换算 · 美元兑人民币 6.6867 · Yahoo Finance 延迟行情",
       "previous_price": "12728.65",
       "currency": "CNY"
     },
     {
       "name": "WTI原油",
       "symbol": "CL=F",
-      "price": "629.73",
+      "price": "640.39",
       "unit": "元/桶",
-      "change_pct": -0.04,
-      "note": "人民币换算 · 美元兑人民币 6.6921 · Yahoo Finance 延迟行情",
+      "change_pct": 1.65,
+      "note": "人民币换算 · 美元兑人民币 6.6867 · Yahoo Finance 延迟行情",
       "previous_price": "629.98",
       "currency": "CNY"
     },
     {
       "name": "布伦特原油",
       "symbol": "BZ=F",
-      "price": "704.88",
+      "price": "712.20",
       "unit": "元/桶",
-      "change_pct": -0.34,
-      "note": "人民币换算 · 美元兑人民币 6.6921 · Yahoo Finance 延迟行情",
+      "change_pct": 0.7,
+      "note": "人民币换算 · 美元兑人民币 6.6867 · Yahoo Finance 延迟行情",
       "previous_price": "707.28",
       "currency": "CNY"
     },
     {
       "name": "天然气",
       "symbol": "NG=F",
-      "price": "22.18",
+      "price": "21.17",
       "unit": "元/百万英热单位",
-      "change_pct": 0.95,
-      "note": "人民币换算 · 美元兑人民币 6.6921 · Yahoo Finance 延迟行情",
+      "change_pct": -3.64,
+      "note": "人民币换算 · 美元兑人民币 6.6867 · Yahoo Finance 延迟行情",
       "previous_price": "21.97",
       "currency": "CNY"
     },
     {
       "name": "铜",
       "symbol": "HG=F",
-      "price": "99.64",
+      "price": "98.20",
       "unit": "元/千克",
-      "change_pct": 1.13,
-      "note": "人民币换算 · 美元兑人民币 6.6921 · Yahoo Finance 延迟行情",
+      "change_pct": -0.33,
+      "note": "人民币换算 · 美元兑人民币 6.6867 · Yahoo Finance 延迟行情",
       "previous_price": "98.52",
       "currency": "CNY"
     }
   ],
   "market_currency": "CNY",
-  "usd_cny": 6.6921
+  "usd_cny": 6.6867
 }
