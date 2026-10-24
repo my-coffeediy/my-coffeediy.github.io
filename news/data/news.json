@@ -1,61 +1,62 @@
 {
-  "updated_at": "2026-10-24T10:20:08.271083+08:00",
-  "markets_updated_at": "2026-10-24T10:20:08.271083+08:00",
+  "updated_at": "2026-10-24T16:38:14.966620+08:00",
+  "markets_updated_at": "2026-10-24T16:38:14.966620+08:00",
   "top5": [
     {
-      "title": "中共中央政治局召开会议习近平向2026全球治理论坛（雄安）致信",
-      "summary": "人民日报报道，中共中央政治局召开会议习近平向2026全球治理论坛（雄安）致信。目前可确认的信息以相关部门和权威媒体后续发布为准。",
+      "title": "国家防总、应急管理部针对江苏启动防汛防台风四级应急响应",
+      "summary": "央视网报道，国家防总、应急管理部针对江苏启动防汛防台风四级应急响应。今年第30号台风“蔷琵”（超强台风级）中心10月23日18时距离台湾台北市东偏南方向约180公里，中心附近最大风力14级（45米每秒）。预计，“蔷琵”将以每小时5－10公里速度向西偏北方向缓慢移动，逐渐向台湾东北部靠近，移入东海南部后，将于25日前后沿浙江东部近海北上，之后转向东北方向。",
       "category": "国内",
-      "source": "人民日报",
-      "published_at": "2026-10-24T05:56:43+08:00",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT3VYWk5iMDhZY01uUEcxM1VhYXZDUkVfMmozOGMwT3ZMSWFkWnlScFMzNUtnbDJNT1dsU1V2VVMzVE96aE5pRGpuVTZnbGhZakswcWpiSjNvU2tfSXBqcVM4dnl4ckNZcDlQbzh6Wlg3a21iYzlaUW9BNTZ0cDhmcUNMVXdqZDhYbGxKLThucHZDN09seXA0ZEJxZUhEQQ?oc=5",
-      "image_url": "",
-      "quick_summary": "人民日报这篇报道主要讲的是：中共中央政治局召开会议习近平向2026全球治理论坛（雄安）致信。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+      "source": "央视网",
+      "published_at": "2026-10-23T20:53:35+08:00",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fNUtMaWxBSHpTdEtJS0c0VUIxd05KRGppZlJ2elFKY0prWDd5YjAtckx5aGwtTjhRTVpjMlR0cjlxYTVPOVBZaHdsRTZ6b0hDTEZyMTl0TTlrcldEZHVwT2pWOWFFSWNVSE92bnR2U2FWRmRRTW81eA?oc=5",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.cbA5p5_0vYllQu57cKJZIwHaEK&pid=15.1",
+      "quick_summary": "央视网这篇报道主要讲的是：国家防总、应急管理部针对江苏启动防汛防台风四级应急响应。今年第30号台风“蔷琵”（超强台风级）中心10月23日18时距离台湾台北市东偏南方向约180公里，中心附近最大风力14级（45米每秒）。预计，“蔷琵”将以每小时5－10公里速度向西偏北方向缓慢移动，逐渐向台湾东北部靠近，移入东海南部后，将于25日前后沿浙江东部近海北上，之后转向东北方向。",
       "key_points": [
-        "核心事件：中共中央政治局召开会议习近平向2026全球治理论坛（雄安）致信",
-        "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        "核心事件：国家防总、应急管理部针对江苏启动防汛防台风四级应急响应",
+        "今年第30号台风“蔷琵”（超强台风级）中心10月23日18时距离台湾台北市东偏南方向约180公里，中心附近最大风力14级（45米每秒）",
+        "预计，“蔷琵”将以每小时5－10公里速度向西偏北方向缓慢移动，逐渐向台湾东北部靠近，移入东海南部后，将于25日前后沿浙江东部近海北上，之后转向东北方向"
       ]
     },
     {
-      "title": "卫生健康部门开展西藏巴青县地震医疗应急工作",
-      "summary": "新华网报道，卫生健康部门开展西藏巴青县地震医疗应急工作。据新华社北京10月23日电 记者23日从国家卫生健康委获悉，国家卫生健康委已派出有关司局负责同志带领国家级专家紧急赴西藏巴青县地震灾区支持指导医疗救治等工作，会同西藏自治区调派6支卫生应急队伍携带急救设备…",
+      "title": "瓦努阿图附近海域发生6.9级地震",
+      "summary": "新华网报道，瓦努阿图附近海域发生6.9级地震。目前可确认的信息以相关部门和权威媒体后续发布为准。",
       "category": "国内",
       "source": "新华网",
-      "published_at": "2026-10-23T23:12:30+08:00",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pNjlBSWx5cmdScXN0QzYwdE1UNmVqM01sOXhZU18xcGRHMkVoMEs5WDNGbHpueVdjRTYwUE1ZQ3p2UFR3SkwzOE80bEEtamE2aUxZSEN2alBseDJBazA0T2tjbXJ4aHZuWHBpN0NubWVkTjAzNmxF?oc=5",
-      "image_url": "",
-      "quick_summary": "新华网这篇报道主要讲的是：卫生健康部门开展西藏巴青县地震医疗应急工作。据新华社北京10月23日电 记者23日从国家卫生健康委获悉，国家卫生健康委已派出有关司局负责同志带领国家级专家紧急赴西藏巴青县地震灾区支持指导医疗救治等工作，会同西藏自治区调派6支卫生应急队伍携带急救设备…",
+      "published_at": "2026-10-24T12:51:06+08:00",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qQTBPRTZJdHNhX1JRMk9HSjdJSlVBYWJKSmhRVDlrQ3ZOa0kxUUNVRkZlRjBBLTcyNy15V0VfQ3hKWDQtdjNkdUhjRDdROGRSOElXTjUtcGk1UXlzTFkxVzlHMGNvUEVHby1KakpIQ0Y3U0txN0s0S0NMakR6QjA?oc=5",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.WykXYeC-ed79Pfq38T8yAAHaFj&pid=15.1",
+      "quick_summary": "新华网这篇报道主要讲的是：瓦努阿图附近海域发生6.9级地震。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
       "key_points": [
-        "核心事件：卫生健康部门开展西藏巴青县地震医疗应急工作",
-        "据新华社北京10月23日电 记者23日从国家卫生健康委获悉，国家卫生健康委已派出有关司局负责同志带领国家级专家紧急赴西藏巴青县地震灾区支持指导医疗救治等工作，会同西藏自治区调派6支卫生应急队伍携带急救设备…",
+        "核心事件：瓦努阿图附近海域发生6.9级地震",
         "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
       ]
     },
     {
-      "title": "西藏发生7级强烈地震，据报至少16死、数十人受伤",
-      "summary": "BBC报道，西藏发生7级强烈地震，据报至少16死、数十人受伤。事件仍在发展，后续需关注各方官方表态与权威媒体的交叉确认。",
+      "title": "外媒：瓦努阿图附近海域发生7.2级地震 已触发海啸预警",
+      "summary": "中国新闻网报道，外媒：瓦努阿图附近海域发生7.2级地震 已触发海啸预警。事件仍在发展，后续需关注各方官方表态与权威媒体的交叉确认。",
       "category": "国际",
-      "source": "BBC",
-      "published_at": "2026-10-23T14:04:35+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wVHJTQWpCVHYxMWN3LThSdWZHVDg1NWFFS25oTTQ4UDQ2NzhHTk9feHNXeHAwanlKR3lYc3lMbERlWm9TYXhQRUotdk9HNF9sOXlZckt1M1pDQkRZN3lHOXdIcVZHbFXSAWxBVV95cUxNU3Nxb0NDUXB4M2pKU0pjSlVZZl9qbnFWODJJV1A5RjJwR3lPamtYR2RQOTZVa2FnZjE4SWFfNTk2blZPUkdVTDRDTzZFUmJnLWo2MjIwQ3I3ak53OEZ6ZFJ6Z3l0akZjX09GaFg?oc=5",
-      "image_url": "",
-      "quick_summary": "BBC这篇报道主要讲的是：西藏发生7级强烈地震，据报至少16死、数十人受伤。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+      "source": "中国新闻网",
+      "published_at": "2026-10-24T10:57:53+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11RHB3MU1UNVVrTzgtSHBMUlliVVc4T0pBWjBlT2p4dnZSUUEwd0ltSmJzVHJ6WTh4ckQtOU1Wa0FCNk5vTlJPcENKdzk4U1lxY1VIOXo5NEpjRFRmRGxZbDNwbjMyWk1w?oc=5",
+      "image_url": "https://ts1.mm.bing.net/th?id=OIP.y5C2MBxbRyn2wZhoQFPr3QHaEK&pid=15.1",
+      "quick_summary": "中国新闻网这篇报道主要讲的是：外媒：瓦努阿图附近海域发生7.2级地震 已触发海啸预警。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
       "key_points": [
-        "核心事件：西藏发生7级强烈地震，据报至少16死、数十人受伤",
+        "核心事件：外媒：瓦努阿图附近海域发生7.2级地震 已触发海啸预警",
         "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
       ]
     },
     {
-      "title": "三问“问界汽车在神木碰撞起火事故”：撞击瞬间时速是多少？AEB是否启动？起火是否太快？",
-      "summary": "ThePaper.cn报道，三问“问界汽车在神木碰撞起火事故”：撞击瞬间时速是多少？AEB是否启动？起火是否太快。后续重点关注主管部门通报、处置进展和实际影响范围。",
+      "title": "受台风“蔷琵”影响 长三角铁路部门调整列车开行方案",
+      "summary": "中国新闻网报道，受台风“蔷琵”影响 长三角铁路部门调整列车开行方案。受今年第30号台风“蔷琵”影响，为确保铁路运输和旅客出行安全，铁路部门及时启动应急响应，调整列车开行方案，计划23日17时至24日24时对杭深铁路、金温铁路、杭台高铁等线路部分区段采取临时限速措施，24日…下一步，铁路部门将密切关注天气…",
       "category": "社会",
-      "source": "ThePaper.cn",
-      "published_at": "2026-10-23T07:45:00+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tMmwwVHZIYUpSc2gxQXVxQXhvQThxTUZwYldGanNTWDNRV2V2N1BXWlZ3OXVrQVg0WHZPaWRXcnY5bnp5aEdlNDRfSVhPdDhhT1JDZ0ZMYmVVSjNYX2puQw?oc=5",
-      "image_url": "https://ts1.mm.bing.net/th?id=OIP.H2QrS-eLN-2ULhYV4z8m6gHaHa&pid=15.1",
-      "quick_summary": "ThePaper.cn这篇报道主要讲的是：三问“问界汽车在神木碰撞起火事故”：撞击瞬间时速是多少？AEB是否启动？起火是否太快？。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+      "source": "中国新闻网",
+      "published_at": "2026-10-24T13:24:27+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hRV9VTk5Gd3d4dUtJSEJTREh6Y2J6VERfdGIwR1VvOU11VndmUnVZV3pBakI1THltT3gwTW5Odkhjd3Y0TUc0UW1rUFNtejd0VnkySTVvTjBnQXFYUUxaMzB1YjZPZW9W?oc=5",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.MvoDMBTS7Jp2fKhD4xhvPwHaEK&pid=15.1",
+      "quick_summary": "中国新闻网这篇报道主要讲的是：受台风“蔷琵”影响 长三角铁路部门调整列车开行方案。受今年第30号台风“蔷琵”影响，为确保铁路运输和旅客出行安全，铁路部门及时启动应急响应，调整列车开行方案，计划23日17时至24日24时对杭深铁路、金温铁路、杭台高铁等线路部分区段采取临时限速措施，24日…下一步，铁路部门将密切关注天气…",
       "key_points": [
-        "核心事件：三问“问界汽车在神木碰撞起火事故”：撞击瞬间时速是多少？AEB是否启动？起火是否太快？",
+        "核心事件：受台风“蔷琵”影响 长三角铁路部门调整列车开行方案",
+        "受今年第30号台风“蔷琵”影响，为确保铁路运输和旅客出行安全，铁路部门及时启动应急响应，调整列车开行方案，计划23日17时至24日24时对杭深铁路、金温铁路、杭台高铁等线路部分区段采取临时限速措施，24日…下一步，铁路…",
         "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
       ]
     },
@@ -80,48 +81,15 @@
     "china": [
       {
         "category": "国内",
-        "title": "中共中央政治局召开会议习近平向2026全球治理论坛（雄安）致信",
-        "summary": "",
-        "source": "人民日报",
-        "published_at": "2026-10-24T05:56:43+08:00",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT3VYWk5iMDhZY01uUEcxM1VhYXZDUkVfMmozOGMwT3ZMSWFkWnlScFMzNUtnbDJNT1dsU1V2VVMzVE96aE5pRGpuVTZnbGhZakswcWpiSjNvU2tfSXBqcVM4dnl4ckNZcDlQbzh6Wlg3a21iYzlaUW9BNTZ0cDhmcUNMVXdqZDhYbGxKLThucHZDN09seXA0ZEJxZUhEQQ?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "人民日报这篇报道主要讲的是：中共中央政治局召开会议习近平向2026全球治理论坛（雄安）致信。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：中共中央政治局召开会议习近平向2026全球治理论坛（雄安）致信",
-          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
-        ]
-      },
-      {
-        "category": "国内",
-        "title": "卫生健康部门开展西藏巴青县地震医疗应急工作",
-        "summary": "据新华社北京10月23日电 记者23日从国家卫生健康委获悉，国家卫生健康委已派出有关司局负责同志带领国家级专家紧急赴西藏巴青县地震灾区支持指导医疗救治等工作，会同西藏自治区调派6支卫生应急队伍携带急救设备、药品和专业车辆到达灾区现场开展工作，同时安排国家级专家开展线上远程会诊支持，组织周边省份…",
-        "source": "新华网",
-        "published_at": "2026-10-23T23:12:30+08:00",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pNjlBSWx5cmdScXN0QzYwdE1UNmVqM01sOXhZU18xcGRHMkVoMEs5WDNGbHpueVdjRTYwUE1ZQ3p2UFR3SkwzOE80bEEtamE2aUxZSEN2alBseDJBazA0T2tjbXJ4aHZuWHBpN0NubWVkTjAzNmxF?oc=5",
-        "image_url": "",
-        "hot": true,
-        "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：卫生健康部门开展西藏巴青县地震医疗应急工作。据新华社北京10月23日电 记者23日从国家卫生健康委获悉，国家卫生健康委已派出有关司局负责同志带领国家级专家紧急赴西藏巴青县地震灾区支持指导医疗救治等工作，会同西藏自治区调派6支卫生应急队伍携带急救设备、药品和专业车辆到达灾区现场开展工作，同时安排国家级专家开展线上远程会诊支持，组织周边省份…",
-        "key_points": [
-          "核心事件：卫生健康部门开展西藏巴青县地震医疗应急工作",
-          "据新华社北京10月23日电 记者23日从国家卫生健康委获悉，国家卫生健康委已派出有关司局负责同志带领国家级专家紧急赴西藏巴青县地震灾区支持指导医疗救治等工作，会同西藏自治区调派6支卫生应急队伍携带急救设备、药品和专业车…",
-          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
-        ]
-      },
-      {
-        "category": "国内",
         "title": "[视频]中共中央政治局召开会议审议《关于二十届中央第七轮巡视情况的综合报告》 中共中央总书记习近平主持会议",
         "summary": "",
-        "source": "CCTV节目官网",
+        "source": "CCTV",
         "published_at": "2026-10-23T19:06:00+08:00",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGdnlYU3E5WDJVRXduWHpOT25MNDdRMlZLY1NzMTh3dWVUMHlLUHRSWEJVS2pJem4wcmF3cC1WTjFfXzc4Wnh6TVpxVE9ZSDNrMU42WVp1ck1xZUM4Z1JURTVWZjdfaDVsRjdTeDB4eDBLRGVvMHc?oc=5",
-        "image_url": "https://ts1.mm.bing.net/th?id=OIP.j2BGhZdtVTyiYyyT_1u87QHaEo&pid=15.1",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.sykI33dtqvAPjGuncfmYNAHaEx&pid=15.1",
         "hot": false,
         "verified": false,
-        "quick_summary": "CCTV节目官网这篇报道主要讲的是：[视频]中共中央政治局召开会议审议《关于二十届中央第七轮巡视情况的综合报告》 中共中央总书记习近平主持会议。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "CCTV这篇报道主要讲的是：[视频]中共中央政治局召开会议审议《关于二十届中央第七轮巡视情况的综合报告》 中共中央总书记习近平主持会议。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
           "核心事件：[视频]中共中央政治局召开会议审议《关于二十届中央第七轮巡视情况的综合报告》 中共中央总书记习近平主持会议",
           "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
@@ -134,7 +102,7 @@
         "source": "国家国防科技工业局",
         "published_at": "2026-10-23T16:58:06+08:00",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TclZ5aUZVQnlNTFJ2T29PWlp2Mko3LWZsYTUzTktkTzZjeXRZUUxmQm1ySmhFTEdRbURRTEh2ZmNhZ2pLQWp1akVyTHpXSVNScURkU3pVLUhpM3c0d2J5TFZOVTZkYnRMWm1WTUdScVQtcjdIaHdyeg?oc=5",
-        "image_url": "",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.FJXIcK-kKNerlPnjwkRSSgHaEx&pid=15.1",
         "hot": false,
         "verified": false,
         "quick_summary": "国家国防科技工业局这篇报道主要讲的是：中共中央政治局召开会议审议《关于二十届中央第七轮巡视情况的综合报告》 中共中央总书记习近平主持会议。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
@@ -145,86 +113,104 @@
       },
       {
         "category": "国内",
-        "title": "中共中央政治局召开会议中共中央总书记习近平主持会议————头条",
-        "summary": "新华社北京10月23日电 中共中央政治局10月23日召开会议，审议《关于二十届中央第七轮巡视情况的综合报告》。中共中央总书记习近平主持会议。 会议指出，在以习近平同志为核心的党中央坚强领导下，二十届中央第七轮巡视工作深入扎实、成效明显。从巡视看，中央和国家机关工作取得积极进展，但也存在一些问题…",
-        "source": "中央纪委国家监委网站",
-        "published_at": "2026-10-23T14:00:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80TXBKcjIteGRiYk5SdmxQdjhnOGgzNk93R0F6N2tnNVJnME80YTNIMjdCR1NPZXRNOVBZLWM5YWRwX2FjWDBsZWJTOUZyRml0bl9VTmdRUDJ0eUFjTDFQZDBJczFSN19adktVXw?oc=5",
-        "image_url": "",
+        "title": "中共中央政治局召开会议中共中央总书记习近平主持会议_头条信息_新闻",
+        "summary": "会议指出，在以习近平同志为核心的党中央坚强领导下，二十届中央第七轮巡视工作深入扎实、成效明显。从巡视看，中央和国家机关工作取得积极进展，但也存在一些问题，必须高度重视，严肃认真解决。要压实整改责任、加强整改监督，督促被巡视党组织结合学习贯彻习近平党建思想，巩固拓展树立和践行正确政绩观学习教育成…",
+        "source": "本溪市人民政府",
+        "published_at": "2026-10-23T16:48:36+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3NEl1YXRhc2IxQy1CSlJYdHBVZ2FpRlhqYndPejlyTnJoZDVyS2NUaE5aX1dIYkJwc1pDUExQUkc4bk1iSGdfemdqOXU3NjFjU0JFaHVSQWx4OVk?oc=5",
+        "image_url": "https://ts4.mm.bing.net/th?id=OIP.xA8j47UsVzM1WLCJ3URHvgHaER&pid=15.1",
         "hot": false,
         "verified": false,
-        "quick_summary": "中央纪委国家监委网站这篇报道主要讲的是：中共中央政治局召开会议中共中央总书记习近平主持会议————头条。新华社北京10月23日电 中共中央政治局10月23日召开会议，审议《关于二十届中央第七轮巡视情况的综合报告》。会议指出，在以习近平同志为核心的党中央坚强领导下，二十届中央第七轮巡视工作深入扎实、成效明显。从巡视看，中央和国家机关工作取得积极进展，但也存在一些问题…",
+        "quick_summary": "本溪市人民政府这篇报道主要讲的是：中共中央政治局召开会议中共中央总书记习近平主持会议_头条信息_新闻。会议指出，在以习近平同志为核心的党中央坚强领导下，二十届中央第七轮巡视工作深入扎实、成效明显。从巡视看，中央和国家机关工作取得积极进展，但也存在一些问题，必须高度重视，严肃认真解决。要压实整改责任、加强整改监督，督促被巡视党组织结合学习贯彻习近平党建思想，巩固拓展树立和践行正确政绩观学习教育成…",
         "key_points": [
-          "核心事件：中共中央政治局召开会议中共中央总书记习近平主持会议————头条",
-          "新华社北京10月23日电 中共中央政治局10月23日召开会议，审议《关于二十届中央第七轮巡视情况的综合报告》",
+          "核心事件：中共中央政治局召开会议中共中央总书记习近平主持会议_头条信息_新闻",
           "会议指出，在以习近平同志为核心的党中央坚强领导下，二十届中央第七轮巡视工作深入扎实、成效明显",
-          "从巡视看，中央和国家机关工作取得积极进展，但也存在一些问题…"
+          "从巡视看，中央和国家机关工作取得积极进展，但也存在一些问题，必须高度重视，严肃认真解决",
+          "要压实整改责任、加强整改监督，督促被巡视党组织结合学习贯彻习近平党建思想，巩固拓展树立和践行正确政绩观学习教育成…"
         ]
       },
       {
         "category": "国内",
-        "title": "通信行业全力开展西藏巴青地震应急通信保障",
-        "summary": "新华社北京10月23日电（记者周圆）记者23日从工业和信息化部获悉，西藏那曲市巴青县发生7.0级地震后，通信行业全力开展应急通信保障。目前，各级政府应急指挥通信畅通，公众通信服务正常。 灾情发生后，工业和信息化部立即召开调度会，组织西藏自治区通信管理局、各电信企业按照当地政府、前方指挥部有关安…",
-        "source": "新华网",
-        "published_at": "2026-10-23T16:56:12+08:00",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hT0ZDQ3FhTlFmQ1ByQVQzdXdaYkRiSjJmeUl2ZEVsOGZTVzllNWZReXp2UUJuWWRzSzVHZWhNelpIT0V5aFJwSEkxOXQ3eEg5eGtRS0dYT0FkVDhBX0VjMEktTHRsd2JvZS0xbFFLMkdQVzBYRHVz?oc=5",
-        "image_url": "",
-        "hot": true,
-        "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：通信行业全力开展西藏巴青地震应急通信保障。新华社北京10月23日电（记者周圆）记者23日从工业和信息化部获悉，西藏那曲市巴青县发生7.0级地震后，通信行业全力开展应急通信保障。目前，各级政府应急指挥通信畅通，公众通信服务正常。灾情发生后，工业和信息化部立即召开调度会，组织西藏自治区通信管理局、各电信企业按照当地政府、前方指挥部有关安…",
-        "key_points": [
-          "核心事件：通信行业全力开展西藏巴青地震应急通信保障",
-          "新华社北京10月23日电（记者周圆）记者23日从工业和信息化部获悉，西藏那曲市巴青县发生7.0级地震后，通信行业全力开展应急通信保障",
-          "目前，各级政府应急指挥通信畅通，公众通信服务正常",
-          "灾情发生后，工业和信息化部立即召开调度会，组织西藏自治区通信管理局、各电信企业按照当地政府、前方指挥部有关安…"
-        ]
-      },
-      {
-        "category": "国内",
-        "title": "国家发展改革委安排3000万元支持西藏巴青7.0级地震灾害灾后应急恢复",
+        "title": "[视频]习近平对西藏那曲市巴青县7.0级地震作出重要指示强调全力开展人员搜救妥善安置受灾群众切实保障人民群众生命财产安全李强作出批示",
         "summary": "",
-        "source": "新华网",
-        "published_at": "2026-10-23T13:22:16+08:00",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBIWldKM0xMRjNxRVF6aXZseU9qOW1aTGZGYlZBWTBxbUs0c3NmNkh0c3pNOUxKRnR2Ml9zMnpsejZpcTdzZ25uZFpLNGJHM0pnNHZzZnl2U1duZGZyeHBjelF6ZFctVEpiWUZiQ0xYOF9XZkRtaGZF?oc=5",
-        "image_url": "",
+        "source": "CCTV节目官网",
+        "published_at": "2026-10-23T19:08:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jNkFPNjBKYWxMWDBvLTR5WlRiWEs4Qmhza2o3bWYxX2FtWGRSTzN1M1p1ZzZrMmpESWZSZktPR1hZWHJveXN1M0ZJenN6TUhQdExpNkhwcUNfV2lOSTNJQm1vLVNWb1RwVmpYdmpzRHJrdzhoeHc?oc=5",
+        "image_url": "https://ts3.mm.bing.net/th?id=OIP.3tZYEpxjHm1j9Pb2QqS7wAHaFE&pid=15.1",
         "hot": true,
-        "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：国家发展改革委安排3000万元支持西藏巴青7.0级地震灾害灾后应急恢复。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "verified": false,
+        "quick_summary": "CCTV节目官网这篇报道主要讲的是：[视频]习近平对西藏那曲市巴青县7.0级地震作出重要指示强调全力开展人员搜救妥善安置受灾群众切实保障人民群众生命财产安全李强作出批示。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：国家发展改革委安排3000万元支持西藏巴青7.0级地震灾害灾后应急恢复",
+          "核心事件：[视频]习近平对西藏那曲市巴青县7.0级地震作出重要指示强调全力开展人员搜救妥善安置受灾群众切实保障人民群众生命财产安全李强作出批示",
           "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
         ]
       },
       {
         "category": "国内",
-        "title": "两部门紧急拨付5000万元支持西藏做好地震应急抢险救灾工作",
-        "summary": "10月22日22时33分，西藏那曲市巴青县发生7.0级地震。财政部、应急管理部23日紧急拨付5000万元中央自然灾害救灾资金，支持西藏开展地震应急抢险救援和受灾群众救助工作，重点做好人员搜救、受灾群众转移安置、排危除险等应急处置以及倒损民房修复等工作，最大限度减少灾害损失和人员伤亡。",
-        "source": "新华网",
-        "published_at": "2026-10-23T12:25:48+08:00",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdmZLRUxndFl0RE5iR2szOWQ0OWNzMlZtYk5JUzJ4a18zTDNxeTM2UWZWZVliSVJIZEprVk1OOEVCdWYzcXlTUDNFdU5LUVp5MURITkJiVG1hcHNnTmFvdzJraW9jV1NYem1hbDkyZW1UX2hpNjZFVnJseWhsZ01UUUtINA?oc=5",
-        "image_url": "",
+        "title": "国家防总、应急管理部针对江苏启动防汛防台风四级应急响应",
+        "summary": "今年第30号台风“蔷琵”（超强台风级）中心10月23日18时距离台湾台北市东偏南方向约180公里，中心附近最大风力14级（45米每秒）。预计，“蔷琵”将以每小时5－10公里速度向西偏北方向缓慢移动，逐渐向台湾东北部靠近，移入东海南部后，将于25日前后沿浙江东部近海北上，之后转向东北方向。受冷空…",
+        "source": "央视网",
+        "published_at": "2026-10-23T20:53:35+08:00",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fNUtMaWxBSHpTdEtJS0c0VUIxd05KRGppZlJ2elFKY0prWDd5YjAtckx5aGwtTjhRTVpjMlR0cjlxYTVPOVBZaHdsRTZ6b0hDTEZyMTl0TTlrcldEZHVwT2pWOWFFSWNVSE92bnR2U2FWRmRRTW81eA?oc=5",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.cbA5p5_0vYllQu57cKJZIwHaEK&pid=15.1",
         "hot": true,
         "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：两部门紧急拨付5000万元支持西藏做好地震应急抢险救灾工作。10月22日22时33分，西藏那曲市巴青县发生7.0级地震。财政部、应急管理部23日紧急拨付5000万元中央自然灾害救灾资金，支持西藏开展地震应急抢险救援和受灾群众救助工作，重点做好人员搜救、受灾群众转移安置、排危除险等应急处置以及倒损民房修复等工作，最大限度减少灾害损失和人员伤亡。",
+        "quick_summary": "央视网这篇报道主要讲的是：国家防总、应急管理部针对江苏启动防汛防台风四级应急响应。今年第30号台风“蔷琵”（超强台风级）中心10月23日18时距离台湾台北市东偏南方向约180公里，中心附近最大风力14级（45米每秒）。预计，“蔷琵”将以每小时5－10公里速度向西偏北方向缓慢移动，逐渐向台湾东北部靠近，移入东海南部后，将于25日前后沿浙江东部近海北上，之后转向东北方向。",
         "key_points": [
-          "核心事件：两部门紧急拨付5000万元支持西藏做好地震应急抢险救灾工作",
-          "10月22日22时33分，西藏那曲市巴青县发生7.0级地震",
-          "财政部、应急管理部23日紧急拨付5000万元中央自然灾害救灾资金，支持西藏开展地震应急抢险救援和受灾群众救助工作，重点做好人员搜救、受灾群众转移安置、排危除险等应急处置以及倒损民房修复等工作，最大限度减少灾害损失和人员…"
+          "核心事件：国家防总、应急管理部针对江苏启动防汛防台风四级应急响应",
+          "今年第30号台风“蔷琵”（超强台风级）中心10月23日18时距离台湾台北市东偏南方向约180公里，中心附近最大风力14级（45米每秒）",
+          "预计，“蔷琵”将以每小时5－10公里速度向西偏北方向缓慢移动，逐渐向台湾东北部靠近，移入东海南部后，将于25日前后沿浙江东部近海北上，之后转向东北方向"
         ]
       },
       {
         "category": "国内",
-        "title": "国家防总、应急管理部针对江苏启动防汛防台风四级应急响应",
+        "title": "瓦努阿图附近海域发生6.9级地震",
         "summary": "",
-        "source": "央视网",
-        "published_at": "2026-10-23T20:53:35+08:00",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fNUtMaWxBSHpTdEtJS0c0VUIxd05KRGppZlJ2elFKY0prWDd5YjAtckx5aGwtTjhRTVpjMlR0cjlxYTVPOVBZaHdsRTZ6b0hDTEZyMTl0TTlrcldEZHVwT2pWOWFFSWNVSE92bnR2U2FWRmRRTW81eA?oc=5",
-        "image_url": "",
+        "source": "新华网",
+        "published_at": "2026-10-24T12:51:06+08:00",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qQTBPRTZJdHNhX1JRMk9HSjdJSlVBYWJKSmhRVDlrQ3ZOa0kxUUNVRkZlRjBBLTcyNy15V0VfQ3hKWDQtdjNkdUhjRDdROGRSOElXTjUtcGk1UXlzTFkxVzlHMGNvUEVHby1KakpIQ0Y3U0txN0s0S0NMakR6QjA?oc=5",
+        "image_url": "https://ts3.mm.bing.net/th?id=OIP.WykXYeC-ed79Pfq38T8yAAHaFj&pid=15.1",
         "hot": true,
         "verified": true,
-        "quick_summary": "央视网这篇报道主要讲的是：国家防总、应急管理部针对江苏启动防汛防台风四级应急响应。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "新华网这篇报道主要讲的是：瓦努阿图附近海域发生6.9级地震。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：国家防总、应急管理部针对江苏启动防汛防台风四级应急响应",
+          "核心事件：瓦努阿图附近海域发生6.9级地震",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "记者直击：各类救援车辆星夜驰援西藏巴青地震灾区",
+        "summary": "24日清晨，一辆辆救援车辆向着西藏巴青地震灾区挺进，工程设备、折叠房等物资同步运往一线。新华社记者连夜从拉萨奔赴震区，沿途驰援车队络绎不绝。天灾无情，万众同心，救援全力以赴。 该文观点仅代表作者本人，搜狐号系信息发布平台，搜狐仅提供信息存储空间服务。",
+        "source": "新华网",
+        "published_at": "2026-10-24T12:09:44+08:00",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hWFB1Q1VKbTl5NnJMRjUyTkF5X25jblR6LXAtY3JhX0JBQ0l5NXRaekc5Rjd3QkdaeUNvbWU2ZXlTSVd0UjgzZXVqUzNUbEZhdnhPLUxuZkJqZUVlYWlDWmpwa3VhOW91VkxlUjhMT3l0VUxSSWNv?oc=5",
+        "image_url": "https://ts4.mm.bing.net/th?id=OIP.JjTM9kNXR4Ueh4hcPXdzVQHaE7&pid=15.1",
+        "hot": true,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：记者直击：各类救援车辆星夜驰援西藏巴青地震灾区。24日清晨，一辆辆救援车辆向着西藏巴青地震灾区挺进，工程设备、折叠房等物资同步运往一线。新华社记者连夜从拉萨奔赴震区，沿途驰援车队络绎不绝。天灾无情，万众同心，救援全力以赴。该文观点仅代表作者本人，搜狐号系信息发布平台，搜狐仅提供信息存储空间服务。",
+        "key_points": [
+          "核心事件：记者直击：各类救援车辆星夜驰援西藏巴青地震灾区",
+          "24日清晨，一辆辆救援车辆向着西藏巴青地震灾区挺进，工程设备、折叠房等物资同步运往一线",
+          "新华社记者连夜从拉萨奔赴震区，沿途驰援车队络绎不绝",
+          "天灾无情，万众同心，救援全力以赴",
+          "该文观点仅代表作者本人，搜狐号系信息发布平台，搜狐仅提供信息存储空间服务"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "瓦努阿图群岛发生6.8级地震，震源深度10千米",
+        "summary": "央视网消息：中国地震台网正式测定：10月24日10时31分在瓦努阿图群岛（南纬14.05度，东经165.55度）发生6.8级地震，震源深度10千米。",
+        "source": "央视网",
+        "published_at": "2026-10-24T11:11:22+08:00",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nZmtvNUdGQ2hVTzBHSXBORU9uZ05MWGN0TzNITUdMUmVMN1d5aWdDS1JCbk9LNnZHZnk1ZGhfUkR3U3NVNl9KejNPWTV5N0cyV1ZHVm1taVB5aVNiX3ZsODZaMU9BdW5TaTJCQW1OcC1lTk5oa0tzcA?oc=5",
+        "image_url": "http://www.bing.com/th?id=ONUT.43YjOCNWL00ePsvAuLSRIA&pid=News",
+        "hot": true,
+        "verified": true,
+        "quick_summary": "央视网这篇报道主要讲的是：瓦努阿图群岛发生6.8级地震，震源深度10千米。央视网消息：中国地震台网正式测定：10月24日10时31分在瓦努阿图群岛（南纬14.05度，东经165.55度）发生6.8级地震，震源深度10千米。",
+        "key_points": [
+          "核心事件：瓦努阿图群岛发生6.8级地震，震源深度10千米",
+          "央视网消息：中国地震台网正式测定：10月24日10时31分在瓦努阿图群岛（南纬14.05度，东经165.55度）发生6.8级地震，震源深度10千米",
           "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
         ]
       },
@@ -246,67 +232,82 @@
       },
       {
         "category": "国内",
-        "title": "应对台风“蔷琵” 浙江提升防台风应急响应至Ⅲ级",
+        "title": "西藏那曲市巴青县7.0级地震抢险救援工作抓紧进行",
+        "summary": "",
+        "source": "央视网",
+        "published_at": "2026-10-23T20:12:30+08:00",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05QUlVeV9OdmF4RG11SDYwaWFFNkJBRXdkQ0lQSWRhNjltbk5UdE9SSVc5VVktdk51b3R4c2t0VnF5OWhOQjV0dkdOckcwQ3NEcF9ka3lEQzFjdy1ydnhyMkVSWDhzckpZeV95cWJoR0JFemxIN1c4Tg?oc=5",
+        "image_url": "",
+        "hot": true,
+        "verified": true,
+        "quick_summary": "央视网这篇报道主要讲的是：西藏那曲市巴青县7.0级地震抢险救援工作抓紧进行。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：西藏那曲市巴青县7.0级地震抢险救援工作抓紧进行",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "探访西藏巴青7.0级地震安置现场",
         "summary": "",
         "source": "中国新闻网",
-        "published_at": "2026-10-23T13:30:08+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rRk1ZYzA4dHRzMDV6dHoxSnF1bXVhc2JRZEI4bW9udlFycVdpaVBiQW9MVGdxMkh5WEs1UHJwbW5HMEtYTGxrVUd4WXZNOG1mbzl3UmtqLVB1UkxFTUhvMklKcTVaVVdt?oc=5",
+        "published_at": "2026-10-24T15:26:10+08:00",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mVlpBVk5PS2EzeEtMZi1lSDU2aktWb01rRER0aldfVlRWUE5wU0MzYVplVjRjSlY2M3VEZ1M1OUFndWZlai1JNG41TWVNT2p0dFB4QTlVTWYzTkxjelZlSFJoYVdWVU1jRXpDbXNjaDM?oc=5",
         "image_url": "",
         "hot": true,
         "verified": true,
-        "quick_summary": "中国新闻网这篇报道主要讲的是：应对台风“蔷琵” 浙江提升防台风应急响应至Ⅲ级。中新网杭州10月23日电 (钱晨菲)为应对今年第30号台风“蔷琵”，浙江省防指决定于23日9时将防台风应急响应提升至Ⅲ级。“蔷琵”当日5时中心位于台湾台北市东南方向约405公里的洋面上，中心附近最大风力14级(强台风级)，预计将以每小时20公里至25公里的速度向西北方向移动。受其影响，浙江省沿海海面23日至25日有9～11级阵风，其中23日至24日中南部海面可达11～13级。",
+        "quick_summary": "中国新闻网这篇报道主要讲的是：探访西藏巴青7.0级地震安置现场。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：应对台风“蔷琵” 浙江提升防台风应急响应至Ⅲ级",
-          "中新网杭州10月23日电 (钱晨菲)为应对今年第30号台风“蔷琵”，浙江省防指决定于23日9时将防台风应急响应提升至Ⅲ级",
-          "“蔷琵”当日5时中心位于台湾台北市东南方向约405公里的洋面上，中心附近最大风力14级(强台风级)，预计将以每小时20公里至25公里的速度向西北方向移动",
-          "受其影响，浙江省沿海海面23日至25日有9～11级阵风，其中23日至24日中南部海面可达11～13级"
-        ]
-      },
-      {
-        "category": "国内",
-        "title": "福建海事局启动防台风三级应急响应 55条客渡运航线停航",
-        "summary": "",
-        "source": "中新网福建",
-        "published_at": "2026-10-23T10:31:50+08:00",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HZ1lSRlY4cXRWbElxTjZxbVN6OUpfS3RKQmxQZzFYT3lhOGdNRWRLam51YnVOcldtYTBRcnE3UXZGZGVqd3BISFZPSUNaYWpFUUsxUkhpVVpmMHp1R0dLNHlQRnFvU3d3ZXBHVDVuS3I?oc=5",
-        "image_url": "",
-        "hot": true,
-        "verified": true,
-        "quick_summary": "中新网福建这篇报道主要讲的是：福建海事局启动防台风三级应急响应 55条客渡运航线停航。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：福建海事局启动防台风三级应急响应 55条客渡运航线停航",
+          "核心事件：探访西藏巴青7.0级地震安置现场",
           "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
         ]
       },
       {
         "category": "国内",
-        "title": "西藏巴青7.0级地震已造成16人遇难、76人受伤",
+        "title": "外媒：瓦努阿图附近海域发生7.2级地震 已触发海啸预警",
         "summary": "",
-        "source": "新华网",
-        "published_at": "2026-10-23T15:07:06+08:00",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IQXBGbUVpY1ZhbGdNRVdhM1FKUlZvUjdnVGxHdWtSay0xYjZCX0VydzJsWVF3bHhwazZGOWtyZzl2RFItd2I3dW5XVzVQTm0yRUF6Y0VHOW5ONTNocUxxQlZ1Zzh1cEhhYnBzT0dNMUlLQXJPTFVpcVZpMnRmNDQ?oc=5",
+        "source": "中国新闻网",
+        "published_at": "2026-10-24T10:57:53+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11RHB3MU1UNVVrTzgtSHBMUlliVVc4T0pBWjBlT2p4dnZSUUEwd0ltSmJzVHJ6WTh4ckQtOU1Wa0FCNk5vTlJPcENKdzk4U1lxY1VIOXo5NEpjRFRmRGxZbDNwbjMyWk1w?oc=5",
         "image_url": "",
         "hot": true,
         "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：西藏巴青7.0级地震已造成16人遇难、76人受伤。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "中国新闻网这篇报道主要讲的是：外媒：瓦努阿图附近海域发生7.2级地震 已触发海啸预警。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：西藏巴青7.0级地震已造成16人遇难、76人受伤",
+          "核心事件：外媒：瓦努阿图附近海域发生7.2级地震 已触发海啸预警",
           "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
         ]
       },
       {
         "category": "国内",
-        "title": "专家：西藏那曲巴青7.0级地震是一次拉张型破裂",
+        "title": "习近平向2026全球治理论坛（雄安）致信",
         "summary": "",
-        "source": "新华网",
-        "published_at": "2026-10-23T14:40:10+08:00",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV2xVX2Y2dFhJZW9fOHJRU3dWNUxxS2lDT2NoaDJkektFd0dWbmZzQ3RudzlnS2xpc0FTYTdwMkJTbXN0RW5uQXZzWVZBbkdkbjZBZ01RdFN4a3dnREViWW92WWctbi1sdVB0OENQWnNoalZvVllIZko1ZDZsOEg5UW1rSQ?oc=5",
+        "source": "tj.gov.cn",
+        "published_at": "2026-10-24T07:56:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnYUVpM01IMTVZZVpibTlPOUJ3QUZPUWxSN2x2c2V3ZnJEdVJtWV83emd6Zk96MGZmVmpIZDR6SW1JWnhoc1MtRDF3d2lGaXpaTnNpZE5kX3JrUnJYOFBYTUU5N2Zja2lKM05V?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "tj.gov.cn这篇报道主要讲的是：习近平向2026全球治理论坛（雄安）致信。19 小时之前 · 10月23日，国家主席习近平向2026全球治理论坛（雄安）致信。习近平指出，当前，世界百年变局加速演进，和平赤字 …",
+        "key_points": [
+          "核心事件：习近平向2026全球治理论坛（雄安）致信",
+          "19 小时之前 · 10月23日，国家主席习近平向2026全球治理论坛（雄安）致信",
+          "习近平指出，当前，世界百年变局加速演进，和平赤字 …"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "直击西藏巴青7.0级地震一线",
+        "summary": "",
+        "source": "中国新闻网",
+        "published_at": "2026-10-24T09:43:11+08:00",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHWEp1X2pBSFJ2MkxjZ3FobmlLdUEtZHZ6MFRzMFRJYmVjOVRzZG90a24taGZCaV9MZWhGSG9oVFE5R1RPYXpFSWxUdUp6VzEyQnpCNVJPc3Z4TnNKNVpicmdZbWdSanA4QXpmYWpnMA?oc=5",
         "image_url": "",
         "hot": true,
         "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：专家：西藏那曲巴青7.0级地震是一次拉张型破裂。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "中国新闻网这篇报道主要讲的是：直击西藏巴青7.0级地震一线。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：专家：西藏那曲巴青7.0级地震是一次拉张型破裂",
+          "核心事件：直击西藏巴青7.0级地震一线",
           "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
         ]
       }
@@ -314,56 +315,67 @@
     "world": [
       {
         "category": "国际",
-        "title": "西藏发生7级强烈地震，据报至少16死、数十人受伤",
+        "title": "外媒：瓦努阿图附近海域发生7.2级地震 已触发海啸预警",
         "summary": "",
-        "source": "BBC",
-        "published_at": "2026-10-23T14:04:35+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wVHJTQWpCVHYxMWN3LThSdWZHVDg1NWFFS25oTTQ4UDQ2NzhHTk9feHNXeHAwanlKR3lYc3lMbERlWm9TYXhQRUotdk9HNF9sOXlZckt1M1pDQkRZN3lHOXdIcVZHbFXSAWxBVV95cUxNU3Nxb0NDUXB4M2pKU0pjSlVZZl9qbnFWODJJV1A5RjJwR3lPamtYR2RQOTZVa2FnZjE4SWFfNTk2blZPUkdVTDRDTzZFUmJnLWo2MjIwQ3I3ak53OEZ6ZFJ6Z3l0akZjX09GaFg?oc=5",
-        "image_url": "",
+        "source": "中国新闻网",
+        "published_at": "2026-10-24T10:57:53+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11RHB3MU1UNVVrTzgtSHBMUlliVVc4T0pBWjBlT2p4dnZSUUEwd0ltSmJzVHJ6WTh4ckQtOU1Wa0FCNk5vTlJPcENKdzk4U1lxY1VIOXo5NEpjRFRmRGxZbDNwbjMyWk1w?oc=5",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.y5C2MBxbRyn2wZhoQFPr3QHaEK&pid=15.1",
         "hot": true,
         "verified": true,
-        "quick_summary": "BBC这篇报道主要讲的是：西藏发生7级强烈地震，据报至少16死、数十人受伤。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "中国新闻网这篇报道主要讲的是：外媒：瓦努阿图附近海域发生7.2级地震 已触发海啸预警。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：西藏发生7级强烈地震，据报至少16死、数十人受伤",
+          "核心事件：外媒：瓦努阿图附近海域发生7.2级地震 已触发海啸预警",
           "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
         ]
       },
       {
         "category": "国际",
-        "title": "沙特胡塞军事冲突升级 国际油价大涨 一文了解七大最新事态",
-        "summary": "财联社10月23日讯（编辑 刘靖怡）沙特阿拉伯与也门胡塞武装的对峙已进入一个危险的新阶段——在针对机场和能源设施的攻击中不断有平民死亡；石油巨头沙特阿美（Aramco）因此紧急疏散了其总部剩余员工；美国紧急撤离驻沙特阿拉伯的非紧急外交人员。 在近日针对达曼机场和谢巴油田的两起袭击事件中，包括一…",
-        "source": "财联社",
-        "published_at": "2026-10-23T12:08:31+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lMlZidWRtai0zMndQdU1ybFZ5Q2NkQXh2QVYtbHpuLXZRQS1heURoSHlIOEdzcTVEbTlMXzY5TlZzak8tOUVGeg?oc=5",
-        "image_url": "http://www.bing.com/th?id=ONUT.hYPx_0YYP0PoOSwDSoBkVw&pid=News",
+        "title": "日本岩手县附近海域发生5.0级地震 多地有震感",
+        "summary": "",
+        "source": "中国新闻网",
+        "published_at": "2026-10-24T11:19:56+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iWXJocDM0cGhBY21Ibmc4ZFctOVl0dFpZVGJReXZOQk5URm9mbjl0ajlMUUdCMFJ5TUlKdHdQTnFERHE1ejlWMEo0dFRUTnJxSWNiWU1hUWpTaXg5c2VQVDBCSEdEbnA0?oc=5",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.mweO_mQrDrhQcDQSH6y8rwEsDw&pid=15.1",
         "hot": true,
         "verified": true,
-        "quick_summary": "财联社这篇报道主要讲的是：沙特胡塞军事冲突升级 国际油价大涨 一文了解七大最新事态。财联社10月23日讯（编辑 刘靖怡） 沙特阿拉伯与也门胡塞武装的对峙已进入一个危险的新阶段——在针对机场和能源设施的攻击中不断有平民死亡；在近日针对达曼机场和谢巴油田的两起袭击事件中，包括一名印度公民在内的4人遇难。此外，急剧升级的冲突已严重扰乱沙特航班、威胁重要石油基础设施，并引发了更广泛的国际军事介入，这加重了人们对也门战事可能演变为更大范围地区对抗的担忧。周四国际油价基准布伦特原油上涨3%，达到每桶112美元，收盘触及五个月以来的高位。截至格林尼治时间00:30，布伦特原油期货下跌21美分，跌幅0.2%，报每桶112.96美元；",
+        "quick_summary": "中国新闻网这篇报道主要讲的是：日本岩手县附近海域发生5.0级地震 多地有震感。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：沙特胡塞军事冲突升级 国际油价大涨 一文了解七大最新事态",
-          "财联社10月23日讯（编辑 刘靖怡） 沙特阿拉伯与也门胡塞武装的对峙已进入一个危险的新阶段——在针对机场和能源设施的攻击中不断有平民死亡",
-          "在近日针对达曼机场和谢巴油田的两起袭击事件中，包括一名印度公民在内的4人遇难",
-          "此外，急剧升级的冲突已严重扰乱沙特航班、威胁重要石油基础设施，并引发了更广泛的国际军事介入，这加重了人们对也门战事可能演变为更大范围地区对抗的担忧",
-          "周四国际油价基准布伦特原油上涨3%，达到每桶112美元，收盘触及五个月以来的高位"
+          "核心事件：日本岩手县附近海域发生5.0级地震 多地有震感",
+          "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
         ]
       },
       {
         "category": "国际",
-        "title": "【美国中期选举】助力共和党候选人竞选 特朗普豁免部分加拿大产品关税",
-        "summary": "美国总统特朗普取消针对部分加拿大农林产品的50%关税。此举旨在帮助共和党缅因州参议员柯林斯竞选连任。 美加贸易谈判8月破裂后，特朗普对价值200亿美元（约255亿新元）的加拿大进口商品加征50%关税。作为回应，加拿大9月对价值200亿美元的美国商品加征15%至50%的关税。 缅因州与加拿大接壤…",
-        "source": "联合早报",
-        "published_at": "2026-10-24T07:09:43+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YMXMxOTNGV2lnVVBiMktzVmZZdXRvZVdCdFFZMldWUUh3ejYwbFNmTm9FcU9EMDVlc1lrbFlRdmFNTTJEbnNvaFZXZ1VuQzVyZEg5QnVENW9wOGJ3azdCU3NLXzhYZmNrcVE?oc=5",
-        "image_url": "http://www.bing.com/th?id=ONUT.XEOrs0_CoQ-XgPQaBD33uQ&pid=News",
-        "hot": false,
+        "title": "惠誉称，乌克兰战争预计将持续至2027年，目前几乎没有达成停火的势头。",
+        "summary": "",
+        "source": "手机新浪网",
+        "published_at": "2026-10-24T10:14:37+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TcmZGUzN1LUlwOHFlMWtZMktxdzE4UXBxUDdYdzBBVUVleWQzdlBvdWxIX2VhUE1Ba0dZN25qdnBtRFYtNUFuQkQ2VQ?oc=5",
+        "image_url": "https://ts3.mm.bing.net/th?id=OIP.ecsjzNqkelRcebBcsHc0uQHaEK&pid=15.1",
+        "hot": true,
         "verified": false,
-        "quick_summary": "联合早报这篇报道主要讲的是：【美国中期选举】助力共和党候选人竞选 特朗普豁免部分加拿大产品关税。美国总统特朗普取消针对部分加拿大农林产品的50%关税。此举旨在帮助共和党缅因州参议员柯林斯竞选连任。美加贸易谈判8月破裂后，特朗普对价值200亿美元（约255亿新元）的加拿大进口商品加征50%关税。作为回应，加拿大9月对价值200亿美元的美国商品加征15%至50%的关税。在缅因州竞选连任的共和党参议员柯林斯（Susan Collins）曾促白宫解决关税对当地企业和农民造成的影响。",
+        "quick_summary": "手机新浪网这篇报道主要讲的是：惠誉称，乌克兰战争预计将持续至2027年，目前几乎没有达成停火的势头。。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：【美国中期选举】助力共和党候选人竞选 特朗普豁免部分加拿大产品关税",
-          "美国总统特朗普取消针对部分加拿大农林产品的50%关税",
-          "此举旨在帮助共和党缅因州参议员柯林斯竞选连任",
-          "美加贸易谈判8月破裂后，特朗普对价值200亿美元（约255亿新元）的加拿大进口商品加征50%关税",
-          "作为回应，加拿大9月对价值200亿美元的美国商品加征15%至50%的关税"
+          "核心事件：惠誉称，乌克兰战争预计将持续至2027年，目前几乎没有达成停火的势头。",
+          "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
+        ]
+      },
+      {
+        "category": "国际",
+        "title": "胡塞武装称过去24小时沙特袭击也门124次",
+        "summary": "当地时间23日晚，也门胡塞武装发言人叶海亚·萨雷亚在社交媒体上发文表示，过去24小时，沙特阿拉伯对也门首都萨那、西南部塔伊兹省、南部拉赫季省、北部焦夫省和萨达省、西北部哈杰省、西部荷台达省等地发动124次空袭和导弹袭击，造成多人死伤。 据称，参与空袭的F-15战机从沙特西南部海米斯穆谢特的空军…",
+        "source": "央广网",
+        "published_at": "2026-10-24T11:41:34+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LZVJGMTFucWtwUUViVGRZSk9UM1NiSkozQ1E2S25DWVF5Yk9xQnhYeVRKWE1QcGFmX0JBaVN5MHY2Q1ZMQlBudFF4Um1GVEQ0MkVKNDF3Qmg1MFNNZnJqNWdjdVlPLXBy?oc=5",
+        "image_url": "http://www.bing.com/th?id=ONUT.6-fkqUHuG6HELyzq9-kdDA&pid=News",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "央广网这篇报道主要讲的是：胡塞武装称过去24小时沙特袭击也门124次。当地时间23日晚，也门胡塞武装发言人叶海亚·萨雷亚在社交媒体上发文表示，过去24小时，沙特阿拉伯对也门首都萨那、西南部塔伊兹省、南部拉赫季省、北部焦夫省和萨达省、西北部哈杰省、西部荷台达省等地发动124次空袭和导弹袭击，造成多人死伤。据称，参与空袭的F-15战机从沙特西南部海米斯穆谢特的空军…",
+        "key_points": [
+          "核心事件：胡塞武装称过去24小时沙特袭击也门124次",
+          "当地时间23日晚，也门胡塞武装发言人叶海亚·萨雷亚在社交媒体上发文表示，过去24小时，沙特阿拉伯对也门首都萨那、西南部塔伊兹省、南部拉赫季省、北部焦夫省和萨达省、西北部哈杰省、西部荷台达省等地发动124次空袭和导弹袭击…",
+          "据称，参与空袭的F-15战机从沙特西南部海米斯穆谢特的空军…"
         ]
       },
       {
@@ -385,86 +397,72 @@
       },
       {
         "category": "国际",
+        "title": "美国第一夫人促成俄罗斯与乌克兰就奥莱什基地区达成临时停火协议",
+        "summary": "俄罗斯与乌克兰已就俄方控制下的乌克兰城市奥莱什基 (Oleshky)达成局部停火协议。白宫星期五宣布，这项停火协议是由美国第一夫人梅拉尼娅·特朗普 (Melania Trump)促成的。 乌克兰首席谈判代表大卫·阿拉哈米亚 (David Arakhamia)在“电报” (Telegram)平台…",
+        "source": "美国之音",
+        "published_at": "2026-10-24T05:55:28+08:00",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVkwyeVNMU24zYlFHX3hhNEozeWdyMzhYS1MtRDdKNUpVYVcxRG1GdS1SRTZieDhMMFd0cXpZVldHU0FNenpRU2dCdVBicTk0Rnp5c2h5MEJKZVM3SkVQYjNRc09qYjJfYm11WjZSVmJZUDR2WTBnTGN1Tk5KR1hGSUNlYldwdm5zQTR4VFEwSXNvVTB4dEQyRGhpNkZDenFyOXV2ZlJUUEVjLTB3VGp6X1FHME5ubXh3ODQyMFhUeEFvbkVqUUJRWU9sUFdPd2EwLU5aVdIB1wFBVV95cUxObDFjdTh0YW1oeTdXY2dsWDN0UW1jRGJORFBUalRjTWpBWXFrYy1mWTlkd1ZtbUVvaTBiejBIV0FrRTlNQ0dlTVJydE1HOUI1blJGMVlBVEJ3SjNGcE9TLUR5dXVxZ19rMmpUR0R4bldiRzU3MWdrcnE5dWdva3FaUEF0X1NRVHNfQVR1cm5kVnVqdlBkZy1Cc2xzSl91R0lweEhmR3pLdW45YWNEVXROa3dIMDA0NWk4NExrLVV3QnltYTlVQmUyajlOcURmM2RVRzQteUEzSQ?oc=5",
+        "image_url": "http://www.bing.com/th?id=ONUT.wKyO14m9ToZDGNvVnLUgyg&pid=News",
+        "hot": true,
+        "verified": false,
+        "quick_summary": "美国之音这篇报道主要讲的是：美国第一夫人促成俄罗斯与乌克兰就奥莱什基地区达成临时停火协议。俄罗斯与乌克兰已就俄方控制下的乌克兰城市奥莱什基 (Oleshky)达成局部停火协议。白宫星期五宣布，这项停火协议是由美国第一夫人梅拉尼娅·特朗普 (Melania Trump)促成的。乌克兰首席谈判代表大卫·阿拉哈米亚 (David Arakhamia)在“电报” (Telegram)平台…",
+        "key_points": [
+          "核心事件：美国第一夫人促成俄罗斯与乌克兰就奥莱什基地区达成临时停火协议",
+          "俄罗斯与乌克兰已就俄方控制下的乌克兰城市奥莱什基 (Oleshky)达成局部停火协议",
+          "白宫星期五宣布，这项停火协议是由美国第一夫人梅拉尼娅·特朗普 (Melania Trump)促成的",
+          "乌克兰首席谈判代表大卫·阿拉哈米亚 (David Arakhamia)在“电报” (Telegram)平台…"
+        ]
+      },
+      {
+        "category": "国际",
         "title": "泽连斯基称安全保障是乌方谈判“核心要素”",
-        "summary": "乌克兰总统泽连斯基23日在美国智库哈得孙研究所一场线上会议上表示，安全保障是乌方谈判的“核心要素”，“必须切实可靠”。 据乌克兰方面消息，泽连斯基在会议上说，目前约950万乌克兰公民身在境外，乌国家人口的“20%至25%”自冲突全面爆发以来流落海外。“数以百万计的乌民众失去生命、家园和工作”，…",
-        "source": "中华网",
-        "published_at": "2026-10-24T08:59:18+08:00",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WNGNmbU5VdG81WjdQNkxkcDNEdTVIOFhQM2tDYnE0QTJfZFpuWG9RbUhOOFU4US1jb0NBS080Y3JDbGlVLWJVRE1Ub253OE1rMXdKN25HNWdCa1ZTejF6WGtiOUZPb0lpRGFXcEZTZDhxQQ?oc=5",
-        "image_url": "http://www.bing.com/th?id=ONUT.WnPk5T2f2Jwn9VN9-JdceA&pid=News",
+        "summary": "△乌克兰总统泽连斯基（资料图） 乌克兰总统泽连斯基23日在美国智库哈得孙研究所一场线上会议上表示，安全保障是乌方谈判的“核心要素”，“必须切实可靠”。 据乌克兰方面消息，泽连斯基在会议上说，目前约950万乌克兰公民身在境外，乌国家人口的“20%至25%”自冲突 ...",
+        "source": "东方财富网",
+        "published_at": "2026-10-24T05:07:22+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvRzRRYVpKNng1R0FkdWFHVVZZamNlLVR0MmY3ZmplQW04bVcwclphRVJjZFY2aGRoWk9EQ0o4OVJQc1g5RE9xZzRETG96eDBpd29JUUJWYkxLZlNtT2U2VQ?oc=5",
+        "image_url": "http://www.bing.com/th?id=ONUT.gHPVB9VBC4iSECy47uCBnQ&pid=News",
         "hot": false,
         "verified": false,
-        "quick_summary": "中华网这篇报道主要讲的是：泽连斯基称安全保障是乌方谈判“核心要素”。乌克兰总统泽连斯基23日在美国智库哈得孙研究所一场线上会议上表示，安全保障是乌方谈判的“核心要素”，“必须切实可靠”。据乌克兰方面消息，泽连斯基在会议上说，目前约950万乌克兰公民身在境外，乌国家人口的“20%至25%”自冲突全面爆发以来流落海外。“数以百万计的乌民众失去生命、家园和工作”，因此，乌方期盼得到伙伴的安全保障。泽连斯基称，乌方目前正在就美乌双边安全保障和乌加入北约问题开展工作，安 ...。“数以百万计的乌民众失去生命、家园和工作”，…",
+        "quick_summary": "东方财富网这篇报道主要讲的是：泽连斯基称安全保障是乌方谈判“核心要素”。乌克兰总统泽连斯基23日在美国智库哈得孙研究所一场线上会议上表示，安全保障是乌方谈判的“核心要素”，“必须切实可靠”。据乌克兰方面消息，泽连斯基在会议上说，目前约950万乌克兰公民身在境外，乌国家人口的“20%至25%”自冲突全面爆发以来流落海外。泽连斯基在会上称，乌美俄三方会谈计划于11月前半月在阿联酋阿布扎比举行。俄罗斯总统新闻秘书佩斯科夫23日在新闻发布会上表示，俄美乌三方会谈计划于11月上旬在阿布扎比举行。△乌克兰总统泽连斯基（资料图） 乌克兰总统泽连斯基23日在美国智库哈得孙研究所一场线上会议上表示，安全保障是乌方谈判的“核心要素”，“必须切实可靠”。",
         "key_points": [
           "核心事件：泽连斯基称安全保障是乌方谈判“核心要素”",
           "乌克兰总统泽连斯基23日在美国智库哈得孙研究所一场线上会议上表示，安全保障是乌方谈判的“核心要素”，“必须切实可靠”",
           "据乌克兰方面消息，泽连斯基在会议上说，目前约950万乌克兰公民身在境外，乌国家人口的“20%至25%”自冲突全面爆发以来流落海外",
-          "“数以百万计的乌民众失去生命、家园和工作”，因此，乌方期盼得到伙伴的安全保障",
-          "泽连斯基称，乌方目前正在就美乌双边安全保障和乌加入北约问题开展工作，安 ..."
+          "泽连斯基在会上称，乌美俄三方会谈计划于11月前半月在阿联酋阿布扎比举行",
+          "俄罗斯总统新闻秘书佩斯科夫23日在新闻发布会上表示，俄美乌三方会谈计划于11月上旬在阿布扎比举行"
         ]
       },
       {
         "category": "国际",
-        "title": "早安!世界丨白宫称特朗普夫人促成俄乌局部停火；美国已准备好与伊朗长期对峙",
+        "title": "以色列军队在约旦河西岸展开军事行动",
+        "summary": "新华社拉姆安拉10月24日电（记者徐泽宇赵伟宏）据巴勒斯坦通讯社报道，以色列军队自23日起在约旦河西岸的希伯伦、杰宁等多地展开军事行动。以军称这是对当天早晨以军士兵在希伯伦遭袭事件的反制措施。 报道称，以军23日晚间在希伯伦西部捣毁了大量巴勒斯坦人的建筑，其中包括商业建筑和工业设施，并要求多个…",
+        "source": "新华网客户端",
+        "published_at": "2026-10-24T15:23:19+08:00",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTk5UYVo4ejRwcTY3YzBQY0ZpM19Da3lScUtPdS1QUkNXbUxndEZkZVhwRTYxUS1UeGFNVG5iNjRuVmZyTWtSZ1FzeXBvREtjbnVCQUZOR2tnMkRZdDZVdFZPQ3NVa2taREtkeEx5M2ZLRzFadURrRnk2blV0SUxyUU05UWdMVnJnRldpY215U3liZGpodzN5NGRB?oc=5",
+        "image_url": "https://ts3.mm.bing.net/th?id=OIP.JaTBex0llYY6OWiJcNjS6wHaD0&pid=15.1",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网客户端这篇报道主要讲的是：以色列军队在约旦河西岸展开军事行动。新华社拉姆安拉10月24日电（记者徐泽宇赵伟宏）据巴勒斯坦通讯社报道，以色列军队自23日起在约旦河西岸的希伯伦、杰宁等多地展开军事行动。以军称这是对当天早晨以军士兵在希伯伦遭袭事件的反制措施。报道称，以军23日晚间在希伯伦西部捣毁了大量巴勒斯坦人的建筑，其中包括商业建筑和工业设施，并要求多个…",
+        "key_points": [
+          "核心事件：以色列军队在约旦河西岸展开军事行动",
+          "新华社拉姆安拉10月24日电（记者徐泽宇赵伟宏）据巴勒斯坦通讯社报道，以色列军队自23日起在约旦河西岸的希伯伦、杰宁等多地展开军事行动",
+          "以军称这是对当天早晨以军士兵在希伯伦遭袭事件的反制措施",
+          "报道称，以军23日晚间在希伯伦西部捣毁了大量巴勒斯坦人的建筑，其中包括商业建筑和工业设施，并要求多个…"
+        ]
+      },
+      {
+        "category": "国际",
+        "title": "菲律宾空军两架教练机相撞 4名空军飞行员死亡",
         "summary": "",
-        "source": "搜狐网",
-        "published_at": "2026-10-24T08:15:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR3VmMk5vU2tFbzd1N3lIYmlteVIzcnU4THh3bnUwR1J1RU5XUVFjYjY3Y3kxU19hQ0RRd0FTVWZ2WDI0em5hRWZLaThuX0dydXctNWJCcFdUOTZBeHd1NVFYN1ktMEYxNW44VXR5YjdhRkNHWk5fNFp5aFBxQ1hTOTVRR0FmakRP?oc=5",
+        "source": "中国新闻网",
+        "published_at": "2026-10-24T15:06:12+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50OWlmUHl6WmZHaGdsNUZ6Q2hBeGx4R255RGlYVUhpcEZLT0otUndUMmlkRWpZUVNpLVlWcG5vZU5idFJ6MHJGX01DOWFKQW1RZ2lJUnlKRkNGSVl1T3BoVjB0SXplalQ1?oc=5",
         "image_url": "",
         "hot": true,
-        "verified": false,
-        "quick_summary": "搜狐网这篇报道主要讲的是：早安!世界丨白宫称特朗普夫人促成俄乌局部停火；美国已准备好与伊朗长期对峙。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "verified": true,
+        "quick_summary": "中国新闻网这篇报道主要讲的是：菲律宾空军两架教练机相撞 4名空军飞行员死亡。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：早安!世界丨白宫称特朗普夫人促成俄乌局部停火；美国已准备好与伊朗长期对峙",
-          "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
-        ]
-      },
-      {
-        "category": "国际",
-        "title": "美国第一夫人促成，俄罗斯与乌克兰就奥莱什基地区达成临时停火协议",
-        "summary": "",
-        "source": "美国之音",
-        "published_at": "2026-10-24T05:55:28+08:00",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVkwyeVNMU24zYlFHX3hhNEozeWdyMzhYS1MtRDdKNUpVYVcxRG1GdS1SRTZieDhMMFd0cXpZVldHU0FNenpRU2dCdVBicTk0Rnp5c2h5MEJKZVM3SkVQYjNRc09qYjJfYm11WjZSVmJZUDR2WTBnTGN1Tk5KR1hGSUNlYldwdm5zQTR4VFEwSXNvVTB4dEQyRGhpNkZDenFyOXV2ZlJUUEVjLTB3VGp6X1FHME5ubXh3ODQyMFhUeEFvbkVqUUJRWU9sUFdPd2EwLU5aVdIB1wFBVV95cUxObDFjdTh0YW1oeTdXY2dsWDN0UW1jRGJORFBUalRjTWpBWXFrYy1mWTlkd1ZtbUVvaTBiejBIV0FrRTlNQ0dlTVJydE1HOUI1blJGMVlBVEJ3SjNGcE9TLUR5dXVxZ19rMmpUR0R4bldiRzU3MWdrcnE5dWdva3FaUEF0X1NRVHNfQVR1cm5kVnVqdlBkZy1Cc2xzSl91R0lweEhmR3pLdW45YWNEVXROa3dIMDA0NWk4NExrLVV3QnltYTlVQmUyajlOcURmM2RVRzQteUEzSQ?oc=5",
-        "image_url": "",
-        "hot": true,
-        "verified": false,
-        "quick_summary": "美国之音这篇报道主要讲的是：美国第一夫人促成，俄罗斯与乌克兰就奥莱什基地区达成临时停火协议。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：美国第一夫人促成，俄罗斯与乌克兰就奥莱什基地区达成临时停火协议",
-          "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
-        ]
-      },
-      {
-        "category": "国际",
-        "title": "普京：重启俄美乌三方会谈不是仅为短暂停火",
-        "summary": "俄罗斯总统普京22日表示，俄罗斯和美国就重启俄美乌三方会谈达成一致，三方会谈的目标不是仅仅为了短暂的停火。 据俄总统新闻网站当天发布的消息，普京在接受俄电视节目主持人扎鲁宾采访时说，通过与美国总统特使威特科夫的会晤，俄美就重启三方会谈达成一致。三方会谈的目标是讨论在和平协议最终达成后如何确保俄…",
-        "source": "新浪新闻_手机新浪网",
-        "published_at": "2026-10-24T04:09:42+08:00",
-        "url": "https://news.google.com/rss/articles/CBMinwRBVV95cUxQc3Vzbzl4NFViYWx0SmZSVk5mR3FFY3lOQ1VjaUsySjJmRERpMXUwT2NwV1FRcXZqcFR6TVBtam1hYVJhWlduQ2FSaWhqb2pFSVgzOG9UZGtsUTM5dWUtNDAwRmxjTUFYcHBYeWEzbjZ1THU0ZE5oUU9jRWZOZ04yR3R6TGdLS2R5TVBMQzhLVWxyd3MxcXNjN1RMazEyQ2NYeEFQUUJhTXo0RWlzNXd3bU93dUhJYjlHaEg5ckF4YWVIR3c1aGw3d0xRX1lVMGNUcXpKSEthVWZHU1FWckdJY2xBX1NhRkVlWWFHMVI4MFk5U1B4S3VvTHlsS3RndmphUnNJNjEyMW1iVVlhWHFqSXhOeEhZRDZxTWg5d0FWci1WSVg3b2FXZWQxaHItNnVKcFI1S2ZrYjM1c3dfOF9nSXB5Mkc1NVdVa1d5SkVTT3dfdUhYS2FFU1BOSHEzZ0JJbG9BQ19hd3ZlaUd0emJaUGx2dFZCY2xhRDR3RmJ3TzNvZGd6bkM1Z0NSWmJKM2hsdURhRXFtakxid0FlOVJIcmY1bTQ1T0E0eGNzRmlzYjdmdnZCN2sybEdVZlRhNlcyZXJqN0pYSDVGUERXSDFBMFdTQ1VWU0lQM1VXZ1ZnSE91RFU2VlRJVmhndmFIWUpuZnFNVXhvdHB0WGlXaUktWUhjZFZmOG1oYkJIWUp6Zkd3MFNmWTJ4b1EzSFd4OGM?oc=5",
-        "image_url": "http://www.bing.com/th?id=ONUT._Li9n-3w-liP0b-ybSkbGQ&pid=News",
-        "hot": true,
-        "verified": false,
-        "quick_summary": "新浪新闻_手机新浪网这篇报道主要讲的是：普京：重启俄美乌三方会谈不是仅为短暂停火。俄罗斯总统普京22日表示，俄罗斯和美国就重启俄美乌三方会谈达成一致，三方会谈的目标不是仅仅为了短暂的停火。据俄总统新闻网站当天发布的消息，普京在接受俄电视节目主持人扎鲁宾采访时说，通过与美国总统特使威特科夫的会晤，俄美就重启三方会谈达成一致。三方会谈的目标是讨论在和平协议最终达成后如何确保俄…",
-        "key_points": [
-          "核心事件：普京：重启俄美乌三方会谈不是仅为短暂停火",
-          "俄罗斯总统普京22日表示，俄罗斯和美国就重启俄美乌三方会谈达成一致，三方会谈的目标不是仅仅为了短暂的停火",
-          "据俄总统新闻网站当天发布的消息，普京在接受俄电视节目主持人扎鲁宾采访时说，通过与美国总统特使威特科夫的会晤，俄美就重启三方会谈达成一致",
-          "三方会谈的目标是讨论在和平协议最终达成后如何确保俄…"
-        ]
-      },
-      {
-        "category": "国际",
-        "title": "美俄乌三方会谈再启：美国求停火成果、普京谋战后秩序、乌克兰要安全保障",
-        "summary": "",
-        "source": "凤凰网",
-        "published_at": "2026-10-23T22:50:30+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRQXd0UFU4cnRFV1d1N1J1NnV4ZnRYSzdmeUY5Y3V5WGMtNlA1SGNEa3RqU1ZHZnFBbFg1ekQ3anN5Z2ZZekhtclhLbTJPOE0wNGc?oc=5",
-        "image_url": "",
-        "hot": true,
-        "verified": false,
-        "quick_summary": "凤凰网这篇报道主要讲的是：美俄乌三方会谈再启：美国求停火成果、普京谋战后秩序、乌克兰要安全保障。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：美俄乌三方会谈再启：美国求停火成果、普京谋战后秩序、乌克兰要安全保障",
+          "核心事件：菲律宾空军两架教练机相撞 4名空军飞行员死亡",
           "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
         ]
       }
@@ -472,33 +470,17 @@
     "finance": [
       {
         "category": "财经",
-        "title": "中国财政部在香港发行票面利率为1.24%的2年期人民币债券——声明",
+        "title": "人民币市场汇价（10月23日）",
         "summary": "",
-        "source": "Moomoo",
-        "published_at": "2026-10-23T13:53:44+08:00",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT0s5VkVGSzYzajRVYklfcjh4V0RaelBLNlJCU2VrbG84dnU5Z0t3QXFKNkxZYzdIdkhpZEQxTG9uY2prdU9Rc0p0SDc4OUlVcUJoU0xXbHBPWmJ6N2RIV1ZMRFJGdmJROWQwM3I4ejhITHhDQ3dUX18zMk9RTDl3czMxN2F2aHNaaTRBaEVvSFhqbm50YWx6LU00VTJURXpreXBzdkJnRTE4U3RaeXVJdw?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "quick_summary": "Moomoo这篇报道主要讲的是：中国财政部在香港发行票面利率为1.24%的2年期人民币债券——声明。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：中国财政部在香港发行票面利率为1.24%的2年期人民币债券——声明",
-          "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
-        ]
-      },
-      {
-        "category": "财经",
-        "title": "长城证券：A股已进入中长期配置价值区间 多重利好形成合力",
-        "summary": "",
-        "source": "央视网",
-        "published_at": "2026-10-23T17:25:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtdkZhS2dRTllUVFZuREFTMk4zRHNhZTBXTVhOS0o3Zm1ORFA1bnJBVGdRTXpndGVmYm83YVNWbTQ4RHlUN1RmX0VlUE8ta1JfWHFmZEdISzhTVHpxMC1FTTBnY2VSQ1k0ZmRodldIOExyU24tX0pnNmlNYmw?oc=5",
-        "image_url": "",
+        "source": "新华网",
+        "published_at": "2026-10-23T10:24:57+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWGhSUVlnNVVYTTFCazJuLU9ieDhfLVVfQlVRNl9ETHY4cGxQRlB2amxwemFQWGNSaXJ0V2dTUjJBbUhkdjJXcmxyZ0xCWUxPa0tXdDZzUEVWM3RMb2dpWDVCd21nbi1NcmE3c0VJb3p5WklhNGdQd0RMZXVyRVBlMzhiX1BHUTlL?oc=5",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.WdYfUpPEcw0x3ZITUo-7BQHaK1&pid=15.1",
         "hot": false,
         "verified": true,
-        "quick_summary": "央视网这篇报道主要讲的是：长城证券：A股已进入中长期配置价值区间 多重利好形成合力。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "新华网这篇报道主要讲的是：人民币市场汇价（10月23日）。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：长城证券：A股已进入中长期配置价值区间 多重利好形成合力",
+          "核心事件：人民币市场汇价（10月23日）",
           "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
         ]
       },
@@ -509,7 +491,7 @@
         "source": "新华网",
         "published_at": "2026-10-23T17:05:01+08:00",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMHEzbkcteDdHZGRjWm9lZDRQNnZkTzYtRmU5cFd1VXFDNHhBeUhHVWwyU29wN1dnOWo1ZkI1S0pNaC1CLURzLVFsOThiLWxnZ3UxQVpPTlQ0aElZdnN0ZE9HaU5EWDF2VEx1TFRXUzBCd18tNVZzWTRXbkJxOGhvckoyZV9Hc2FE?oc=5",
-        "image_url": "",
+        "image_url": "https://ts3.mm.bing.net/th?id=OIP.xm4fF0cl9Nk7-xEMOuXvwQHaCV&pid=15.1",
         "hot": false,
         "verified": true,
         "quick_summary": "新华网这篇报道主要讲的是：港股23日涨0.69% 收报23093.37点。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
@@ -520,18 +502,21 @@
       },
       {
         "category": "财经",
-        "title": "日本核心CPI连续61个月上涨",
-        "summary": "",
-        "source": "新华网",
-        "published_at": "2026-10-23T10:33:47+08:00",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NMzJBLUsyeUxyUWdvbTNnR2JwRW5nWGtXSTNrYVBCWUVVSnVMSjlKVFJ1VUhuSkY2cTQyZ0ZDQ01UM2hyMUt6ZnNKTXM0Z3ZheHhUOFlVTjJveTdibkxybXF2RjdSMEhoUXVVWWlORUJwYTJJVlRUck5vSXhtd1k?oc=5",
-        "image_url": "",
+        "title": "全球央行正悄然以逾常态四倍的速度购金 高盛：储备多元化趋势或将持续",
+        "summary": "高盛本周发布报告称，全球央行8月购金量达到79吨，是2022年俄乌冲突爆发前平均水平的四倍多。与此同时，荷兰、法国等欧洲国家正调整黄金储备的存放安排，更多央行则不愿披露黄金的具体存放地点。 据其估算，全球央行8月共购入79吨黄金，远高于2022年之前每月17吨的平均水平。按季节性因素调整后的近…",
+        "source": "财联社",
+        "published_at": "2026-10-24T10:55:36+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE12UnoxdmZHMV9rX3AxTE1OQjZRSHQzaE9xVUE3cWFDWUVrM1ppRW1TZDQ3Q1MxZ3BYSmVaYlU3Y2FQYVNUbFY4Vw?oc=5",
+        "image_url": "https://ts3.mm.bing.net/th?id=OIP.laci5rQB5mDP5xihrsRZxAHaEn&pid=15.1",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：日本核心CPI连续61个月上涨。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "财联社这篇报道主要讲的是：全球央行正悄然以逾常态四倍的速度购金 高盛：储备多元化趋势或将持续。财联社 10月22日讯（编辑 牛占林） 高盛本周发布报告称，全球央行8月购金量达到79吨，是2022年俄乌冲突爆发前平均水平的四倍多。据其估算，全球央行8月共购入79吨黄金，远高于2022年之前每月17吨的平均水平。按季节性因素调整后的近三个月数据计算，全球央行月均购金量达到85吨。中国是目前能够明确识别的最大黄金买家，高盛估算其8月购金量约为25吨。更重要的是，各国降低对G7储备货币依赖、推动外汇储备多元化的动机预计将持续存在。",
         "key_points": [
-          "核心事件：日本核心CPI连续61个月上涨",
-          "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
+          "核心事件：全球央行正悄然以逾常态四倍的速度购金 高盛：储备多元化趋势或将持续",
+          "财联社 10月22日讯（编辑 牛占林） 高盛本周发布报告称，全球央行8月购金量达到79吨，是2022年俄乌冲突爆发前平均水平的四倍多",
+          "据其估算，全球央行8月共购入79吨黄金，远高于2022年之前每月17吨的平均水平",
+          "按季节性因素调整后的近三个月数据计算，全球央行月均购金量达到85吨",
+          "中国是目前能够明确识别的最大黄金买家，高盛估算其8月购金量约为25吨"
         ]
       },
       {
@@ -541,7 +526,7 @@
         "source": "财联社",
         "published_at": "2026-10-23T16:42:00+08:00",
         "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2M1Y1V1o5aHphOTkwQnBaelZ6OTg3YlkyUEV5ODV6R19HZ0x4SUdYX3o4LXlLZFZXSVFacnpKQ25DdWM1cGZIWA?oc=5",
-        "image_url": "",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.a8gJLZyrLtIcaB2Y5qNvHgHaDM&pid=15.1",
         "hot": false,
         "verified": true,
         "quick_summary": "财联社这篇报道主要讲的是：港股收盘 | 三大指数周内跌超4% 宁德时代下挫近2成。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
@@ -557,7 +542,7 @@
         "source": "央广网",
         "published_at": "2026-10-23T15:33:42+08:00",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FdDVHOVJPN0lKZ3FZWWNqY29sVkItcUlFc1ZMWVdqN1JuY3RicDJaMkhvdDFEUkNEeERfMUZjVl9qVWVhZUhLVmdXSDlFZE1HZWNzZkxsNjQyQzJWMGVHYVptOEk2VmVjNUJqYkpmUkwyRkU?oc=5",
-        "image_url": "",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.pZ-UZ-Uq5QzZ4XyqLNH0hwHaE7&pid=15.1",
         "hot": false,
         "verified": true,
         "quick_summary": "央广网这篇报道主要讲的是：10月23日A股涨跌停情况梳理：84股涨停7股跌停 机器人概念全线爆发。10月23日，A股全天交易结束后合计有84只个股收于涨停，7只个股收于跌停。板块层面，机器人概念迎来行情爆发，其中大业股份（603278.SH）录得6连板，福莱新材（605488.SH）5个交易日收获3次涨停，华阳智能（301502.SZ）、正裕工业（603089.SH）、襄阳轴承（0006…",
@@ -569,17 +554,17 @@
       },
       {
         "category": "财经",
-        "title": "央行将开展7000亿元MLF操作",
+        "title": "A股周五放量上涨 创业板指收盘涨逾4％",
         "summary": "",
-        "source": "求是",
-        "published_at": "2026-10-24T09:27:59+08:00",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EZ0IwNXoyZ0poWG9UUEtfX1JxUTdvNzhUeHJZSkNlTWo3R0Q4Q1lBYTNwMTdlT1kyelJWbWFvUE44TmtTNXpxLWVld3NOa3k1TVlDTUVUM05EX2syMjlzSi1JUkdkWGRDTkZEY3E2ZlpqTkNaZXA1b2JJb0M?oc=5",
-        "image_url": "",
+        "source": "中国新闻网",
+        "published_at": "2026-10-23T18:00:31+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DOWhfeE1tWlVtQzBWa0EzYTRBa01IR3FubTZfaEg4YnRNdEt1T0pxTkkzcElWblhDaTBhR2kzbkdaM2pOZkNiQ3VkV1BUZ3JvRmo5NWlJQnBXMHQ5YkpFS3k3NjBFcFFu?oc=5",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.Jnp8r5LOIbJHgVZftfTekQHaDt&pid=15.1",
         "hot": false,
-        "verified": false,
-        "quick_summary": "求是这篇报道主要讲的是：央行将开展7000亿元MLF操作。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "verified": true,
+        "quick_summary": "中国新闻网这篇报道主要讲的是：A股周五放量上涨 创业板指收盘涨逾4％。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：央行将开展7000亿元MLF操作",
+          "核心事件：A股周五放量上涨 创业板指收盘涨逾4％",
           "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
         ]
       },
@@ -590,7 +575,7 @@
         "source": "新浪网",
         "published_at": "2026-10-24T02:14:00+08:00",
         "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sd19tZl9NQ01MX1BreG9oWkl1aFA2UUE5Ul9YSGFGb3RzZTk3QzNLalZBWmV3ZEx5dndjLWMwd0prUlNfSHVjQUJSYTlrZ2RZektEc1VtcUJGekp6cDB5dFd0ZWJVaFRHSV9OcnVUX0Y?oc=5",
-        "image_url": "",
+        "image_url": "https://ts4.mm.bing.net/th?id=OIP.4vhNsnwMjV9KUru7So6bwAHaEp&pid=15.1",
         "hot": true,
         "verified": false,
         "quick_summary": "新浪网这篇报道主要讲的是：暴涨93%！全球手机都在跌中国反而杀疯了，9月外贸发生了什么？。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
@@ -601,74 +586,54 @@
       },
       {
         "category": "财经",
-        "title": "纽约股市三大股指23日下跌",
+        "title": "中国央行将开展7000亿元MLF操作",
         "summary": "",
-        "source": "新华网",
-        "published_at": "2026-10-24T04:45:44+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWmtOSUZERXd5QndHdXR5RmdENFV6SG5uV3BYR1E5TExsVVhQTGMxcXVWMElzb09JTmMtQ2tTSUdoNW5ubTF2RThCb2JQRGthMmNkN2s5MmVPemtjSU1WeEUtNHZFbTlFNlRhZnZDR1dacWp3YWp3ZjJ5NHVjTlZjcGdxQnFUMEZk?oc=5",
-        "image_url": "",
+        "source": "中国新闻网",
+        "published_at": "2026-10-23T20:32:55+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiMkMwUWFZalVyTHVJMXhoejRhSmtVOURyYTV1VkptbTVDb0wzQ2F0RGQzWDBxb0c0QWV1dzdNV1hWMjM1Y256a3cwb1drUVNuMlBid3BseU1DN0tMR1lReTVYQ053OVhY?oc=5",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.X3lHdBQw9wRH2k5yYj7pLwHaEa&pid=15.1",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：纽约股市三大股指23日下跌。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "中国新闻网这篇报道主要讲的是：中国央行将开展7000亿元MLF操作。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：纽约股市三大股指23日下跌",
+          "核心事件：中国央行将开展7000亿元MLF操作",
           "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
         ]
       },
       {
         "category": "财经",
-        "title": "A股周五放量上涨 创业板指收盘涨逾4％",
+        "title": "大奇迹日！创业板探底回升涨超4%，机器人概念股集体爆发丨复盘论",
         "summary": "",
-        "source": "中国新闻网",
-        "published_at": "2026-10-23T18:00:31+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DOWhfeE1tWlVtQzBWa0EzYTRBa01IR3FubTZfaEg4YnRNdEt1T0pxTkkzcElWblhDaTBhR2kzbkdaM2pOZkNiQ3VkV1BUZ3JvRmo5NWlJQnBXMHQ5YkpFS3k3NjBFcFFu?oc=5",
+        "source": "第一财经",
+        "published_at": "2026-10-23T16:58:15+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOTmoxRjZUOWZkT05ORHRjbzRlNERET0JpNGdLMWxWYm1Md21WVDlweTBMZml0a3NKSWdGYUEwcU5YVm8yVVd6VGFncURDeFhGWmM5dg?oc=5",
         "image_url": "",
         "hot": false,
         "verified": true,
-        "quick_summary": "中国新闻网这篇报道主要讲的是：A股周五放量上涨 创业板指收盘涨逾4％。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "第一财经这篇报道主要讲的是：大奇迹日！创业板探底回升涨超4%，机器人概念股集体爆发丨复盘论。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：A股周五放量上涨 创业板指收盘涨逾4％",
+          "核心事件：大奇迹日！创业板探底回升涨超4%，机器人概念股集体爆发丨复盘论",
+          "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
+        ]
+      },
+      {
+        "category": "财经",
+        "title": "美元指数23日上涨",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-10-24T03:51:44+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcUlCTC1fakcxaDI4WW13eDhzMmVqTUh6Tk5NUUl3a0pFeFFYbUVGVS1nR2FXdkdNUFAzaWtfdGtqbGZKcFlWZlY1c1dLQ0JQWjhFd3pnSngwc1BuWXJwOXA1WmRYVmJZdm9GMW9Hc2R2b3FpWHRJV3lUVE9YbGdIUFIwUVlkakNx?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：美元指数23日上涨。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：美元指数23日上涨",
           "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
         ]
       }
     ],
     "tech": [
-      {
-        "category": "科技",
-        "title": "国产芯片加速抢市场！Wi-Fi MCU份额超六成，蓝牙音频突破五成",
-        "summary": "全球无线连接芯片市场正在经历增长换挡。一方面，存储价格上涨、智能设备需求放缓，给市场带来短期压力；另一方面，物联网、低功耗蓝牙（BLE）、Wi-Fi技术升级和边缘AI，正为行业创造新的增长动力。与此同时，中国芯片厂商在多个细分市场持续提升份额，竞争逐步从低端消费电子向中高端产品延伸。 日本市场…",
-        "source": "新浪财经",
-        "published_at": "2026-10-23T14:21:11+08:00",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqdHVFV0NiZms5b2J1VDJOakRUd3lXWUhTTm12Vkh6T0F4cE91SDJENGVBRG0yVHk4ZGF2eFBMZkcyNkJMb0pPU0tId0VqdmZLRHczckhuVjJDMXNuYzR0N0NsQVdMeFNFVm1BXzZidlFUbnFfMVE?oc=5",
-        "image_url": "http://www.bing.com/th?id=ONUT.lzPtxHSB8WNcC_8FqC-aAQ&pid=News",
-        "hot": false,
-        "verified": false,
-        "quick_summary": "新浪财经这篇报道主要讲的是：国产芯片加速抢市场！Wi-Fi MCU份额超六成，蓝牙音频突破五成。全球无线连接芯片市场正在经历增长换挡。一方面，存储价格上涨、智能设备需求放缓，给市场带来短期压力；另一方面，物联网、低功耗蓝牙（BLE）、Wi-Fi技术升级和边缘AI，正为行业创造新的增长动力。与此同时，中国芯片厂商在多个细分市场持续提升份额，竞争逐步从低端消费电子向中高端产品延伸。",
-        "key_points": [
-          "核心事件：国产芯片加速抢市场！Wi-Fi MCU份额超六成，蓝牙音频突破五成",
-          "全球无线连接芯片市场正在经历增长换挡",
-          "一方面，存储价格上涨、智能设备需求放缓，给市场带来短期压力",
-          "另一方面，物联网、低功耗蓝牙（BLE）、Wi-Fi技术升级和边缘AI，正为行业创造新的增长动力",
-          "与此同时，中国芯片厂商在多个细分市场持续提升份额，竞争逐步从低端消费电子向中高端产品延伸"
-        ]
-      },
-      {
-        "category": "科技",
-        "title": "长征六号改运载火箭成功发射升空 中国航天再次上演“太空水母”",
-        "summary": "8月25日11时21分，在太原卫星发射中心，长征六号丙遥一运载火箭点火升空，以“一箭七星”方式，成功将中科卫星14星、中科卫星15星、银河航天灵知09泰国立方星等7颗卫星送入预定轨道。 长征六号丙运载火箭是由中国航天科技集团有限公司八院研制的新一代两 ...",
-        "source": "中国新闻网",
-        "published_at": "2026-10-24T08:36:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53RHNZT0FqaDBpWXFLeU81dWU3NFctSWdBV2dmd18tcmZwXzd4RVp6X3ljVXFSMVMtRG5iaC1RN0IwOENDbnBDbU00RFVBaDJqN3ZJSFZkYU52SThkX0FTcjhDTlFGSFZYME1ELVV6N1oxWDl2T1E?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "中国新闻网这篇报道主要讲的是：长征六号改运载火箭成功发射升空 中国航天再次上演“太空水母”。8月25日11时21分，在太原卫星发射中心，长征六号丙遥一运载火箭点火升空，以“一箭七星”方式，成功将中科卫星14星、中科卫星15星、银河航天灵知09泰国立方星等7颗卫星送入预定轨道。长征六号丙运载火箭是由中国航天科技集团有限公司八院研制的新一代两 ...。",
-        "key_points": [
-          "核心事件：长征六号改运载火箭成功发射升空 中国航天再次上演“太空水母”",
-          "8月25日11时21分，在太原卫星发射中心，长征六号丙遥一运载火箭点火升空，以“一箭七星”方式，成功将中科卫星14星、中科卫星15星、银河航天灵知09泰国立方星等7颗卫星送入预定轨道",
-          "长征六号丙运载火箭是由中国航天科技集团有限公司八院研制的新一代两 ..."
-        ]
-      },
       {
         "category": "科技",
         "title": "美国首次动用新规，搭载海思芯片的设备被拦截",
@@ -689,12 +654,46 @@
       },
       {
         "category": "科技",
+        "title": "美出口管制下英伟达芯片在中国黑市价格翻倍",
+        "summary": "【大纪元2025年06月13日讯】（大纪元记者高杉编译报导）英伟达（Nvidia）公司首席执行官黄仁勋周四（6月12日）表示，由于美国对中共实施严格的芯片销售管制，英伟达将不再把中国市场纳入其收入和利润预测。 当被CNN记者问及，美国是否会在本周的伦敦贸易 ...",
+        "source": "朝鮮日報中文版",
+        "published_at": "2026-10-24T12:34:56+08:00",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVHRlWVExVklCb3NDN1RNc0d1SlNmdUxqOUJvX1R1bDRfYmVqc0JTV3Z5SU1FLUJyOEl5RjljZURFMmsyS0J6SE1MTkRkYUdOZ3pXUENHVjQ2Z2Vtei1rbzM2Wm9wdVMxME5BT1hEXzBaWjl2Yjgxd3JqWDVBVEQ0Ul9IM0ZMRkM1YXM4WHk2dVgtQQ?oc=5",
+        "image_url": "https://i.epochtimes.com/assets/uploads/2025/05/id14518005-GettyImages-2215609382-700x359.jpg",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "朝鮮日報中文版这篇报道主要讲的是：美出口管制下英伟达芯片在中国黑市价格翻倍。【大纪元2025年06月13日讯】（大纪元记者高杉编译报导）英伟达（Nvidia）公司首席执行官黄仁勋周四（6月12日）表示，由于美国对中共实施严格的芯片销售管制，英伟达将不再把中国市场纳入其收入和利润预测。当被CNN记者问及，美国是否会在本周的伦敦贸易 ...。",
+        "key_points": [
+          "核心事件：美出口管制下英伟达芯片在中国黑市价格翻倍",
+          "【大纪元2025年06月13日讯】（大纪元记者高杉编译报导）英伟达（Nvidia）公司首席执行官黄仁勋周四（6月12日）表示，由于美国对中共实施严格的芯片销售管制，英伟达将不再把中国市场纳入其收入和利润预测",
+          "当被CNN记者问及，美国是否会在本周的伦敦贸易 ..."
+        ]
+      },
+      {
+        "category": "科技",
+        "title": "长征六号改运载火箭成功发射升空 中国航天再次上演“太空水母”",
+        "summary": "8月25日11时21分，在太原卫星发射中心，长征六号丙遥一运载火箭点火升空，以“一箭七星”方式，成功将中科卫星14星、中科卫星15星、银河航天灵知09泰国立方星等7颗卫星送入预定轨道。 长征六号丙运载火箭是由中国航天科技集团有限公司八院研制的新一代两 ...",
+        "source": "中国新闻网",
+        "published_at": "2026-10-24T08:36:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53RHNZT0FqaDBpWXFLeU81dWU3NFctSWdBV2dmd18tcmZwXzd4RVp6X3ljVXFSMVMtRG5iaC1RN0IwOENDbnBDbU00RFVBaDJqN3ZJSFZkYU52SThkX0FTcjhDTlFGSFZYME1ELVV6N1oxWDl2T1E?oc=5",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.jtv_vTgCvrLQOZIPVnwn5wHaE8&pid=15.1",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "中国新闻网这篇报道主要讲的是：长征六号改运载火箭成功发射升空 中国航天再次上演“太空水母”。8月25日11时21分，在太原卫星发射中心，长征六号丙遥一运载火箭点火升空，以“一箭七星”方式，成功将中科卫星14星、中科卫星15星、银河航天灵知09泰国立方星等7颗卫星送入预定轨道。长征六号丙运载火箭是由中国航天科技集团有限公司八院研制的新一代两 ...。",
+        "key_points": [
+          "核心事件：长征六号改运载火箭成功发射升空 中国航天再次上演“太空水母”",
+          "8月25日11时21分，在太原卫星发射中心，长征六号丙遥一运载火箭点火升空，以“一箭七星”方式，成功将中科卫星14星、中科卫星15星、银河航天灵知09泰国立方星等7颗卫星送入预定轨道",
+          "长征六号丙运载火箭是由中国航天科技集团有限公司八院研制的新一代两 ..."
+        ]
+      },
+      {
+        "category": "科技",
         "title": "从CoreWeave到Anthropic，芯片抵押融资正重塑AI债务市场",
         "summary": "",
         "source": "华尔街见闻",
         "published_at": "2026-10-24T00:07:49+08:00",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SMkM1MU8zLW50bTZJQWd6TG9zdS0wN3hnSE9XcFJ2OXRyckt5Y2R2V1ZSUk00NXd6d29FcnF5SEtheXB6LWRfejU5M0JQTzhTN2Nj?oc=5",
-        "image_url": "",
+        "image_url": "https://ts3.mm.bing.net/th?id=OIP.nlWG3rZPmxUeN9L6d_fgqAHaE7&pid=15.1",
         "hot": false,
         "verified": false,
         "quick_summary": "华尔街见闻这篇报道主要讲的是：从CoreWeave到Anthropic，芯片抵押融资正重塑AI债务市场。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
@@ -710,12 +709,28 @@
         "source": "华尔街见闻",
         "published_at": "2026-10-23T23:39:20+08:00",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iZlZVT3N1M0pVaUhTX0F0VTQxazBvcHFBRkFENmFQYVdaYXNhRm5ZekZGLWQwMmZSQy1JMEpBaFo0eHFmUi1UVHh5SlJ2RHhNRUVn?oc=5",
-        "image_url": "",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.tAPH1RpLrOPKLIjiJ3Zs5gHaDz&pid=15.1",
         "hot": false,
         "verified": false,
         "quick_summary": "华尔街见闻这篇报道主要讲的是：AI股遭遇DeepSeek时刻以来最惨一跌！高盛动量组合抹去全年涨幅，半导体指数逼近年线。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
           "核心事件：AI股遭遇DeepSeek时刻以来最惨一跌！高盛动量组合抹去全年涨幅，半导体指数逼近年线",
+          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
+        ]
+      },
+      {
+        "category": "科技",
+        "title": "AI芯片需求持续释放，寒武纪Q3营收同比增长104.47%，净利润增147.74%｜财报见闻",
+        "summary": "",
+        "source": "华尔街见闻",
+        "published_at": "2026-10-23T18:40:45+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FcElqOWJzMTVnbE9PV0lRYV91Tkk3UXRGcnBvR1RsMDVGT2gybWFiamdidTFqV0l6Vld2am8tZS1GcF9VYVhTNGRjeTZqRmotcUYw?oc=5",
+        "image_url": "https://ts3.mm.bing.net/th?id=OIP.JUSrspPfLD7mBbU2D_aWMAHaH3&pid=15.1",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "华尔街见闻这篇报道主要讲的是：AI芯片需求持续释放，寒武纪Q3营收同比增长104.47%，净利润增147.74%｜财报见闻。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：AI芯片需求持续释放，寒武纪Q3营收同比增长104.47%，净利润增147.74%｜财报见闻",
           "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
         ]
       },
@@ -739,68 +754,49 @@
       },
       {
         "category": "科技",
-        "title": "AI芯片需求持续释放，寒武纪Q3营收同比增长104.47%，净利润增147.74%｜财报见闻",
+        "title": "又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题",
+        "summary": "《科创板日报》10月24日讯本周，全球科学服务巨头赛默飞世尔发布第三季度业绩报告：单季度营收121.4亿美元，同比增长9%。同期，公司GAAP营业利润达到22.63亿美元，同比增长17%；调整后营业利润达到29.68亿美元，同比增长15%。 受业绩催化驱动，该股于当地时间10月21日低开后迅速…",
+        "source": "财联社",
+        "published_at": "2026-10-24T10:48:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9IZTl0ZTkza2l5WlZBVkFUbXY4TnkyTzAyLTJSQjd0eVk5b05WSUJ6Sm1rNTg0ZmRFaXl5NTZIdlQ4eTBKYklWNw?oc=5",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.UkBvCjSXvo4u4n_ZYsKpOwHaEJ&pid=15.1",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "财联社这篇报道主要讲的是：又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题。5 小时之前 · 又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题 2026年10月24日 10:49 财联社 新浪财经APP 缩小字体 放大 … 阅读更多。",
+        "key_points": [
+          "核心事件：又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题",
+          "5 小时之前 · 又一AI医药“卖水人”股价新高：干湿闭环后 产业迈向下一命题 2026年10月24日 10:49 财联社 新浪财经APP 缩小字体 放大 … 阅读更多"
+        ]
+      },
+      {
+        "category": "科技",
+        "title": "刚发布一天，宇树机器人空翻表演甩断腿",
         "summary": "",
-        "source": "华尔街见闻",
-        "published_at": "2026-10-23T18:40:45+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FcElqOWJzMTVnbE9PV0lRYV91Tkk3UXRGcnBvR1RsMDVGT2gybWFiamdidTFqV0l6Vld2am8tZS1GcF9VYVhTNGRjeTZqRmotcUYw?oc=5",
+        "source": "观察者网",
+        "published_at": "2026-10-24T11:52:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MTmFGWC0tU0ZldW81WWdvYXh6RWptbm40c3N3SG4xNUNCaHpyR3U5eDZoNmtTMHVLbXN0MnNqcXJ0STNzYUtWeDBRLThEMlZodWxoU1F0eGo4VFY1bkEwQmpKQkU?oc=5",
         "image_url": "",
         "hot": false,
         "verified": false,
-        "quick_summary": "华尔街见闻这篇报道主要讲的是：AI芯片需求持续释放，寒武纪Q3营收同比增长104.47%，净利润增147.74%｜财报见闻。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "观察者网这篇报道主要讲的是：刚发布一天，宇树机器人空翻表演甩断腿。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：AI芯片需求持续释放，寒武纪Q3营收同比增长104.47%，净利润增147.74%｜财报见闻",
+          "核心事件：刚发布一天，宇树机器人空翻表演甩断腿",
           "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
         ]
       },
       {
         "category": "科技",
-        "title": "【能源广角】新能源电价不是越低越好",
-        "summary": "菜价过低伤农，电价过低同样不利于新能源发展。近日，国家能源局召开会议提出，健全完善新能源可持续发展价格结算机制，切实保障新能源合理收益，跟踪指导地方科学组织2027年增量项目机制竞价，及时引导纠偏，确保新能源可持续高质量发展。这一部署为产业可持续发展校准了价格航向。 过低的电价，正在影响新能源…",
-        "source": "中国经济网",
-        "published_at": "2026-10-24T06:37:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jRnlVSldoa3ZsMXd4SWFQMGdrN0xXMGd6WUxkZDlja2ZEYkczVHduNE5oMzJMc1JSX3EwY2RreXUzdWJUUUxOMVcxMTRPRU5FNTk0Q3BtUEZPc3FSckd1MGo1X08wUjNyUWphQlc5QQ?oc=5",
-        "image_url": "http://www.bing.com/th?id=ONUT.EUd-9OFYsZ0vnhlBzxwgkQ&pid=News",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "中国经济网这篇报道主要讲的是：【能源广角】新能源电价不是越低越好。菜价过低伤农，电价过低同样不利于新能源发展。近日，国家能源局召开会议提出，健全完善新能源可持续发展价格结算机制，切实保障新能源合理收益，跟踪指导地方科学组织2027年增量项目机制竞价，及时引导纠偏，确保新能源可持续高质量发展。这一部署为产业可持续发展校准了价格航向。过低的电价，正在影响新能源…",
-        "key_points": [
-          "核心事件：【能源广角】新能源电价不是越低越好",
-          "菜价过低伤农，电价过低同样不利于新能源发展",
-          "近日，国家能源局召开会议提出，健全完善新能源可持续发展价格结算机制，切实保障新能源合理收益，跟踪指导地方科学组织2027年增量项目机制竞价，及时引导纠偏，确保新能源可持续高质量发展",
-          "这一部署为产业可持续发展校准了价格航向",
-          "过低的电价，正在影响新能源…"
-        ]
-      },
-      {
-        "category": "科技",
-        "title": "补齐智驾短板！2027款坦克500上市：33.5万起 激光雷达+700TOPS芯片上车",
+        "title": "“AI缺钱”重构产业叙事 市场不再相信“烧钱就能赢”",
         "summary": "",
-        "source": "驱动之家",
-        "published_at": "2026-10-23T23:00:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwLUlxcHVaS3hqVkRpYW1tQlp2WUlRdVBzbFJvVFRCTTVVWmRwb0RDdjVZTnNuaW9XSFZQaVpNdXZiUkcyMEZZbkwwU3g2WkF5R25VNERsQVI?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "quick_summary": "驱动之家这篇报道主要讲的是：补齐智驾短板！2027款坦克500上市：33.5万起 激光雷达+700TOPS芯片上车。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：补齐智驾短板！2027款坦克500上市：33.5万起 激光雷达+700TOPS芯片上车",
-          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
-        ]
-      },
-      {
-        "category": "科技",
-        "title": "2026国际具身智能技能大赛：机器人“开垦”真场景",
-        "summary": "",
-        "source": "中国新闻网",
-        "published_at": "2026-10-23T13:21:22+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tellLUklQbkVUWjNyRlVlTkV5S2kyRzlMMXpRZUxlcjF4SGxheFBQMW52Z1haazJrNGZOSUp4bVJiMlZqdk1wUndTUXJ0VURJdFVTR2pkeHJvZlJoVGxFcFJvSEYtekFQ?oc=5",
+        "source": "财联社",
+        "published_at": "2026-10-24T08:52:49+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE42bUh0WTFYcDNuaVlJLVlrWVhBS014bmxrZmFVSnBnbmVmWFpEYm9vQ1FqQUIwWHE3dlVBUVRsMGp0ak5KYmNMRA?oc=5",
         "image_url": "",
         "hot": false,
         "verified": true,
-        "quick_summary": "中国新闻网这篇报道主要讲的是：2026国际具身智能技能大赛：机器人“开垦”真场景。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "财联社这篇报道主要讲的是：“AI缺钱”重构产业叙事 市场不再相信“烧钱就能赢”。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：2026国际具身智能技能大赛：机器人“开垦”真场景",
+          "核心事件：“AI缺钱”重构产业叙事 市场不再相信“烧钱就能赢”",
           "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
         ]
       }
@@ -808,19 +804,38 @@
     "society": [
       {
         "category": "社会",
-        "title": "西藏那曲市巴青县发生7.0级地震 解放军和武警部队官兵、民兵迅速投入救援",
-        "summary": "解放军和武警部队官兵、民兵迅速投入救援 解放军报西藏那曲10月23日电10月22日22时33分，西藏那曲市巴青县发生7.0级地震，造成重大人员伤亡。地震发生后，西部战区党委坚决贯彻落实习主席重要指示，战区联指中心迅速启动应急响应机制，主动对接地方用兵需求，统筹各类救援力量，分级下达救援指令，确…",
-        "source": "中华人民共和国国防部",
-        "published_at": "2026-10-24T06:40:43+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Mbzdua2g0OHpVa3ROa3R1bGtLaTZ0aVpsWFV4V1NwQ2FucmpuMkJMQlhKSW0xVDAzdlVnc0d6ZjlGLVh6T3BnZWVzd0dmaVFIazhPMWhqRVA?oc=5",
-        "image_url": "https://q9.itc.cn/q_70/images03/20261024/c2b0eee1570341c39d52c0bcd6d48b76.png",
+        "title": "受台风“蔷琵”影响 长三角铁路部门调整列车开行方案",
+        "summary": "受今年第30号台风“蔷琵”影响，为确保铁路运输和旅客出行安全，铁路部门及时启动应急响应，调整列车开行方案，计划23日17时至24日24时对杭深铁路、金温铁路、杭台高铁等线路部分区段采取临时限速措施，24日对杭深铁路、金温铁路、杭台高铁等线路部分途经列车临时停运。 下一步，铁路部门将密切关注天气…",
+        "source": "中国新闻网",
+        "published_at": "2026-10-24T13:24:27+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hRV9VTk5Gd3d4dUtJSEJTREh6Y2J6VERfdGIwR1VvOU11VndmUnVZV3pBakI1THltT3gwTW5Odkhjd3Y0TUc0UW1rUFNtejd0VnkySTVvTjBnQXFYUUxaMzB1YjZPZW9W?oc=5",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.MvoDMBTS7Jp2fKhD4xhvPwHaEK&pid=15.1",
+        "hot": true,
+        "verified": true,
+        "quick_summary": "中国新闻网这篇报道主要讲的是：受台风“蔷琵”影响 长三角铁路部门调整列车开行方案。受今年第30号台风“蔷琵”影响，为确保铁路运输和旅客出行安全，铁路部门及时启动应急响应，调整列车开行方案，计划23日17时至24日24时对杭深铁路、金温铁路、杭台高铁等线路部分区段采取临时限速措施，24日对杭深铁路、金温铁路、杭台高铁等线路部分途经列车临时停运。下一步，铁路部门将密切关注天气…",
+        "key_points": [
+          "核心事件：受台风“蔷琵”影响 长三角铁路部门调整列车开行方案",
+          "受今年第30号台风“蔷琵”影响，为确保铁路运输和旅客出行安全，铁路部门及时启动应急响应，调整列车开行方案，计划23日17时至24日24时对杭深铁路、金温铁路、杭台高铁等线路部分区段采取临时限速措施，24日对杭深铁路、金…",
+          "下一步，铁路部门将密切关注天气…"
+        ]
+      },
+      {
+        "category": "社会",
+        "title": "几内亚中国公民交通事故伤亡严重",
+        "summary": "近期，巴布亚新几内亚发生涉中国公民交通事故，造成严重人员伤亡。巴新基础设施落后，道路路况差，交通事故高发。中国驻巴新使馆提醒在巴新中国公民牢记交通规则、务必安全行驶、确保出行平安。 一、严禁无证驾驶。须提前办妥巴新认可的合法驾驶证件 ...",
+        "source": "新浪网",
+        "published_at": "2026-10-24T03:22:51+08:00",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RcnNSMVdmZlhHWmlmcEZabHN1NE5aNlVqVGs1YzhNTmdkVTJfdEE0d2RNYmp2RnFnN1ZsenRNYWJZWk1neVBZbXJNMWlBYk1zRjBXRU1YMjFITXpUbjVnb1lEOGVTMTdVQ3QzMnR2WG1DQQ?oc=5",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.UH9JM1C2HQemBuvgkie8FAHaEo&pid=15.1",
         "hot": true,
         "verified": false,
-        "quick_summary": "中华人民共和国国防部这篇报道主要讲的是：西藏那曲市巴青县发生7.0级地震 解放军和武警部队官兵、民兵迅速投入救援。解放军和武警部队官兵、民兵迅速投入救援 解放军报西藏那曲10月23日电10月22日22时33分，西藏那曲市巴青县发生7.0级地震，造成重大人员伤亡。地震发生后，西部战区党委坚决贯彻落实习主席重要指示，战区联指中心迅速启动应急响应机制，主动对接地方用兵需求，统筹各类救援力量，分级下达救援指令，确…",
+        "quick_summary": "新浪网这篇报道主要讲的是：几内亚中国公民交通事故伤亡严重。近期，巴布亚新几内亚发生涉中国公民交通事故，造成严重人员伤亡。巴新基础设施落后，道路路况差，交通事故高发。中国驻巴新使馆提醒在巴新中国公民牢记交通规则、务必安全行驶、确保出行平安。须提前办妥巴新认可的合法驾驶证件 ...。",
         "key_points": [
-          "核心事件：西藏那曲市巴青县发生7.0级地震 解放军和武警部队官兵、民兵迅速投入救援",
-          "解放军和武警部队官兵、民兵迅速投入救援 解放军报西藏那曲10月23日电10月22日22时33分，西藏那曲市巴青县发生7.0级地震，造成重大人员伤亡",
-          "地震发生后，西部战区党委坚决贯彻落实习主席重要指示，战区联指中心迅速启动应急响应机制，主动对接地方用兵需求，统筹各类救援力量，分级下达救援指令，确…"
+          "核心事件：几内亚中国公民交通事故伤亡严重",
+          "近期，巴布亚新几内亚发生涉中国公民交通事故，造成严重人员伤亡",
+          "巴新基础设施落后，道路路况差，交通事故高发",
+          "中国驻巴新使馆提醒在巴新中国公民牢记交通规则、务必安全行驶、确保出行平安",
+          "须提前办妥巴新认可的合法驾驶证件 ..."
         ]
       },
       {
@@ -842,135 +857,120 @@
       },
       {
         "category": "社会",
-        "title": "三问“问界汽车在神木碰撞起火事故”：撞击瞬间时速是多少？AEB是否启动？起火是否太快？",
-        "summary": "",
-        "source": "ThePaper.cn",
-        "published_at": "2026-10-23T07:45:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tMmwwVHZIYUpSc2gxQXVxQXhvQThxTUZwYldGanNTWDNRV2V2N1BXWlZ3OXVrQVg0WHZPaWRXcnY5bnp5aEdlNDRfSVhPdDhhT1JDZ0ZMYmVVSjNYX2puQw?oc=5",
-        "image_url": "https://ts1.mm.bing.net/th?id=OIP.H2QrS-eLN-2ULhYV4z8m6gHaHa&pid=15.1",
+        "title": "李家超、岑浩辉向西藏地震遇难同胞表示哀悼",
+        "summary": "香港特首李家超和澳门特首岑浩辉向西藏地震遇难同胞表示哀悼。 李家超星期五（10月23日）在脸书发文指，西藏那曲市巴青县星期四（10月22日）晚上发生7级地震，“我对事件深感难过，在此向遇难同胞表示深切哀悼，并对伤者及遇难者家属致以慰问。 他说，港府会留意灾情发展，随时准备透过赈灾基金提供适切援…",
+        "source": "联合早报",
+        "published_at": "2026-10-24T09:47:07+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pV2l6TWRIdmViUTZYbElQdFlDS3AwOU1sRVE4bzZaSmFPdnUyUlFUUmFJY2NzZ04yaXp5WW4tcGNabVE2WXZZaVJWZDlnXzNGamI5ejJiYjRfRkd2ZFpEWXRJelYxVnNGTGc?oc=5",
+        "image_url": "http://www.bing.com/th?id=ONUT.PLdbPg6Nqbbn7FqUFDj2TQ&pid=News",
         "hot": true,
-        "verified": true,
-        "quick_summary": "ThePaper.cn这篇报道主要讲的是：三问“问界汽车在神木碰撞起火事故”：撞击瞬间时速是多少？AEB是否启动？起火是否太快？。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "verified": false,
+        "quick_summary": "联合早报这篇报道主要讲的是：李家超、岑浩辉向西藏地震遇难同胞表示哀悼。李家超星期五（10月23日）在脸书发文指，西藏那曲市巴青县星期四（10月22日）晚上发生7级地震，“我对事件深感难过，在此向遇难同胞表示深切哀悼，并对伤者及遇难者家属致以慰问。他说，港府会留意灾情发展，随时准备透过赈灾基金提供适切援…",
         "key_points": [
-          "核心事件：三问“问界汽车在神木碰撞起火事故”：撞击瞬间时速是多少？AEB是否启动？起火是否太快？",
+          "核心事件：李家超、岑浩辉向西藏地震遇难同胞表示哀悼",
+          "李家超星期五（10月23日）在脸书发文指，西藏那曲市巴青县星期四（10月22日）晚上发生7级地震，“我对事件深感难过，在此向遇难同胞表示深切哀悼，并对伤者及遇难者家属致以慰问",
+          "他说，港府会留意灾情发展，随时准备透过赈灾基金提供适切援…"
+        ]
+      },
+      {
+        "category": "社会",
+        "title": "今年以来，发生多起涉中国公民事故，造成严重人员伤亡，我使馆郑重提醒",
+        "summary": "10月23日晚，中国驻几内亚使馆发布《关于交通安全相关的领事提醒》。全文如下—— 今年以来，几内亚发生多起涉中国公民交通事故，造成严重人员伤亡。几内亚交通事故易发、高发，违章驾驶特别是酒驾醉驾极易酿成严重后果，造成恶劣影响。 驻几内亚大使馆在此郑重提醒全体在几中国公民和企业，务必高度重视交通安…",
+        "source": "新浪网",
+        "published_at": "2026-10-24T03:22:49+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQWY1bzhIXzViSWNrb2tRY2FIcTZ2UThzRDdSbVNoRjVTRFVmV1BqanNIcm5mNEVPaTNITEJfRWlDcDlWcmpxOVRJME8zT1lZNmgyUVV0UTZaTlh2b1BwVmVzcTlIUlpUbklldmMwR1hQTmNUWEFMV04wNVd0Y2docXNB?oc=5",
+        "image_url": "http://www.bing.com/th?id=ONUT.ty8GfA2NSF5V0IBRkpSH-w&pid=News",
+        "hot": true,
+        "verified": false,
+        "quick_summary": "新浪网这篇报道主要讲的是：今年以来，发生多起涉中国公民事故，造成严重人员伤亡，我使馆郑重提醒。10月23日晚，中国驻几内亚使馆发布《关于交通安全相关的领事提醒》。全文如下—— 今年以来，几内亚发生多起涉中国公民交通事故，造成严重人员伤亡。几内亚交通事故易发、高发，违章驾驶特别是酒驾醉驾极易酿成严重后果，造成恶劣影响。驻几内亚大使馆在此郑重提醒全体在几中国公民和企业，务必高度重视交通安…",
+        "key_points": [
+          "核心事件：今年以来，发生多起涉中国公民事故，造成严重人员伤亡，我使馆郑重提醒",
+          "10月23日晚，中国驻几内亚使馆发布《关于交通安全相关的领事提醒》",
+          "全文如下—— 今年以来，几内亚发生多起涉中国公民交通事故，造成严重人员伤亡",
+          "几内亚交通事故易发、高发，违章驾驶特别是酒驾醉驾极易酿成严重后果，造成恶劣影响",
+          "驻几内亚大使馆在此郑重提醒全体在几中国公民和企业，务必高度重视交通安…"
+        ]
+      },
+      {
+        "category": "社会",
+        "title": "青海玉树州杂多县发生4.1级地震",
+        "summary": "",
+        "source": "紫牛新闻",
+        "published_at": "2026-10-24T07:51:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4ycjdPeTZCclduYnNDMFFGRnBlX05ZeEdUMTQ4Q0NLelhCNExSY19NZXJuWmI0R3RtZHVSdDlfQjZjRksyM0pyWXVYemhvUjdTSG1iQ2dPN1dtQzNoVkR6bHczN2thcmk5RkE?oc=5",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.ADBmnK6ICb-xQik6EjQQZQHaHW&pid=15.1",
+        "hot": true,
+        "verified": false,
+        "quick_summary": "紫牛新闻这篇报道主要讲的是：青海玉树州杂多县发生4.1级地震。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：青海玉树州杂多县发生4.1级地震",
           "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
         ]
       },
       {
         "category": "社会",
-        "title": "西藏那曲7级地震！中国气象局进入地震灾害气象服务保障特别工作状态",
-        "summary": "",
-        "source": "新浪财经",
-        "published_at": "2026-10-23T12:02:26+08:00",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TTFBpdEhSd1hzWFlNZUl5V25fbjR4V0dGOS1NMkdxRFRTSlZpcHd6UGQ3bWdDZEVDN0JvWmxJZVV5YkJaelYwS1hnbERTamZud2lXbGY1VjB6Y1A3MmgwVUNsZ0pBSUgwclQ0SkVHWk51RFNSUEZadw?oc=5",
-        "image_url": "",
-        "hot": true,
-        "verified": false,
-        "quick_summary": "新浪财经这篇报道主要讲的是：西藏那曲7级地震！中国气象局进入地震灾害气象服务保障特别工作状态。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：西藏那曲7级地震！中国气象局进入地震灾害气象服务保障特别工作状态",
-          "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
-        ]
-      },
-      {
-        "category": "社会",
-        "title": "中国气象局进入地震灾害气象服务保障特别工作状态",
-        "summary": "据中国地震台网测定，10月22日22时33分在西藏那曲市巴青县发生7.0级地震，震源深度10公里，国务院抗震救灾指挥部办公室、应急管理部已启动国家地震灾害三级应急响应。 经综合研判， 中国气象局于10月23日10时进入地震灾害气象服务保障特别工作状态。 预计未来三天，震区及周边以多云天气为主，…",
-        "source": "中国青年网",
-        "published_at": "2026-10-23T11:24:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFU0VqSXpselUzcnhNT2JxRkxhbTBiY3pVdEdVNlRwUFcyUW4zWl9vMHg4WVVHZmpxS1FzSmlRMlVHMmZMWlhWX1p4OW1mQVRVZ2lWX3hUcFNUakZuQ0JhdzJDOWk?oc=5",
-        "image_url": "http://www.bing.com/th?id=ONUT.CSFmBQkJDPD0HqKQpBBQHA&pid=News",
-        "hot": true,
-        "verified": false,
-        "quick_summary": "中国青年网这篇报道主要讲的是：中国气象局进入地震灾害气象服务保障特别工作状态。据中国地震台网测定，10月22日22时33分在西藏那曲市巴青县发生7.0级地震，震源深度10公里，国务院抗震救灾指挥部办公室、应急管理部已启动国家地震灾害三级应急响应。经综合研判， 中国气象局于10月23日10时进入地震灾害气象服务保障特别工作状态。预计未来三天，震区及周边以多云天气为主，…",
-        "key_points": [
-          "核心事件：中国气象局进入地震灾害气象服务保障特别工作状态",
-          "据中国地震台网测定，10月22日22时33分在西藏那曲市巴青县发生7.0级地震，震源深度10公里，国务院抗震救灾指挥部办公室、应急管理部已启动国家地震灾害三级应急响应",
-          "经综合研判， 中国气象局于10月23日10时进入地震灾害气象服务保障特别工作状态",
-          "预计未来三天，震区及周边以多云天气为主，…"
-        ]
-      },
-      {
-        "category": "社会",
-        "title": "迎战台风上海金山区转移1900余人 全力守护群众安全",
-        "summary": "为扎实做好台风“蔷琵”的防御工作，10月23日，金山区全面启动涉险区域人员转移安置，优先组织建筑工地等重点场所人员撤离避险。截至当天18时，全区共开设应急安置点21处，累计转移涉险人员1900余人。各街镇持续绷紧防汛防台之弦，抓实安置保障、应急值守，筑牢安全防线。 下午2时许，在金山卫镇国家危…",
-        "source": "中华网",
-        "published_at": "2026-10-24T08:01:14+08:00",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16YVJERjRqdndRZWlxaWYtZDhUZy1CajZxdlpzREpkSUF1SlB2bldreS0zTEc1anlISzBYSHgtRWRFZHdEMWpGSTFUSW04TjRGVUU4b0k0S1JoM1lELWlLbmozcm5QXzJOekJ0M3VEWnA?oc=5",
-        "image_url": "http://www.bing.com/th?id=ONUT.YULzNxOey5zA6aCat3PyiQ&pid=News",
-        "hot": true,
-        "verified": false,
-        "quick_summary": "中华网这篇报道主要讲的是：迎战台风上海金山区转移1900余人 全力守护群众安全。为扎实做好台风“蔷琵”的防御工作，10月23日，金山区全面启动涉险区域人员转移安置，优先组织建筑工地等重点场所人员撤离避险。截至当天18时，全区共开设应急安置点21处，累计转移涉险人员1900余人。各街镇持续绷紧防汛防台之弦，抓实安置保障、应急值守，筑牢安全防线。下午2时许，在金山卫镇国家危…",
-        "key_points": [
-          "核心事件：迎战台风上海金山区转移1900余人 全力守护群众安全",
-          "为扎实做好台风“蔷琵”的防御工作，10月23日，金山区全面启动涉险区域人员转移安置，优先组织建筑工地等重点场所人员撤离避险",
-          "截至当天18时，全区共开设应急安置点21处，累计转移涉险人员1900余人",
-          "各街镇持续绷紧防汛防台之弦，抓实安置保障、应急值守，筑牢安全防线",
-          "下午2时许，在金山卫镇国家危…"
-        ]
-      },
-      {
-        "category": "社会",
-        "title": "青海玉树州杂多县发生4.5级地震 震源深度10公里",
-        "summary": "",
-        "source": "广州日报新花城",
-        "published_at": "2026-10-23T22:56:52+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORUxIdDB0TUZvbl9lZlZNSlhjQU5JMG9VQWNzblpjWFhYX1dlbDktMVJuaGZoanU2RnFwU0p0R3RkMDk3ZHE3TUd2Mmg2Q2V1a2NGZW5WWm84MzdDYm92dUpKQzhDNjB1OEd5S3NJbW1KNG9TWE05cW9tSVhJYlFhOHF3WG1YWk1hQWc?oc=5",
-        "image_url": "",
-        "hot": true,
-        "verified": false,
-        "quick_summary": "广州日报新花城这篇报道主要讲的是：青海玉树州杂多县发生4.5级地震 震源深度10公里。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：青海玉树州杂多县发生4.5级地震 震源深度10公里",
-          "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
-        ]
-      },
-      {
-        "category": "社会",
-        "title": "湖南省委主要负责同志职务调整",
-        "summary": "新华社北京10月24日电 日前，中共中央决定：王志军同志任湖南省委委员、常委、书记，沈晓明同志不再担任湖南省委书记、常委、委员职务。 ①凡本网注明“来源：福州新闻网”的所有文字、图片和视频，版权均属福州新闻网所有，任何媒体、网站或个人未经本网协议授权不得转载、链接、转贴或以其他方式复制发表。已…",
+        "title": "新华鲜报丨更科技、更温情，这场大赛“职”引养老服务新发展",
+        "summary": "新华社郑州10月24日电 题：更科技、更温情，这场大赛“职”引养老服务新发展 新华社记者岳栋、朱高祥、张浩然 一句暖心问询、一次俯身侧耳倾听、一套娴熟规范操作，既是赛场上切磋技艺的生动细节，更是养老护理人日复一日温情照护老年人的真实缩影。 10月23日，第二届全国民政行业职业技能大赛决赛在河南…",
         "source": "新华网",
-        "published_at": "2026-10-24T09:37:01+08:00",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWEhfU1J6N3ZWUjJZTHlSb2FuZ2RoNWVwTTVzanFpVldGVGU0M29TY25NZk5tVDBmTW1DYU1oZUNCS3BJcjI3ZmV4ZTJXUnFfbllwU1NzUUJJWGQ2Vk4tRGhqMDhyTk56WEFuZXZYbFVsLUpia09UMFlDTGpvTlZGVDF4WQ?oc=5",
-        "image_url": "http://www.bing.com/th?id=ONUT.vhy8SQ9yOmEpdzfc9orfZw&pid=News",
+        "published_at": "2026-10-24T14:53:36+08:00",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeVBSMHNjRVkweWQ4enZiTDF1VUIxY3R0WmRLVVFsTEZSczBsQ0hqdng5Qm1zd2o0aElQYkRDV3h1NEF3N3NLakZZNlpWUm5JbmJHRUhvMXUtWnIyY1A4WE5XaVU3MlpiRWhweGJRSjRzaDUwN3czZzljMkNHRGx5ZE83UQ?oc=5",
+        "image_url": "https://ts3.mm.bing.net/th?id=OIP.Qm64itoVhvMXFg8v6-Z_ZwHaE8&pid=15.1",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：湖南省委主要负责同志职务调整。新华社北京10月24日电 日前，中共中央决定：王志军同志任湖南省委委员、常委、书记，沈晓明同志不再担任湖南省委书记、常委、委员职务。",
+        "quick_summary": "新华网这篇报道主要讲的是：新华鲜报丨更科技、更温情，这场大赛“职”引养老服务新发展。10月23日，第二届全国民政行业职业技能大赛决赛在河南郑州落下帷幕。养老护理员赛项为本届赛事参赛规模最大的赛项，128名从全国各地层层选拔突围的选手同台竞技。截至2025年底，全国有养老服务从业人员139.5万人。其中，养老机构职工人数68.5万人，持证护理员占比47.4%。新华社郑州10月24日电 题：更科技、更温情，这场大赛“职”引养老服务新发展 新华社记者岳栋、朱高祥、张浩然 一句暖心问询、一次俯身侧耳倾听、一套娴熟规范操作，既是赛场上切磋技艺的生动细节，更是养老护理人日复一日温情照护老年人的真实缩影。",
         "key_points": [
-          "核心事件：湖南省委主要负责同志职务调整",
-          "新华社北京10月24日电 日前，中共中央决定：王志军同志任湖南省委委员、常委、书记，沈晓明同志不再担任湖南省委书记、常委、委员职务",
+          "核心事件：新华鲜报丨更科技、更温情，这场大赛“职”引养老服务新发展",
+          "10月23日，第二届全国民政行业职业技能大赛决赛在河南郑州落下帷幕",
+          "养老护理员赛项为本届赛事参赛规模最大的赛项，128名从全国各地层层选拔突围的选手同台竞技",
+          "截至2025年底，全国有养老服务从业人员139.5万人",
+          "其中，养老机构职工人数68.5万人，持证护理员占比47.4%"
+        ]
+      },
+      {
+        "category": "社会",
+        "title": "广发银行广州分行开展“筑牢金融防火墙 银龄守护暖人心”金融教育活动",
+        "summary": "",
+        "source": "央广网",
+        "published_at": "2026-10-24T08:40:20+08:00",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ycExseTRJa3lZc291MUVOX0dsdndIMExNOVRqUmUwbk11V2pZeTljYWlTWUdEUFhZN18wdjFzZ012Z3ZOaFZTZmdqQmVSVGRWeENuVUZsaTJqV2pXYkpsZkt0MVl5cDRRZ1kyS3ZkcVQ?oc=5",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.hVbEm4Il9X47H7rmDhVyYQHaFj&pid=15.1",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "央广网这篇报道主要讲的是：广发银行广州分行开展“筑牢金融防火墙 银龄守护暖人心”金融教育活动。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：广发银行广州分行开展“筑牢金融防火墙 银龄守护暖人心”金融教育活动",
           "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
         ]
       },
       {
         "category": "社会",
-        "title": "降温了，送你一份“出门服务包”",
+        "title": "焕新文化味更浓：中国长城博物馆对公众开放",
         "summary": "",
         "source": "新华网",
-        "published_at": "2026-10-24T08:36:07+08:00",
-        "url": "https://www.news.cn/local/20261024/aa40e39533494e0490a289ca817ba01a/c.html",
+        "published_at": "2026-10-24T14:27:53+08:00",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdkVycGtyR3lWdFVaSDVLcko1dmxlUmxTY1NJNk1XMGpLMW0wdlgwZ1gtNjR0VkhfVmhUWGt6MzZhb2MzTUxIV3FfTkVsODhGejhibTRxcTM5Y2JFamRWNVZXa0ZNRGdVYUI1OTBETGhaSE5pSmQxb1RsZ01PRUhMOG93bw?oc=5",
         "image_url": "",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：降温了，送你一份“出门服务包”。2 小时之前 · 降温了，送你一份“出门服务包”----10月24日起，新一股冷空气影响我国中东部，长江中下游及其以北地区有4至6级偏北 …",
+        "quick_summary": "新华网这篇报道主要讲的是：焕新文化味更浓：中国长城博物馆对公众开放。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：降温了，送你一份“出门服务包”",
-          "2 小时之前 · 降温了，送你一份“出门服务包”----10月24日起，新一股冷空气影响我国中东部，长江中下游及其以北地区有4至6级偏北 …"
+          "核心事件：焕新文化味更浓：中国长城博物馆对公众开放",
+          "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
         ]
       },
       {
         "category": "社会",
-        "title": "侨助百校万企 超3万个就业岗位助重庆2027届高校毕业生秋招上岸",
+        "title": "我国成功发射遥感五十三号07-09星、遥感五十六号19-21星",
         "summary": "",
-        "source": "中国新闻网",
-        "published_at": "2026-10-23T19:20:05+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hZEFzSDFZcG5Bbkx2QTdEd3Q5aGs1eEFUaXJGXzdxbVdlOFJpVDdHZDM4VVl5VjM1cXpBdTVpY1lDT3ZrM3VYcmZFbTBmWUk5eEZIaFRNblBWZWJVNWlvRS02dmg1YVdF?oc=5",
+        "source": "新华网",
+        "published_at": "2026-10-24T11:04:42+08:00",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTjNBRThUWjI0Z00xVXJaNE5hdl9vTXlEMkhnSzVfODJRRDhlSTQtZGhiRTZPb2NvY21vaEtUNnFJWjk1eDhuRzQwUW1RVVZaT2QzTldKN3JBZGs2MDRjRngwYTV1VzIyQm5sZEJDeDZrSmsyd3dVMjI4WnpmdlN4QXE1ejJDdw?oc=5",
         "image_url": "",
         "hot": false,
         "verified": true,
-        "quick_summary": "中国新闻网这篇报道主要讲的是：侨助百校万企 超3万个就业岗位助重庆2027届高校毕业生秋招上岸。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "新华网这篇报道主要讲的是：我国成功发射遥感五十三号07-09星、遥感五十六号19-21星。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：侨助百校万企 超3万个就业岗位助重庆2027届高校毕业生秋招上岸",
+          "核心事件：我国成功发射遥感五十三号07-09星、遥感五十六号19-21星",
           "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
         ]
       }
@@ -997,18 +997,38 @@
       },
       {
         "category": "AI",
-        "title": "DeepSeek之后，StartLux再来：开源首个决策模型推理引擎，推理快至5.3倍",
-        "summary": "",
-        "source": "新浪新闻_手机新浪网",
-        "published_at": "2026-10-23T23:08:31+08:00",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6UW5seXBYYzk3eGs1Uk94QmhKbjhIQVN1SkZzemdJai1fd1lLdVNRUDRWV0RqZ3dOVno1d2NzYVV2YUNmSTZrY3dRSV9HSllxYTZtWHRPdlZrWjJSeHJtZjR6ZVJQNDBDME5aRzZSeG9HZ3dIYlZpRA?oc=5",
-        "image_url": "",
+        "title": "3万亿级参数规模 全球最大开源AI大模型上新",
+        "summary": "10月24日凌晨，中国人工智能(AI)大模型企业月之暗面(Moonshot AI)发布新一代开源大模型Kimi K3.1 Pro。该模型为3万亿级参数规模，支持100万词元(Token)上下文窗口，蝉联全球参数规模最大的开源模型。 Kimi K3.1 Pro是Kimi K3的后训练版本，后训练…",
+        "source": "中国新闻网",
+        "published_at": "2026-10-24T14:37:07+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHZDVyaHNsNVlYVDIzZVhUUVdWRGFJY0lBZGFmbFBsdGV3U0ZDeHd6VExXLXQ0R2JiRUFYMlhSZUpZaG00YWlVUVZua3FselpOYzY1WFJOenJrN0wxRU5veEEzN0VZcm9O?oc=5",
+        "image_url": "https://ts4.mm.bing.net/th?id=OIP.JFb-_OBX3thaZPVVpBk0RQHaEM&pid=15.1",
         "hot": false,
-        "verified": false,
-        "quick_summary": "新浪新闻_手机新浪网这篇报道主要讲的是：DeepSeek之后，StartLux再来：开源首个决策模型推理引擎，推理快至5.3倍。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "verified": true,
+        "quick_summary": "中国新闻网这篇报道主要讲的是：3万亿级参数规模 全球最大开源AI大模型上新。10月24日凌晨，中国人工智能(AI)大模型企业月之暗面(Moonshot AI)发布新一代开源大模型Kimi K3.1 Pro。该模型为3万亿级参数规模，支持100万词元(Token)上下文窗口，蝉联全球参数规模最大的开源模型。Kimi K3.1 Pro是Kimi K3的后训练版本，后训练…",
         "key_points": [
-          "核心事件：DeepSeek之后，StartLux再来：开源首个决策模型推理引擎，推理快至5.3倍",
-          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
+          "核心事件：3万亿级参数规模 全球最大开源AI大模型上新",
+          "10月24日凌晨，中国人工智能(AI)大模型企业月之暗面(Moonshot AI)发布新一代开源大模型Kimi K3.1 Pro",
+          "该模型为3万亿级参数规模，支持100万词元(Token)上下文窗口，蝉联全球参数规模最大的开源模型",
+          "Kimi K3.1 Pro是Kimi K3的后训练版本，后训练…"
+        ]
+      },
+      {
+        "category": "AI",
+        "title": "前沿AI模型安全引爆担忧？OpenAI“表决心”：将完全断网训练！",
+        "summary": "格隆汇10月24日｜OpenAI周五表示，它将在一个更安全的环境中训练其前沿人工智能（AI）模型，将其置于一个没有互联网访问权限的封闭系统中。OpenAI在官方声明中确认，目前正在一套完全不接入互联网的封闭系统中开展前沿模型训练工作。公司已专门搭建了一套名为“离线世界”的完全隔离环境用于模型训练。",
+        "source": "财联社",
+        "published_at": "2026-10-24T10:18:03+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9DWWZlLVVpbDdBWWJoUTAyZ3gyUkhPdDJKeEswNzdBeDR1aTl1UXFIQmJwWEZSSWJBSnBZSVJRQld4N01tSGhIMg?oc=5",
+        "image_url": "http://www.bing.com/th?id=ONUT.SPMoe116fQgkUIVFEmXqeQ&pid=News",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "财联社这篇报道主要讲的是：前沿AI模型安全引爆担忧？OpenAI“表决心”：将完全断网训练！。格隆汇10月24日｜OpenAI周五表示，它将在一个更安全的环境中训练其前沿人工智能（AI）模型，将其置于一个没有互联网访问权限的封闭系统中。OpenAI在官方声明中确认，目前正在一套完全不接入互联网的封闭系统中开展前沿模型训练工作。公司已专门搭建了一套名为“离线世界”的完全隔离环境用于模型训练。",
+        "key_points": [
+          "核心事件：前沿AI模型安全引爆担忧？OpenAI“表决心”：将完全断网训练！",
+          "格隆汇10月24日｜OpenAI周五表示，它将在一个更安全的环境中训练其前沿人工智能（AI）模型，将其置于一个没有互联网访问权限的封闭系统中",
+          "OpenAI在官方声明中确认，目前正在一套完全不接入互联网的封闭系统中开展前沿模型训练工作",
+          "公司已专门搭建了一套名为“离线世界”的完全隔离环境用于模型训练"
         ]
       },
       {
@@ -1032,119 +1052,107 @@
       },
       {
         "category": "AI",
-        "title": "周鸿祎谈DeepSeek开源：AI时代，企业要有自己的“主权AI”",
-        "summary": "新浪科技讯 10月23日下午消息，近日，DeepSeek宣布将内部使用的AI推理框架DeepInfer全面开源，成为开源社区的又一标志性动作。360集团创始人周鸿祎对此表示，这背后“是一种技术自信，更是一种开源普惠的理念”；往深一层看，这件事还有一个更重要的意义——AI时代的技术主权。他同时透…",
-        "source": "东方财富网",
-        "published_at": "2026-10-23T23:27:19+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jc3FVc3ExS0h2bjZna0tsV0dmX2tSeWY3X0tvSmJoZlZRYXBqaUtWaEJ5dk8ta0ZINm5qQVUzaFNIOUlPajFEbUc1eHg2MmFKcHJCcFJPeWNpVkl6SzFhUTJ4cGxndw?oc=5",
-        "image_url": "",
+        "title": "全球最大开源模型再突破！京企月之暗面发布新一代大模型",
+        "summary": "人工智能大模型智能水平再进一步。10月24日凌晨，月之暗面发布新一代开源模型Kimi K3.1 Pro。该模型为3万亿级参数规模，支持100万词元上下文窗口，继续成为全球参数规模最大的开源模型。在多项国际权威评测中，Kimi K3.1 Pro综合智能水平已接近全球领先的闭源模型，价格仅为GPT…",
+        "source": "京报网",
+        "published_at": "2026-10-24T10:05:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qMU5FRTRNMkxQZ1MxNDc0ald5T1NNZHhzUXo0dnBEYUhkX1J2eWF5VEFyaWlEemVWa055QWZ3c0hCTS0zUFhyZ2cwMS14eURnUWlqWnVBSUpGcEtJbEp4dHR2VDhfaW13NkQtNl9OemFkZw?oc=5",
+        "image_url": "http://www.bing.com/th?id=ONUT.AlHSSbgQGhaZnhhftLDDsQ&pid=News",
         "hot": false,
         "verified": false,
-        "quick_summary": "东方财富网这篇报道主要讲的是：周鸿祎谈DeepSeek开源：AI时代，企业要有自己的“主权AI”。近日，DeepSeek宣布将内部使用的AI推理框架DeepInfer全面开源，成为开源社区的又一标志性动作。360集团创始人周鸿祎对此表示，这背后“是一种技术自信，更是一种开源普惠的理念”；往深一层看，还有一个更重要的意义——AI时代的技术主权。他同时透露，360已打造一套主权AI操作系统，已在部分政企单位投用。周鸿祎进一步表示，到了智能体时代，AI主权对企业尤为重要。",
+        "quick_summary": "京报网这篇报道主要讲的是：全球最大开源模型再突破！京企月之暗面发布新一代大模型。人工智能大模型智能水平再进一步。10月24日凌晨，月之暗面发布新一代开源模型Kimi K3.1 Pro。该模型为3万亿级参数规模，支持100万词元上下文窗口，继续成为全球参数规模最大的开源模型。在多项国际权威评测中，Kimi K3.1 Pro综合智能水平已接近全球领先的闭源模型，价格仅为GPT…",
         "key_points": [
-          "核心事件：周鸿祎谈DeepSeek开源：AI时代，企业要有自己的“主权AI”",
-          "近日，DeepSeek宣布将内部使用的AI推理框架DeepInfer全面开源，成为开源社区的又一标志性动作",
-          "360集团创始人周鸿祎对此表示，这背后“是一种技术自信，更是一种开源普惠的理念”",
-          "往深一层看，还有一个更重要的意义——AI时代的技术主权",
-          "他同时透露，360已打造一套主权AI操作系统，已在部分政企单位投用"
+          "核心事件：全球最大开源模型再突破！京企月之暗面发布新一代大模型",
+          "人工智能大模型智能水平再进一步",
+          "10月24日凌晨，月之暗面发布新一代开源模型Kimi K3.1 Pro",
+          "该模型为3万亿级参数规模，支持100万词元上下文窗口，继续成为全球参数规模最大的开源模型",
+          "在多项国际权威评测中，Kimi K3.1 Pro综合智能水平已接近全球领先的闭源模型，价格仅为GPT…"
         ]
       },
       {
         "category": "AI",
-        "title": "从CoreWeave到Anthropic，芯片抵押融资正重塑AI债务市场",
-        "summary": "",
+        "title": "38美元，DeepSeek算了一笔赚钱的账",
+        "summary": "比开源更受关注的是，在同步发布的技术报告中，DeepSeek公布了集群服务的吞吐和关键收入数据。DeepSeek提到，基于这一推理框架，团队已实现 DeepSeek V4.1 Flash 的高吞吐、低延迟大规模推理服务。目前单一集群的服务吞吐是155万亿Tokens/天，整体收入是每卡每小时3…",
         "source": "华尔街见闻",
-        "published_at": "2026-10-24T00:07:49+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SMkM1MU8zLW50bTZJQWd6TG9zdS0wN3hnSE9XcFJ2OXRyckt5Y2R2V1ZSUk00NXd6d29FcnF5SEtheXB6LWRfejU5M0JQTzhTN2Nj?oc=5",
-        "image_url": "",
+        "published_at": "2026-10-24T12:51:36+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9oZ25MZ3VjRlQ1OVozWVBCYzNvMTA0dzVQQmI0Ym9Ic2YxdzRDSFg3ZjM4Ym1lTERQVTJLalpSY0pZVjZZaGN2WlJuc0hmREZkOHZz?oc=5",
+        "image_url": "https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2026%2F1020%2F2b31c839j00tn7e1f0079d000su00g0g.jpg&thumbnail=750x2147483647&quality=75&type=jpg",
         "hot": false,
         "verified": false,
-        "quick_summary": "华尔街见闻这篇报道主要讲的是：从CoreWeave到Anthropic，芯片抵押融资正重塑AI债务市场。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "华尔街见闻这篇报道主要讲的是：38美元，DeepSeek算了一笔赚钱的账。比开源更受关注的是，在同步发布的技术报告中，DeepSeek公布了集群服务的吞吐和关键收入数据。DeepSeek提到，基于这一推理框架，团队已实现 DeepSeek V4.1 Flash 的高吞吐、低延迟大规模推理服务。目前单一集群的服务吞吐是155万亿Tokens/天，整体收入是每卡每小时3…",
         "key_points": [
-          "核心事件：从CoreWeave到Anthropic，芯片抵押融资正重塑AI债务市场",
-          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
+          "核心事件：38美元，DeepSeek算了一笔赚钱的账",
+          "比开源更受关注的是，在同步发布的技术报告中，DeepSeek公布了集群服务的吞吐和关键收入数据",
+          "DeepSeek提到，基于这一推理框架，团队已实现 DeepSeek V4.1 Flash 的高吞吐、低延迟大规模推理服务",
+          "目前单一集群的服务吞吐是155万亿Tokens/天，整体收入是每卡每小时3…"
         ]
       },
       {
         "category": "AI",
-        "title": "AI数学军备竞赛：OpenAI一次发布722篇论文，数学家既震惊又担心饭碗",
-        "summary": "就在今天早上，AI 圈与数学圈真炸锅了，很多研究者与网友真・瘫坐在了椅子上，被智能爆炸所震撼。 很难以想象，这个 Github 仓库里放着不是一个两个重量级的数学成果，而是足足 722 个！ 这是一份数学论文清单：722 篇手稿，归入 372 个成果族，全部由一个 ...",
-        "source": "凤凰网",
-        "published_at": "2026-10-24T09:00:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02a1M5bnFsOXpTM0lYQU4xWW9uY3NoaXhGd0dRdFZaMkVNRHlYRU96NWxhNmt4MHd6WDlEazF0MG8tclFyenMydG12cDgzZFpFUXc?oc=5",
-        "image_url": "https://inews.gtimg.com/news_ls/Op8o2kRZaenT3jYnTkYxLs_gYXeQ4edt4qQfAVFQgpk1kAA_640330/0",
+        "title": "月之暗面发布新一代大模型Kimi K3.1 Pro",
+        "summary": "新京报贝壳财经讯（记者张晓慧）10月24日凌晨，月之暗面发布新一代开源模型Kimi K3.1 Pro。 据了解，该模型为3万亿级参数规模，支持100万词元上下文窗口，为目前全球参数规模最大的开源模型。月之暗面表示，完整模型权重将于11 月4日前发布。",
+        "source": "新京报",
+        "published_at": "2026-10-24T11:33:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHcU1OcTlmVWFEeGVGX3RJR1FtU0REVWpRbkxscUt5M2tOclUzZGRyODdwU0RaNjJGV0VOVnV2SFRoS1pmU21BbVcydjZtU01nZDU5Yjk0VTJqcGJQVEN5QXpHOHI?oc=5",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.Pwq0gy7rVUn2tKKPn2eWqQHaFj&pid=15.1",
         "hot": false,
         "verified": false,
-        "quick_summary": "凤凰网这篇报道主要讲的是：AI数学军备竞赛：OpenAI一次发布722篇论文，数学家既震惊又担心饭碗。就在今天早上，AI 圈与数学圈真炸锅了，很多研究者与网友真・瘫坐在了椅子上，被智能爆炸所震撼。很难以想象，这个 Github 仓库里放着不是一个两个重量级的数学成果，而是足足 722 个！这是一份数学论文清单：722 篇手稿，归入 372 个成果族，全部由一个 ...。",
+        "quick_summary": "新京报这篇报道主要讲的是：月之暗面发布新一代大模型Kimi K3.1 Pro。新京报贝壳财经讯（记者张晓慧）10月24日凌晨，月之暗面发布新一代开源模型Kimi K3.1 Pro。据了解，该模型为3万亿级参数规模，支持100万词元上下文窗口，为目前全球参数规模最大的开源模型。月之暗面表示，完整模型权重将于11 月4日前发布。",
         "key_points": [
-          "核心事件：AI数学军备竞赛：OpenAI一次发布722篇论文，数学家既震惊又担心饭碗",
-          "就在今天早上，AI 圈与数学圈真炸锅了，很多研究者与网友真・瘫坐在了椅子上，被智能爆炸所震撼",
-          "很难以想象，这个 Github 仓库里放着不是一个两个重量级的数学成果，而是足足 722 个",
-          "这是一份数学论文清单：722 篇手稿，归入 372 个成果族，全部由一个 ..."
+          "核心事件：月之暗面发布新一代大模型Kimi K3.1 Pro",
+          "新京报贝壳财经讯（记者张晓慧）10月24日凌晨，月之暗面发布新一代开源模型Kimi K3.1 Pro",
+          "据了解，该模型为3万亿级参数规模，支持100万词元上下文窗口，为目前全球参数规模最大的开源模型",
+          "月之暗面表示，完整模型权重将于11 月4日前发布"
         ]
       },
       {
         "category": "AI",
-        "title": "OpenAI为前沿AI训练评估开启断网闭关模式",
-        "summary": "IT之家 10 月 24 日消息，OpenAI 昨日（10 月 23 日）发布博文，宣布针对最先进“前沿模型”的训练与评估环境，已经实施更严格的安全管控，明确在模型训练期间，不得直接访问实时互联网。 该公司称出于对 AI 安全的负责任要求，基于当前对齐研究、监测能力和互联网基础设施安全状况做出…",
-        "source": "新浪网",
-        "published_at": "2026-10-24T07:47:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmTWQ2a1pqd0ZfY0dJcFVQUFh1cGZxNXBNY3NZSWxEaGhLaHNNWndxQmx5aFdvOFU3azVfMHNVYlA4ZGlOWVEwa3dJd19reUlGM0swSkNjbGVZUGRUTlRxelJGeW1WYVN4TjhfRzdEZm1vVlkxd3hpQU4wMnJLZw?oc=5",
-        "image_url": "http://www.bing.com/th?id=ONUT.74G5sdVHbMPhoj4HtIgfLg&pid=News",
-        "hot": false,
-        "verified": false,
-        "quick_summary": "新浪网这篇报道主要讲的是：OpenAI为前沿AI训练评估开启断网闭关模式。IT之家 10 月 24 日消息，OpenAI 昨日（10 月 23 日）发布博文，宣布针对最先进“前沿模型”的训练与评估环境，已经实施更严格的安全管控，明确在模型训练期间，不得直接访问实时互联网。该公司称出于对 AI 安全的负责任要求，基于当前对齐研究、监测能力和互联网基础设施安全状况做出…",
-        "key_points": [
-          "核心事件：OpenAI为前沿AI训练评估开启断网闭关模式",
-          "IT之家 10 月 24 日消息，OpenAI 昨日（10 月 23 日）发布博文，宣布针对最先进“前沿模型”的训练与评估环境，已经实施更严格的安全管控，明确在模型训练期间，不得直接访问实时互联网",
-          "该公司称出于对 AI 安全的负责任要求，基于当前对齐研究、监测能力和互联网基础设施安全状况做出…"
-        ]
-      },
-      {
-        "category": "AI",
-        "title": "OpenAI 为前沿 AI 训练 / 评估开启“断网闭关”模式，遏制其越狱攻击",
-        "summary": "",
+        "title": "OpenAI宣布最先进AI模型训练期间禁止直接访问互联网",
+        "summary": "OpenAI于周五宣布，已对用于训练和评估前沿模型的研究环境实施更严格的安全管控，核心政策是：前沿模型在训练期间不得直接访问实时互联网。该公司表示，这一政策将维持到相关安全防护技术取得足够进展为止。 这一决定源于对AI模型能力快速提升的担忧。OpenAI在技术博客中指出，开发中的模型可能尚未完…",
         "source": "新浪财经",
-        "published_at": "2026-10-24T07:33:53+08:00",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jcFBuN0tlQXBxMzc4d2ZTMDVBLU1oaDY1Y09kMGR6NC1OUkVpOHZEVFVLUURGZWRhVkZraWl1eVdsbGV4M0ZES1dxcURuQV9UN3dFMkxWV29pUGVqU1hiTlB4WVpZT3JJY2hQQzJjSVRkVndTNnNVUDdhOTUyWGs?oc=5",
+        "published_at": "2026-10-24T10:59:53+08:00",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcEsxOVJfWVdSaHFOdlA2d21uVkk4blpVV1NBRWlDUU5sQldSWUtDUExzbUtWUkNZSEZqdml6c0V1MlgwY1o4MFlYRjhnZFFaNDQ3a1FVSDBRRnJWeWZ0RDd2X3lYbEgxNmRqMnBaM08xWTd1azRsbko3dVJuZ2duQ1lJUDZ3b3B4RVNZcElZanB5Y0REZHRDNWI2c0loeko3NkFLTDBUZXNrMHBSOGdJSW5JeTUyTDM2WU9kTVZtMmdsa2dDQS1NZzhPR0o4MEh4Snc?oc=5",
+        "image_url": "http://www.bing.com/th?id=ONUT._LFoYKziLirAXtrVsZbBhA&pid=News",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "新浪财经这篇报道主要讲的是：OpenAI宣布最先进AI模型训练期间禁止直接访问互联网。OpenAI于周五宣布，已对用于训练和评估前沿模型的研究环境实施更严格的安全管控，核心政策是：前沿模型在训练期间不得直接访问实时互联网。该公司表示，这一政策将维持到相关安全防护技术取得足够进展为止。这一决定源于对AI模型能力快速提升的担忧。OpenAI在技术博客中指出，开发中的模型可能尚未完…",
+        "key_points": [
+          "核心事件：OpenAI宣布最先进AI模型训练期间禁止直接访问互联网",
+          "OpenAI于周五宣布，已对用于训练和评估前沿模型的研究环境实施更严格的安全管控，核心政策是：前沿模型在训练期间不得直接访问实时互联网",
+          "该公司表示，这一政策将维持到相关安全防护技术取得足够进展为止",
+          "这一决定源于对AI模型能力快速提升的担忧",
+          "OpenAI在技术博客中指出，开发中的模型可能尚未完…"
+        ]
+      },
+      {
+        "category": "AI",
+        "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
+        "summary": "",
+        "source": "搜狐网",
+        "published_at": "2026-10-24T16:14:06+08:00",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSzhXS1E1cGRqQ0VQZndNY2g2cmRHSlVCMHpjd0xhNTRJSEdjVW5oYnlvQm5RX1Q0d3Q4dndHcnVYZUUzbTZrSHN4STJZN2lweW1FVzAwSkdmTndxNjZybUxnMmRaN2I1MDB5ZEIyNXRjSF9RWm93N0RPUnBjbkZCQ1JKYlEwOC1BNG9QbQ?oc=5",
         "image_url": "",
         "hot": false,
         "verified": false,
-        "quick_summary": "新浪财经这篇报道主要讲的是：OpenAI 为前沿 AI 训练 / 评估开启“断网闭关”模式，遏制其越狱攻击。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "搜狐网这篇报道主要讲的是：OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：OpenAI 为前沿 AI 训练 / 评估开启“断网闭关”模式，遏制其越狱攻击",
+          "核心事件：OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
           "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
         ]
       },
       {
         "category": "AI",
-        "title": "OpenAI恢复最强AI模型训练 切断互联网访问以防意外",
+        "title": "多个App拒绝豆包手机助手 金融机构对外部智能体说“不”",
         "summary": "",
-        "source": "凤凰网",
-        "published_at": "2026-10-24T07:28:53+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CeF91YU0wckNPZkZhOTNUV1lGdHV2UzhmaVhsWmxhdzdoRlBQdC0xQ3JydXVPRUxobmUzM2pEWlN1VURpb1gtb3lBN2lEUG0td2c?oc=5",
+        "source": "21财经",
+        "published_at": "2026-10-24T12:59:55+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWHd0ajdjLUxIVzVXTDZKODBkUTE2d1hUVzRNN0RiTHYtUDBKcVF0NGVEdG1wV3ZhWUduSEF5OE5pVkN4QzJRYlRvSmZYNzVLLWFPWUtHYks4WlJ3bEtVWGFTdEVrN3ZUb3VIME5QLWJFNXJhd3Q2QktHbWxQek9jX3p5dHdJYUluTkRB?oc=5",
         "image_url": "",
         "hot": false,
         "verified": false,
-        "quick_summary": "凤凰网这篇报道主要讲的是：OpenAI恢复最强AI模型训练 切断互联网访问以防意外。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "21财经这篇报道主要讲的是：多个App拒绝豆包手机助手 金融机构对外部智能体说“不”。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：OpenAI恢复最强AI模型训练 切断互联网访问以防意外",
-          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
-        ]
-      },
-      {
-        "category": "AI",
-        "title": "OpenAI联合研究机构部署数千个AI智能体：32分钟分析数百万个小鼠脑细胞，相当于人类数月时间",
-        "summary": "",
-        "source": "新浪财经",
-        "published_at": "2026-10-23T23:11:05+08:00",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CakVueDdSLWNWVlF6QVF1eEJmenlqNGV5UkFhb25NZ2kweDdhYncyajVmZ01JeGJIMTZhWXY3dkJ1MzBNQW1ncHk1cTN2RW1TSFBsX2RQVDg4LVV6aGt3LS1RMW9QTkh1R2M0OFBpQ1Fqc0UzS0g3OTdiYw?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "quick_summary": "新浪财经这篇报道主要讲的是：OpenAI联合研究机构部署数千个AI智能体：32分钟分析数百万个小鼠脑细胞，相当于人类数月时间。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：OpenAI联合研究机构部署数千个AI智能体：32分钟分析数百万个小鼠脑细胞，相当于人类数月时间",
+          "核心事件：多个App拒绝豆包手机助手 金融机构对外部智能体说“不”",
           "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
         ]
       }
@@ -1154,64 +1162,64 @@
     {
       "name": "黄金",
       "symbol": "GC=F",
-      "price": "858.71",
+      "price": "859.50",
       "unit": "元/克",
-      "change_pct": -1.5,
-      "note": "人民币换算 · 美元兑人民币 6.6606 · Yahoo Finance 延迟行情",
+      "change_pct": -1.41,
+      "note": "人民币换算 · 美元兑人民币 6.6702 · Yahoo Finance 延迟行情",
       "previous_price": "871.77",
       "currency": "CNY"
     },
     {
       "name": "白银",
       "symbol": "SI=F",
-      "price": "11555.17",
+      "price": "11518.43",
       "unit": "元/千克",
-      "change_pct": -1.72,
-      "note": "人民币换算 · 美元兑人民币 6.6606 · Yahoo Finance 延迟行情",
+      "change_pct": -2.04,
+      "note": "人民币换算 · 美元兑人民币 6.6702 · Yahoo Finance 延迟行情",
       "previous_price": "11757.80",
       "currency": "CNY"
     },
     {
       "name": "WTI原油",
       "symbol": "CL=F",
-      "price": "688.97",
+      "price": "688.83",
       "unit": "元/桶",
-      "change_pct": 3.72,
-      "note": "人民币换算 · 美元兑人民币 6.6606 · Yahoo Finance 延迟行情",
+      "change_pct": 3.7,
+      "note": "人民币换算 · 美元兑人民币 6.6702 · Yahoo Finance 延迟行情",
       "previous_price": "664.25",
       "currency": "CNY"
     },
     {
       "name": "布伦特原油",
       "symbol": "BZ=F",
-      "price": "743.72",
+      "price": "778.55",
       "unit": "元/桶",
-      "change_pct": -1.59,
-      "note": "人民币换算 · 美元兑人民币 6.6606 · Yahoo Finance 延迟行情",
+      "change_pct": 3.02,
+      "note": "人民币换算 · 美元兑人民币 6.6702 · Yahoo Finance 延迟行情",
       "previous_price": "755.74",
       "currency": "CNY"
     },
     {
       "name": "天然气",
       "symbol": "NG=F",
-      "price": "20.29",
+      "price": "17.61",
       "unit": "元/百万英热单位",
-      "change_pct": 8.69,
-      "note": "人民币换算 · 美元兑人民币 6.6606 · Yahoo Finance 延迟行情",
+      "change_pct": -5.69,
+      "note": "人民币换算 · 美元兑人民币 6.6702 · Yahoo Finance 延迟行情",
       "previous_price": "18.67",
       "currency": "CNY"
     },
     {
       "name": "铜",
       "symbol": "HG=F",
-      "price": "95.41",
+      "price": "95.23",
       "unit": "元/千克",
-      "change_pct": 1.86,
-      "note": "人民币换算 · 美元兑人民币 6.6606 · Yahoo Finance 延迟行情",
+      "change_pct": 1.67,
+      "note": "人民币换算 · 美元兑人民币 6.6702 · Yahoo Finance 延迟行情",
       "previous_price": "93.67",
       "currency": "CNY"
     }
   ],
   "market_currency": "CNY",
-  "usd_cny": 6.6606
+  "usd_cny": 6.6702
 }
