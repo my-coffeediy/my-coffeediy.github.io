@@ -1,78 +1,80 @@
 {
-  "updated_at": "2026-11-04T03:21:26.162904+08:00",
-  "markets_updated_at": "2026-11-04T03:21:26.162904+08:00",
+  "updated_at": "2026-11-04T11:43:56.104171+08:00",
+  "markets_updated_at": "2026-11-04T11:43:56.104171+08:00",
   "top5": [
     {
+      "title": "新疆克州乌恰县地震暂无人员伤亡或房屋倒塌报告",
+      "summary": "新华网报道，新疆克州乌恰县地震暂无人员伤亡或房屋倒塌报告。中国地震台网自动测定：11月4日5时34分在新疆克孜勒苏柯尔克孜自治州乌恰县附近（北纬39.45度，东经74.08度）发生5.0级左右地震，最终结果以正式速报为准。",
+      "category": "国内",
+      "source": "新华网",
+      "published_at": "2026-11-04T11:11:28+08:00",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kOVc1Z3c0UE16R0o3ZDQ1NDNzaWUtVHNvVVFBNXd3WFNfdi1tZG40WnhlWnNqc3dWZFZ4TGJDVnNtRjhUVDQzamxtdzJuNklrUFVuTkJvZjl0X2J4T1l6MzJEdTRmdXdkUkpfMXNLMnFJcnVlTEh5cjRJTTV5WkU?oc=5",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.4mwPzq7GoH6_6fzC1gtFXwHaEI&pid=15.1",
+      "quick_summary": "新华网这篇报道主要讲的是：新疆克州乌恰县地震暂无人员伤亡或房屋倒塌报告。中国地震台网自动测定：11月4日5时34分在新疆克孜勒苏柯尔克孜自治州乌恰县附近（北纬39.45度，东经74.08度）发生5.0级左右地震，最终结果以正式速报为准。",
+      "key_points": [
+        "核心事件：新疆克州乌恰县地震暂无人员伤亡或房屋倒塌报告",
+        "中国地震台网自动测定：11月4日5时34分在新疆克孜勒苏柯尔克孜自治州乌恰县附近（北纬39.45度，东经74.08度）发生5.0级左右地震，最终结果以正式速报为准",
+        "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+      ]
+    },
+    {
       "title": "澳大利亚央行基准利率升至18年新高",
-      "summary": "新华网报道，澳大利亚央行基准利率升至18年新高。澳大利亚储备银行（央行）3日宣布今年第五次加息，将基准利率上调25个基点至4.85%，该利率已升至2008年11月以来最高水平。澳央行当天结束为期两天的货币政策会议后发表声明说，中东冲突导致燃油及其他大宗商品价格上涨，加之国内通胀居高不下，促使央行决定进一步收紧货币政策。",
+      "summary": "新华网报道，澳大利亚央行基准利率升至18年新高。澳大利亚储备银行（央行）3日宣布今年第五次加息，将基准利率上调25个基点至4.85％，该利率已升至2008年11月以来最高水平。澳央行当天结束为期两天的货币政策会议后发表声明说，中东冲突导致燃油及其他大宗商品价格上涨，加之国内通胀居高不下，促使央行决定进一步收紧货币政策。",
       "category": "国内",
       "source": "新华网",
       "published_at": "2026-11-03T13:47:12+08:00",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXRWbkZIUUdBa1N6LUlXM2RCZzAwSVl2UkkyZXFveDd2ZmxueFVobDFfTDUxSDQtQVdIUzk1VzRqajViSWthenVnU0s0UTJTVWNlSloxNjhxZ01hcnFUSExvanc2RFIwUHE0X1VMWi1NbDhUdTZrSWVxcE5lOHkyWkpR?oc=5",
-      "image_url": "https://ts3.mm.bing.net/th?id=OIP.rJaXeAp5lgp1Z_9HsluCBgHaE-&pid=15.1",
-      "quick_summary": "新华网这篇报道主要讲的是：澳大利亚央行基准利率升至18年新高。澳大利亚储备银行（央行）3日宣布今年第五次加息，将基准利率上调25个基点至4.85%，该利率已升至2008年11月以来最高水平。澳央行当天结束为期两天的货币政策会议后发表声明说，中东冲突导致燃油及其他大宗商品价格上涨，加之国内通胀居高不下，促使央行决定进一步收紧货币政策。",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.A-s-3DvmRDybn8RCPVaahwHaFm&pid=15.1",
+      "quick_summary": "新华网这篇报道主要讲的是：澳大利亚央行基准利率升至18年新高。澳大利亚储备银行（央行）3日宣布今年第五次加息，将基准利率上调25个基点至4.85％，该利率已升至2008年11月以来最高水平。澳央行当天结束为期两天的货币政策会议后发表声明说，中东冲突导致燃油及其他大宗商品价格上涨，加之国内通胀居高不下，促使央行决定进一步收紧货币政策。",
       "key_points": [
         "核心事件：澳大利亚央行基准利率升至18年新高",
-        "澳大利亚储备银行（央行）3日宣布今年第五次加息，将基准利率上调25个基点至4.85%，该利率已升至2008年11月以来最高水平",
+        "澳大利亚储备银行（央行）3日宣布今年第五次加息，将基准利率上调25个基点至4.85％，该利率已升至2008年11月以来最高水平",
         "澳央行当天结束为期两天的货币政策会议后发表声明说，中东冲突导致燃油及其他大宗商品价格上涨，加之国内通胀居高不下，促使央行决定进一步收紧货币政策"
       ]
     },
     {
-      "title": "美媒：佛州坠机事故遇难者身份已确认",
-      "summary": "新华网报道，美媒：佛州坠机事故遇难者身份已确认。据报道，44岁的科技企业家亚当·鲁滨逊、其妻子海伦·夏普和他们的两个孩子以及孩子的保姆都在事故飞机上，同行的还有他们的两个朋友。机长为55岁的杰夫·格雷戈里，副驾驶为20岁的纳塔利娅·菲尔盖拉斯。",
-      "category": "国内",
-      "source": "新华网",
-      "published_at": "2026-11-03T15:30:18+08:00",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYaXB5WHQ2ZHZOdzhaMUtBbkZkY0twQU5vcUVxSUIyNFNSYmNjeWZzNjNONWltaTEzSG8wWnl3X214UjR0M0lSaEVZdWtKc3duNjIzTGRqQTRuNTdmMlhndkp6N2Nick52V1F2SUNqLTlaeTRHeGJYNE4tUEliU1E?oc=5",
-      "image_url": "https://imgpai.thepaper.cn/newpai/image/1793691448716_xAbRHk_1793691448890.png",
-      "quick_summary": "新华网这篇报道主要讲的是：美媒：佛州坠机事故遇难者身份已确认。据报道，44岁的科技企业家亚当·鲁滨逊、其妻子海伦·夏普和他们的两个孩子以及孩子的保姆都在事故飞机上，同行的还有他们的两个朋友。机长为55岁的杰夫·格雷戈里，副驾驶为20岁的纳塔利娅·菲尔盖拉斯。",
-      "key_points": [
-        "核心事件：美媒：佛州坠机事故遇难者身份已确认",
-        "据报道，44岁的科技企业家亚当·鲁滨逊、其妻子海伦·夏普和他们的两个孩子以及孩子的保姆都在事故飞机上，同行的还有他们的两个朋友",
-        "机长为55岁的杰夫·格雷戈里，副驾驶为20岁的纳塔利娅·菲尔盖拉斯"
-      ]
-    },
-    {
-      "title": "特朗普总统：美国在霍尔木兹海峡的打击属“小规模袭击”，卡塔尔指美伊正在审议结束冲突的提案",
-      "summary": "美国之音报道，特朗普总统：美国在霍尔木兹海峡的打击属“小规模袭击”，卡塔尔指美伊正在审议结束冲突的提案。美国总统唐纳德·特朗普(Donald Trump)星期二(11月３日)说，美军星期一晚间对伊朗格什姆岛(Qeshm Island)发动的打击属“小规模袭击”，并坚称这不构成战争；卡塔尔方面同时报告，华盛顿…",
+      "title": "特朗普进一步淡化战争风险：美国暂无立即打击伊朗计划",
+      "summary": "财联社报道，特朗普进一步淡化战争风险：美国暂无立即打击伊朗计划。财联社11月4日讯（编辑 卞纯）综合央视新闻等媒体报道，当地时间周二，美国总统特朗普进一步淡化了外界关于他将在中期选举后升级与伊朗冲突的预期。他表示，美国目前没有立即打击伊朗的计划。",
       "category": "国际",
-      "source": "美国之音",
-      "published_at": "2026-11-04T01:21:59+08:00",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRE5TNjI0Si1GcjQ0dFpEQWNhYVFtY3E0dFJCdThIVk9Qc29pVWhjd1JHYXRRZHhES1ZEaEpjMFdsZTltSVc0Z3J0QmFnTllkbHNPTUN2akJJR3B5eU1GUy0teXg5WnljRGFHZ0pBam03QXpRSnZNVXNIRFFnMEwxQk0teXBxTW9wS19ENHNQV1FSYnpza0doWnB6WWZuREc3VmJOSnlhZF9fUV9CSENMYzlyZjdlaXNzM2hkWTdmOFFHbzdCZ2t2aERsOVpsUkxGRi1fTUt5YWxIR3pfNWQwdHhHR3FmTksxTy10a2lpVjdvdjBSZEFEZ0pIdmnSAf8BQVVfeXFMTktNbDVTdHBJUnhHcUMyeHh5THgycmNHQ3B2TmdUcEJhbXBpQXhwS01uNHpCWGhHS3Z1QkxPeFBxRkRzOUI3c3l3TmgtbFVheDZtc1V5M3g3bk5rQnlLV1lkOWRrYmNybU5Ib1JoWExCRTFyTlRtRzNjS1lrdHlLdm84YTJENkptejN0NzhMcjlObzVPMEV1NXFldlRpb0l3Zzh6eHVacjZBX1l6U2M2UTMxbjAzMUI1c2t2bk0wN3VFbldpWng2bGFFaUdoeDU0XzVralRKdzUtX0VMeTdaN0Y3ZG94WlJqanVzM0xsRTR3cUdyLU9hNzJ4aUxxaURZ?oc=5",
-      "image_url": "http://www.bing.com/th?id=ONUT.Gutii2Mc8WTMLmsSf6GiEg&pid=News",
-      "quick_summary": "美国之音这篇报道主要讲的是：特朗普总统：美国在霍尔木兹海峡的打击属“小规模袭击”，卡塔尔指美伊正在审议结束冲突的提案。美国总统唐纳德·特朗普(Donald Trump)星期二(11月３日)说，美军星期一晚间对伊朗格什姆岛(Qeshm Island)发动的打击属“小规模袭击”，并坚称这不构成战争；卡塔尔方面同时报告，华盛顿…",
-      "key_points": [
-        "核心事件：特朗普总统：美国在霍尔木兹海峡的打击属“小规模袭击”，卡塔尔指美伊正在审议结束冲突的提案",
-        "美国总统唐纳德·特朗普(Donald Trump)星期二(11月３日)说，美军星期一晚间对伊朗格什姆岛(Qeshm Island)发动的打击属“小规模袭击”，并坚称这不构成战争",
-        "卡塔尔方面同时报告，华盛顿…"
-      ]
-    },
-    {
-      "title": "中国央行时隔五年上调外汇存款准备金率 人民币暂止30年来最长连涨",
-      "summary": "联合早报报道，中国央行时隔五年上调外汇存款准备金率 人民币暂止30年来最长连涨。中国人民银行微信公众号星期二（11月3日）早宣布，为加强金融机构外汇流动性管理，中国人民银行决定，自2026年11月15日起，上调金融机构外汇存款准备金率2个百分点，即外汇存款准备金率由现行的4%提高到6%。",
-      "category": "财经",
-      "source": "联合早报",
-      "published_at": "2026-11-03T09:17:53+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RaW1pQnQzaVEtcGRzRWZBTDEtT1kzc2pHTTB1YUlFUGZEUVc4UGx3TW04OTRkeEpHbDFjZVNkZ0ZHUElxakdGbERMYTNTa3hiNHZ1cFlVOXBQZHY0dnBJbXJ6eEVRbDhzeWc?oc=5",
-      "image_url": "https://cassette.sphdigital.com.sg/image/zaobao/290316393d14ca51dc0b1c6231f781bf3001f6ebfac0dd568c9fce3df0d5e929",
-      "quick_summary": "联合早报这篇报道主要讲的是：中国央行时隔五年上调外汇存款准备金率 人民币暂止30年来最长连涨。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-      "key_points": [
-        "核心事件：中国央行时隔五年上调外汇存款准备金率 人民币暂止30年来最长连涨",
-        "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
-      ]
-    },
-    {
-      "title": "国芯训练国模！DeepSeek下一代大模型计划用昇腾芯片训练",
-      "summary": "财联社报道，国芯训练国模！DeepSeek下一代大模型计划用昇腾芯片训练。后续重点关注官方发布、产品落地、监管变化与行业反馈。",
-      "category": "AI",
       "source": "财联社",
-      "published_at": "2026-11-03T14:26:51+08:00",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1MeENRQVRPRjJmX1lvWWw3dDFYN01ROHZ0QW1UdjlDNzdWcWxwMmtnLTBWajhfcW9fN004QjQ1OTZOYkJya3g2Yg?oc=5",
-      "image_url": "",
-      "quick_summary": "财联社这篇报道主要讲的是：国芯训练国模！DeepSeek下一代大模型计划用昇腾芯片训练。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+      "published_at": "2026-11-04T05:15:00+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1WR2VoVkV6bUxoUjVRbldxc0lkTC0wbmJyLVNQZEhDelhaYzFOeVU1NU1mNFhybTh1TVpxSzBpT2Q3XzFzU21FWA?oc=5",
+      "image_url": "https://ts3.mm.bing.net/th?id=OIP.upMvcL_Jw3S-FS9DKlUg2QHaEK&pid=15.1",
+      "quick_summary": "财联社这篇报道主要讲的是：特朗普进一步淡化战争风险：美国暂无立即打击伊朗计划。财联社11月4日讯（编辑 卞纯）综合央视新闻等媒体报道，当地时间周二，美国总统特朗普进一步淡化了外界关于他将在中期选举后升级与伊朗冲突的预期。他表示，美国目前没有立即打击伊朗的计划。",
       "key_points": [
-        "核心事件：国芯训练国模！DeepSeek下一代大模型计划用昇腾芯片训练",
-        "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
+        "核心事件：特朗普进一步淡化战争风险：美国暂无立即打击伊朗计划",
+        "财联社11月4日讯（编辑 卞纯）综合央视新闻等媒体报道，当地时间周二，美国总统特朗普进一步淡化了外界关于他将在中期选举后升级与伊朗冲突的预期",
+        "他表示，美国目前没有立即打击伊朗的计划"
+      ]
+    },
+    {
+      "title": "中国人民银行下调股票回购增持再贷款利率至1%",
+      "summary": "新华网报道，中国人民银行下调股票回购增持再贷款利率至1%。新华社北京11月4日电（记者吴雨）中国人民 银行 11月4日发布消息称，为维护资本市场平稳运行，加力实施股票回购增持再贷款政策。自2026年11月4日起，下调股票回购增持再贷款利率0.25个百分点至1%。",
+      "category": "财经",
+      "source": "新华网",
+      "published_at": "2026-11-04T10:09:02+08:00",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FdlJTbWVMRWxDckVXUWtaeExBRVVrVEVXVmZzdzA3Q3VqNFl2NEotSjlkYUpnemluTXM0X1B1SERWRDh4YV96TXFQZHo4SHBXU0I2dTMzTWRxUFFVcDRYUC1Fc3ZuVXZxTlluOW5HaVkwQTVOczJDVnVJWHBoQQ?oc=5",
+      "image_url": "https://ts2.mm.bing.net/th?id=OIP.VxZcU338WPG3Lq3vxwPLBQHaGs&pid=15.1",
+      "quick_summary": "新华网这篇报道主要讲的是：中国人民银行下调股票回购增持再贷款利率至1%。新华社北京11月4日电（记者吴雨）中国人民 银行 11月4日发布消息称，为维护资本市场平稳运行，加力实施股票回购增持再贷款政策。自2026年11月4日起，下调股票回购增持再贷款利率0.25个百分点至1%。",
+      "key_points": [
+        "核心事件：中国人民银行下调股票回购增持再贷款利率至1%",
+        "新华社北京11月4日电（记者吴雨）中国人民 银行 11月4日发布消息称，为维护资本市场平稳运行，加力实施股票回购增持再贷款政策",
+        "自2026年11月4日起，下调股票回购增持再贷款利率0.25个百分点至1%"
+      ]
+    },
+    {
+      "title": "央行近五年首次上调外汇存款准备金率",
+      "summary": "新华网报道，央行近五年首次上调外汇存款准备金率。外汇存款准备金率是跨境资金流动和汇率预期管理的重要宏观审慎工具。业内专家指出，这是近五年来，央行首次上调外汇存款准备金率。",
+      "category": "财经",
+      "source": "新华网",
+      "published_at": "2026-11-04T10:05:11+08:00",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS1NUQ2J5LUtxcHBRS09iQW9WbVJLSjBLTHhaU0pKSFZTdVhpVWY5a2xubWJzYzFwMDhlNkY3aWVjZVVFR1ZER29LQV83VjM2Qy1HX1BFT09KZV9JZlVVWkFxbWtBaWl3TjA5Y2ZjaWVzRlFPdXgwOGlzT0dlcmF3amwtMWpxSnZr?oc=5",
+      "image_url": "https://ts4.mm.bing.net/th?id=OIP.NntHHBZjjAmSm5Evvde8ugHaFn&pid=15.1",
+      "quick_summary": "新华网这篇报道主要讲的是：央行近五年首次上调外汇存款准备金率。外汇存款准备金率是跨境资金流动和汇率预期管理的重要宏观审慎工具。业内专家指出，这是近五年来，央行首次上调外汇存款准备金率。",
+      "key_points": [
+        "核心事件：央行近五年首次上调外汇存款准备金率",
+        "外汇存款准备金率是跨境资金流动和汇率预期管理的重要宏观审慎工具",
+        "业内专家指出，这是近五年来，央行首次上调外汇存款准备金率"
       ]
     }
   ],
@@ -80,19 +82,88 @@
     "china": [
       {
         "category": "国内",
+        "title": "新疆克州乌恰县地震暂无人员伤亡或房屋倒塌报告",
+        "summary": "中国地震台网自动测定：11月4日5时34分在新疆克孜勒苏柯尔克孜自治州乌恰县附近（北纬39.45度，东经74.08度）发生5.0级左右地震，最终结果以正式速报为准。",
+        "source": "新华网",
+        "published_at": "2026-11-04T11:11:28+08:00",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kOVc1Z3c0UE16R0o3ZDQ1NDNzaWUtVHNvVVFBNXd3WFNfdi1tZG40WnhlWnNqc3dWZFZ4TGJDVnNtRjhUVDQzamxtdzJuNklrUFVuTkJvZjl0X2J4T1l6MzJEdTRmdXdkUkpfMXNLMnFJcnVlTEh5cjRJTTV5WkU?oc=5",
+        "image_url": "https://ts4.mm.bing.net/th?id=OIP.4mwPzq7GoH6_6fzC1gtFXwHaEI&pid=15.1",
+        "hot": true,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：新疆克州乌恰县地震暂无人员伤亡或房屋倒塌报告。中国地震台网自动测定：11月4日5时34分在新疆克孜勒苏柯尔克孜自治州乌恰县附近（北纬39.45度，东经74.08度）发生5.0级左右地震，最终结果以正式速报为准。",
+        "key_points": [
+          "核心事件：新疆克州乌恰县地震暂无人员伤亡或房屋倒塌报告",
+          "中国地震台网自动测定：11月4日5时34分在新疆克孜勒苏柯尔克孜自治州乌恰县附近（北纬39.45度，东经74.08度）发生5.0级左右地震，最终结果以正式速报为准",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      },
+      {
+        "category": "国内",
         "title": "澳大利亚央行基准利率升至18年新高",
-        "summary": "澳大利亚储备银行（央行）3日宣布今年第五次加息，将基准利率上调25个基点至4.85%，该利率已升至2008年11月以来最高水平。 澳央行当天结束为期两天的货币政策会议后发表声明说，中东冲突导致燃油及其他大宗商品价格上涨，加之国内通胀居高不下，促使央行决定进一步收紧货币政策。声明表示，预计通胀将…",
+        "summary": "澳大利亚储备银行（央行）3日宣布今年第五次加息，将基准利率上调25个基点至4.85％，该利率已升至2008年11月以来最高水平。 澳央行当天结束为期两天的货币政策会议后发表声明说，中东冲突导致燃油及其他大宗商品价格上涨，加之国内通胀居高不下，促使央行决定进一步收紧货币政策。声明表示，预计通胀将…",
         "source": "新华网",
         "published_at": "2026-11-03T13:47:12+08:00",
         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXRWbkZIUUdBa1N6LUlXM2RCZzAwSVl2UkkyZXFveDd2ZmxueFVobDFfTDUxSDQtQVdIUzk1VzRqajViSWthenVnU0s0UTJTVWNlSloxNjhxZ01hcnFUSExvanc2RFIwUHE0X1VMWi1NbDhUdTZrSWVxcE5lOHkyWkpR?oc=5",
-        "image_url": "https://ts3.mm.bing.net/th?id=OIP.rJaXeAp5lgp1Z_9HsluCBgHaE-&pid=15.1",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.A-s-3DvmRDybn8RCPVaahwHaFm&pid=15.1",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：澳大利亚央行基准利率升至18年新高。澳大利亚储备银行（央行）3日宣布今年第五次加息，将基准利率上调25个基点至4.85%，该利率已升至2008年11月以来最高水平。澳央行当天结束为期两天的货币政策会议后发表声明说，中东冲突导致燃油及其他大宗商品价格上涨，加之国内通胀居高不下，促使央行决定进一步收紧货币政策。",
+        "quick_summary": "新华网这篇报道主要讲的是：澳大利亚央行基准利率升至18年新高。澳大利亚储备银行（央行）3日宣布今年第五次加息，将基准利率上调25个基点至4.85％，该利率已升至2008年11月以来最高水平。澳央行当天结束为期两天的货币政策会议后发表声明说，中东冲突导致燃油及其他大宗商品价格上涨，加之国内通胀居高不下，促使央行决定进一步收紧货币政策。",
         "key_points": [
           "核心事件：澳大利亚央行基准利率升至18年新高",
-          "澳大利亚储备银行（央行）3日宣布今年第五次加息，将基准利率上调25个基点至4.85%，该利率已升至2008年11月以来最高水平",
+          "澳大利亚储备银行（央行）3日宣布今年第五次加息，将基准利率上调25个基点至4.85％，该利率已升至2008年11月以来最高水平",
           "澳央行当天结束为期两天的货币政策会议后发表声明说，中东冲突导致燃油及其他大宗商品价格上涨，加之国内通胀居高不下，促使央行决定进一步收紧货币政策"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "一年内发生两起重大高铁事故 西班牙交通大臣辞职",
+        "summary": "据新华社，西班牙交通大臣奥斯卡·普恩特3日宣布辞职。西班牙今年已发生两起重大高铁事故，其中10月28日发生在托莱多省乌尔达的列车相撞事故造成69人死亡。根据西班牙国家广播电视台报道，普恩特当天在就乌尔达事故接受国会议员质询时宣布上述决定。普恩特说，他在乌尔达事故发生后不久便作出辞职决定，但希望…",
+        "source": "新华网",
+        "published_at": "2026-11-04T07:01:47+08:00",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GTS1KOUhGY2N2OG9GRUIwQ01WVHV0UFUzSDVIQ1lKNnBlNl9GMldoYkluaktrTXlDNlpiaDJrbXBBTWNkUlg3OGFVbGtHa1MxVW8zZVJKN0pmQVo4Q0xEWGNPcUViclF4NjFSWUViMkxGYW9MUHBBcUtrR3Bicms?oc=5",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.uQI0mVV8OPNlPWjbUK3f6wHaLp&pid=15.1",
+        "hot": true,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：一年内发生两起重大高铁事故 西班牙交通大臣辞职。新华社马德里11月3日电（记者陈雨峥）西班牙交通大臣奥斯卡·普恩特3日宣布辞职。西班牙今年已发生两起重大高铁事故，其中10月28日发生在托莱多省乌尔达的列车相撞事故造成69人死亡。这是10月30日，普恩特在西班牙首都马德里参加新闻发布会时的资料照片。新华社发（古斯塔沃·巴连特摄） 根据西班牙国家广播电视台报道，普恩特当天在就乌尔达事故接受国会议员质询时宣布上述决定。据新华社，西班牙交通大臣奥斯卡·普恩特3日宣布辞职。",
+        "key_points": [
+          "核心事件：一年内发生两起重大高铁事故 西班牙交通大臣辞职",
+          "新华社马德里11月3日电（记者陈雨峥）西班牙交通大臣奥斯卡·普恩特3日宣布辞职",
+          "西班牙今年已发生两起重大高铁事故，其中10月28日发生在托莱多省乌尔达的列车相撞事故造成69人死亡",
+          "这是10月30日，普恩特在西班牙首都马德里参加新闻发布会时的资料照片",
+          "新华社发（古斯塔沃·巴连特摄） 根据西班牙国家广播电视台报道，普恩特当天在就乌尔达事故接受国会议员质询时宣布上述决定"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "西班牙向高速列车事故死伤者提供3000万欧元援助",
+        "summary": "新华社马德里11月3日电（记者孟鼎博谢宇智）西班牙交通大臣奥斯卡·普恩特3日宣布，政府将向10月28日发生在卡斯蒂利亚-拉曼查自治区的高速列车事故死伤人员及家属提供3000万欧元援助，并采取措施加强铁路安全。 普恩特还宣布，针对本次事故，政府将乘客强制保险赔偿金额提高一倍，并提前支付赔偿金。…",
+        "source": "新华网",
+        "published_at": "2026-11-04T00:21:36+08:00",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XUFZHM3pNTUhYMXEwMGszbE4yWHJvYXNZbzFPUFZQV0NhNEc2TjdKT1JESmZlSXNWcGhqdmhKZEtpcE5OQWQtcXM0TDFwQXhOZ0VZY3VNd2twdWR5WDR1MkdKcTdoT1RBQUZHZTdRZWtINEhobDk2SlpmVEswc00?oc=5",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.8eSZqAhpRNGySxvlF2jPLAHaE8&pid=15.1",
+        "hot": true,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：西班牙向高速列车事故死伤者提供3000万欧元援助。新华社马德里11月3日电（记者孟鼎博谢宇智）西班牙交通大臣奥斯卡·普恩特3日宣布，政府将向10月28日发生在卡斯蒂利亚-拉曼查自治区的高速列车事故死伤人员及家属提供3000万欧元援助，并采取措施加强铁路安全。普恩特还宣布，针对本次事故，政府将乘客强制保险赔偿金额提高一倍，并提前支付赔偿金。",
+        "key_points": [
+          "核心事件：西班牙向高速列车事故死伤者提供3000万欧元援助",
+          "新华社马德里11月3日电（记者孟鼎博谢宇智）西班牙交通大臣奥斯卡·普恩特3日宣布，政府将向10月28日发生在卡斯蒂利亚-拉曼查自治区的高速列车事故死伤人员及家属提供3000万欧元援助，并采取措施加强铁路安全",
+          "普恩特还宣布，针对本次事故，政府将乘客强制保险赔偿金额提高一倍，并提前支付赔偿金"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "湖南衡山：107国道发生交通事故 寒夜里一份热早餐温暖滞留司乘",
+        "summary": "",
+        "source": "央视网",
+        "published_at": "2026-11-03T17:52:13+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mSU14akI0M1l5NjBOUEFGTG1uMkRSM3d4azhvS2ZwSjV6MXFiMHVIUzRzRVVUWGJUTE15cDMwNkx5Smh2dDI0aG12aFp6ZVZFenZUeUpuYVMzaXR5aVIzdXRBTzZ0N0dxRnlDRUtTLUR4WXhsellIbEZB?oc=5",
+        "image_url": "https://ts4.mm.bing.net/th?id=OIP.5LnBLvP4DV95y9Qaypez9wHaEM&pid=15.1",
+        "hot": true,
+        "verified": true,
+        "quick_summary": "央视网这篇报道主要讲的是：湖南衡山：107国道发生交通事故 寒夜里一份热早餐温暖滞留司乘。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：湖南衡山：107国道发生交通事故 寒夜里一份热早餐温暖滞留司乘",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
         ]
       },
       {
@@ -102,7 +173,7 @@
         "source": "新华网",
         "published_at": "2026-11-03T15:30:18+08:00",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYaXB5WHQ2ZHZOdzhaMUtBbkZkY0twQU5vcUVxSUIyNFNSYmNjeWZzNjNONWltaTEzSG8wWnl3X214UjR0M0lSaEVZdWtKc3duNjIzTGRqQTRuNTdmMlhndkp6N2Nick52V1F2SUNqLTlaeTRHeGJYNE4tUEliU1E?oc=5",
-        "image_url": "https://imgpai.thepaper.cn/newpai/image/1793691448716_xAbRHk_1793691448890.png",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.iJqq4baXN5o_X6n9orzB1wHaFt&pid=15.1",
         "hot": true,
         "verified": true,
         "quick_summary": "新华网这篇报道主要讲的是：美媒：佛州坠机事故遇难者身份已确认。据报道，44岁的科技企业家亚当·鲁滨逊、其妻子海伦·夏普和他们的两个孩子以及孩子的保姆都在事故飞机上，同行的还有他们的两个朋友。机长为55岁的杰夫·格雷戈里，副驾驶为20岁的纳塔利娅·菲尔盖拉斯。美东时间1日12时50分，一架公务机在美国佛罗里达州棕榈滩县坠毁。坠机视频显示，飞机从空中俯冲而…",
@@ -116,46 +187,29 @@
       },
       {
         "category": "国内",
-        "title": "西班牙高铁事故69名遇难者身份全部确认",
-        "summary": "每经AI快讯，当地时间11月2日，西班牙综合数据中心发布的消息显示，托莱多和雷亚尔城法医科学研究所当天已经确认高铁事故中全部69名死者的身份，其中男性40人，女性29人，均为成年人。 遇难者中54人为西班牙公民，15人为外国公民，包括4名美国人、2名澳大利亚人和2名日本人，其余7人分别来自阿根…",
-        "source": "新华网",
-        "published_at": "2026-11-03T07:10:57+08:00",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KZGdGVW5vU1YwTE8zeHpJME5nZTBaeDg2YkRGd3V4YWtFTjVnRXNBYzY1aVd2OFJDRjJXZFF3eHhMa1NOMU0yOExsTGpybWpJUkpDNTlpcFQ2ckRGZGVIWGJUZlY4XzNsWGdkUENVbERSd2ZRVmwzWWcyVU9uVjQ?oc=5",
-        "image_url": "http://www.bing.com/th?id=ONUT.0L2g5NdraMlIH_FgHH1Ryw&pid=News",
-        "hot": true,
-        "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：西班牙高铁事故69名遇难者身份全部确认。每经AI快讯，当地时间11月2日，西班牙综合数据中心发布的消息显示，托莱多和雷亚尔城法医科学研究所当天已经确认高铁事故中全部69名死者的身份，其中男性40人，女性29人，均为成年人。遇难者中54人为西班牙公民，15人为外国公民，包括4名美国人、2名澳大利亚人和2名日本人，其余7人分别来自阿根…",
-        "key_points": [
-          "核心事件：西班牙高铁事故69名遇难者身份全部确认",
-          "每经AI快讯，当地时间11月2日，西班牙综合数据中心发布的消息显示，托莱多和雷亚尔城法医科学研究所当天已经确认高铁事故中全部69名死者的身份，其中男性40人，女性29人，均为成年人",
-          "遇难者中54人为西班牙公民，15人为外国公民，包括4名美国人、2名澳大利亚人和2名日本人，其余7人分别来自阿根…"
-        ]
-      },
-      {
-        "category": "国内",
         "title": "中国和阿曼两国央行签订双边本币互换协议",
-        "summary": "新华社北京11月3日电（记者吴雨）记者11月3日从中国人民银行获悉，11月2日中国人民银行与阿曼中央银行签订了《人民币/阿曼里亚尔双边本币互换协议》和《加强数字支付和法定数字货币合作的谅解备忘录》。其中，《人民币/阿曼里亚尔双边本币互换协议》的互换规模为300亿元人民币/15亿阿曼里亚尔，协议…",
+        "summary": "记者11月3日从中国人民银行获悉，11月2日中国人民银行与阿曼中央银行签订了《人民币/阿曼里亚尔双边本币互换协议》和《加强数字支付和法定数字货币合作的谅解备忘录》。其中，《人民币/阿曼里亚尔双边本币互换协议》的互换规模为300亿元人民币/15亿阿曼里亚尔，协议有效期5年。 据介绍，上述协议的签…",
         "source": "新华网",
         "published_at": "2026-11-03T19:52:50+08:00",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mVG5rTDczZFAxcVpLbmFRYXFVYXVRem9ZQU1LUmJ4eTVtNlRmZDRaS2ZFOExFSHVJdDQzVElzS3ZzdUtCd0Y1dEw1ZTRLV0hjY21KazZKQktQdGhVMWdwUkhjbE96ckVQQktneko2eGU3aWRtTTJj?oc=5",
-        "image_url": "",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIF.%2b8oNXrR8uTFKHGR6YAWzaQ&pid=15.1",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：中国和阿曼两国央行签订双边本币互换协议。新华社北京11月3日电（记者吴雨）记者11月3日从中国人民银行获悉，11月2日中国人民银行与阿曼中央银行签订了《人民币/阿曼里亚尔双边本币互换协议》和《加强数字支付和法定数字货币合作的谅解备忘录》。其中，《人民币/阿曼里亚尔双边本币互换协议》的互换规模为300亿元人民币/15亿阿曼里亚尔，协议…",
+        "quick_summary": "新华网这篇报道主要讲的是：中国和阿曼两国央行签订双边本币互换协议。记者11月3日从中国人民银行获悉，11月2日中国人民银行与阿曼中央银行签订了《人民币/阿曼里亚尔双边本币互换协议》和《加强数字支付和法定数字货币合作的谅解备忘录》。其中，《人民币/阿曼里亚尔双边本币互换协议》的互换规模为300亿元人民币/15亿阿曼里亚尔，协议有效期5年。",
         "key_points": [
           "核心事件：中国和阿曼两国央行签订双边本币互换协议",
-          "新华社北京11月3日电（记者吴雨）记者11月3日从中国人民银行获悉，11月2日中国人民银行与阿曼中央银行签订了《人民币/阿曼里亚尔双边本币互换协议》和《加强数字支付和法定数字货币合作的谅解备忘录》",
-          "其中，《人民币/阿曼里亚尔双边本币互换协议》的互换规模为300亿元人民币/15亿阿曼里亚尔，协议…"
+          "记者11月3日从中国人民银行获悉，11月2日中国人民银行与阿曼中央银行签订了《人民币/阿曼里亚尔双边本币互换协议》和《加强数字支付和法定数字货币合作的谅解备忘录》",
+          "其中，《人民币/阿曼里亚尔双边本币互换协议》的互换规模为300亿元人民币/15亿阿曼里亚尔，协议有效期5年"
         ]
       },
       {
         "category": "国内",
         "title": "我国将不断凝聚稳就业工作合力",
-        "summary": "新华社北京11月3日电（记者张晓洁）国务院就业促进和劳动保护工作领导小组今年印发了《稳岗扩容提质行动方案》。记者11月3日从人力资源社会保障部获悉，深入实施稳岗扩容提质行动部门推进会近日举行，有关部门将对标对表方案确定的目标任务，倒排工期、加快进度，不断凝聚稳就业工作合力。",
+        "summary": "新华社北京11月3日电（记者张晓洁）国务院就业促进和劳动保护工作领导小组今年印发了《稳岗扩容提质行动方案》。记者11月3日从人力资源社会保障部获悉，深入实施稳岗扩容提质行动部门推进会近日举行，有关部门将对标对表方案确定的目标任务，倒排工期、加快进度，不断凝聚稳就业工作合力。 今年以来，各部门深…",
         "source": "新华网",
         "published_at": "2026-11-03T20:01:27+08:00",
         "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DdXNHcVN6NFl2YXVvRmhvQVo2T3djZjN5MXdiOHgwOHg4cDVmN2tGaENsXzJobUREdXJ0RXZaOW4xSXlDdU4wQ0xNZEgwcEpYM2VxVVRLZkF4Rk9XNDdZeXRleEtua2lwZVlNeXJrNVUtVVJiMVNZ?oc=5",
-        "image_url": "",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.bZKrHAk2t3vztllzNDeg0QHaEU&pid=15.1",
         "hot": false,
         "verified": true,
         "quick_summary": "新华网这篇报道主要讲的是：我国将不断凝聚稳就业工作合力。新华社北京11月3日电（记者张晓洁）国务院就业促进和劳动保护工作领导小组今年印发了《稳岗扩容提质行动方案》。记者11月3日从人力资源社会保障部获悉，深入实施稳岗扩容提质行动部门推进会近日举行，有关部门将对标对表方案确定的目标任务，倒排工期、加快进度，不断凝聚稳就业工作合力。",
@@ -168,32 +222,131 @@
       {
         "category": "国内",
         "title": "卡塔尔外交部发言人：与美伊双方的会谈取得进展",
-        "summary": "新华社多哈11月3日电据路透社3日报道，卡塔尔外交部发言人3日说，与美伊双方的会谈取得进展，地区及海湾地区已达成共识，避免局势升级。美国和伊朗目前正在审议卡方作为调解方提供的提议，美伊双方均致力于调解进程。卡方“抱有希望”，认为仍有机会达成一项为未来谈判营造环境的协议。",
+        "summary": "",
         "source": "新华网",
         "published_at": "2026-11-03T18:55:00+08:00",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OSUlVUmdnVVFZRnV2ckRqeXRYakJqWkJVRV9ZNnZFUW9yNHRsRHcwRFdEYUM2aGJGMDNLYmtEQ3VJWXlJdUQ0T3Jaa2RHcjJSX0x1OU5XZ0hya242WkZTQ09vSWtSNmNiWk1LS0xwZmlWMDhvN1VGU1RiaXBuRWc?oc=5",
-        "image_url": "https://ts3.mm.bing.net/th?id=OIP.cqWggPm8vDVrNgW0jF3RLgHaFC&pid=15.1",
+        "image_url": "",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：卡塔尔外交部发言人：与美伊双方的会谈取得进展。新华社多哈11月3日电据路透社3日报道，卡塔尔外交部发言人3日说，与美伊双方的会谈取得进展，地区及海湾地区已达成共识，避免局势升级。美国和伊朗目前正在审议卡方作为调解方提供的提议，美伊双方均致力于调解进程。卡方“抱有希望”，认为仍有机会达成一项为未来谈判营造环境的协议。",
+        "quick_summary": "新华网这篇报道主要讲的是：卡塔尔外交部发言人：与美伊双方的会谈取得进展。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
           "核心事件：卡塔尔外交部发言人：与美伊双方的会谈取得进展",
-          "新华社多哈11月3日电据路透社3日报道，卡塔尔外交部发言人3日说，与美伊双方的会谈取得进展，地区及海湾地区已达成共识，避免局势升级",
-          "美国和伊朗目前正在审议卡方作为调解方提供的提议，美伊双方均致力于调解进程",
-          "卡方“抱有希望”，认为仍有机会达成一项为未来谈判营造环境的协议"
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
         ]
       },
       {
         "category": "国内",
-        "title": "巴基斯坦成功试射首枚国产空对空导弹",
-        "summary": "新华社伊斯兰堡11月3日电（记者杨恺）巴基斯坦三军新闻局3日发表声明说，巴基斯坦当天成功试射首枚国产空对空导弹，标志着该国航空航天与国防能力发展迈出重要一步。 声明表示，该导弹配备先进的末端制导系统，可在更远距离拦截敌方空中目标。该导弹将显著提升巴空军的作战灵活性，进一步巩固国家的整体防御态势…",
-        "source": "新华网",
-        "published_at": "2026-11-04T02:59:47+08:00",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vcWdlUXdlWVk5b1Z1UnRXd0xqeVAwVExOMXhBNWFpOGpuYXJkOWR5NWZkSWJtSUNZNC1vMFBNNHl6UEc0b2tOWkhLeTlBME1QS3JldzVVQ1k2b2UtNHJQY0pvWndUSVlTUEttSFNNcG53Ty0tRlR4QVYxTUdqUkk?oc=5",
+        "title": "强国影视观察|开门办 众行远——让长征精神在共创共享中薪火相传",
+        "summary": "",
+        "source": "央视网",
+        "published_at": "2026-11-04T11:28:29+08:00",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QMXlPdXlTbVBUanFpajV2WGlHdFBwTFN0MHNZZVE5Q3FKN2xfUUg1S1lJcW9Ya1VhZEdfSG94Rmdva2lsWG5vajhCQWlIaHo2c2JhVm1nV29uQm54T3NPMW0xUTFaaXJ4WVpFalotSlo2SjRwQlNpYw?oc=5",
         "image_url": "",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：巴基斯坦成功试射首枚国产空对空导弹。新华社伊斯兰堡11月3日电（记者杨恺）巴基斯坦三军新闻局3日发表声明说，巴基斯坦当天成功试射首枚国产空对空导弹，标志着该国航空航天与国防能力发展迈出重要一步。声明表示，该导弹配备先进的末端制导系统，可在更远距离拦截敌方空中目标。该导弹将显著提升巴空军的作战灵活性，进一步巩固国家的整体防御态势…",
+        "quick_summary": "央视网这篇报道主要讲的是：强国影视观察|开门办 众行远——让长征精神在共创共享中薪火相传。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：强国影视观察|开门办 众行远——让长征精神在共创共享中薪火相传",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "江苏南通：秋季研学助力成长",
+        "summary": "",
+        "source": "央视网",
+        "published_at": "2026-11-04T11:28:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtX3d4OGphUjRxY3BWTDA0TmllYjNUR2R4VHphaUN1SW5pRGNXMDNOdUFIeUhWdU1sempuYXBtS3JtNV9sclhUSGRRYXJYS0ZMQ1NXWWpEUmphQ01HRFFZU3o0SnpNQW85YTY3NHE3VDlhNW41Q1JCakxB?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "央视网这篇报道主要讲的是：江苏南通：秋季研学助力成长。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：江苏南通：秋季研学助力成长",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "第二艘国产大型邮轮“爱达·花城号”将于11月6日在上海交付",
+        "summary": "",
+        "source": "央视网",
+        "published_at": "2026-11-04T11:22:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50aDVUZzRFVUphWllwcVNxZTdpbXV3S29La2FLcVhySjRKT0gtaXE5bWpLSE1oNE9zRTNFZm1LMnBGeGRjV2dPWG9JeFRZWnVRNEVkMEo2ZEFNcnpuYW1pVjQzclJORFREWU9OakhuMVlKZXBHd3c1M2VB?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "央视网这篇报道主要讲的是：第二艘国产大型邮轮“爱达·花城号”将于11月6日在上海交付。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：第二艘国产大型邮轮“爱达·花城号”将于11月6日在上海交付",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "美民主党或掌控众议院 白宫“不服气”",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-11-04T11:14:30+08:00",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qRm5wSWJjRk1jZ2tCWWdubEdRZHk0a1dlMUxlT2c1cmY2TmZENWtQYUcwTm5hdWJHaXNRNGphWS0tXzEyZG11Y2cyZDI0RHUybHVGeFMxTy1ubTkzRUJ0MlZKNWtUUkdMYUNpWkwzQWs0dkx3QWp6RC1oeUNZYzQ?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：美民主党或掌控众议院 白宫“不服气”。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：美民主党或掌控众议院 白宫“不服气”",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      },
+      {
+        "category": "国内",
+        "title": "湖南省政协原常委、经济科技委员会原副主任张志军接受审查调查",
+        "summary": "",
+        "source": "新华网",
+        "published_at": "2026-11-04T11:13:20+08:00",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MTWxjYjVEU1MwcTRucldNa1hyZmdQMTBOejI3c2RTbmpWX0Y4UEpCVG5pMWVEUHAyS2VqZUxORHNFVmFZbEhBekU3ODZpX2RpMXlYZzJZUnFNU0pLbzJZVF9sVm0tWTRrUnZzT3NvV0Z5TFpMUkdNX3ltb2dSOVk?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：湖南省政协原常委、经济科技委员会原副主任张志军接受审查调查。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：湖南省政协原常委、经济科技委员会原副主任张志军接受审查调查",
+          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+        ]
+      }
+    ],
+    "world": [
+      {
+        "category": "国际",
+        "title": "特朗普进一步淡化战争风险：美国暂无立即打击伊朗计划",
+        "summary": "财联社11月4日讯（编辑 卞纯）综合央视新闻等媒体报道，当地时间周二，美国总统特朗普进一步淡化了外界关于他将在中期选举后升级与伊朗冲突的预期。他表示，美国目前没有立即打击伊朗的计划。 特朗普在接受媒体采访时表示，他对美伊当前所处的僵局“感到满意”。但他同时也释放信号：如有必要，美国做好了再次采…",
+        "source": "财联社",
+        "published_at": "2026-11-04T05:15:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1WR2VoVkV6bUxoUjVRbldxc0lkTC0wbmJyLVNQZEhDelhaYzFOeVU1NU1mNFhybTh1TVpxSzBpT2Q3XzFzU21FWA?oc=5",
+        "image_url": "https://ts3.mm.bing.net/th?id=OIP.upMvcL_Jw3S-FS9DKlUg2QHaEK&pid=15.1",
+        "hot": true,
+        "verified": true,
+        "quick_summary": "财联社这篇报道主要讲的是：特朗普进一步淡化战争风险：美国暂无立即打击伊朗计划。财联社11月4日讯（编辑 卞纯）综合央视新闻等媒体报道，当地时间周二，美国总统特朗普进一步淡化了外界关于他将在中期选举后升级与伊朗冲突的预期。他表示，美国目前没有立即打击伊朗的计划。特朗普在接受媒体采访时表示，他对美伊当前所处的僵局“感到满意”。但他同时也释放信号：如有必要，美国做好了再次采…",
+        "key_points": [
+          "核心事件：特朗普进一步淡化战争风险：美国暂无立即打击伊朗计划",
+          "财联社11月4日讯（编辑 卞纯）综合央视新闻等媒体报道，当地时间周二，美国总统特朗普进一步淡化了外界关于他将在中期选举后升级与伊朗冲突的预期",
+          "他表示，美国目前没有立即打击伊朗的计划",
+          "特朗普在接受媒体采访时表示，他对美伊当前所处的僵局“感到满意”",
+          "但他同时也释放信号：如有必要，美国做好了再次采…"
+        ]
+      },
+      {
+        "category": "国际",
+        "title": "巴基斯坦成功试射首枚国产空对空导弹",
+        "summary": "新华社伊斯兰堡11月3日电（记者杨恺）巴基斯坦三军新闻局3日发表声明说，巴基斯坦当天成功试射首枚国产空对空导弹，标志着该国航空航天与国防能力发展迈出重要一步。 声明表示，该导弹配备先进的末端制导系统，可在更远距离拦截敌方空中目标。该导弹将显著提升巴空军的作战灵活性，进一步巩固国家的整体防御态势…",
+        "source": "新华网客户端",
+        "published_at": "2026-11-04T09:08:50+08:00",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdk1vSU5ZcWV5WV9xNl9KT0RyWk9wd2l0aV9UeWZfRkNvTnVUOTdpSENsb3piN2RJd1BvX0tlcmZ5eVNVZFRHanhxcVpLdW9pRDBDVGhEd3BTWVdxUlFqMThibDYycnNXckU4ZzJoUE1OVkxOOFVoazktWGFucy1KeHo3dW1tdXhKdm5OckJyOXdBRFB6eXlRREJB?oc=5",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.DlxmANwRhHrFBHRxsgdCswAAAA&pid=15.1",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网客户端这篇报道主要讲的是：巴基斯坦成功试射首枚国产空对空导弹。新华社伊斯兰堡11月3日电（记者杨恺）巴基斯坦三军新闻局3日发表声明说，巴基斯坦当天成功试射首枚国产空对空导弹，标志着该国航空航天与国防能力发展迈出重要一步。声明表示，该导弹配备先进的末端制导系统，可在更远距离拦截敌方空中目标。该导弹将显著提升巴空军的作战灵活性，进一步巩固国家的整体防御态势…",
         "key_points": [
           "核心事件：巴基斯坦成功试射首枚国产空对空导弹",
           "新华社伊斯兰堡11月3日电（记者杨恺）巴基斯坦三军新闻局3日发表声明说，巴基斯坦当天成功试射首枚国产空对空导弹，标志着该国航空航天与国防能力发展迈出重要一步",
@@ -202,142 +355,38 @@
         ]
       },
       {
-        "category": "国内",
-        "title": "刘延东遗体在北京火化 习近平等送别",
-        "summary": "据新华社报道，星期二（11月3日）上午9时30分许，习近平、赵乐际、王沪宁、蔡奇、丁薛祥、李希、韩正等，在哀乐声中缓步到刘延东的遗体前肃立默哀，向遗体三鞠躬，并与亲属一一握手，表示慰问。",
-        "source": "联合早报",
-        "published_at": "2026-11-03T16:14:25+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEOWMydm93ZFBUUmRGVVhOcEkyeHgtRkRhSjB4Tm9ycFE1SW1weHdUUWhJTGd4a3RxNGVTbnlMVTFDSENybk5wcDh6QWN2Y2tWVEpad1FIVlRQZFJZb0VGdTQ5VU83SU5MWVE?oc=5",
-        "image_url": "https://cassette.sphdigital.com.sg/image/zaobao/f2a8d9a08bc7a4fe81728667f7fb2a4dcaa789759d716d8b59d4685b6d5c5506",
-        "hot": false,
-        "verified": false,
-        "quick_summary": "联合早报这篇报道主要讲的是：刘延东遗体在北京火化 习近平等送别。原中共政治局委员、中国国务院副总理刘延东的遗体在北京火化，中共总书记习近平等国家领导人到八宝山革命公墓送别。据新华社报道，星期二（11月3日）上午9时30分许，习近平、赵乐际、王沪宁、蔡奇、丁薛祥、李希、韩正等，在哀乐声中缓步到刘延东的遗体前肃立默哀，向遗体三鞠躬，并与亲属一一握手，表示慰问。党和国家有关领导人前往送别或以各种方式表示哀悼。刘延东生于1945年11月，江苏南通人。“红二代”的她出身高干家庭，毕业于清华大学工程化学系，1980年代长期在共青团工作，曾任共青团中央书记处书记、常务书记，中国全国青联副主席、主席。",
-        "key_points": [
-          "核心事件：刘延东遗体在北京火化 习近平等送别",
-          "原中共政治局委员、中国国务院副总理刘延东的遗体在北京火化，中共总书记习近平等国家领导人到八宝山革命公墓送别",
-          "据新华社报道，星期二（11月3日）上午9时30分许，习近平、赵乐际、王沪宁、蔡奇、丁薛祥、李希、韩正等，在哀乐声中缓步到刘延东的遗体前肃立默哀，向遗体三鞠躬，并与亲属一一握手，表示慰问",
-          "党和国家有关领导人前往送别或以各种方式表示哀悼",
-          "刘延东生于1945年11月，江苏南通人"
-        ]
-      },
-      {
-        "category": "国内",
-        "title": "俄总统新闻秘书：安全不可分割原则是俄立场基石",
+        "category": "国际",
+        "title": "特朗普：若民主党掌控国会 或将动用总统否决权抗衡",
         "summary": "",
-        "source": "新华网",
-        "published_at": "2026-11-04T00:10:07+08:00",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zNjdvQXBrWTgybTJFbnpFY3ZYckZZcTY1VXNvMUlXYVdwMjJHd0txa1B5ZkRuRW1ZbGpZcmo4UWdiMlJiYjMxYVRfb2FRZmYtVXIzRDlVc1RnTlJrZnNxY3N3WHE0b1JLWThOSWgtVTl0anRrazh1OHN1eWRjQzQ?oc=5",
-        "image_url": "",
+        "source": "央视网",
+        "published_at": "2026-11-04T10:47:02+08:00",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11eHVDNEY5SElBVGQzNzdhT0xhSkZsOWxKRFAzTWRkQ2QtNF9RM2dpaVR4WGJPMUp4Z3BSM3BVdllDbmdjRmsybUl1QkZGemdpVTlpeEExdkd2cm5fMVBPWjR6LTIzbjVySWI3aURuNmJmT0RhbXlZ?oc=5",
+        "image_url": "https://ts3.mm.bing.net/th?id=OIP.QMo8Fu_f3lzwVFXsWy3e0wHaEK&pid=15.1",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：俄总统新闻秘书：安全不可分割原则是俄立场基石。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "央视网这篇报道主要讲的是：特朗普：若民主党掌控国会 或将动用总统否决权抗衡。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：俄总统新闻秘书：安全不可分割原则是俄立场基石",
-          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
+          "核心事件：特朗普：若民主党掌控国会 或将动用总统否决权抗衡",
+          "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
         ]
       },
-      {
-        "category": "国内",
-        "title": "拉脱维亚新一届议会选举斯米尔滕斯为议长",
-        "summary": "",
-        "source": "新华网",
-        "published_at": "2026-11-04T00:09:49+08:00",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tazJkNXFVMUdRc2E5eUdZRnFwSFludVlYclgyV1RXY0NPcG14Z0VPaDVrclRVdnVlUTBEX3RDWmVqQVpIOTlRLUtBOVVfdTFpei12b0twUDBoWUg2TzIzbmlZc2s5VGwtdDU4NC1nY3dVWGxtNGNjX1RQS2N4WXM?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：拉脱维亚新一届议会选举斯米尔滕斯为议长。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：拉脱维亚新一届议会选举斯米尔滕斯为议长",
-          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
-        ]
-      },
-      {
-        "category": "国内",
-        "title": "近300位中外嘉宾会聚第十六届世界社会主义论坛",
-        "summary": "",
-        "source": "新华网",
-        "published_at": "2026-11-03T23:47:19+08:00",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd3BUeERyTk40YnNUU1pKcUxPYW9rNDRYZHV4c09hYkFCeEVzQUx0ZVUtMFQ2N1dncVNadlUtLWQ2anFzS0RHa2pheDRtazhuUEhQSExVN3ZQNGdNcmJ1QlY1MmxxVWpJNDVOUGJyZEJXdFhSTktIbG11X25SLUdCVHBQbw?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：近300位中外嘉宾会聚第十六届世界社会主义论坛。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：近300位中外嘉宾会聚第十六届世界社会主义论坛",
-          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
-        ]
-      },
-      {
-        "category": "国内",
-        "title": "瞰中国丨内蒙古：金沙碧水 群鸟翩跹",
-        "summary": "",
-        "source": "新华网",
-        "published_at": "2026-11-03T23:18:55+08:00",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1HQ1hpcU5aSmJISWlOUzJWQXdmQ0RRQzVoeWJuNERGT3E1MDE4NDlSa2NJb1F5emZQZndTSktUWjhVUmpmOThpZUVjdFBCTDMzbmVkM3VoaDJZemo1TW1BbFBqNDlQWl9mZ01HMURqbV8tZkE2dkd0MUJDb3ZFV3c?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：瞰中国丨内蒙古：金沙碧水 群鸟翩跹。深秋时节，内蒙古自治区赤峰市巴林右旗大板镇翁根毛都沙湖湿地迎来大批迁徙候鸟。晴空之下，金色沙海环抱一泓碧水，沙水相映。群鸟翩跹其间，或振翅掠水，或悠然游弋，动静之间尽显灵动。待到落日时分，沙海、碧湖、群鸟尽染金辉，绘就一幅壮美的生态画卷。监制：马宝军 策划：李琳 杜屹然 责编：王家辉 编导：李聪 报道...。",
-        "key_points": [
-          "核心事件：瞰中国丨内蒙古：金沙碧水 群鸟翩跹",
-          "深秋时节，内蒙古自治区赤峰市巴林右旗大板镇翁根毛都沙湖湿地迎来大批迁徙候鸟",
-          "晴空之下，金色沙海环抱一泓碧水，沙水相映",
-          "群鸟翩跹其间，或振翅掠水，或悠然游弋，动静之间尽显灵动",
-          "待到落日时分，沙海、碧湖、群鸟尽染金辉，绘就一幅壮美的生态画卷"
-        ]
-      },
-      {
-        "category": "国内",
-        "title": "瞰中国丨湖南张家界：云涌千峰 天梯入画",
-        "summary": "",
-        "source": "新华网",
-        "published_at": "2026-11-03T23:18:44+08:00",
-        "url": "https://www.news.cn/20261103/b4681b1a459845b7b6b1d077ab088b39/c.html",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：瞰中国丨湖南张家界：云涌千峰 天梯入画。雨后初霁，湖南张家界武陵源风景区迎来壮阔云海景观。水汽升腾漫过山谷，缥缈云雾时而缠绕山腰，时而铺满峡谷，于群峰间翻涌流转。阳光穿透云层，金色光影铺洒在陡峭崖壁上，百龙天梯如银柱擎天，贴崖直上，与云涛、奇峰融为一体，绘就一幅雄奇灵秀的山水画卷。",
-        "key_points": [
-          "核心事件：瞰中国丨湖南张家界：云涌千峰 天梯入画",
-          "雨后初霁，湖南张家界武陵源风景区迎来壮阔云海景观",
-          "水汽升腾漫过山谷，缥缈云雾时而缠绕山腰，时而铺满峡谷，于群峰间翻涌流转",
-          "阳光穿透云层，金色光影铺洒在陡峭崖壁上，百龙天梯如银柱擎天，贴崖直上，与云涛、奇峰融为一体，绘就一幅雄奇灵秀的山水画卷"
-        ]
-      },
-      {
-        "category": "国内",
-        "title": "一飞机因电子邮件炸弹威胁而降落保加利亚机场",
-        "summary": "",
-        "source": "新华网",
-        "published_at": "2026-11-03T23:00:49+08:00",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzUTNmaG82STdIaUlNejJxamFvR0E3MHZiZDctMExGRUdsU1lqX3NmbDRtRTJqZlpScXVwY1V6ZVZnUHFaWFJibkc2YTBCdDJCTHJBREFGY25CVGNWUS1IeWJ1Qk9sT3YxTjZsX3NHTmYzTkJZLUYzQ1BNRTB5Zk0?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：一飞机因电子邮件炸弹威胁而降落保加利亚机场。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：一飞机因电子邮件炸弹威胁而降落保加利亚机场",
-          "后续可继续关注相关部门正式通报、政策执行范围、时间节点以及对民生和经济运行的实际影响。"
-        ]
-      }
-    ],
-    "world": [
       {
         "category": "国际",
-        "title": "特朗普总统：美国在霍尔木兹海峡的打击属“小规模袭击”，卡塔尔指美伊正在审议结束冲突的提案",
-        "summary": "美国总统唐纳德·特朗普(Donald Trump)星期二(11月３日)说，美军星期一晚间对伊朗格什姆岛(Qeshm Island)发动的打击属“小规模袭击”，并坚称这不构成战争；卡塔尔方面同时报告，华盛顿和德黑兰正在审议结束冲突的提议。",
-        "source": "美国之音",
-        "published_at": "2026-11-04T01:21:59+08:00",
-        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRE5TNjI0Si1GcjQ0dFpEQWNhYVFtY3E0dFJCdThIVk9Qc29pVWhjd1JHYXRRZHhES1ZEaEpjMFdsZTltSVc0Z3J0QmFnTllkbHNPTUN2akJJR3B5eU1GUy0teXg5WnljRGFHZ0pBam03QXpRSnZNVXNIRFFnMEwxQk0teXBxTW9wS19ENHNQV1FSYnpza0doWnB6WWZuREc3VmJOSnlhZF9fUV9CSENMYzlyZjdlaXNzM2hkWTdmOFFHbzdCZ2t2aERsOVpsUkxGRi1fTUt5YWxIR3pfNWQwdHhHR3FmTksxTy10a2lpVjdvdjBSZEFEZ0pIdmnSAf8BQVVfeXFMTktNbDVTdHBJUnhHcUMyeHh5THgycmNHQ3B2TmdUcEJhbXBpQXhwS01uNHpCWGhHS3Z1QkxPeFBxRkRzOUI3c3l3TmgtbFVheDZtc1V5M3g3bk5rQnlLV1lkOWRrYmNybU5Ib1JoWExCRTFyTlRtRzNjS1lrdHlLdm84YTJENkptejN0NzhMcjlObzVPMEV1NXFldlRpb0l3Zzh6eHVacjZBX1l6U2M2UTMxbjAzMUI1c2t2bk0wN3VFbldpWng2bGFFaUdoeDU0XzVralRKdzUtX0VMeTdaN0Y3ZG94WlJqanVzM0xsRTR3cUdyLU9hNzJ4aUxxaURZ?oc=5",
-        "image_url": "http://www.bing.com/th?id=ONUT.Gutii2Mc8WTMLmsSf6GiEg&pid=News",
-        "hot": true,
-        "verified": false,
-        "quick_summary": "美国之音这篇报道主要讲的是：特朗普总统：美国在霍尔木兹海峡的打击属“小规模袭击”，卡塔尔指美伊正在审议结束冲突的提案。美国总统唐纳德·特朗普(Donald Trump)星期二(11月３日)说，美军星期一晚间对伊朗格什姆岛(Qeshm Island)发动的打击属“小规模袭击”，并坚称这不构成战争；卡塔尔方面同时报告，华盛顿和德黑兰正在审议结束冲突的提议。",
+        "title": "特朗普：不会立即打击伊朗 但随时严阵以待",
+        "summary": "新华社华盛顿11月3日电美国总统特朗普3日在接受英国《金融时报》采访时表示，美国没有立即打击伊朗的计划，但随时“严阵以待”。 在这段时长6分钟的电话采访中，特朗普称，他对当前美伊局面“感到满意”，“我们似乎正在得到我们想要的一切”。 针对以色列总理内塔尼亚胡曾暗示或在本周晚些时候打击伊朗，特朗…",
+        "source": "新华网",
+        "published_at": "2026-11-04T10:34:55+08:00",
+        "url": "https://www.news.cn/world/20261104/ea9ef5ebaa8644a4abf9bddfcdc6a696/c.html",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.jZ8--KX7TjrTZ76jGX5AIQHaEK&pid=15.1",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：特朗普：不会立即打击伊朗 但随时严阵以待。新华社华盛顿11月3日电 美国总统特朗普3日在接受英国《金融时报》采访时表示，美国没有立即打击伊朗的计划，但随时“严阵以待”。在这段时长6分钟的电话采访中，特朗普称，他对当前美伊局面“感到满意”，“我们似乎正在得到我们想要的一切”。针对以色列总理内塔尼亚胡曾暗示或在本周晚些时候打击伊朗，特朗普回应称：“我准备好了，我们也准备好了。特朗普在采访中表示，美国对伊朗港口的封锁已成功“扼杀”伊朗经济，“局面非常理想”。特朗普还在采访中对俄乌和平谈判进程表示乐观，称俄乌双方都已“接近达成协议”。",
         "key_points": [
-          "核心事件：特朗普总统：美国在霍尔木兹海峡的打击属“小规模袭击”，卡塔尔指美伊正在审议结束冲突的提案",
-          "美国总统唐纳德·特朗普(Donald Trump)星期二(11月３日)说，美军星期一晚间对伊朗格什姆岛(Qeshm Island)发动的打击属“小规模袭击”，并坚称这不构成战争",
-          "卡塔尔方面同时报告，华盛顿和德黑兰正在审议结束冲突的提议"
+          "核心事件：特朗普：不会立即打击伊朗 但随时严阵以待",
+          "新华社华盛顿11月3日电 美国总统特朗普3日在接受英国《金融时报》采访时表示，美国没有立即打击伊朗的计划，但随时“严阵以待”",
+          "在这段时长6分钟的电话采访中，特朗普称，他对当前美伊局面“感到满意”，“我们似乎正在得到我们想要的一切”",
+          "针对以色列总理内塔尼亚胡曾暗示或在本周晚些时候打击伊朗，特朗普回应称：“我准备好了，我们也准备好了",
+          "特朗普在采访中表示，美国对伊朗港口的封锁已成功“扼杀”伊朗经济，“局面非常理想”"
         ]
       },
       {
@@ -376,109 +425,92 @@
       },
       {
         "category": "国际",
-        "title": "2026年中期选举：特朗普低支持率拖累共和党，关税、油价与移民政策加剧美国社会矛盾",
-        "summary": "",
-        "source": "凤凰网",
-        "published_at": "2026-11-03T15:38:40+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ad21hTTNpVTItcWpLTUJ2WktLdHZCdFE5aW9QbVF5Vnc4V1hDOUZCNVlHN2huT0ZNb0V1QXE4c0swV0VlT0RDT2wzVS15dkJkZkE?oc=5",
-        "image_url": "https://ts4.mm.bing.net/th?id=OIP.x5N_BWHo2587uRlb-jbbkwHaFF&pid=15.1",
+        "title": "乌克兰呼吁对俄军袭击能源核电相关设施作出回应--国际",
+        "summary": "△资料图当地时间11月3日，乌克兰第一副总理兼能源部长什梅加尔表示，他当天与七国集团、欧盟以及北欧和波罗的海国家驻乌大使举行会晤，呼吁各方对俄罗斯发动大规模能源袭击尤其是升级对乌核电站相关设施的袭击作出回应。什梅加尔称，2日晚至3日凌晨，俄军向乌境内发射了289架无人机、17枚弹道导弹和59枚…",
+        "source": "人民网",
+        "published_at": "2026-11-04T09:02:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tdmdnZUx5WFY2SjZ3LVg3SVA3UXFCZGN4UTRSM2RPVEdMM2gzLXJDd0JTbGhPTEpoaV9tM2RNRWQyQklDRXowaF93YmxzeEpUMmllbnMzS01yZjA5WjFJVElYVGNOZlhZU3RF?oc=5",
+        "image_url": "http://www.bing.com/th?id=ONUT.y_K3ICUK8_-p_JAvXggv6g&pid=News",
         "hot": false,
         "verified": false,
-        "quick_summary": "凤凰网这篇报道主要讲的是：2026年中期选举：特朗普低支持率拖累共和党，关税、油价与移民政策加剧美国社会矛盾。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "人民网这篇报道主要讲的是：乌克兰呼吁对俄军袭击能源核电相关设施作出回应--国际。△资料图当地时间11月3日，乌克兰第一副总理兼能源部长什梅加尔表示，他当天与七国集团、欧盟以及北欧和波罗的海国家驻乌大使举行会晤，呼吁各方对俄罗斯发动大规模能源袭击尤其是升级对乌核电站相关设施的袭击作出回应。什梅加尔称，2日晚至3日凌晨，俄军向乌境内发射了289架无人机、17枚弹道导弹和59枚…",
         "key_points": [
-          "核心事件：2026年中期选举：特朗普低支持率拖累共和党，关税、油价与移民政策加剧美国社会矛盾",
-          "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
+          "核心事件：乌克兰呼吁对俄军袭击能源核电相关设施作出回应--国际",
+          "△资料图当地时间11月3日，乌克兰第一副总理兼能源部长什梅加尔表示，他当天与七国集团、欧盟以及北欧和波罗的海国家驻乌大使举行会晤，呼吁各方对俄罗斯发动大规模能源袭击尤其是升级对乌核电站相关设施的袭击作出回应",
+          "什梅加尔称，2日晚至3日凌晨，俄军向乌境内发射了289架无人机、17枚弹道导弹和59枚…"
         ]
       },
       {
         "category": "国际",
-        "title": "朝中社：日本正快速变为战争国家",
-        "summary": "据朝中社3日报道，朝鲜军事评论员当天发表文章说，日本撕去“和平国家”的外衣，正在快速变成战争国家。其冒险谋求先发制人打击能力的举动，进一步加剧地区紧张局势。文章说，今年以来，日本“新型军国主义”针对周边国家的先发制人打击能力的活动正变得更加激进、露骨和常态化。",
-        "source": "央视网",
-        "published_at": "2026-11-03T20:48:45+08:00",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wNjZpY1BGb01DcWZldG9VU0VDOW91X2c3dVJTSXdWdnRyR2JtdVZCdHFRMWt0NWxlbGptZGhlUWlRYzdKN25hM1dWNjlXcEdFekpVYV9ERjkwQXIyeG1faDRVVTFGbkZFX2syNURZRzFuRWhEOE5Rbw?oc=5",
-        "image_url": "https://nimg.ws.126.net/?url=https%3A%2F%2Fstatic.ws.126.net%2Ff2e%2Fwap%2Fcommon%2Fimages%2Fweixinfixed1200low.jpg&thumbnail=750x2147483647&quality=75&type=jpg",
-        "hot": true,
-        "verified": true,
-        "quick_summary": "央视网这篇报道主要讲的是：朝中社：日本正快速变为战争国家。19 小时之前 · 新华社平壤11月3日电（记者王天僚）据朝中社3日报道，朝鲜军事评论员当天发表文章说，日本撕去“和平国家”的外衣， …",
-        "key_points": [
-          "核心事件：朝中社：日本正快速变为战争国家",
-          "19 小时之前 · 新华社平壤11月3日电（记者王天僚）据朝中社3日报道，朝鲜军事评论员当天发表文章说，日本撕去“和平国家”的外衣， …"
-        ]
-      },
-      {
-        "category": "国际",
-        "title": "美国举行中期选举投票 特朗普政府迎来“期中考试”",
-        "summary": "新华社华盛顿11月3日电（记者熊茂伶 杨伶）美国3日举行中期选举投票。美国东部时间早6时（北京时间19时），缅因州、纽约州、弗吉尼亚州等东部一些州的投票点率先开启投票。在通胀高企、生活成本上升的背景下，特朗普政府第二任期迎来一场形势严峻的“期中考试”。11月3日，选民在美国纽约的一处投票站投票…",
-        "source": "新华网",
-        "published_at": "2026-11-03T19:09:43+08:00",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6X1JXTkkydjhjaWt3ejJ4d3lvNkdxZDZwS2lDSVBXRHF6aEFYX2RzNEN1ZmkzaDVqX3BLM0JJa3pPbGRVUHhENGxkdDlmQUJkUnRQV1p3azloU0FVN3Y4NG1hOE1yaWZ6MU8tSXRBZ3lEeGlIaEtN?oc=5",
-        "image_url": "http://www.bing.com/th?id=ONUT.UWqcRk5ZbAkaW7NDLMi0nw&pid=News",
+        "title": "美国中期选举：有望成为首位穆斯林参议员的赛义德是谁？",
+        "summary": "美国中期选举于当地时间11月3日（星期二）举行，选举结果将决定特朗普余下总统任期内，哪个政党能够控制国会。但这次投票也可能因其他原因写下历史。在密歇根州，民意调查显示，民主党候选人阿卜杜勒·赛义德（Abdul El-Sayed）有望成为美国首位穆斯林参议员。 赛义德是一名医生，从未担任过民选公…",
+        "source": "BBC",
+        "published_at": "2026-11-04T08:36:22+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3Zk5jYWhmaEtZalNOdjFyaTVzcGNSRXZHSm1CRnFlTzRYcUw1VjI4WW1hUGVQdUpYOG04V3NJeGV6NDRWUXpWNTg4ODkzZ1JxMS1IM3hFR2JaZVdTUEVhMnh4SVpKX1nSAWxBVV95cUxQVlZsb2duaXY5YXZEWXlFcFNzSUV5cGRnOE5wVGZRdFVuV3FvRWl5R3REbGFzZ3BtUkpuQ2t3Mlg4VzdvVkZVWTVrakVtUWEwMzZEdkZwVnU2ZDdobUloQWx6T3NjZk9NOHNENHo?oc=5",
+        "image_url": "http://www.bing.com/th?id=ONUT.0vr2LwDfyA3Hce7VqOxldQ&pid=News",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：美国举行中期选举投票 特朗普政府迎来“期中考试”。新华社华盛顿11月3日电（记者熊茂伶 杨伶）美国3日举行中期选举投票。美国东部时间早6时（北京时间19时），缅因州、纽约州、弗吉尼亚州等东部一些州的投票点率先开启投票。在通胀高企、生活成本上升的背景下，特朗普政府第二任期迎来一场形势严峻的“期中考试”。11月3日，选民在美国纽约的一处投票站投票…",
+        "quick_summary": "BBC这篇报道主要讲的是：美国中期选举：有望成为首位穆斯林参议员的赛义德是谁？。美国中期选举于当地时间11月3日（星期二）举行，选举结果将决定特朗普余下总统任期内，哪个政党能够控制国会。但这次投票也可能因其他原因写下历史。在密歇根州，民意调查显示，民主党候选人阿卜杜勒·赛义德（Abdul El-Sayed）有望成为美国首位穆斯林参议员。赛义德是一名医生，从未担任过民选公…",
         "key_points": [
-          "核心事件：美国举行中期选举投票 特朗普政府迎来“期中考试”",
-          "新华社华盛顿11月3日电（记者熊茂伶 杨伶）美国3日举行中期选举投票",
-          "美国东部时间早6时（北京时间19时），缅因州、纽约州、弗吉尼亚州等东部一些州的投票点率先开启投票",
-          "在通胀高企、生活成本上升的背景下，特朗普政府第二任期迎来一场形势严峻的“期中考试”",
-          "11月3日，选民在美国纽约的一处投票站投票…"
+          "核心事件：美国中期选举：有望成为首位穆斯林参议员的赛义德是谁？",
+          "美国中期选举于当地时间11月3日（星期二）举行，选举结果将决定特朗普余下总统任期内，哪个政党能够控制国会",
+          "但这次投票也可能因其他原因写下历史",
+          "在密歇根州，民意调查显示，民主党候选人阿卜杜勒·赛义德（Abdul El-Sayed）有望成为美国首位穆斯林参议员",
+          "赛义德是一名医生，从未担任过民选公…"
         ]
       },
       {
         "category": "国际",
-        "title": "乌方称受俄军袭击影响 基辅暂停供水",
-        "summary": "当地时间11月3日，乌克兰“基辅水务公司”通报称，俄罗斯袭击导致首都基辅能源基础设施受损。该公司主要供水设施断电，基辅全市目前暂时停止供水。（总台记者 王晋燕） ...",
-        "source": "央广网",
-        "published_at": "2026-11-03T23:18:08+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wMEd1WFFOZkpYUWp1V1VCZ3FSQ2MtVzE3RXk0NmM4QTZtOC1fQl81Z0RaaHFrc1NJZVU0NVVsZHhQM0RkQzYwMXFZN0YxVXRuSnZsZm4tRWg2T3BFVTZtM1NvdUVrT1Fn?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "央广网这篇报道主要讲的是：乌方称受俄军袭击影响 基辅暂停供水。当地时间11月3日，乌克兰“基辅水务公司”通报称，俄罗斯袭击导致首都基辅能源基础设施受损。该公司主要供水设施断电，基辅全市目前暂时停止供水。（总台记者 王晋燕） ...。",
-        "key_points": [
-          "核心事件：乌方称受俄军袭击影响 基辅暂停供水",
-          "当地时间11月3日，乌克兰“基辅水务公司”通报称，俄罗斯袭击导致首都基辅能源基础设施受损",
-          "该公司主要供水设施断电，基辅全市目前暂时停止供水",
-          "（总台记者 王晋燕） ..."
-        ]
-      },
-      {
-        "category": "国际",
-        "title": "西班牙向高速列车事故死伤者提供3000万欧元援助",
-        "summary": "西班牙交通大臣奥斯卡·普恩特3日宣布，政府将向10月28日发生在卡斯蒂利亚-拉曼查自治区的高速列车事故死伤人员及家属提供3000万欧元援助，并采取措施加强铁路安全。 普恩特还宣布，针对本次事故，政府将乘客强制保险赔偿金额提高一倍，并提前支付赔偿金。 普恩特说，政府将采取一系列措施加强高速铁路运…",
-        "source": "新华网",
-        "published_at": "2026-11-04T00:21:34+08:00",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04SDI2eUs4amM1NHUtMmNUOFBhME4tcDRJc0dKcmFQOTV2VDYzc3pXVXVISWppR0luVnMzMk9idEdETWFDTHJvdmNlaU9wRGI2ZDVoc0FQWHlJaXlGcEFwaDQxc092ajBnRDRsT09QT19FOUxtYndReE81TDBKQQ?oc=5",
-        "image_url": "http://www.bing.com/th?id=ONUT.S63G8FAwiT5sCZe6SBTyWA&pid=News",
-        "hot": true,
-        "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：西班牙向高速列车事故死伤者提供3000万欧元援助。西班牙交通大臣奥斯卡·普恩特3日宣布，政府将向10月28日发生在卡斯蒂利亚-拉曼查自治区的高速列车事故死伤人员及家属提供3000万欧元援助，并采取措施加强铁路安全。普恩特还宣布，针对本次事故，政府将乘客强制保险赔偿金额提高一倍，并提前支付赔偿金。普恩特说，政府将采取一系列措施加强高速铁路运…",
-        "key_points": [
-          "核心事件：西班牙向高速列车事故死伤者提供3000万欧元援助",
-          "西班牙交通大臣奥斯卡·普恩特3日宣布，政府将向10月28日发生在卡斯蒂利亚-拉曼查自治区的高速列车事故死伤人员及家属提供3000万欧元援助，并采取措施加强铁路安全",
-          "普恩特还宣布，针对本次事故，政府将乘客强制保险赔偿金额提高一倍，并提前支付赔偿金",
-          "普恩特说，政府将采取一系列措施加强高速铁路运…"
-        ]
-      },
-      {
-        "category": "国际",
-        "title": "泽连斯基：北约将与美欧代表在布鲁塞尔讨论乌克兰问题",
+        "title": "2026年美国中期选举实时更新结果",
         "summary": "",
-        "source": "中国新闻网",
-        "published_at": "2026-11-04T00:28:50+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ocUw3Wm5BMVFXdjBXUHNnanZ5azFKdjRkM2Nncm5YLUlFMnhjRmdhMlFZclNRaXgwdi03N2NKamM0emhSNmpTRW1kMVlXM0Ruakc0MzlYVDZ2YjlTbnJjeUVfVU9sQmJI?oc=5",
+        "source": "BBC",
+        "published_at": "2026-11-04T08:32:38+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zX2pqQWw2eFpIbF9oX3huVUNvNTJMRDVianRLZFNPOUpDTmdDc2pFT1p0Zy1NVjBpaVkwaWtVVDZwY2hudjBmQ1B4WUx5R0szLVIxaEpJSXhJTGlNZXJXUFRYWTg3WkHSAWxBVV95cUxPbjgwWEJ0RXZIUGM4SWtZZXU2NjJRcHNjN1kwLXlTcnJSLUtkY0o2aFVwbEcySWlYVlNEdjV4RFY2a0gtWXhrUUZzaDZiUTAzQWhtUFJyYmZpby1nOE9vUlBBYVlKb2RMNUNWRFY?oc=5",
         "image_url": "",
         "hot": false,
         "verified": true,
-        "quick_summary": "中国新闻网这篇报道主要讲的是：泽连斯基：北约将与美欧代表在布鲁塞尔讨论乌克兰问题。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "BBC这篇报道主要讲的是：2026年美国中期选举实时更新结果。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：泽连斯基：北约将与美欧代表在布鲁塞尔讨论乌克兰问题",
+          "核心事件：2026年美国中期选举实时更新结果",
           "后续可继续关注各方官方表态、局势是否升级，以及对能源、贸易和全球市场的外溢影响。"
         ]
       }
     ],
     "finance": [
+      {
+        "category": "财经",
+        "title": "中国人民银行下调股票回购增持再贷款利率至1%",
+        "summary": "新华社北京11月4日电（记者吴雨）中国人民 银行 11月4日发布消息称，为维护资本市场平稳运行，加力实施股票回购增持再贷款政策。自2026年11月4日起，下调股票回购增持再贷款利率0.25个百分点至1%。",
+        "source": "新华网",
+        "published_at": "2026-11-04T10:09:02+08:00",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FdlJTbWVMRWxDckVXUWtaeExBRVVrVEVXVmZzdzA3Q3VqNFl2NEotSjlkYUpnemluTXM0X1B1SERWRDh4YV96TXFQZHo4SHBXU0I2dTMzTWRxUFFVcDRYUC1Fc3ZuVXZxTlluOW5HaVkwQTVOczJDVnVJWHBoQQ?oc=5",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.VxZcU338WPG3Lq3vxwPLBQHaGs&pid=15.1",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：中国人民银行下调股票回购增持再贷款利率至1%。新华社北京11月4日电（记者吴雨）中国人民 银行 11月4日发布消息称，为维护资本市场平稳运行，加力实施股票回购增持再贷款政策。自2026年11月4日起，下调股票回购增持再贷款利率0.25个百分点至1%。",
+        "key_points": [
+          "核心事件：中国人民银行下调股票回购增持再贷款利率至1%",
+          "新华社北京11月4日电（记者吴雨）中国人民 银行 11月4日发布消息称，为维护资本市场平稳运行，加力实施股票回购增持再贷款政策",
+          "自2026年11月4日起，下调股票回购增持再贷款利率0.25个百分点至1%"
+        ]
+      },
+      {
+        "category": "财经",
+        "title": "澳大利亚央行基准利率升至18年新高",
+        "summary": "澳大利亚储备银行（央行）3日宣布今年第五次加息，将基准利率上调25个基点至4.85％，该利率已升至2008年11月以来最高水平。 澳央行当天结束为期两天的货币政策会议后发表声明说，中东冲突导致燃油及其他大宗商品价格上涨，加之国内通胀居高不下，促使央行决定进一步收紧货币政策。声明表示，预计通胀将…",
+        "source": "新华网",
+        "published_at": "2026-11-03T13:47:14+08:00",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WWE9pNE41Tm1ZaXVyV0VEWEFRSHlsQ3hBQmVwSEFERXlScDFKZmQ5Rlc2MEhlNGRNNU96QzZLd2pfdDByNmtMTHBDREpaVVJpLTdhUTlZUGN6NXNDaHlPSjNDMGg2dUhucTg5UWxyZHBMV2VOTXpIZi1kdE54UQ?oc=5",
+        "image_url": "https://ts3.mm.bing.net/th?id=OIP.as8f0xYCwhCl1az2mrOu3wEsCo&pid=15.1",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：澳大利亚央行基准利率升至18年新高。澳大利亚储备银行（央行）3日宣布今年第五次加息，将基准利率上调25个基点至4.85％，该利率已升至2008年11月以来最高水平。澳央行当天结束为期两天的货币政策会议后发表声明说，中东冲突导致燃油及其他大宗商品价格上涨，加之国内通胀居高不下，促使央行决定进一步收紧货币政策。",
+        "key_points": [
+          "核心事件：澳大利亚央行基准利率升至18年新高",
+          "澳大利亚储备银行（央行）3日宣布今年第五次加息，将基准利率上调25个基点至4.85％，该利率已升至2008年11月以来最高水平",
+          "澳央行当天结束为期两天的货币政策会议后发表声明说，中东冲突导致燃油及其他大宗商品价格上涨，加之国内通胀居高不下，促使央行决定进一步收紧货币政策"
+        ]
+      },
       {
         "category": "财经",
         "title": "金价暴跌，全球央行却加速买入！世界黄金协会上调全年购金预期-市场参考",
@@ -498,151 +530,121 @@
       },
       {
         "category": "财经",
-        "title": "中国央行时隔五年上调外汇存款准备金率 人民币暂止30年来最长连涨",
-        "summary": "中国人民银行微信公众号星期二（11月3日）早宣布，为加强金融机构外汇流动性管理，中国人民银行决定，自2026年11月15日起，上调金融机构外汇存款准备金率2个百分点，即外汇存款准备金率由现行的4%提高到6%。",
+        "title": "央行近五年首次上调外汇存款准备金率",
+        "summary": "外汇存款准备金率是跨境资金流动和汇率预期管理的重要宏观审慎工具。业内专家指出，这是近五年来，央行首次上调外汇存款准备金率。据民生银行首席经济学家温彬介绍，央行上一次调整外汇存准率是在2023年9月15日，外汇存款准备金率由6%下调至4%；而上一次上调外汇存准率要追溯到2021年12月15日。",
+        "source": "新华网",
+        "published_at": "2026-11-04T10:05:11+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS1NUQ2J5LUtxcHBRS09iQW9WbVJLSjBLTHhaU0pKSFZTdVhpVWY5a2xubWJzYzFwMDhlNkY3aWVjZVVFR1ZER29LQV83VjM2Qy1HX1BFT09KZV9JZlVVWkFxbWtBaWl3TjA5Y2ZjaWVzRlFPdXgwOGlzT0dlcmF3amwtMWpxSnZr?oc=5",
+        "image_url": "https://ts4.mm.bing.net/th?id=OIP.NntHHBZjjAmSm5Evvde8ugHaFn&pid=15.1",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：央行近五年首次上调外汇存款准备金率。外汇存款准备金率是跨境资金流动和汇率预期管理的重要宏观审慎工具。业内专家指出，这是近五年来，央行首次上调外汇存款准备金率。据民生银行首席经济学家温彬介绍，央行上一次调整外汇存准率是在2023年9月15日，外汇存款准备金率由6%下调至4%；而上一次上调外汇存准率要追溯到2021年12月15日。",
+        "key_points": [
+          "核心事件：央行近五年首次上调外汇存款准备金率",
+          "外汇存款准备金率是跨境资金流动和汇率预期管理的重要宏观审慎工具",
+          "业内专家指出，这是近五年来，央行首次上调外汇存款准备金率",
+          "据民生银行首席经济学家温彬介绍，央行上一次调整外汇存准率是在2023年9月15日，外汇存款准备金率由6%下调至4%",
+          "而上一次上调外汇存准率要追溯到2021年12月15日"
+        ]
+      },
+      {
+        "category": "财经",
+        "title": "中国人民银行加力实施股票回购增持再贷款政策",
+        "summary": "今天（11月4日），中国人民银行发布公告，为维护资本市场平稳运行，将加力实施股票回购增持再贷款政策。 一、自2026年11月4日起，下调股票回购增持再贷款利率0.25个百分点至1%。股票回购增持再贷款的支持对象为21家全国性银行和5家系统重要性城商行，支持比例为100%，期限1年，可根据银行需…",
+        "source": "央广网",
+        "published_at": "2026-11-04T09:50:04+08:00",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xWWNoZjc5VWFKelBFZlhqUURwZnV2RThobk11eXVlNEQ0cmFEbmNrakFBY1A3Y0J4ZHg4Q3IyMFpyQlBmVGpyaFlrclAzQXFoUFNPWEtVVjh6aE0yT2c3WVRXSFZfWlM1QnJzNGdkTHE?oc=5",
+        "image_url": "http://www.bing.com/th?id=ONUT.932luFwP1NkY_jxWU2fnjw&pid=News",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "央广网这篇报道主要讲的是：中国人民银行加力实施股票回购增持再贷款政策。今天（11月4日），中国人民银行发布公告，为维护资本市场平稳运行，将加力实施股票回购增持再贷款政策。一、自2026年11月4日起，下调股票回购增持再贷款利率0.25个百分点至1%。股票回购增持再贷款的支持对象为21家全国性银行和5家系统重要性城商行，支持比例为100%，期限1年，可根据银行需…",
+        "key_points": [
+          "核心事件：中国人民银行加力实施股票回购增持再贷款政策",
+          "今天（11月4日），中国人民银行发布公告，为维护资本市场平稳运行，将加力实施股票回购增持再贷款政策",
+          "一、自2026年11月4日起，下调股票回购增持再贷款利率0.25个百分点至1%",
+          "股票回购增持再贷款的支持对象为21家全国性银行和5家系统重要性城商行，支持比例为100%，期限1年，可根据银行需…"
+        ]
+      },
+      {
+        "category": "财经",
+        "title": "中国央行下调股票回购增持再贷款利率至1%",
+        "summary": "中国央行正加大稳定国内资本市场的力度，将股票回购增持再贷款利率下调25个基点。同时，官方正寻求将这一机制转变为更常态化的政策工具。",
         "source": "联合早报",
-        "published_at": "2026-11-03T09:17:53+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RaW1pQnQzaVEtcGRzRWZBTDEtT1kzc2pHTTB1YUlFUGZEUVc4UGx3TW04OTRkeEpHbDFjZVNkZ0ZHUElxakdGbERMYTNTa3hiNHZ1cFlVOXBQZHY0dnBJbXJ6eEVRbDhzeWc?oc=5",
-        "image_url": "https://cassette.sphdigital.com.sg/image/zaobao/290316393d14ca51dc0b1c6231f781bf3001f6ebfac0dd568c9fce3df0d5e929",
+        "published_at": "2026-11-04T10:57:47+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGZW4teWk3azA3cjZ4VmFRM0V5NWtXN2NsWGRvZmlWbGR3a0dHb19qV2JnSi1XN3hjeXd0eExMWG1LMDFPR003SGp5MnFZdXZuNU5VQ01jaGN6a0Q3bWROY1NhV085TjVmVmc?oc=5",
+        "image_url": "http://www.bing.com/th?id=ONUT.37Sn_qXD3_ND2KaGn8z7Mw&pid=News",
         "hot": false,
         "verified": false,
-        "quick_summary": "联合早报这篇报道主要讲的是：中国央行时隔五年上调外汇存款准备金率 人民币暂止30年来最长连涨。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "联合早报这篇报道主要讲的是：中国央行下调股票回购增持再贷款利率至1%。中国央行正加大稳定国内资本市场的力度，将股票回购增持再贷款利率下调25个基点。同时，官方正寻求将这一机制转变为更常态化的政策工具。",
         "key_points": [
-          "核心事件：中国央行时隔五年上调外汇存款准备金率 人民币暂止30年来最长连涨",
+          "核心事件：中国央行下调股票回购增持再贷款利率至1%",
+          "中国央行正加大稳定国内资本市场的力度，将股票回购增持再贷款利率下调25个基点",
+          "同时，官方正寻求将这一机制转变为更常态化的政策工具"
+        ]
+      },
+      {
+        "category": "财经",
+        "title": "中国央行下调股票回购增持再贷款利率",
+        "summary": "中国央行正加大稳定国内资本市场的力度，将股票回购增持再贷款利率下调25个基点。同时，官方正寻求将这一机制转变为更常态化的政策工具。",
+        "source": "华尔街日报中文网",
+        "published_at": "2026-11-04T10:35:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPS2FLeHh2RWExQjdYZWY5ZmVsUE5yRl9SanBmTHFKMDE4SU1xYm1yblBGWUZBX19vZHlnNFBscVNqV2hVVmxsQlZ5UGdiWHFodjktTWc1X0RPTzNiOUlhSkRMWnZwQ3NvZy1VWkFOaEl0a3V2ZkVwaVQxTnhYQ2wzXzlCUEttQmtPbmZoaE9qYW84bi1mZDFDdFlrQ2FvSzJ6VlN5MjltWDctdUFwRGNXWDhoVnhWUi1yd282TnlWOWN2aFNSTTc2RnhLbC1vY0FPSTVTUFA4X1E0OUYxYTcwRDlEQmx4WEc5VXhvQnY3MG8tSXJIdm5QemRRSVNBRnZQdUhlVlBjczhIajFZTUJvcmFqOUI0aUNLcUE?oc=5",
+        "image_url": "http://www.bing.com/th?id=ONUT.37Sn_qXD3_ND2KaGn8z7Mw&pid=News",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "华尔街日报中文网这篇报道主要讲的是：中国央行下调股票回购增持再贷款利率。中国央行正加大稳定国内资本市场的力度，将股票回购增持再贷款利率下调25个基点。同时，官方正寻求将这一机制转变为更常态化的政策工具。",
+        "key_points": [
+          "核心事件：中国央行下调股票回购增持再贷款利率",
+          "中国央行正加大稳定国内资本市场的力度，将股票回购增持再贷款利率下调25个基点",
+          "同时，官方正寻求将这一机制转变为更常态化的政策工具"
+        ]
+      },
+      {
+        "category": "财经",
+        "title": "黄金、白银暴跌后现抄底窗口？专家称或是“十年一遇”机会",
+        "summary": "FX168财经报社讯 金价和银价在上周五市场遭遇抛售后出现温和修复，但此前的急跌已令两者录得自2008年以来最差的10月表现。尽管部分投资者对贵金属近期走势感到失望，Bawden Capital创始人Jen Bawden认为，这轮下跌以及后续可能出现的进一步回调，反而可能构成“十年一遇”的买入…",
+        "source": "金融界",
+        "published_at": "2026-11-04T09:10:03+08:00",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40ODJuclFna0paNTh3VjZRRGtwVkZqRTlWYXVqenVPUG5uZ0hhR3p6VHhTYWpRTmh5QTM4Y21jT3RTV1I1MENscFhMZV9YSHNtSXRIMklyZFJtTWdYOVZKbENnWHVDSUhfSlF6Nk5uYnFpbGxO?oc=5",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.sXRV9YvaLoFeBxIUaZxe2gHaDt&pid=15.1",
+        "hot": true,
+        "verified": false,
+        "quick_summary": "金融界这篇报道主要讲的是：黄金、白银暴跌后现抄底窗口？专家称或是“十年一遇”机会。FX168财经报社讯 金价和银价在上周五市场遭遇抛售后出现温和修复，但此前的急跌已令两者录得自2008年以来最差的10月表现。尽管部分投资者对贵金属近期走势感到失望，Bawden Capital创始人Jen Bawden认为，这轮下跌以及后续可能出现的进一步回调，反而可能构成“十年一遇”的买入…",
+        "key_points": [
+          "核心事件：黄金、白银暴跌后现抄底窗口？专家称或是“十年一遇”机会",
+          "FX168财经报社讯 金价和银价在上周五市场遭遇抛售后出现温和修复，但此前的急跌已令两者录得自2008年以来最差的10月表现",
+          "尽管部分投资者对贵金属近期走势感到失望，Bawden Capital创始人Jen Bawden认为，这轮下跌以及后续可能出现的进一步回调，反而可能构成“十年一遇”的买入…"
+        ]
+      },
+      {
+        "category": "财经",
+        "title": "盘前速递丨11月4日（周三）：央行上调外汇存款准备金率；秦港股份拟收购港口资产；三星新材、品茗科技相关方被立案",
+        "summary": "",
+        "source": "央广财经",
+        "published_at": "2026-11-04T09:08:17+08:00",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHVkpxVXBrakx3R1cwdVh6Y1VKbEc1ckpwTk5SaDdlNVp3QVlmRDQtQVNVSy13blhZMzRKV3RBNE84UEhHelNSdEc4RTBIRkpUR2NzVHhUeWgwZEF5SHQxSGxpN2Fzei1qMFBxYThB?oc=5",
+        "image_url": "",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "央广财经这篇报道主要讲的是：盘前速递丨11月4日（周三）：央行上调外汇存款准备金率；秦港股份拟收购港口资产；三星新材、品茗科技相关方被立案。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：盘前速递丨11月4日（周三）：央行上调外汇存款准备金率；秦港股份拟收购港口资产；三星新材、品茗科技相关方被立案",
           "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
         ]
       },
       {
         "category": "财经",
-        "title": "人民币持续升值下 中国央行上调金融机构外汇存款准备金率",
-        "summary": "为加强金融机构外汇流动性管理，中国人民银行决定，自2026年11月15日起，上调金融机构外汇存款准备金率2个百分点，即外汇存款准备金率由现行的4%提高到6%。 近期，人民币对美元汇率走出加速升值行情。11月2日，在岸人民币对美元继续升值，盘中升破6.65关口（以美元兑人民币报价计，最低触及6.…",
-        "source": "联合早报",
-        "published_at": "2026-11-03T09:17:53+08:00",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMDBLeDExS3ppX2dOUHpKUWwwVWtOWnRuVG1hV2wwS3VvR0ZtNlhBaGpfS2VxRjZxdjJUbGZtWjh6ZXoyRnVPRk51Q1BLbkVHTVdoMXJQZnNDNTBwSGRDQk5pVFNIV3lIb0tjc2dtdmljb0tGRnI3U0M1QVJ6RFZNVWZzUFVaQQ?oc=5",
-        "image_url": "http://www.bing.com/th?id=ONUT.0zerNdMGJGfuMaTJ0esOnA&pid=News",
-        "hot": false,
-        "verified": false,
-        "quick_summary": "联合早报这篇报道主要讲的是：人民币持续升值下 中国央行上调金融机构外汇存款准备金率。为加强金融机构外汇流动性管理，中国人民银行决定，自2026年11月15日起，上调金融机构外汇存款准备金率2个百分点，即外汇存款准备金率由现行的4%提高到6%。近期，人民币对美元汇率走出加速升值行情。11月2日，在岸人民币对美元继续升值，盘中升破6.65关口（以美元兑人民币报价计，最低触及6.…",
-        "key_points": [
-          "核心事件：人民币持续升值下 中国央行上调金融机构外汇存款准备金率",
-          "为加强金融机构外汇流动性管理，中国人民银行决定，自2026年11月15日起，上调金融机构外汇存款准备金率2个百分点，即外汇存款准备金率由现行的4%提高到6%",
-          "近期，人民币对美元汇率走出加速升值行情",
-          "11月2日，在岸人民币对美元继续升值，盘中升破6.65关口（以美元兑人民币报价计，最低触及6.…"
-        ]
-      },
-      {
-        "category": "财经",
-        "title": "A股融资余额降至2.30万亿元 创出2025年9月以来逾一年新低",
+        "title": "前美联储“三把手”警示AI基建风险：10万亿投入或远超市场承载力",
         "summary": "",
-        "source": "财联社电报",
-        "published_at": "2026-11-03T19:42:31+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5leWg0VUREQ1BqbVdjc1gyUkJPdVdMR1B5Z1FJdlV4MXdkVlFtVGNCc01USU1YWTgzbkIyeHdnOWcxNDh6S2c?oc=5",
+        "source": "财联社",
+        "published_at": "2026-11-04T09:08:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5EeVB1aS1KRVpUYklVaEhlNFpTRUpxUFFQR0xTaUxoLUtMQkI1eWVIVVRPOUI3OHVMNGU2U1ptdGdyUWNNVWJzSQ?oc=5",
         "image_url": "",
         "hot": false,
         "verified": true,
-        "quick_summary": "财联社电报这篇报道主要讲的是：A股融资余额降至2.30万亿元 创出2025年9月以来逾一年新低。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "财联社这篇报道主要讲的是：前美联储“三把手”警示AI基建风险：10万亿投入或远超市场承载力。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：A股融资余额降至2.30万亿元 创出2025年9月以来逾一年新低",
-          "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
-        ]
-      },
-      {
-        "category": "财经",
-        "title": "美元走强同时人民币升至4年来最高，中国央行时隔5年上调外汇存款准备金率",
-        "summary": "",
-        "source": "中央日报",
-        "published_at": "2026-11-03T20:06:57+08:00",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yN29HY0UyT1AwQ0RBYW9iem1YV1RpSXQyaGQtMDlXR0lGamEzaTRCWHpoUzJUV0s3REViMWZ5X091ZW1LTUR2Nkt2RTVBUHJ1cmYyQi0zUXN5X0ZBZnd1b0FnMW15LVZGeUxaVw?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "quick_summary": "中央日报这篇报道主要讲的是：美元走强同时人民币升至4年来最高，中国央行时隔5年上调外汇存款准备金率。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：美元走强同时人民币升至4年来最高，中国央行时隔5年上调外汇存款准备金率",
-          "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
-        ]
-      },
-      {
-        "category": "财经",
-        "title": "中国央行近5年来首次上调外汇存款准备金率 人民币对美元汇率跌破6.66",
-        "summary": "",
-        "source": "茉莉花新闻网",
-        "published_at": "2026-11-03T18:09:26+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9YVE5HWDBfcTdKdVViU1Q1UHo3bnY3OU1XZ1haOUdXcTJPVzVUelgzaWtzZl9PSDZsS19FY1FZLTYwWTIydjJJ?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "quick_summary": "茉莉花新闻网这篇报道主要讲的是：中国央行近5年来首次上调外汇存款准备金率 人民币对美元汇率跌破6.66。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：中国央行近5年来首次上调外汇存款准备金率 人民币对美元汇率跌破6.66",
-          "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
-        ]
-      },
-      {
-        "category": "财经",
-        "title": "人民币升值，中国央行轻踩“刹车”",
-        "summary": "记者 欧阳晓红人民币连续升值，央行“点刹车”调节，外汇市场应声波动。2026年11月3日，中国人民银行（下称“央行”）宣布，自11月15日起，将金融机构外汇存款准备金率由4%上调至6%，提高2个百分点。消息甫出，美元兑离岸人民币瞬间拉升0.21%。政策尚未实施，市场预期已先行调整。当日，人民币…",
-        "source": "经济观察网",
-        "published_at": "2026-11-03T17:39:15+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PTEIwZXdpWG9lc1Z6ODB6VHhpRWttX0Z1Z0FpNUxLaHZmUXBsZEZfOExMcF9qeVBYQlpaWTBoZnFvVlcybnlIcVAwa3FvQThOdUctVXl2VzFHUQ?oc=5",
-        "image_url": "http://www.bing.com/th?id=ONUT.YCOh2BsUuZm4qv4ZBGde7g&pid=News",
-        "hot": false,
-        "verified": false,
-        "quick_summary": "经济观察网这篇报道主要讲的是：人民币升值，中国央行轻踩“刹车”。2026年11月3日，中国人民银行（下称“央行”）宣布，自11月15日起，将金融机构 外汇存款准备金率 由4%上调至6%，提高2个百分点。消息甫出，美元兑离岸人民币瞬间拉升0.21%。当日，人民币对美元中间价报6.7150，较2025年末升值约4.7%；人民币对欧元中间价报7.4760，年内升值约10%。三年多前，人民币承受贬值压力，央行将金融机构外汇存款准备金率由6%下调至4%；",
-        "key_points": [
-          "核心事件：人民币升值，中国央行轻踩“刹车”",
-          "2026年11月3日，中国人民银行（下称“央行”）宣布，自11月15日起，将金融机构 外汇存款准备金率 由4%上调至6%，提高2个百分点",
-          "消息甫出，美元兑离岸人民币瞬间拉升0.21%",
-          "当日，人民币对美元中间价报6.7150，较2025年末升值约4.7%",
-          "人民币对欧元中间价报7.4760，年内升值约10%"
-        ]
-      },
-      {
-        "category": "财经",
-        "title": "贵金属暴跌未必是基本面危机！分析师：这或是难得的长期买入机会-市场参考",
-        "summary": "她在最新市场评论中指出，白银较121.64美元的历史高点下跌约60%，黄金则触及一年低点。尽管市场舆论将此轮行情描述为贵金属市场遭遇重创，但在她看来，这并非基本面危机，而是 跨资产抛售和流动性冲击造成的短暂价格错位。",
-        "source": "金十数据",
-        "published_at": "2026-11-03T20:43:08+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QaEFBcHloN0pBNzNNeXNRMy13QldxLVBMZDhmVU0tZmRabnZGZUJLX29ySVVJODJsUnZpcjJMaVhrek0yeU4tVlBvMkllRm8?oc=5",
-        "image_url": "",
-        "hot": true,
-        "verified": false,
-        "quick_summary": "金十数据这篇报道主要讲的是：贵金属暴跌未必是基本面危机！分析师：这或是难得的长期买入机会-市场参考。她在最新市场评论中指出，白银较121.64美元的历史高点下跌约60%，黄金则触及一年低点。尽管市场舆论将此轮行情描述为贵金属市场遭遇重创，但在她看来，这并非基本面危机，而是 跨资产抛售和流动性冲击造成的短暂价格错位。",
-        "key_points": [
-          "核心事件：贵金属暴跌未必是基本面危机！分析师：这或是难得的长期买入机会-市场参考",
-          "她在最新市场评论中指出，白银较121.64美元的历史高点下跌约60%，黄金则触及一年低点",
-          "尽管市场舆论将此轮行情描述为贵金属市场遭遇重创，但在她看来，这并非基本面危机，而是 跨资产抛售和流动性冲击造成的短暂价格错位"
-        ]
-      },
-      {
-        "category": "财经",
-        "title": "《汇市简讯》美元/人民币延续反弹势头，受中国央行举措影响",
-        "summary": "",
-        "source": "TradingView",
-        "published_at": "2026-11-03T14:24:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pRndPZ3BVeEJUWl9HY2ozb05lMFZ6YVlIQVRUVDF6NmI5WTRFUEczSHkxbnNwNjB2NVljSWJMV0VCd2Fib1RpYjcyUnc2RG5sdV9pN2dCdkxsOTNKb2haUjBPdlJxTERsX1FKczJIZTdYSFRQcHdKdQ?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "quick_summary": "TradingView这篇报道主要讲的是：《汇市简讯》美元/人民币延续反弹势头，受中国央行举措影响。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：《汇市简讯》美元/人民币延续反弹势头，受中国央行举措影响",
-          "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
-        ]
-      },
-      {
-        "category": "财经",
-        "title": "涨太快，该歇歇！中国央行上调外汇存准率至6%：给快速升值的人民币踩了一脚刹车",
-        "summary": "",
-        "source": "www.tmgm.com",
-        "published_at": "2026-11-03T13:05:49+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPenFxQ1pHMkxtUWVMRnFwMktIak9raUpDb1BMZ0FIVm5XU1FTd1gzUGZzazdIY0ZSZHFqWWhIVG9Gc2dHMWYxX2dGTUZ2bUtIZHJQM2RUMmlWWFBnZEdCTlZkNHF2N2dOQUVHeVhwSm1xbDJnd3pvYkxGbkVlVDZ1REdyRXhEc0k3OHc?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "quick_summary": "www.tmgm.com这篇报道主要讲的是：涨太快，该歇歇！中国央行上调外汇存准率至6%：给快速升值的人民币踩了一脚刹车。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：涨太快，该歇歇！中国央行上调外汇存准率至6%：给快速升值的人民币踩了一脚刹车",
+          "核心事件：前美联储“三把手”警示AI基建风险：10万亿投入或远超市场承载力",
           "后续可继续关注政策落地、市场价格反应、资金流向以及对居民和企业成本的影响。"
         ]
       }
@@ -650,51 +652,72 @@
     "tech": [
       {
         "category": "科技",
+        "title": "雷军晒视频：小米机器人首次在汽车工厂挑战8小时作业 满足全天生产需求",
+        "summary": "快科技11月4日消息，雷军在社交平台放出视频，公布小米人形机器人的最新测试成果。 这一次，小米机器人进入小米汽车工厂，在中控台侧盖板排序工位，完成8小时完整班次连续作业，初步验证产线实际干活的能力。 和展会上面短时间表演不一样，工厂真实环境变数很多，来料会有波动，产线节拍也会变化。 这次测试里…",
+        "source": "驱动之家",
+        "published_at": "2026-11-04T08:46:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rSV9MczYtdGFRNUVtT2Z2MnB2amxfTkR2cFYtdGZuSnVJenJpVW5oaUptQk13cEhsWkpsVUJraGlIazBkRUctOGZNSWowVGVlUFdxSGxMVUw?oc=5",
+        "image_url": "http://www.bing.com/th?id=ONUT.tl74d-9GArkfaLWktqqVLA&pid=News",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "驱动之家这篇报道主要讲的是：雷军晒视频：小米机器人首次在汽车工厂挑战8小时作业 满足全天生产需求。快科技11月4日消息，雷军在社交平台放出视频，公布小米人形机器人的最新测试成果。这一次，小米机器人进入小米汽车工厂，在中控台侧盖板排序工位，完成8小时完整班次连续作业，初步验证产线实际干活的能力。和展会上面短时间表演不一样，工厂真实环境变数很多，来料会有波动，产线节拍也会变化。",
+        "key_points": [
+          "核心事件：雷军晒视频：小米机器人首次在汽车工厂挑战8小时作业 满足全天生产需求",
+          "快科技11月4日消息，雷军在社交平台放出视频，公布小米人形机器人的最新测试成果",
+          "这一次，小米机器人进入小米汽车工厂，在中控台侧盖板排序工位，完成8小时完整班次连续作业，初步验证产线实际干活的能力",
+          "和展会上面短时间表演不一样，工厂真实环境变数很多，来料会有波动，产线节拍也会变化"
+        ]
+      },
+      {
+        "category": "科技",
+        "title": "走进低轨卫星研制团队，感受航天科技自立自强 未来中国的星空将进入“群星璀璨时”",
+        "summary": "9月23日、10月10日、10月25日，卫星互联网低轨26组、27组、28组卫星相继发射成功，3组卫星顺利进入预定轨道，编入我国国家级低轨卫星互联网星座。 一个月时间，完成三次卫星发射组网任务，中国航天展现硬核实力的同时，也预示未来中国的星空将进入“群星璀璨时”。 与3.6万公里高度运行的高轨…",
+        "source": "中国网新闻中心",
+        "published_at": "2026-11-04T08:21:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hZ2oyYXA0VDk3MVdTOGNtSkhySE9BelhpbFdDZHZNcTFFeWxsT3NDbVRxOG8yTE9HMnlZMWlRWGFPOXA2MXluVmdvQ21QWlBvVDJJTk1EZHVWMmp0MC1oT182Vm1SbzNyVjZF?oc=5",
+        "image_url": "http://www.bing.com/th?id=ONUT.k9ufQ0GwEiT_tLyjyQrlSQ&pid=News",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "中国网新闻中心这篇报道主要讲的是：走进低轨卫星研制团队，感受航天科技自立自强 未来中国的星空将进入“群星璀璨时”。9月23日、10月10日、10月25日，卫星互联网低轨26组、27组、28组卫星相继发射成功，3组卫星顺利进入预定轨道，编入我国国家级低轨卫星互联网星座。一个月时间，完成三次卫星发射组网任务，中国航天展现硬核实力的同时，也预示未来中国的星空将进入“群星璀璨时”。与3.6万公里高度运行的高轨…",
+        "key_points": [
+          "核心事件：走进低轨卫星研制团队，感受航天科技自立自强 未来中国的星空将进入“群星璀璨时”",
+          "9月23日、10月10日、10月25日，卫星互联网低轨26组、27组、28组卫星相继发射成功，3组卫星顺利进入预定轨道，编入我国国家级低轨卫星互联网星座",
+          "一个月时间，完成三次卫星发射组网任务，中国航天展现硬核实力的同时，也预示未来中国的星空将进入“群星璀璨时”",
+          "与3.6万公里高度运行的高轨…"
+        ]
+      },
+      {
+        "category": "科技",
         "title": "DeepSeek V5用国产AI芯片不是事儿：关键还得看8万亿参数",
-        "summary": "快科技9月21日消息，此前我们分析了中秋国庆双节前后国内外要发的10多款大模型，其中最受期待的还得是DeepSeek V4.1 Pro。 跑得比较快的Theinformation网站又爆料了新的消息，DeepSeek正在训练2万亿参数量的大模型，未来还会扩展到8万亿参数量。 而且DeepSee…",
+        "summary": "【CNMO科技消息】近日，国产大模型与国产算力的结合又往前走了一步。据产业链知情人士透露，DeepSeek下一代大模型DeepSeek V5计划以华为昇腾950芯片作为核心训练算力，项目节奏指向明年落地。截至目前，DeepSeek方面尚未就此事作出公开回应。 DeepSeek 按照知情人士披露…",
         "source": "驱动之家",
         "published_at": "2026-11-03T21:25:00+08:00",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjdGlyWk9COUZkMndlbTRKb2RQZXNwQnFoMGtYLUdOQ3NZVUtXWjg2bEtmbXdYMTFqdHRMMU1GdTFYMV91RVZGQmo2Z3RrSEUyUTFtQlY0azc?oc=5",
-        "image_url": "https://img1.mydrivers.com/img/20260921/6b58ccc758704bea869c9420393eb9aa.png",
+        "image_url": "http://www.bing.com/th?id=ONUT.95mnN1FCU0s73bwxyWFhEA&pid=News",
         "hot": false,
         "verified": false,
-        "quick_summary": "驱动之家这篇报道主要讲的是：DeepSeek V5用国产AI芯片不是事儿：关键还得看8万亿参数。快科技9月21日消息，此前我们分析了中秋国庆双节前后国内外要发的10多款大模型，其中最受期待的还得是DeepSeek V4.1 Pro。跑得比较快的Theinformation网站又爆料了新的消息，DeepSeek正在训练2万亿参数量的大模型，未来还会扩展到8万亿参数量。",
+        "quick_summary": "驱动之家这篇报道主要讲的是：DeepSeek V5用国产AI芯片不是事儿：关键还得看8万亿参数。【CNMO科技消息】近日，国产大模型与国产算力的结合又往前走了一步。据产业链知情人士透露，DeepSeek下一代大模型DeepSeek V5计划以华为昇腾950芯片作为核心训练算力，项目节奏指向明年落地。截至目前，DeepSeek方面尚未就此事作出公开回应。DeepSeek 按照知情人士披露…",
         "key_points": [
           "核心事件：DeepSeek V5用国产AI芯片不是事儿：关键还得看8万亿参数",
-          "快科技9月21日消息，此前我们分析了中秋国庆双节前后国内外要发的10多款大模型，其中最受期待的还得是DeepSeek V4.1 Pro",
-          "跑得比较快的Theinformation网站又爆料了新的消息，DeepSeek正在训练2万亿参数量的大模型，未来还会扩展到8万亿参数量"
+          "【CNMO科技消息】近日，国产大模型与国产算力的结合又往前走了一步",
+          "据产业链知情人士透露，DeepSeek下一代大模型DeepSeek V5计划以华为昇腾950芯片作为核心训练算力，项目节奏指向明年落地",
+          "截至目前，DeepSeek方面尚未就此事作出公开回应",
+          "DeepSeek 按照知情人士披露…"
         ]
       },
       {
         "category": "科技",
-        "title": "中国首个新能源资源循环利用规模化项目开建",
-        "summary": "中新社 天津11月3日电 (记者 周亚强)记者3日从总部位于天津的中国资源循环集团有限公司 (下称“中国资环”)获悉，中国首个新能源资源循环利用规模化产业项目近日在甘肃酒泉启动建设。",
-        "source": "中国新闻网",
-        "published_at": "2026-11-03T23:20:44+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05UGRlQkpZa2VIZTVhZFZLMFJkUzVEQ1Q5VWZsa2N5Tml2UExlV29FSUdtYjNMOVBQSVNqUF95Ukd2cHBBRnI3bkFMVHJCanN3MGh1SWJtZFphNE84MUpsb25pMGhwd0lQ?oc=5",
-        "image_url": "",
+        "title": "AMD盘后大涨近7%！数据中心销售额近乎翻倍 营收展望超预期",
+        "summary": "",
+        "source": "财联社",
+        "published_at": "2026-11-04T07:55:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZM19STHItUTNreEdNTXZUQXZGbi1lYnFDUVU4SVJORDdndE9fUndudkJDaEhCNUExMXlXOWZkWkY0UDhpQUFYUw?oc=5",
+        "image_url": "https://ts4.mm.bing.net/th?id=OIP.JbPPdng2ahrxKWBSl9DiigHaHQ&pid=15.1",
         "hot": false,
         "verified": true,
-        "quick_summary": "中国新闻网这篇报道主要讲的是：中国首个新能源资源循环利用规模化项目开建。中新社 天津11月3日电 (记者 周亚强)记者3日从总部位于天津的中国资源循环集团有限公司 (下称“中国资环”)获悉，中国首个新能源资源循环利用规模化产业项目近日在甘肃酒泉启动建设。",
+        "quick_summary": "财联社这篇报道主要讲的是：AMD盘后大涨近7%！数据中心销售额近乎翻倍 营收展望超预期。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：中国首个新能源资源循环利用规模化项目开建",
-          "中新社 天津11月3日电 (记者 周亚强)记者3日从总部位于天津的中国资源循环集团有限公司 (下称“中国资环”)获悉，中国首个新能源资源循环利用规模化产业项目近日在甘肃酒泉启动建设",
-          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
-        ]
-      },
-      {
-        "category": "科技",
-        "title": "视频 | 首次！中国商业航天企业签署整星座出海合作协议",
-        "summary": "",
-        "source": "jingjiribao.cn",
-        "published_at": "2026-11-03T21:03:23+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WcHZRTVhlWndCS1RVd1hVZmFRTDg3d25mckJKSTNnTVR5OURCbHdKei1leVFDbFJrd0hxWGZDX2pheUo4ekU3ZlhGdl9RVkgxNmtMT05zd2pGVnM3MUNUQmpHSQ?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "quick_summary": "jingjiribao.cn这篇报道主要讲的是：视频 | 首次！中国商业航天企业签署整星座出海合作协议。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：视频 | 首次！中国商业航天企业签署整星座出海合作协议",
+          "核心事件：AMD盘后大涨近7%！数据中心销售额近乎翻倍 营收展望超预期",
           "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
         ]
       },
@@ -705,7 +728,7 @@
         "source": "驱动之家",
         "published_at": "2026-11-03T17:17:00+08:00",
         "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84MjBDT2wxcEZiY3NEbU5OUDQ4RjVKRDhHcDBYUDVWcFdBa2J5NDZEZHZ1QXA2YmZQQzROdU9OQUtmd3JHZlppM094Y0pZb1FPLTJ5SERzVFQ?oc=5",
-        "image_url": "",
+        "image_url": "https://ts4.mm.bing.net/th?id=OIP.iL94HgxCfUM-XDHMiGh6BQHaET&pid=15.1",
         "hot": false,
         "verified": false,
         "quick_summary": "驱动之家这篇报道主要讲的是：要涨价！iPhone 18明年3月发布：2nm A20芯片、电池加大。据GF Securities分析师Jeff Pu在研究报告中透露，苹果计划2027年第一季度发布第二代iPhone Air。对比现款，iPhone Air2将新增一颗4800万像素后置超广角摄像头，并拥有更小的灵动岛Dynamic Island，以及台积电2nm工艺的A20 Pro芯片、第二…",
@@ -717,103 +740,84 @@
       },
       {
         "category": "科技",
-        "title": "新云端：人工智能泡沫将爆破？一群小公司正加剧担忧",
-        "summary": "美国财政部长贝森特（Scott Bessent）上周四（10月29日）试图淡化外界对新云端企业的忧虑。他接受美国消费者新闻与商业频道（CNBC）访问时表示，这些公司只是“整体生态系统中的一小部分”。",
-        "source": "BBC",
-        "published_at": "2026-11-02T08:21:47+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wNE5wYWtPSGs0YjR1VG8yRF9SZkFTMnFXUzg5dkhqeU4wV2hKWXpBT1FUUjNTeHBKRVdQWXlNRHFfOHFZeU5HMDU3UjZXcHNTdENuVE03SFdYX3JXbzUwNjRmbEQ5MWfSAWxBVV95cUxNOWMzWFN2RmN5SzJBMmhmOE9tNkc4VDRsWGVIbzR5QWVtdmNjVEktb3p0Rk5MOVgyNTU5UU5JWHBIaS11aUlQOU53ekFqZmEweXVPMlpnS3JGYnVVd3lMVm9SVmdGenNvU0NMQzI?oc=5",
-        "image_url": "http://www.bing.com/th?id=ONUT.-jsLc29MH-h4qZffPup6JQ&pid=News",
+        "title": "超微电脑大涨！Q1财季营收及业绩指引双超预期，AI服务器需求强劲｜财报见闻",
+        "summary": "",
+        "source": "华尔街见闻",
+        "published_at": "2026-11-04T05:57:16+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VUEZQVkw0THJfRWhPWlJPZ1hYRWw4cGVUZmgzTGZMTmZqV2lJN0ZXWk5LUWM2M2lJRUs2STRqenVGSGNQTVYzUHBJejNnYVlaUl93?oc=5",
+        "image_url": "https://ts3.mm.bing.net/th?id=OIP.qO-2dpnsPrKyQZ_lFwxrZQHaEZ&pid=15.1",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "华尔街见闻这篇报道主要讲的是：超微电脑大涨！Q1财季营收及业绩指引双超预期，AI服务器需求强劲｜财报见闻。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：超微电脑大涨！Q1财季营收及业绩指引双超预期，AI服务器需求强劲｜财报见闻",
+          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
+        ]
+      },
+      {
+        "category": "科技",
+        "title": "科技资本局｜芯片巨头鲸吞光器件之王，中国光通信的护城河还在吗？",
+        "summary": "",
+        "source": "湖北日报传媒集团",
+        "published_at": "2026-11-04T09:48:32+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9XTFpEVlB5TUJ1XzFUR2JQLVdmcy1wbXhQWlYzQTh1ejhLUWxYY2drRHV6VU9CVmdSeTRraWRYVUxkQ25SWVhNYjVDUkxnWEQ1Y1NwWVRzNk9hNkNhY0E?oc=5",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.JO7ayU7JDHLYbGvmgZP-_gHaEQ&pid=15.1",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "湖北日报传媒集团这篇报道主要讲的是：科技资本局｜芯片巨头鲸吞光器件之王，中国光通信的护城河还在吗？。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：科技资本局｜芯片巨头鲸吞光器件之王，中国光通信的护城河还在吗？",
+          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
+        ]
+      },
+      {
+        "category": "科技",
+        "title": "手牵四海｜法国青年扎根上海科技企业，把中国“智能手”带给全世界",
+        "summary": "今年25岁的拉斐尔·洛里丹来自法国北部的一个小镇。三年前，他还是一名在法国校园里研究“如何创办一家公司”的商科硕士生；如今，他坐在上海傲意科技的办公室里，对接全球客户，把中国研发制造的智能仿生手、外骨骼等产品销往约15个国家。 “中国科技正在惠及全球有需要的人。”更令这位深耕“中国智造”一线的…",
+        "source": "ThePaper.cn",
+        "published_at": "2026-11-04T10:46:15+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zNWJYUXlQOF9IT2FvWkRRWWRjd2N0ZTNXU0RJbmdNTmYyRC1qU2lST05FbzlSNVFBVUgwQmMxeUxTYjJ0ZlhuVkk0ZkJ4SzRpclRsMGhCeXg0TmZDakdMMQ?oc=5",
+        "image_url": "http://www.bing.com/th?id=ONUT.enOr93gGTf7jSRfTrvuFjQ&pid=News",
         "hot": false,
         "verified": true,
-        "quick_summary": "BBC这篇报道主要讲的是：新云端：人工智能泡沫将爆破？一群小公司正加剧担忧。美国财政部长贝森特（Scott Bessent）上周四（10月29日）试图淡化外界对新云端企业的忧虑。他接受美国消费者新闻与商业频道（CNBC）访问时表示，这些公司只是“整体生态系统中的一小部分”。",
+        "quick_summary": "ThePaper.cn这篇报道主要讲的是：手牵四海｜法国青年扎根上海科技企业，把中国“智能手”带给全世界。今年25岁的拉斐尔·洛里丹来自法国北部的一个小镇。三年前，他还是一名在法国校园里研究“如何创办一家公司”的商科硕士生；如今，他坐在上海傲意科技的办公室里，对接全球客户，把中国研发制造的智能仿生手、外骨骼等产品销往约15个国家。“中国科技正在惠及全球有需要的人。”更令这位深耕“中国智造”一线的…",
         "key_points": [
-          "核心事件：新云端：人工智能泡沫将爆破？一群小公司正加剧担忧",
-          "美国财政部长贝森特（Scott Bessent）上周四（10月29日）试图淡化外界对新云端企业的忧虑",
-          "他接受美国消费者新闻与商业频道（CNBC）访问时表示，这些公司只是“整体生态系统中的一小部分”"
+          "核心事件：手牵四海｜法国青年扎根上海科技企业，把中国“智能手”带给全世界",
+          "今年25岁的拉斐尔·洛里丹来自法国北部的一个小镇",
+          "三年前，他还是一名在法国校园里研究“如何创办一家公司”的商科硕士生",
+          "如今，他坐在上海傲意科技的办公室里，对接全球客户，把中国研发制造的智能仿生手、外骨骼等产品销往约15个国家",
+          "“中国科技正在惠及全球有需要的人"
         ]
       },
       {
         "category": "科技",
-        "title": "换个电池上万块！260万辆新能源车即将脱保：门店维修却被卡脖子",
-        "summary": "快科技11月3日消息，根据公安部及乘联分会数据推算，到今年年底，全国车龄超过8年的新能源汽车保有量将达到260万辆。动力电池最低质保陆续到期，一场规模不小的脱保潮正在到来，大量车辆落入质保空窗。和燃油车不同，新能源车核心价值集中在三电系统，一旦质保到期，故障带来的维修成本会直接落到车主身上。不…",
-        "source": "驱动之家",
-        "published_at": "2026-11-03T15:02:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLOVdMY2V1VjdhNU43VWtPajZpdHlLcERvWGdXWVFrdE03MVZnWGVCN3JzVU1KOEltZWZYUWtiOERURnM5LU5EVlJCaWVRWDJscDZmLXVUN1I?oc=5",
-        "image_url": "https://inews.gtimg.com/om_ls/Ovvl4tM8jNMbhONovtT1vov851hditcCCEJZkbih_dsnoAA_640330/0",
-        "hot": false,
-        "verified": false,
-        "quick_summary": "驱动之家这篇报道主要讲的是：换个电池上万块！260万辆新能源车即将脱保：门店维修却被卡脖子。快科技11月3日消息，根据公安部及乘联分会数据推算，到今年年底，全国车龄超过8年的新能源汽车保有量将达到260万辆。动力电池最低质保陆续到期，一场规模不小的脱保潮正在到来，大量车辆落入质保空窗。和燃油车不同，新能源车核心价值集中在三电系统，一旦质保到期，故障带来的维修成本会直接落到车主身上。",
-        "key_points": [
-          "核心事件：换个电池上万块！260万辆新能源车即将脱保：门店维修却被卡脖子",
-          "快科技11月3日消息，根据公安部及乘联分会数据推算，到今年年底，全国车龄超过8年的新能源汽车保有量将达到260万辆",
-          "动力电池最低质保陆续到期，一场规模不小的脱保潮正在到来，大量车辆落入质保空窗",
-          "和燃油车不同，新能源车核心价值集中在三电系统，一旦质保到期，故障带来的维修成本会直接落到车主身上"
-        ]
-      },
-      {
-        "category": "科技",
-        "title": "AI军备竞赛烧钱不止，Meta拟发债至少200亿美元，期限最长30年",
+        "title": "凸显科技范和国际化 中国国际粮油博览会将在厦门举办",
         "summary": "",
-        "source": "华尔街见闻",
-        "published_at": "2026-11-03T21:18:12+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1waHBrbGRRV2doaW1UbUpZVnFNSmwwd1VSU1dUVVZjVWVrSVluMHlGSF9iSWIwbU1Xc0o1NTN3YTNCc1Zib0ZtTnc1amNYVWxxeFMw?oc=5",
+        "source": "中新网福建",
+        "published_at": "2026-11-04T09:51:38+08:00",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LT0lONE50MWpkS0NoM3pLT0V5YUhVQmhwbXVtOEpkN0RDZ0RncjZyZGhpUFdpMlZJbnpJcjlXcHVXbU1weFJZeVZCTExWT2Z0UlFCZVE2T3QzVEZib3gyS2xqeUQxclotREJXeXNTQUs?oc=5",
         "image_url": "",
         "hot": false,
-        "verified": false,
-        "quick_summary": "华尔街见闻这篇报道主要讲的是：AI军备竞赛烧钱不止，Meta拟发债至少200亿美元，期限最长30年。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "verified": true,
+        "quick_summary": "中新网福建这篇报道主要讲的是：凸显科技范和国际化 中国国际粮油博览会将在厦门举办。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：AI军备竞赛烧钱不止，Meta拟发债至少200亿美元，期限最长30年",
+          "核心事件：凸显科技范和国际化 中国国际粮油博览会将在厦门举办",
           "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
         ]
       },
       {
         "category": "科技",
-        "title": "从贪婪到谨慎：华尔街AI投资者的情绪悄然生变",
-        "summary": "华尔街对人工智能的万亿美元押注仍在继续，但投资者的心态正在发生微妙变化。 过去两年，AI热潮几乎成为美股最强劲的上涨引擎。从科技巨头、芯片制造商到公用事业公司，凡是能够与AI产业链建立联系的资产，都曾受到资金追捧。市场对AI重塑经济的乐观预期，不仅推高了相关公司的估值，也催生了其他领域的投机狂…",
-        "source": "华尔街见闻",
-        "published_at": "2026-11-03T21:14:30+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYQkxQd0dDN1hkeDlMU1FXb3JhNlBfajdvc0VmUFhtZVY0OTFOOFJOUFluQldESkdKaldKT2tkVlFoNjd1M2tLSXdsVWtSbk1UUXhF?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "quick_summary": "华尔街见闻这篇报道主要讲的是：从贪婪到谨慎：华尔街AI投资者的情绪悄然生变。华尔街对人工智能的万亿美元押注仍在继续，但投资者的心态正在发生微妙变化。过去两年，AI热潮几乎成为美股最强劲的上涨引擎。从科技巨头、芯片制造商到公用事业公司，凡是能够与AI产业链建立联系的资产，都曾受到资金追捧。市场对AI重塑经济的乐观预期，不仅推高了相关公司的估值，也催生了其他领域的投机狂…",
-        "key_points": [
-          "核心事件：从贪婪到谨慎：华尔街AI投资者的情绪悄然生变",
-          "华尔街对人工智能的万亿美元押注仍在继续，但投资者的心态正在发生微妙变化",
-          "过去两年，AI热潮几乎成为美股最强劲的上涨引擎",
-          "从科技巨头、芯片制造商到公用事业公司，凡是能够与AI产业链建立联系的资产，都曾受到资金追捧",
-          "市场对AI重塑经济的乐观预期，不仅推高了相关公司的估值，也催生了其他领域的投机狂…"
-        ]
-      },
-      {
-        "category": "科技",
-        "title": "下一个英特尔？华尔街对AMD的期望已高得危险，普通业绩将难逃抛售",
+        "title": "苹果发布开发者测试版：AI听音功能与新版健康应用上线",
         "summary": "",
         "source": "华尔街见闻",
-        "published_at": "2026-11-03T20:39:48+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hZDRDVjAzYUI5OVpvNDlkQmZiQ0kzSDllVVMzMFhKZUNWTzF5cmxnOFcxQTE4WDJITG5wLThYaFdBNVd6VXRWNXVuc1dfR1ZyYnhF?oc=5",
+        "published_at": "2026-11-04T05:20:32+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmX3Y4bXBOc1FtVFo4NFdfZ2tHa3p5enM3ZmZielMydmJfd2xJblBDUXpKVS0yMmFseEc1Ny1zLUhjc0NaVENQblItdXotTTB2YW9z?oc=5",
         "image_url": "",
         "hot": false,
         "verified": false,
-        "quick_summary": "华尔街见闻这篇报道主要讲的是：下一个英特尔？华尔街对AMD的期望已高得危险，普通业绩将难逃抛售。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "华尔街见闻这篇报道主要讲的是：苹果发布开发者测试版：AI听音功能与新版健康应用上线。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：下一个英特尔？华尔街对AMD的期望已高得危险，普通业绩将难逃抛售",
-          "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
-        ]
-      },
-      {
-        "category": "科技",
-        "title": "美股AI向下，老登向上！伯克希尔又新高了",
-        "summary": "",
-        "source": "华尔街见闻",
-        "published_at": "2026-11-03T20:14:23+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tOElMMHltTDN2ZUlialZzSXZYQS02bHFaSzVZNEg1blBILUo4UW5STk93VjQtMG9TS1ZMSW5XWDBDRmx1RkVjeGdOUW1lT2RlRDNr?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": false,
-        "quick_summary": "华尔街见闻这篇报道主要讲的是：美股AI向下，老登向上！伯克希尔又新高了。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：美股AI向下，老登向上！伯克希尔又新高了",
+          "核心事件：苹果发布开发者测试版：AI听音功能与新版健康应用上线",
           "后续可继续关注技术是否真正落地、产业链影响、监管变化和商业化进展。"
         ]
       }
@@ -821,66 +825,157 @@
     "society": [
       {
         "category": "社会",
-        "title": "王毅分别会见来华出席澜湄合作第十一次外长会的泰国、老挝、缅甸客人",
-        "summary": "11月3日，中共中央政治局委员、外交部长王毅在北京分别会见来华工作访问并出席澜湄合作第十一次外长会的泰国副总理兼外长西哈萨，来华出席澜湄合作第十一次外长会的老挝副总理兼外长通沙万和缅甸国家计划、投资与对外经济部部长昂觉霍。会见西哈萨时，王毅表示，近年来，习近平主席同哇集拉隆功国王保持密切沟通，…",
-        "source": "新华网客户端",
-        "published_at": "2026-11-03T22:22:36+08:00",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdkVrbTJXaWJXMFdGODVxTGFKN182M1ZpalRGSWFtSzRBd1lUTFpnR29OejFwaDYwWmxJb0pPREx1VFNwS0VkM2QwaExiWW5TY19ERDBjUmpzNFZKYmJ4N0JYQWJaV0x3U19sc2RmcklGWWNvNlNOZ1Q5MUZ0RGdUVkgtY0Z3cW1BT1dSeTZZVVBZTkRvaU1pLWFB?oc=5",
-        "image_url": "http://www.bing.com/th?id=ONUT.G-uhHq1tnLY-SrQnQSsvcg&pid=News",
+        "title": "我国将不断凝聚稳就业工作合力",
+        "summary": "新华社北京11月3日电（记者张晓洁）国务院就业促进和劳动保护工作领导小组今年印发了《稳岗扩容提质行动方案》。记者11月3日从人力资源社会保障部获悉，深入实施稳岗扩容提质行动部门推进会近日举行，有关部门将对标对表方案确定的目标任务，倒排工期、加快进度，不断凝聚稳就业工作合力。 今年以来，各部门深…",
+        "source": "新华网",
+        "published_at": "2026-11-03T20:01:25+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa3RDUVFiTmNKNWVHckFzU2hydDhhVndnSUwxSG0wZ0hVZlphdEVQOFJHeDFBY3pQeEE2dXVYRi1FSENObEdnc3FrQ25sVlpWNkJkRW0xdXh1MGUwbU1vVDdnTGJDNFRVWWxqRjdNak5zZ3ZwTmZELXFOQXlCNGRaYVAtcVlueFdq?oc=5",
+        "image_url": "https://ts3.mm.bing.net/th?id=OIP.0Thf0-EMXZaS9LGQ4ek4qgHaNj&pid=15.1",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网客户端这篇报道主要讲的是：王毅分别会见来华出席澜湄合作第十一次外长会的泰国、老挝、缅甸客人。11月3日，中共中央政治局委员、外交部长王毅在北京分别会见来华工作访问并出席澜湄合作第十一次外长会的泰国副总理兼外长西哈萨，来华出席澜湄合作第十一次外长会的老挝副总理兼外长通沙万和缅甸国家计划、投资与对外经济部部长昂觉霍。会见西哈萨时，王毅表示，近年来，习近平主席同哇集拉隆功国王保持密切沟通，…",
+        "quick_summary": "新华网这篇报道主要讲的是：我国将不断凝聚稳就业工作合力。新华社北京11月3日电（记者张晓洁）国务院就业促进和劳动保护工作领导小组今年印发了《稳岗扩容提质行动方案》。记者11月3日从人力资源社会保障部获悉，深入实施稳岗扩容提质行动部门推进会近日举行，有关部门将对标对表方案确定的目标任务，倒排工期、加快进度，不断凝聚稳就业工作合力。",
         "key_points": [
-          "核心事件：王毅分别会见来华出席澜湄合作第十一次外长会的泰国、老挝、缅甸客人",
-          "11月3日，中共中央政治局委员、外交部长王毅在北京分别会见来华工作访问并出席澜湄合作第十一次外长会的泰国副总理兼外长西哈萨，来华出席澜湄合作第十一次外长会的老挝副总理兼外长通沙万和缅甸国家计划、投资与对外经济部部长昂觉霍",
-          "会见西哈萨时，王毅表示，近年来，习近平主席同哇集拉隆功国王保持密切沟通，…"
+          "核心事件：我国将不断凝聚稳就业工作合力",
+          "新华社北京11月3日电（记者张晓洁）国务院就业促进和劳动保护工作领导小组今年印发了《稳岗扩容提质行动方案》",
+          "记者11月3日从人力资源社会保障部获悉，深入实施稳岗扩容提质行动部门推进会近日举行，有关部门将对标对表方案确定的目标任务，倒排工期、加快进度，不断凝聚稳就业工作合力"
         ]
       },
       {
         "category": "社会",
-        "title": "把加强党性修养作为终身课题——深入学习贯彻党的二十届五中全会精神系列述评之三",
-        "summary": "新华社北京6月22日电题：坚持锤炼坚强党性——深入学习贯彻习近平党建思想系列述评之七 新华社记者史竞男、杨湛菲、邢拓 中国共产党人的坚强党性，是我们党保持先进性和纯洁性、提高领导水平和执政能力的重要保证。 习近平党建思想“十四个坚持”的 ...",
+        "title": "陆委会称现在没有“台独”问题 国台办回应",
+        "summary": "据新华社消息，11月4日，国务院台办举行例行新闻发布会。有记者问，近日，陆委会称，现在没有“台独”问题，只有要不要被强迫统一的问题，台方的两岸政策目标为“维持和平现状、捍卫民主自由”。请问对此有何评论？发言人朱凤莲答问表示，世界上只有一个中国，台湾是中国领土不 ...",
         "source": "新华网",
-        "published_at": "2026-11-03T21:43:06+08:00",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50NHo3TjdzeHVSWTFVZkRKdVFWc05XcVo1ZE9mUVo3YVlBcFAyZjRJd2J4YnFybUJkTjdHVlIyb3JuUU9uejE2RE1oUFBQX0JzSl84QTd4VXpIdDFIZDdjQm42OFN4dGpJcXRjSDVMOVUtWktOYlZZ?oc=5",
-        "image_url": "",
+        "published_at": "2026-11-04T10:40:54+08:00",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Nb0JyRmhacVprNFR0UFVzWUVDLUdKLVdIQlZkQXNnazhmYkZhbGpOekV5UXFpc2lUbWZPOXRkNjJRbHJ5MFNlbE12dFk2M0lmRzV0UjZUbngtQjNwTE1YYmUtZXpPbnpNbGs4clpIWGVNejJ2NWJWcTYxRQ?oc=5",
+        "image_url": "https://ts4.mm.bing.net/th?id=OIP.ebfb090Ty1AhdvutpCgqGQHaFj&pid=15.1",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：把加强党性修养作为终身课题——深入学习贯彻党的二十届五中全会精神系列述评之三。新华社北京6月22日电题：坚持锤炼坚强党性——深入学习贯彻习近平党建思想系列述评之七 新华社记者史竞男、杨湛菲、邢拓 中国共产党人的坚强党性，是我们党保持先进性和纯洁性、提高领导水平和执政能力的重要保证。习近平党建思想“十四个坚持”的 ...。",
+        "quick_summary": "新华网这篇报道主要讲的是：陆委会称现在没有“台独”问题 国台办回应。据新华社消息，11月4日，国务院台办举行例行新闻发布会。有记者问，近日，陆委会称，现在没有“台独”问题，只有要不要被强迫统一的问题，台方的两岸政策目标为“维持和平现状、捍卫民主自由”。发言人朱凤莲答问表示，世界上只有一个中国，台湾是中国领土不 ...。",
         "key_points": [
-          "核心事件：把加强党性修养作为终身课题——深入学习贯彻党的二十届五中全会精神系列述评之三",
-          "新华社北京6月22日电题：坚持锤炼坚强党性——深入学习贯彻习近平党建思想系列述评之七 新华社记者史竞男、杨湛菲、邢拓 中国共产党人的坚强党性，是我们党保持先进性和纯洁性、提高领导水平和执政能力的重要保证",
-          "习近平党建思想“十四个坚持”的 ..."
+          "核心事件：陆委会称现在没有“台独”问题 国台办回应",
+          "据新华社消息，11月4日，国务院台办举行例行新闻发布会",
+          "有记者问，近日，陆委会称，现在没有“台独”问题，只有要不要被强迫统一的问题，台方的两岸政策目标为“维持和平现状、捍卫民主自由”",
+          "发言人朱凤莲答问表示，世界上只有一个中国，台湾是中国领土不 ..."
         ]
       },
       {
         "category": "社会",
-        "title": "黑龙江将迎雨雪冰冻 局地新增雪深15厘米",
-        "summary": "新华社哈尔滨11月3日电（记者黄腾）记者11月3日从黑龙江省气象台了解到，根据最新天气预报，11月4日至6日黑龙江大部有雨雪冰冻天气，北部地区以纯雪、湿雪为主，中南部雨雪相态复杂。 据预计，黑龙江北部地区以纯雪、湿雪为主，黑河南部、伊春中北部、绥化北部、鹤岗、佳木斯中东部有大雪，其中伊春中北部…",
+        "title": "两岸各界围绕“两制”台湾方案研讨热烈 国台办回应",
+        "summary": "11月4日，国务院台办举行例行新闻发布会。有记者问，近日，第十二届中华文化论坛在北京举行。有与会学者表示，一段时间以来，两岸各界围绕“一国两制”台湾方案研讨热烈，折射出台湾社会普遍认知“台独”是死路，开始思考统一后安排。请问对此有何评论？",
         "source": "新华网",
-        "published_at": "2026-11-03T21:27:56+08:00",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGTUpkNk9XVXNnem5oVi1Da0o4RzJqNFpoUkZBbzZtYXlLaTlrUGdWaVUtZktUSFRWSjZKSEZGSEJvTmVXOWdqS01WZXNUZTN6T0pvRHAybmRRbmkxd2pKZmc5WFZrLWI0aVVpeF93WEFOWUFBVUpZ?oc=5",
-        "image_url": "",
+        "published_at": "2026-11-04T10:24:12+08:00",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwWHJoZHlHMG8yQlc5alFfNmRPZkt3cV9YWFY0RjFVWUg1OEd5bTNtZ2ktNnJYUU1jZ1haMzJNMkxHWkZkejlUU3dhYmZwNGFIRGk0LUt3ODBZS2tJRTM2YWxnbERHM21IeHN5aE5IMmVRREpTLUJZVUtKVQ?oc=5",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.0BuUrKMKRkrpxt2kvjRFDgHaEK&pid=15.1",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：黑龙江将迎雨雪冰冻 局地新增雪深15厘米。新华社哈尔滨11月3日电（记者黄腾）记者11月3日从黑龙江省气象台了解到，根据最新天气预报，11月4日至6日黑龙江大部有雨雪冰冻天气，北部地区以纯雪、湿雪为主，中南部雨雪相态复杂。据预计，黑龙江北部地区以纯雪、湿雪为主，黑河南部、伊春中北部、绥化北部、鹤岗、佳木斯中东部有大雪，其中伊春中北部…",
+        "quick_summary": "新华网这篇报道主要讲的是：两岸各界围绕“两制”台湾方案研讨热烈 国台办回应。11月4日，国务院台办举行例行新闻发布会。有记者问，近日，第十二届中华文化论坛在北京举行。有与会学者表示，一段时间以来，两岸各界围绕“一国两制”台湾方案研讨热烈，折射出台湾社会普遍认知“台独”是死路，开始思考统一后安排。",
         "key_points": [
-          "核心事件：黑龙江将迎雨雪冰冻 局地新增雪深15厘米",
-          "新华社哈尔滨11月3日电（记者黄腾）记者11月3日从黑龙江省气象台了解到，根据最新天气预报，11月4日至6日黑龙江大部有雨雪冰冻天气，北部地区以纯雪、湿雪为主，中南部雨雪相态复杂",
-          "据预计，黑龙江北部地区以纯雪、湿雪为主，黑河南部、伊春中北部、绥化北部、鹤岗、佳木斯中东部有大雪，其中伊春中北部…"
+          "核心事件：两岸各界围绕“两制”台湾方案研讨热烈 国台办回应",
+          "11月4日，国务院台办举行例行新闻发布会",
+          "有记者问，近日，第十二届中华文化论坛在北京举行",
+          "有与会学者表示，一段时间以来，两岸各界围绕“一国两制”台湾方案研讨热烈，折射出台湾社会普遍认知“台独”是死路，开始思考统一后安排"
+        ]
+      },
+      {
+        "category": "社会",
+        "title": "南宁：深秋稻浪起 田园迎客来",
+        "summary": "深秋时节，广西南宁市邕宁区顶蛳山田园风光区水稻陆续成熟，青黄相间铺展旷野。游客漫步田埂，尽赏田园丰收景致。 11月3日拍摄的顶蛳山田园风光区（无人机照片）。新华社记者 周华 摄 11月3日，游客在顶蛳山田园风光区欣赏景色（无人机照片）。新华社记者 周华 摄 11月3日拍摄的顶蛳山田园风光区（无…",
+        "source": "新华网",
+        "published_at": "2026-11-04T09:37:28+08:00",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNTJtd1ZEelhuLXVGa2FMU2JCLVZTcnVXekctdG9ZVzlLSHQ2YjVtQzRhNXVXazlMMDBlbWxOeTRKblk5LVVKUEc4OGJmOEUxUVZITlFHMXE2emRGdVhSSnptVmsxYVliNDZ6SDRYUkxMNGhIYno4LW56ejlvQ2hrUTVsQnpidw?oc=5",
+        "image_url": "http://www.bing.com/th?id=ONUT.vB7dCVWu9VJOEd-0rqiFvA&pid=News",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网这篇报道主要讲的是：南宁：深秋稻浪起 田园迎客来。深秋时节，广西南宁市邕宁区顶蛳山田园风光区水稻陆续成熟，青黄相间铺展旷野。游客漫步田埂，尽赏田园丰收景致。11月3日拍摄的顶蛳山田园风光区（无人机照片）。新华社记者 周华 摄 11月3日，游客在顶蛳山田园风光区欣赏景色（无人机照片）。新华社记者 周华 摄 11月3日拍摄的顶蛳山田园风光区（无…",
+        "key_points": [
+          "核心事件：南宁：深秋稻浪起 田园迎客来",
+          "深秋时节，广西南宁市邕宁区顶蛳山田园风光区水稻陆续成熟，青黄相间铺展旷野",
+          "游客漫步田埂，尽赏田园丰收景致",
+          "11月3日拍摄的顶蛳山田园风光区（无人机照片）",
+          "新华社记者 周华 摄 11月3日，游客在顶蛳山田园风光区欣赏景色（无人机照片）"
+        ]
+      },
+      {
+        "category": "社会",
+        "title": "千城百县看中国丨广西兴业：田园竞技享农趣",
+        "summary": "晚稻丰收时节，广西壮族自治区玉林市兴业县葵阳镇泉江村举办了一场趣味十足的丰收文化节，吸引众多群众与游客沉浸式体验田园之乐，共享丰收喜悦。 割稻谷比赛率先开赛，选手弯腰、握稻、挥镰，在田间比速度、赛技艺。随后的稻田摸鱼、抓鸡、抓猪等农趣挑战赛点燃全场气氛，游客与村民围捕追逐，欢声笑语不断。现场还…",
+        "source": "新华社广西分社",
+        "published_at": "2026-11-04T08:51:26+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOalplMDVjdXBoR0pGSTA2b0o3Tm0tVGFBMGhPZ0VFTk91cVI0dUFlMGREZFVVSmVpT2Q3M3VuN3Y5c1ZvLVo5QjVqMWl5MHJJNkpfckRkN1dUWWkwQk9WWEFHdDV1d0xkS1VzWjdNZC15cHpfMnVxZjl5U0NfZFZ3Y2VR?oc=5",
+        "image_url": "http://www.bing.com/th?id=ONUT.hjhYRhwQ3-b76IbUEsqcPw&pid=News",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华社广西分社这篇报道主要讲的是：千城百县看中国丨广西兴业：田园竞技享农趣。晚稻丰收时节，广西壮族自治区玉林市兴业县葵阳镇泉江村举办了一场趣味十足的丰收文化节，吸引众多群众与游客沉浸式体验田园之乐，共享丰收喜悦。割稻谷比赛率先开赛，选手弯腰、握稻、挥镰，在田间比速度、赛技艺。随后的稻田摸鱼、抓鸡、抓猪等农趣挑战赛点燃全场气氛，游客与村民围捕追逐，欢声笑语不断。",
+        "key_points": [
+          "核心事件：千城百县看中国丨广西兴业：田园竞技享农趣",
+          "晚稻丰收时节，广西壮族自治区玉林市兴业县葵阳镇泉江村举办了一场趣味十足的丰收文化节，吸引众多群众与游客沉浸式体验田园之乐，共享丰收喜悦",
+          "割稻谷比赛率先开赛，选手弯腰、握稻、挥镰，在田间比速度、赛技艺",
+          "随后的稻田摸鱼、抓鸡、抓猪等农趣挑战赛点燃全场气氛，游客与村民围捕追逐，欢声笑语不断"
+        ]
+      },
+      {
+        "category": "社会",
+        "title": "本轮降水今夜渐止，周末再迎雨水",
+        "summary": "其中3日夜里，江淮之间南部和沿江苏南地区雨势增大到中雨；4日白天全省阴有阵雨，其中本省东南部地区雨量中等，夜里降水渐止。",
+        "source": "新华网江苏频道",
+        "published_at": "2026-11-04T07:47:09+08:00",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ibnRWMDRaRGxjUGpjeHJKT3pYN1otNnB6M1d0OXIyQURDbmp3cVdENzRnb3M0anRUQ3BTMjNWWkRlcnZxVU1WM04xMm9BZkdYTThkVS1qTlFaQnlETTR3M0JkcFoyU0NpcnA2MlBnSkV6cHlST1dCcmhqMlI?oc=5",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.vroV3PPOORora2zkYFfq8wHaGQ&pid=15.1",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "新华网江苏频道这篇报道主要讲的是：本轮降水今夜渐止，周末再迎雨水。其中3日夜里，江淮之间南部和沿江苏南地区雨势增大到中雨；4日白天全省阴有阵雨，其中本省东南部地区雨量中等，夜里降水渐止。",
+        "key_points": [
+          "核心事件：本轮降水今夜渐止，周末再迎雨水",
+          "其中3日夜里，江淮之间南部和沿江苏南地区雨势增大到中雨",
+          "4日白天全省阴有阵雨，其中本省东南部地区雨量中等，夜里降水渐止"
+        ]
+      },
+      {
+        "category": "社会",
+        "title": "我国重要农业文化遗产增至276项 古老农耕遗产如何保护与活化",
+        "summary": "近日，农业农村部认定第八批重要农业文化遗产，新增88项传统农业系统。至此，我国重要农业文化遗产增加到了276项。它们在中华民族的长期农耕生产实践中逐渐形成，因地制宜守护传承下来，蕴含着深厚的农耕文化思想智慧。",
+        "source": "央视网",
+        "published_at": "2026-11-04T07:06:33+08:00",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lVDVmSnZSZ1BNbVdjWWNjdFBlMzEwMFMwWXpMbXBENWZkRDNPVXlDRG1Kek5MUE1KVlJudlYzOHRDZXYtVWJqeWl3MGRVS0lJY3gtalVhZGFXYnRHeXYwU180NHJwdmc2U2NDSml3OGp2NmpKOXFPSQ?oc=5",
+        "image_url": "https://ts4.mm.bing.net/th?id=OIP.gjMTs0zTdIzfzuSgvwBhYAHaMW&pid=15.1",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "央视网这篇报道主要讲的是：我国重要农业文化遗产增至276项 古老农耕遗产如何保护与活化。近日，农业农村部认定第八批重要农业文化遗产，新增88项传统农业系统。至此，我国重要农业文化遗产增加到了276项。它们在中华民族的长期农耕生产实践中逐渐形成，因地制宜守护传承下来，蕴含着深厚的农耕文化思想智慧。",
+        "key_points": [
+          "核心事件：我国重要农业文化遗产增至276项 古老农耕遗产如何保护与活化",
+          "近日，农业农村部认定第八批重要农业文化遗产，新增88项传统农业系统",
+          "至此，我国重要农业文化遗产增加到了276项",
+          "它们在中华民族的长期农耕生产实践中逐渐形成，因地制宜守护传承下来，蕴含着深厚的农耕文化思想智慧"
+        ]
+      },
+      {
+        "category": "社会",
+        "title": "丁薛祥将出席第九届进博会开幕式及相关活动",
+        "summary": "商务部新闻发言人何亚东11月3日宣布，第九届中国国际进口博览会将于2026年11月5日至10日在上海举办。中共中央政治局常委、国务院副总理丁薛祥将出席开幕式及相关活动并作主旨讲话。",
+        "source": "人民日报",
+        "published_at": "2026-11-04T06:02:24+08:00",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12bVAxQ3llMmFsWl9SOHFOYnFqdVhlcktSdnh1TFAwXzNIbG5aWEJqN1pTMXdzeUE3REptYUE0N3pPY29Jd0xGZXNxQmlJRklCSTRBZ1BqbEk1LUVydXpPSFJqclgzcW4xV08yMkhGOEEtbThBc3AwdDJaYTB0VVU?oc=5",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.-6zWZWwZu3iwvScQgNPlAwHaFs&pid=15.1",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "人民日报这篇报道主要讲的是：丁薛祥将出席第九届进博会开幕式及相关活动。商务部新闻发言人何亚东11月3日宣布，第九届中国国际进口博览会将于2026年11月5日至10日在上海举办。中共中央政治局常委、国务院副总理丁薛祥将出席开幕式及相关活动并作主旨讲话。",
+        "key_points": [
+          "核心事件：丁薛祥将出席第九届进博会开幕式及相关活动",
+          "商务部新闻发言人何亚东11月3日宣布，第九届中国国际进口博览会将于2026年11月5日至10日在上海举办",
+          "中共中央政治局常委、国务院副总理丁薛祥将出席开幕式及相关活动并作主旨讲话"
         ]
       },
       {
         "category": "社会",
         "title": "今明两天湖南大部降雨连连 张家界株洲局地或现暴雨",
-        "summary": "中国天气网讯 今明两天（11月3日至4日），湖南大部降雨连连，湘北、湘南等地部分地区有大雨，湘西州、张家界、株洲、郴州局地或遭遇暴雨，公众需注意防范。 昨天，湖南大部地区出现降雨，雨量总体以小雨量级为主，局地出现中雨。 未来几天，湖南大范围降雨仍将持续，其中，今明天较强降雨主要出现在北部、南部…",
+        "summary": "",
         "source": "天气网",
         "published_at": "2026-11-03T10:24:56+08:00",
         "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wdTRhWnFiN3NxeFlMb1NOMFRYQUJJSXRKVm9ZQ1c2UVBuUVFVRXVaMGhmdHVnZ1NlN3RRbnloT2dLempRMTA2d3VUM2JEM1BxLVIyX1ZNcDZ1YUUy?oc=5",
-        "image_url": "https://ts3.mm.bing.net/th?id=OIP.xgjrPSx9eBgmWr7ZvSOwyQHaHc&pid=15.1",
+        "image_url": "",
         "hot": true,
         "verified": false,
-        "quick_summary": "天气网这篇报道主要讲的是：今明两天湖南大部降雨连连 张家界株洲局地或现暴雨。中国天气网讯 今明两天（11月3日至4日），湖南大部降雨连连，湘北、湘南等地部分地区有大雨，湘西州、张家界、株洲、郴州局地或遭遇暴雨，公众需注意防范。昨天，湖南大部地区出现降雨，雨量总体以小雨量级为主，局地出现中雨。未来几天，湖南大范围降雨仍将持续，其中，今明天较强降雨主要出现在北部、南部等地。湖南省气象台预计，今天，湘北小雨转中雨，部分地区大雨，其中湘西州、张家界局地暴雨，其他地区阴天有小到 ...。未来几天，湖南大范围降雨仍将持续，其中，今明天较强降雨主要出现在北部、南部…",
+        "quick_summary": "天气网这篇报道主要讲的是：今明两天湖南大部降雨连连 张家界株洲局地或现暴雨。中国天气网讯 今明两天（11月3日至4日），湖南大部降雨连连，湘北、湘南等地部分地区有大雨，湘西州、张家界、株洲、郴州局地或遭遇暴雨，公众需注意防范。昨天，湖南大部地区出现降雨，雨量总体以小雨量级为主，局地出现中雨。未来几天，湖南大范围降雨仍将持续，其中，今明天较强降雨主要出现在北部、南部等地。湖南省气象台预计，今天，湘北小雨转中雨，部分地区大雨，其中湘西州、张家界局地暴雨，其他地区阴天有小到 ...。",
         "key_points": [
           "核心事件：今明两天湖南大部降雨连连 张家界株洲局地或现暴雨",
           "中国天气网讯 今明两天（11月3日至4日），湖南大部降雨连连，湘北、湘南等地部分地区有大雨，湘西州、张家界、株洲、郴州局地或遭遇暴雨，公众需注意防范",
@@ -891,277 +986,184 @@
       },
       {
         "category": "社会",
-        "title": "大看台｜跑赢人类后，机器人为啥还要去泰山“修炼”",
-        "summary": "由登山场景衍生出的应用方向非常广阔。王樱潼说，他们希望通过在登泰山比赛中的探索，为机器人进入电力、工业园区巡检以及抗灾救援等工作场景积累数据和经验。“这些场景往往存在地形复杂、任务繁重等特点，或对工作人员有一定危险性，机器人可进入人类不便抵达的区域完成任务。” ...",
-        "source": "新华网客户端",
-        "published_at": "2026-11-03T18:21:57+08:00",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSURBTmtVY2VPQWt4dV85RXpXclZIVjZXTkJlbkk2d0d4SXhCQkpjMnE2QU5FZnZ0WjBNblAyNWFrN3VsWHV4dHctYUU5TjRiU21Xa1BwWGpaX1l5MThlSVlJQmdkRUpnSG1XY3VoejlOaW4tMXdjdHlDcUJOVENKODdqUUoxbDlURXc0X3BoemlnTlI5ODZYZjF3?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "新华网客户端这篇报道主要讲的是：大看台｜跑赢人类后，机器人为啥还要去泰山“修炼”。由登山场景衍生出的应用方向非常广阔。王樱潼说，他们希望通过在登泰山比赛中的探索，为机器人进入电力、工业园区巡检以及抗灾救援等工作场景积累数据和经验。“这些场景往往存在地形复杂、任务繁重等特点，或对工作人员有一定危险性，机器人可进入人类不便抵达的区域完成任务。",
-        "key_points": [
-          "核心事件：大看台｜跑赢人类后，机器人为啥还要去泰山“修炼”",
-          "由登山场景衍生出的应用方向非常广阔",
-          "王樱潼说，他们希望通过在登泰山比赛中的探索，为机器人进入电力、工业园区巡检以及抗灾救援等工作场景积累数据和经验",
-          "“这些场景往往存在地形复杂、任务繁重等特点，或对工作人员有一定危险性，机器人可进入人类不便抵达的区域完成任务"
-        ]
-      },
-      {
-        "category": "社会",
-        "title": "一条通道联内外 一处院落共相伴",
-        "summary": "11月2日，乌鲁木齐国际陆港区多式联运中心内，集装箱整齐码放，准备发运。 石榴云/新疆日报记者蔡增乐摄 11月2日，2026年“铸牢共同体 中华一家亲”主题宣传活动采访团走进乌鲁木齐，感受城市发展脉动，记录各民族交往交流交融的生动场景。 秋日晴空下 ...",
-        "source": "新华网",
-        "published_at": "2026-11-03T16:36:05+08:00",
-        "url": "http://www.xj.xinhuanet.com/20261103/393d3a436ae046b39d99831eefd6efce/c.html",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：一条通道联内外 一处院落共相伴。11月2日，乌鲁木齐国际陆港区多式联运中心内，集装箱整齐码放，准备发运。□石榴云/新疆日报记者蔡增乐摄。11月2日，2026年“铸牢共同体 中华一家亲”主题宣传活动采访团走进乌鲁木齐，感受城市发展脉动，记录各民族交往交流交融的生动场景。新疆国际陆港（集团）有限责任公司总经理助理郑跃介绍，新疆自主品牌中欧（中亚）班列“天山号”发展势头强劲，已从最初每周开行2列增长到如今日均发运2列以上。目前，乌鲁木齐国际陆港区中欧（中亚）班列线路通达19个国家、26个城市，运载货物包含200多个种类，国际物流枢纽作用日益凸显。",
-        "key_points": [
-          "核心事件：一条通道联内外 一处院落共相伴",
-          "11月2日，乌鲁木齐国际陆港区多式联运中心内，集装箱整齐码放，准备发运",
-          "□石榴云/新疆日报记者蔡增乐摄",
-          "11月2日，2026年“铸牢共同体 中华一家亲”主题宣传活动采访团走进乌鲁木齐，感受城市发展脉动，记录各民族交往交流交融的生动场景",
-          "新疆国际陆港（集团）有限责任公司总经理助理郑跃介绍，新疆自主品牌中欧（中亚）班列“天山号”发展势头强劲，已从最初每周开行2列增长到如今日均发运2列以上"
-        ]
-      },
-      {
-        "category": "社会",
-        "title": "秘鲁副外长：愿进一步加强秘中全面战略伙伴关系",
-        "summary": "秘鲁外交部副部长埃里克·安德森2日表示，秘鲁愿继续在坚持一个中国原则，相互尊重、相互信任、互利共赢的基础上，进一步加强秘中全面战略伙伴关系，推动双边关系不断发展。 安德森当天在秘鲁外交部主办的庆祝秘鲁与中国建交55周年研讨会上说，秘鲁是 ...",
-        "source": "新华网客户端",
-        "published_at": "2026-11-03T15:58:14+08:00",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU1ZIS0RhT0dJdHZzdnVKSHR1QnhENVp6QjhDal9YZUpqckNOYnl6ZlB6QVJRQlJhNmtjRUFBYzdseEwzMlFINWhtYnNld1QzZ3RIZ0tGZldJNlZhTFI4RXdaaTdpY28xb09DdHlaTE1fTkNleUI0aV91cl9ZMXVqUFJFaGxkdEUtZk0ydmVfZzFnRnRGWXBrN1FR?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "新华网客户端这篇报道主要讲的是：秘鲁副外长：愿进一步加强秘中全面战略伙伴关系。秘鲁外交部副部长埃里克·安德森2日表示，秘鲁愿继续在坚持一个中国原则，相互尊重、相互信任、互利共赢的基础上，进一步加强秘中全面战略伙伴关系，推动双边关系不断发展。安德森当天在秘鲁外交部主办的庆祝秘鲁与中国建交55周年研讨会上说，秘鲁是 ...。",
-        "key_points": [
-          "核心事件：秘鲁副外长：愿进一步加强秘中全面战略伙伴关系",
-          "秘鲁外交部副部长埃里克·安德森2日表示，秘鲁愿继续在坚持一个中国原则，相互尊重、相互信任、互利共赢的基础上，进一步加强秘中全面战略伙伴关系，推动双边关系不断发展",
-          "安德森当天在秘鲁外交部主办的庆祝秘鲁与中国建交55周年研讨会上说，秘鲁是 ..."
-        ]
-      },
-      {
-        "category": "社会",
-        "title": "2026国际版权论坛在甘肃敦煌开幕",
-        "summary": "本报敦煌11月2日讯（新甘肃·甘肃日报记者金鑫）2026国际版权论坛今天在敦煌开幕。 省委副书记、省长孔绍逊，世界知识产权组织总干事邓鸿森，中宣部副部长姜辉出席并致辞。副省长葛建团出席。 孔绍逊代表省委、省政府向各位嘉宾表示欢迎，向长期以来关心支持甘肃发展的国内外朋友表示感谢。他说，国际版权论…",
-        "source": "人民日报",
-        "published_at": "2026-11-03T09:36:21+08:00",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfODczU2NSUEpOOURkVHJwemcwOG5BbGVqVEoyLVBFU29FZUtnTzc4c3BXblZidjlTREV3SVhfSmtOcmljck5zeVJza0tIQjhYa0lKR0VxSTUycG9idFpFRDl2MnFMN0dueUNIb0FfdGE3dDVkRFlqZ3hIQzdORHc?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "人民日报这篇报道主要讲的是：2026国际版权论坛在甘肃敦煌开幕。本报敦煌11月2日讯（新甘肃·甘肃日报记者金鑫）2026国际版权论坛今天在敦煌开幕。省委副书记、省长孔绍逊，世界知识产权组织总干事邓鸿森，中宣部副部长姜辉出席并致辞。孔绍逊代表省委、省政府向各位嘉宾表示欢迎，向长期以来关心支持甘肃发展的国内外朋友表示感谢。",
-        "key_points": [
-          "核心事件：2026国际版权论坛在甘肃敦煌开幕",
-          "本报敦煌11月2日讯（新甘肃·甘肃日报记者金鑫）2026国际版权论坛今天在敦煌开幕",
-          "省委副书记、省长孔绍逊，世界知识产权组织总干事邓鸿森，中宣部副部长姜辉出席并致辞",
-          "孔绍逊代表省委、省政府向各位嘉宾表示欢迎，向长期以来关心支持甘肃发展的国内外朋友表示感谢"
-        ]
-      },
-      {
-        "category": "社会",
-        "title": "2026版“上海手册”中文版等多项成果在沪发布",
+        "title": "王毅分别会见来华出席澜湄合作第十一次外长会的泰国、老挝、缅甸客人",
         "summary": "",
-        "source": "新华网",
-        "published_at": "2026-11-02T21:10:24+08:00",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3SFpRU25GWldRMmlQaW92RHotNEZheTBqWGl6RFBwS1g3REdIMktjNC12N0FhYkxoQllVNDFMaDRaS2tXa2ZCUmQxWUhNQ0NvQlJNQmpLdVJVSFR6Szk3amo2STBtSHBRamhzYzhJWGhRV0VkUnVLQnBPeURoODA?oc=5",
+        "source": "新华网客户端",
+        "published_at": "2026-11-03T22:22:36+08:00",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdkVrbTJXaWJXMFdGODVxTGFKN182M1ZpalRGSWFtSzRBd1lUTFpnR29OejFwaDYwWmxJb0pPREx1VFNwS0VkM2QwaExiWW5TY19ERDBjUmpzNFZKYmJ4N0JYQWJaV0x3U19sc2RmcklGWWNvNlNOZ1Q5MUZ0RGdUVkgtY0Z3cW1BT1dSeTZZVVBZTkRvaU1pLWFB?oc=5",
         "image_url": "",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：2026版“上海手册”中文版等多项成果在沪发布。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "新华网客户端这篇报道主要讲的是：王毅分别会见来华出席澜湄合作第十一次外长会的泰国、老挝、缅甸客人。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：2026版“上海手册”中文版等多项成果在沪发布",
+          "核心事件：王毅分别会见来华出席澜湄合作第十一次外长会的泰国、老挝、缅甸客人",
           "后续可继续关注主管部门通报、处置进展、影响范围和保障措施。"
-        ]
-      },
-      {
-        "category": "社会",
-        "title": "展贸融合激活产业动能 中部农博会赋能湖南农业高质量发展",
-        "summary": "",
-        "source": "中国新闻网",
-        "published_at": "2026-11-03T23:41:37+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sX0JocnBzSFlnMWhaVF9CQTJibG1FMFljYno1SHBDWWZzSlhFZ29qZm9VbjFXVVgwSjQ4aldGRy1XWU53WmdxTDF0X0RmUndERmczeDFXOXRVWU1uaUtybl9fQVBxQVQ4?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "中国新闻网这篇报道主要讲的是：展贸融合激活产业动能 中部农博会赋能湖南农业高质量发展。中新网长沙11月3日电(龚倩)第二十七届中部农博会开幕在即，连日来，长沙国际会展中心内筹备工作正有序推进。主办方介绍，本届农博会将汇聚3500余家企业、3万余种农产品，越南、泰国、马达加斯加等境外客商也将齐聚长沙，共赴这场农业盛会。本届农博会主办方称，以往农业展会常常面临供需匹配不畅的难题：采购商难寻优质货源，参展商户缺少精准客源，短短几天的展台对接，很难打通产销之间的壁垒。今年6月起，农博会配套落地多场“洞庭香+”产地选品会，深入湖南益阳、常德等湖南重点农业产区，走进南县小龙虾基地、常德米粉稻种植基地，组织粤港澳大湾区采购商赴产地实地溯源、询价洽谈、对接合作。系列产地选品活动成效明显，6场活动累计达成供需对接超百次，撮合订单金额突破3000万元，展前线上精准供需配对近600次。",
-        "key_points": [
-          "核心事件：展贸融合激活产业动能 中部农博会赋能湖南农业高质量发展",
-          "中新网长沙11月3日电(龚倩)第二十七届中部农博会开幕在即，连日来，长沙国际会展中心内筹备工作正有序推进",
-          "主办方介绍，本届农博会将汇聚3500余家企业、3万余种农产品，越南、泰国、马达加斯加等境外客商也将齐聚长沙，共赴这场农业盛会",
-          "本届农博会主办方称，以往农业展会常常面临供需匹配不畅的难题：采购商难寻优质货源，参展商户缺少精准客源，短短几天的展台对接，很难打通产销之间的壁垒",
-          "今年6月起，农博会配套落地多场“洞庭香+”产地选品会，深入湖南益阳、常德等湖南重点农业产区，走进南县小龙虾基地、常德米粉稻种植基地，组织粤港澳大湾区采购商赴产地实地溯源、询价洽谈、对接合作"
         ]
       }
     ],
     "ai": [
       {
         "category": "AI",
-        "title": "国芯训练国模！DeepSeek下一代大模型计划用昇腾芯片训练",
+        "title": "追着谷歌比！OpenAI高管称ChatGPT搜索量已达到谷歌的20%",
         "summary": "",
         "source": "财联社",
-        "published_at": "2026-11-03T14:26:51+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1MeENRQVRPRjJmX1lvWWw3dDFYN01ROHZ0QW1UdjlDNzdWcWxwMmtnLTBWajhfcW9fN004QjQ1OTZOYkJya3g2Yg?oc=5",
-        "image_url": "",
+        "published_at": "2026-11-04T09:08:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBRaE50MUtfeGgzakVKenpZaFBsX0lzdy1yTFlTSlRoT25QQkRPZTZSamZwc2VMYmZla0t0WlEzNEVHUGZmUVZVTQ?oc=5",
+        "image_url": "https://ts4.mm.bing.net/th?id=OIF.Z%2bOvrq4DEdVMDoHcjDbjgg&pid=15.1",
         "hot": false,
         "verified": true,
-        "quick_summary": "财联社这篇报道主要讲的是：国芯训练国模！DeepSeek下一代大模型计划用昇腾芯片训练。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "财联社这篇报道主要讲的是：追着谷歌比！OpenAI高管称ChatGPT搜索量已达到谷歌的20%。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：国芯训练国模！DeepSeek下一代大模型计划用昇腾芯片训练",
+          "核心事件：追着谷歌比！OpenAI高管称ChatGPT搜索量已达到谷歌的20%",
           "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
         ]
       },
       {
         "category": "AI",
-        "title": "阿里巴巴蔡崇信：AI只有开源开放，才能普惠普及",
-        "summary": "11月3日上午，2026年世界互联网大会乌镇峰会开幕。阿里巴巴集团联合创始人、董事会主席蔡崇信在开幕式上发言：“AI只有开源才能普及，只有普及才能创造可持续、普惠的智能时代。”他表示，中国开源模型下载量、衍生模型数等关键指标保持领先，是当前全球开源智能的引领者。 阿里巴巴集团联合创始人、董事会…",
+        "title": "CrowdStrike出手对付失控智能体，推出“AI终止开关”切断权限！",
+        "summary": "",
+        "source": "财联社",
+        "published_at": "2026-11-04T09:08:00+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUSEk0UTFxdW1RU0ZEaEFUcV9BbnQydGJscVFGLXJsbC1KSXY4NEc5b1JoLXJpSXUyTDdrNm5Ic05uUEZ3XzJOaQ?oc=5",
+        "image_url": "https://ts3.mm.bing.net/th?id=OIP.ckLYStiEy7QdvBI1UlT8oAAAAA&pid=15.1",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "财联社这篇报道主要讲的是：CrowdStrike出手对付失控智能体，推出“AI终止开关”切断权限！。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：CrowdStrike出手对付失控智能体，推出“AI终止开关”切断权限！",
+          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
+        ]
+      },
+      {
+        "category": "AI",
+        "title": "为何选择开源路线？多家大模型负责人：加速通用人工智能到来",
+        "summary": "如今开源模型正从“可用”走向“好用”，能力边界持续扩展，触达人群和影响范围同步扩大。与此同时，开源模型一旦发布便难以撤回，安全风险不再局限于单一厂商，治理责任也随之外溢到整个生态。可以说，随着模型能力越强、触及的人越多，治理和安全成为开源开放的一道必答题。",
+        "source": "东方财富",
+        "published_at": "2026-11-04T10:58:34+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2UmVXRDNBNlpkTXBUS05SM1VWMlNoLXVpNkZNMDlReE1yUTNhVFlNSzBXVjRJWXVfWFNSbHNRTXVoaDlpYWRPaGFfOTZhc09xTVdCdWhfYllYcng2WnlFd083am9lQQ?oc=5",
+        "image_url": "http://www.bing.com/th?id=ONUT.3jZabulgYSvQ4iUgRaSuWA&pid=News",
+        "hot": false,
+        "verified": false,
+        "quick_summary": "东方财富这篇报道主要讲的是：为何选择开源路线？多家大模型负责人：加速通用人工智能到来。如今开源模型正从“可用”走向“好用”，能力边界持续扩展，触达人群和影响范围同步扩大。与此同时，开源模型一旦发布便难以撤回，安全风险不再局限于单一厂商，治理责任也随之外溢到整个生态。可以说，随着模型能力越强、触及的人越多，治理和安全成为开源开放的一道必答题。",
+        "key_points": [
+          "核心事件：为何选择开源路线？多家大模型负责人：加速通用人工智能到来",
+          "如今开源模型正从“可用”走向“好用”，能力边界持续扩展，触达人群和影响范围同步扩大",
+          "与此同时，开源模型一旦发布便难以撤回，安全风险不再局限于单一厂商，治理责任也随之外溢到整个生态",
+          "可以说，随着模型能力越强、触及的人越多，治理和安全成为开源开放的一道必答题"
+        ]
+      },
+      {
+        "category": "AI",
+        "title": "“发展新质生产力 强劲增量看AI”论坛",
+        "summary": "",
         "source": "新华网",
-        "published_at": "2026-11-03T17:48:02+08:00",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNQnc1T1gyRkItanBMU0Y1MjlMd1J3bmVDTjY4VkllNGhNMHFiMlp0ZUc2QlV1Nk1JSjlEVTZ6bXlJMm0tNnUyVms4cW9Qcmh2Z09oVGl4MVpfdzNPSnJlcThCb1VxRHJFaV9aS2x3YmNQcGZjRU9uYkgxWjY?oc=5",
-        "image_url": "",
+        "published_at": "2026-11-04T09:22:45+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjekQzNDk4UDVyNFNYc25pOWswY25pYkREamttQmNCVmJBRHhLeUF2SHpPdmVxZzJnby1vVXBuZUkwRkRpcmdMY0pHQm5tY1diQV9pbTVlZkxfS2p0bDM1OXp3?oc=5",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.bYxx4ZAn4GOcY-0NkR84tgHaFj&pid=15.1",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网这篇报道主要讲的是：阿里巴巴蔡崇信：AI只有开源开放，才能普惠普及。11月3日上午，2026年世界互联网大会乌镇峰会开幕。阿里巴巴集团联合创始人、董事会主席蔡崇信在开幕式上发言：“AI只有开源才能普及，只有普及才能创造可持续、普惠的智能时代。”他表示，中国开源模型下载量、衍生模型数等关键指标保持领先，是当前全球开源智能的引领者。阿里巴巴集团联合创始人、董事会…",
+        "quick_summary": "新华网这篇报道主要讲的是：“发展新质生产力 强劲增量看AI”论坛。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：阿里巴巴蔡崇信：AI只有开源开放，才能普惠普及",
-          "11月3日上午，2026年世界互联网大会乌镇峰会开幕",
-          "阿里巴巴集团联合创始人、董事会主席蔡崇信在开幕式上发言：“AI只有开源才能普及，只有普及才能创造可持续、普惠的智能时代",
-          "”他表示，中国开源模型下载量、衍生模型数等关键指标保持领先，是当前全球开源智能的引领者",
-          "阿里巴巴集团联合创始人、董事会…"
-        ]
-      },
-      {
-        "category": "AI",
-        "title": "乌镇峰会观察：中国开源AI大模型持续“圈粉”",
-        "summary": "",
-        "source": "中国新闻网",
-        "published_at": "2026-11-03T23:10:51+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05cEJCUW54NzM4dWtBeHZyTkRqX3JXQ2NhUlFYdzdzakRwUXlIVzVqOXAteW54cnowYmZUdm0yQ1dkaF91QnBOMjcwcFZsZllJYWZzV01NbHF4aWVyRGM3eS1TM3RlNm9j?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "中国新闻网这篇报道主要讲的是：乌镇峰会观察：中国开源AI大模型持续“圈粉”。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
-        "key_points": [
-          "核心事件：乌镇峰会观察：中国开源AI大模型持续“圈粉”",
+          "核心事件：“发展新质生产力 强劲增量看AI”论坛",
           "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
         ]
       },
       {
         "category": "AI",
-        "title": "看展深一度｜在乌镇，“试读”人工智能开源开放",
-        "summary": "2026年世界互联网大会乌镇峰会将于11月2日至5日在中国浙江乌镇举行。本次峰会以“开源开放 共建共享——携手构建网络空间命运共同体”为主题，立足全球数智发展大势，聚焦行业前沿、坚守开放初心、拓宽国际合作格局，将打造一场兼具前沿性、开放性 ...",
-        "source": "新华网浙江",
-        "published_at": "2026-11-03T23:04:18+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSDhDNEJBN09QV0I2R25Rc3lRQWJmT043ZTk2VG0xME5mZ2k1NFNGSEx6UXlDNlBCakhyZ2ZfOHRnOWdZbEFqZGxJcXFwZkRRNy1CeDRuVlJ6dW9FMU1idjJSSXVVMENwaHFDdXY2T3J3MWJwNDgwU2YxOFhEZGFZNTRn?oc=5",
-        "image_url": "https://www.dzwww.com/tpl/v2019/xilan/images/logo1.png",
+        "title": "如何提升大学生AI素养培养能力",
+        "summary": "作为革命性的数字技术，人工智能（AI）正凭借其通用赋能、要素重组与创新牵引等功能重构生产模式，成为当前培育和发展新质生产力的重要动力。新质生产力的发展，不仅取决于产业升级、核心技术突破和治理体系完善，更依赖于高素质人才对AI技术的理解、运用和创新能力，以及负责任地使用AI的素养。因此，践行“投…",
+        "source": "央视网",
+        "published_at": "2026-11-04T08:56:09+08:00",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10c3UwbmtiQnJPVjhxR0FQVU5KU3VXeGpmM1ZacDRUVnZGS2NZcE5RWWdBVHQyUTk1SUJwNmRUWjQ3ZTJUSk02elFMVEMzNzgwQlgtb1c4ZFVEdE9BblFhM3huanBMRUhVbU9EalVzWHB4d2FBNHE1UA?oc=5",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.y8JnoZ9pxI_UAlFltL1xKAHaFO&pid=15.1",
         "hot": false,
         "verified": true,
-        "quick_summary": "新华网浙江这篇报道主要讲的是：看展深一度｜在乌镇，“试读”人工智能开源开放。2026年世界互联网大会乌镇峰会将于11月2日至5日在中国浙江乌镇举行。本次峰会以“开源开放 共建共享——携手构建网络空间命运共同体”为主题，立足全球数智发展大势，聚焦行业前沿、坚守开放初心、拓宽国际合作格局，将打造一场兼具前沿性、开放性 ...。",
+        "quick_summary": "央视网这篇报道主要讲的是：如何提升大学生AI素养培养能力。作为革命性的数字技术，人工智能（AI）正凭借其通用赋能、要素重组与创新牵引等功能重构生产模式，成为当前培育和发展新质生产力的重要动力。新质生产力的发展，不仅取决于产业升级、核心技术突破和治理体系完善，更依赖于高素质人才对AI技术的理解、运用和创新能力，以及负责任地使用AI的素养。",
         "key_points": [
-          "核心事件：看展深一度｜在乌镇，“试读”人工智能开源开放",
-          "2026年世界互联网大会乌镇峰会将于11月2日至5日在中国浙江乌镇举行",
-          "本次峰会以“开源开放 共建共享——携手构建网络空间命运共同体”为主题，立足全球数智发展大势，聚焦行业前沿、坚守开放初心、拓宽国际合作格局，将打造一场兼具前沿性、开放性 ..."
+          "核心事件：如何提升大学生AI素养培养能力",
+          "作为革命性的数字技术，人工智能（AI）正凭借其通用赋能、要素重组与创新牵引等功能重构生产模式，成为当前培育和发展新质生产力的重要动力",
+          "新质生产力的发展，不仅取决于产业升级、核心技术突破和治理体系完善，更依赖于高素质人才对AI技术的理解、运用和创新能力，以及负责任地使用AI的素养"
         ]
       },
       {
         "category": "AI",
-        "title": "数据中心遭抵触？OpenAI“玩文字游戏”：中期选举后改名为AI算力园区！",
-        "summary": "据报道， 周二美国中期选举结束后，OpenAI将发起一场“公关闪电战”，以适应新的局势，其中包括将 数据中心 重新命名为“ 人工智能 算力园区”（AI Compute Campuses）。 在经历了两年对 人工智能 友好的“白宫控场”之后，外界预测民主党周二很可能赢得众议院多数席位，届时 人工…",
-        "source": "财联社",
-        "published_at": "2026-11-03T21:46:03+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1oTUtsZjc3T3R3cTdDYVlNZUcyTWNqektDZklySlBwbVVneWpVZjljV2ZHMThhZUh1X25jMVVHM0FKUzBJNEJ6OQ?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "财联社这篇报道主要讲的是：数据中心遭抵触？OpenAI“玩文字游戏”：中期选举后改名为AI算力园区！。据报道， 周二美国中期选举结束后，OpenAI将发起一场“公关闪电战”，以适应新的局势，其中包括将 数据中心 重新命名为“ 人工智能 算力园区”（AI Compute Campuses）。在经历了两年对 人工智能 友好的“白宫控场”之后，外界预测民主党周二很可能赢得众议院多数席位，届时 人工…",
-        "key_points": [
-          "核心事件：数据中心遭抵触？OpenAI“玩文字游戏”：中期选举后改名为AI算力园区！",
-          "据报道， 周二美国中期选举结束后，OpenAI将发起一场“公关闪电战”，以适应新的局势，其中包括将 数据中心 重新命名为“ 人工智能 算力园区”（AI Compute Campuses）",
-          "在经历了两年对 人工智能 友好的“白宫控场”之后，外界预测民主党周二很可能赢得众议院多数席位，届时 人工…"
-        ]
-      },
-      {
-        "category": "AI",
-        "title": "V4全系列模型上线后，DeepSeek Harness开发者预览版开放测试",
-        "summary": "DeepSeek方面称，作为早期预览版本，当前仍有许多细节有待改进和打磨，核心插件与基础接口也将在后续快速迭代演进。DeepSeek Harness目前的v0.1版本只是一个起点，希望与全球Harness开发者共建DSH插件生态。 据悉，DeepSeek Harness采取“一切皆插件”的设计思路。",
-        "source": "财联社",
-        "published_at": "2026-11-03T20:38:51+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4wd0JWNXNkT3NmUy1UV09ldm1iSXY3dTllQ1o1ZFg5MFZPS1BRY3RCTUJLc05UYWJTb1R6VHhoT0NXM3hJQU5xLQ?oc=5",
-        "image_url": "",
-        "hot": false,
-        "verified": true,
-        "quick_summary": "财联社这篇报道主要讲的是：V4全系列模型上线后，DeepSeek Harness开发者预览版开放测试。DeepSeek方面称，作为早期预览版本，当前仍有许多细节有待改进和打磨，核心插件与基础接口也将在后续快速迭代演进。DeepSeek Harness目前的v0.1版本只是一个起点，希望与全球Harness开发者共建DSH插件生态。据悉，DeepSeek Harness采取“一切皆插件”的设计思路。",
-        "key_points": [
-          "核心事件：V4全系列模型上线后，DeepSeek Harness开发者预览版开放测试",
-          "DeepSeek方面称，作为早期预览版本，当前仍有许多细节有待改进和打磨，核心插件与基础接口也将在后续快速迭代演进",
-          "DeepSeek Harness目前的v0.1版本只是一个起点，希望与全球Harness开发者共建DSH插件生态",
-          "据悉，DeepSeek Harness采取“一切皆插件”的设计思路"
-        ]
-      },
-      {
-        "category": "AI",
-        "title": "三晋文化大模型“晋问AI”上线 数字人“晋豆”同步发布",
+        "title": "AMD电话会：Q4 AI芯片收入将首次超越服务器CPU，明年数据中心收入占比将破80%",
         "summary": "",
-        "source": "中国新闻网",
-        "published_at": "2026-11-03T19:30:26+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xSWVwMjU5MFhxUEE1OGdIbExyWkRMVlFIZFdPbnVCcWhfU0J0U1FyVWgxa3RqYU9rVjhEaHlxZ2hSb3F6MkhINWd4YWhoaExiajlzRnR2UzR1QjBOR2xDRzhTQ2FjdzJfZWc?oc=5",
-        "image_url": "",
+        "source": "华尔街见闻",
+        "published_at": "2026-11-04T07:45:52+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkNEt1N3AtbjctXzI3QlhuR2N4UnJPcWxFMVdVM1hzTHFmbmZ3T19WejdPSnU5RnRvel9ENVM0UmtqU29PZE5JaXZiRDVBZlRGRzVj?oc=5",
+        "image_url": "https://ts2.mm.bing.net/th?id=OIP.k7UeWeUNl15WESMXz5cWQgHaCo&pid=15.1",
         "hot": false,
-        "verified": true,
-        "quick_summary": "中国新闻网这篇报道主要讲的是：三晋文化大模型“晋问AI”上线 数字人“晋豆”同步发布。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "verified": false,
+        "quick_summary": "华尔街见闻这篇报道主要讲的是：AMD电话会：Q4 AI芯片收入将首次超越服务器CPU，明年数据中心收入占比将破80%。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：三晋文化大模型“晋问AI”上线 数字人“晋豆”同步发布",
+          "核心事件：AMD电话会：Q4 AI芯片收入将首次超越服务器CPU，明年数据中心收入占比将破80%",
           "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
         ]
       },
       {
         "category": "AI",
-        "title": "DeepSeek又崩了",
-        "summary": "11月3日16:58起，DeepSeek网页、APP端对话功能均出现故障，对话回复显示“服务器繁忙，请稍后重试”。经过短暂修复后，故障 ...",
-        "source": "财联社",
-        "published_at": "2026-11-03T18:32:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qVTZ6UGE5OHk4dHN2TnhBMHVoTnNMaDdoYmJ2bmpObkU4a1JJV0RYYmtOUWRMXzRMRS1ldHRCSUU2WnV1LUtPcQ?oc=5",
-        "image_url": "",
+        "title": "西藏自治区首个万兆光网社区AI治理实践入选中国优秀案例-中新网",
+        "summary": "",
+        "source": "中国新闻网",
+        "published_at": "2026-11-04T10:29:15+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90RkY0cGUwZlR6eWdsSEpKMXBQTkhkbnBHOFE4dGJWWVpjTE9qT1U2UFhFaWc5RGJFbGZUNURXUVBCVW02RXZvTnVTUm5tS3k5R3lfZDFXdjBhWU1wNkgzVk0wNFNYdkdq?oc=5",
+        "image_url": "https://ts3.mm.bing.net/th?id=OIP.cYOXLio086v0-5PEYl_9hgHaD0&pid=15.1",
         "hot": false,
         "verified": true,
-        "quick_summary": "财联社这篇报道主要讲的是：DeepSeek又崩了。Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more.。",
+        "quick_summary": "中国新闻网这篇报道主要讲的是：西藏自治区首个万兆光网社区AI治理实践入选中国优秀案例-中新网。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：DeepSeek又崩了",
-          "Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more."
+          "核心事件：西藏自治区首个万兆光网社区AI治理实践入选中国优秀案例-中新网",
+          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
         ]
       },
       {
         "category": "AI",
-        "title": "DeepSeek V5用国产AI芯片不是事儿：关键还得看8万亿参数",
+        "title": "AI、商业航天等近300个科创项目广州同台PK",
         "summary": "",
-        "source": "驱动之家",
-        "published_at": "2026-11-03T21:25:00+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjdGlyWk9COUZkMndlbTRKb2RQZXNwQnFoMGtYLUdOQ3NZVUtXWjg2bEtmbXdYMTFqdHRMMU1GdTFYMV91RVZGQmo2Z3RrSEUyUTFtQlY0azc?oc=5",
+        "source": "中国新闻网",
+        "published_at": "2026-11-04T10:24:08+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PYndCZjZlS1pQR2MzVDd0ME5mWHJVRjhzUkM1TjRNYnMwTmFURjZXeFFHaEZiWGNJQ2NvU3VoMUZ5YU9TTTc0b203cFB6R1hCQW5MVzNKanRhX1JaZE5BdDQ1QWVNWTJH?oc=5",
+        "image_url": "https://ts1.mm.bing.net/th?id=OIP.o0u09bhSNLtBULjDUAXXxgHaNL&pid=15.1",
+        "hot": false,
+        "verified": true,
+        "quick_summary": "中国新闻网这篇报道主要讲的是：AI、商业航天等近300个科创项目广州同台PK。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "key_points": [
+          "核心事件：AI、商业航天等近300个科创项目广州同台PK",
+          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
+        ]
+      },
+      {
+        "category": "AI",
+        "title": "OpenAI“窃听门”背后：员工称多年警告未获重视，安全与速度矛盾凸显_滚动新闻_财经",
+        "summary": "",
+        "source": "证券之星",
+        "published_at": "2026-11-04T09:19:07+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FZVZPMmJpMmtwUzhwTVFNRHRGREpKUFVnS0lpMlNGd0ZkRkFDOFdlemppc21yUldXYm5CREE4N21XNTBwYjMtY0tmd2RCclJVSng4VC1CaHUxWGl3b0xZeA?oc=5",
         "image_url": "",
         "hot": false,
         "verified": false,
-        "quick_summary": "驱动之家这篇报道主要讲的是：DeepSeek V5用国产AI芯片不是事儿：关键还得看8万亿参数。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "证券之星这篇报道主要讲的是：OpenAI“窃听门”背后：员工称多年警告未获重视，安全与速度矛盾凸显_滚动新闻_财经。智通财经APP获悉，当OpenAI在10月披露其在一间高管会议室发现录音设备时，多名前员工的反应一致——他们并不意外。据五名知情人士透露，早在OpenAI于2022年底推出ChatGPT之前，一些员工就已在内部对其安全措施提出担忧。这些人士称，员工曾向OpenAI高层和董事会表达担忧，部分员工在与管理层沟通后得出结论：管理层更关注跟上谷歌 ...。",
         "key_points": [
-          "核心事件：DeepSeek V5用国产AI芯片不是事儿：关键还得看8万亿参数",
-          "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
+          "核心事件：OpenAI“窃听门”背后：员工称多年警告未获重视，安全与速度矛盾凸显_滚动新闻_财经",
+          "智通财经APP获悉，当OpenAI在10月披露其在一间高管会议室发现录音设备时，多名前员工的反应一致——他们并不意外",
+          "据五名知情人士透露，早在OpenAI于2022年底推出ChatGPT之前，一些员工就已在内部对其安全措施提出担忧",
+          "这些人士称，员工曾向OpenAI高层和董事会表达担忧，部分员工在与管理层沟通后得出结论：管理层更关注跟上谷歌 ..."
         ]
       },
       {
         "category": "AI",
-        "title": "中国蓝观察丨开源大模型为何成了浙江金名片？",
+        "title": "红果用户量超越豆包 AI影视已跨过商业化临界点？融资客提前埋伏这6股(名单)",
         "summary": "",
-        "source": "https://www.hzsc.com.cn/",
-        "published_at": "2026-11-03T21:17:38+08:00",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MT05HMzRnSmZLTFM3VFNYRmpCZHFjT3dhYjZJcW5ZbVRCU1NJMExNZWFDdmRJZlhOMVdwY1VaTU1Oanc5TjdyTmVvS3FXTXpKX2VCSV81ZXJCQ0psbFdvdTBB?oc=5",
+        "source": "东方财富",
+        "published_at": "2026-11-04T09:18:45+08:00",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kOWU5bkczbTFiT2ptQXhqdTBVYU9ZN1pIRWoya1ZOdXIwLVhzeGo2TnVHaW1LeVNJaWd0YkhqMHM5R1pSN3RDWDN5UUxFYlJMX29ncVF4NmxLUDBfOXNiMA?oc=5",
         "image_url": "",
         "hot": false,
         "verified": false,
-        "quick_summary": "https://www.hzsc.com.cn/这篇报道主要讲的是：中国蓝观察丨开源大模型为何成了浙江金名片？。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
+        "quick_summary": "东方财富这篇报道主要讲的是：红果用户量超越豆包 AI影视已跨过商业化临界点？融资客提前埋伏这6股(名单)。目前能稳定核实到的正文信息有限，因此这里暂不补写未经来源支持的细节；可通过原报道继续查看完整内容。",
         "key_points": [
-          "核心事件：中国蓝观察丨开源大模型为何成了浙江金名片？",
+          "核心事件：红果用户量超越豆包 AI影视已跨过商业化临界点？融资客提前埋伏这6股(名单)",
           "后续可继续关注官方发布、模型或产品能力、上线时间、商业化、监管与行业反馈。"
         ]
       }
@@ -1171,64 +1173,64 @@
     {
       "name": "黄金",
       "symbol": "GC=F",
-      "price": "843.79",
+      "price": "848.61",
       "unit": "元/克",
-      "change_pct": -0.74,
-      "note": "人民币换算 · 美元兑人民币 6.6696 · Yahoo Finance 延迟行情",
-      "previous_price": "850.11",
+      "change_pct": 0.02,
+      "note": "人民币换算 · 美元兑人民币 6.6839 · Yahoo Finance 延迟行情",
+      "previous_price": "848.46",
       "currency": "CNY"
     },
     {
       "name": "白银",
       "symbol": "SI=F",
-      "price": "10646.58",
+      "price": "10606.01",
       "unit": "元/千克",
-      "change_pct": -1.98,
-      "note": "人民币换算 · 美元兑人民币 6.6696 · Yahoo Finance 延迟行情",
-      "previous_price": "10862.00",
+      "change_pct": -2.17,
+      "note": "人民币换算 · 美元兑人民币 6.6839 · Yahoo Finance 延迟行情",
+      "previous_price": "10840.80",
       "currency": "CNY"
     },
     {
       "name": "WTI原油",
       "symbol": "CL=F",
-      "price": "640.41",
+      "price": "638.71",
       "unit": "元/桶",
-      "change_pct": -0.33,
-      "note": "人民币换算 · 美元兑人民币 6.6696 · Yahoo Finance 延迟行情",
-      "previous_price": "642.52",
+      "change_pct": -0.4,
+      "note": "人民币换算 · 美元兑人民币 6.6839 · Yahoo Finance 延迟行情",
+      "previous_price": "641.27",
       "currency": "CNY"
     },
     {
       "name": "布伦特原油",
       "symbol": "BZ=F",
-      "price": "690.97",
+      "price": "689.31",
       "unit": "元/桶",
-      "change_pct": -0.99,
-      "note": "人民币换算 · 美元兑人民币 6.6696 · Yahoo Finance 延迟行情",
-      "previous_price": "697.87",
+      "change_pct": -1.03,
+      "note": "人民币换算 · 美元兑人民币 6.6839 · Yahoo Finance 延迟行情",
+      "previous_price": "696.51",
       "currency": "CNY"
     },
     {
       "name": "天然气",
       "symbol": "NG=F",
-      "price": "19.30",
+      "price": "19.08",
       "unit": "元/百万英热单位",
-      "change_pct": 1.43,
-      "note": "人民币换算 · 美元兑人民币 6.6696 · Yahoo Finance 延迟行情",
-      "previous_price": "19.02",
+      "change_pct": 0.5,
+      "note": "人民币换算 · 美元兑人民币 6.6839 · Yahoo Finance 延迟行情",
+      "previous_price": "18.99",
       "currency": "CNY"
     },
     {
       "name": "铜",
       "symbol": "HG=F",
-      "price": "93.97",
+      "price": "92.89",
       "unit": "元/千克",
-      "change_pct": -2.2,
-      "note": "人民币换算 · 美元兑人民币 6.6696 · Yahoo Finance 延迟行情",
-      "previous_price": "96.09",
+      "change_pct": -3.15,
+      "note": "人民币换算 · 美元兑人民币 6.6839 · Yahoo Finance 延迟行情",
+      "previous_price": "95.90",
       "currency": "CNY"
     }
   ],
   "market_currency": "CNY",
-  "usd_cny": 6.6696
+  "usd_cny": 6.6839
 }
